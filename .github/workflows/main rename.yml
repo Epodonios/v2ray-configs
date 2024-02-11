@@ -31,8 +31,7 @@ jobs:
           python -m pip install beautifulsoup4
 
       - name: Run Python script
-        run: |
-          python main.py  # Replace with your script's path
+        run: python main.py  # Replace with your script's path
         
 
           - name: Commit and push files
@@ -40,8 +39,7 @@ jobs:
       with:
         author_name: "Epodonios"
         author_email: "epodonios@github.com"
-        message: "Updated 9 minutes Ago"
+        message: "f.soc"
         add: "."
         push: "https://github.com/Epodonios/v2ray-configs.git"
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   
