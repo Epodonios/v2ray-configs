@@ -26,7 +26,7 @@ jobs:
       run: cd Files && pip install -r requirements.txt
 
     - name: Run Python script and save output to file
-      run: cd Files && python Replace.py
+      run: python Replace.py
 
     - name: Commit and push files
       uses: EndBug/add-and-commit@v7
