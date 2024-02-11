@@ -2,16 +2,16 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
+# باز کردن فایل All_Configs_Sub.txt
+with open('All_Configs_Sub.txt', 'r') as file:
+    data = file.read()
 
+# اعمال تغییرات
+data = data.replace('Eliv2ray', 'apple')
 
+# ذخیره تغییرات در فایل
+with open('All_Configs_Sub.txt', 'w') as file:
+    file.write(data)
 
-    if filename.endswith(".txt"):
-        file_path = os.path.join(directory, filename)
-        with open(file_path, 'r') as file:
-            content = file.read()
-        
-        new_content = content.replace('Eliv2ray', 'abding')
-        
-        with open(file_path, 'w') as file:
-            file.write(new_content)
+print("تغییرات با موفقیت اعمال شد.")
 
