@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.email "epodonios@gmail.com"
           git config --global user.name "Epodonios"
-          git remote set-url origin https://github.com/Epodonios/Proxy.git
+          git remote set-url origin https://github.com/Epodonios/v2ray-configs.git
       
       - name: Install dependencies
         run: |
