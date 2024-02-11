@@ -33,7 +33,15 @@ jobs:
       - name: Run Python script
         run: |
           python main.py  # Replace with your script's path
-          git add -A
-          git commit -m "Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
-          git pull --rebase origin main
-          git push
+        
+
+          - name: Commit and push files
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "Epodonios"
+        author_email: "epodonios@github.com"
+        message: "Updated 9 minutes Ago"
+        add: "."
+        push: "https://github.com/Epodonios/v2ray-configs.git"
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
