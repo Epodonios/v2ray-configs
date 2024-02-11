@@ -1,6 +1,4 @@
 import os
-
-directory = 'main'  # نام دایرکتوری مورد نظر
 search_word = 'Eliv2ray'  # کلمه‌ای که می‌خواهید جایگزین شود
 replace_word = 'epod'  # کلمه‌ای که به جای کلمه قبلی قرار خواهد گرفت
 
