@@ -1,15 +1,16 @@
-# باز کردن فایل برای خواندن
-with open('All_Configs_Sub.txt', 'r') as file:
-    file_content = file.read()
+import os
 
-# جایگزینی همه وقوع‌های 'Outline_vpn@' با 'epodonios'
-file_content = file_content.replace('Outline_vpn', 'ᛖᛈᛟᛞᛟᚾᛁᛟᛊ')
-file_content = file_content.replace('@VlessConfig', 'ᛖᛈᛟᛞᛟᚾᛁᛟᛊ')
-file_content = file_content.replace(' @v2_team', 'ᛖᛈᛟᛞᛟᚾᛁᛟᛊ')
-file_content = file_content.replace(' @EliV2ray', 'ᛖᛈᛟᛞᛟᚾᛁᛟᛊ')
+directory = 'main'  # نام دایرکتوری مورد نظر
+search_word = 'Eliv2ray'  # کلمه‌ای که می‌خواهید جایگزین شود
+replace_word = 'epod'  # کلمه‌ای که به جای کلمه قبلی قرار خواهد گرفت
 
-# باز کردن فایل برای نوشتن و ذخیره محتوای تغییر یافته
-with open('All_Configs_Sub.txt', 'w') as file:
-    file.write(file_content)
-
-print("جایگزینی انجام شد و فایل با موفقیت ذخیره شد.")
+for filename in os.listdir(directory):
+    if filename.endswith(".txt"):
+        file_path = os.path.join(directory, filename)
+        with open(file_path, 'r') as file:
+            content = file.read()
+        
+        new_content = content.replace(search_word, replace_word)
+        
+        with open(file_path, 'w') as file:
+            file.write(new_content)
