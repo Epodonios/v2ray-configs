@@ -7,7 +7,7 @@ with open('All_Configs_Sub.txt', 'r') as file:
     data = file.read()
 
 # اعمال تغییرات
-data = data.replace('Eliv2ray', 'apple')
+data = data.replace('@ElliV2ray', 'apple')
 
 # ذخیره تغییرات در فایل
 with open('All_Configs_Sub.txt', 'w') as file:
