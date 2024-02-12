@@ -133,8 +133,8 @@ def main():
 
     # Encode and save each Sub{i+1}.txt file to base64_folder as Sub{i+1}_base64.txt
     for i in range(num_files):
-        input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
-        output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
+        input_filename = os.path.join(output_folder, f'Config list{i+1}.txt')
+        output_filename = os.path.join(base64_folder, f'Config list{i+1}_base64.txt')
 
         with open(input_filename, 'r') as input_file:
             config_data = input_file.read()
