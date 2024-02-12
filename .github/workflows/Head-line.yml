@@ -1,0 +1,24 @@
+name: Run replace.py and commit changes every 5 minutes
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  run_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run Python script
+      run: python replace.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add .
+        git commit -m "Updated file"
+        git push
