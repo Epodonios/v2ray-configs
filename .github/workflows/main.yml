@@ -6,8 +6,8 @@ on:
     branches:
       - main
   schedule:
-    # Run every 10 minutes
-    - cron: "*/10 * * * *"
+    # Run every 4 minutes
+    - cron: "*/4 * * * *"
 
 jobs:
   build:
@@ -36,7 +36,7 @@ jobs:
       with:
         author_name: "Epodonios"
         author_email: "epodonios@github.com"
-        message: "Updated 9 minutes Ago"
+        message: "Fresh🔥❤️‍🔥🎆"
         add: "."
         push: "https://github.com/Epodonios/v2ray-configs.git"
     env:
