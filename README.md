@@ -92,6 +92,7 @@ Usage¡:
 
 Mobile and pc¡: 
 1>.copy below links and go to subscribe setting and paste metioned link and save that 
+
 2>.. so next find update subscribe settings thuss links arre appear in ur  config list🤝
 
 i hope u use this configs very well
