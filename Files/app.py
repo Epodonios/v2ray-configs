@@ -99,7 +99,7 @@ def main():
         filename = os.path.join(output_folder, f'Config list{i}.txt')
         if os.path.exists(filename):
             os.remove(filename)
-        filename1 = os.path.join(base64_folder, f'Sub{i}_base64.txt')
+        filename1 = os.path.join(base64_folder, f'Config list{i}_base64.txt')
         if os.path.exists(filename1):
             os.remove(filename1)
     
