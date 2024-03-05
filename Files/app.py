@@ -73,6 +73,8 @@ def main():
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks',
         'https://raw.githubusercontent.com/ts-sf/fly/main/v2'
+        'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub'
+        'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
@@ -80,7 +82,13 @@ def main():
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix',
         'https://mrpooya.top/api/lena.php'
-    ]
+        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt'
+        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt'
+        'https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt'
+        'https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt'
+        
+    
+       ]
 
     decoded_links = decode_links(links)
     decoded_dir_links = decode_dir_links(dir_links)
