@@ -27,48 +27,46 @@ vless://4100d055-5857-44fb-9b7b-9d699dd4f347@95.217.31.246:18929?security=realit
 vless://8edef8ae-dd42-4aca-affc-faa834870bc2@49.13.154.240:3035?security=reality&encryption=none&pbk=JI4hH2EzyJIxyDnfc_TgJyxWws3-l8Bh7ZdDp3iyYEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sni.axe.ir&sid=bbe53393d02629b8#🇩🇪DE | vless | @CUSTOMVPNSERVER | 9
 vless://58aec3a8-5d65-4acf-9ed3-f34edf157d68@193.168.145.2:443?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.4cdn.de#🇫🇷FR | vless | @CUSTOMVPNSERVER | 10
 vless://VPNCUSTOMIZE-TMCUSTOMIZE@54.37.76.9:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.kellekcollection.com#🇩🇪DE | vless | @V2rayNGn | 21
-trojan://telegram-id-privatevpns@16.16.42.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @PrivateVPNs | 0
-trojan://telegram-id-privatevpns@51.21.77.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @PrivateVPNs | 1
-trojan://telegram-id-privatevpns@52.30.23.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 2
-trojan://telegram-id-privatevpns@54.73.62.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 3
-trojan://telegram-id-privatevpns@18.135.177.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB | trojan | @PrivateVPNs | 4
-trojan://telegram-id-privatevpns@3.9.138.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB | trojan | @PrivateVPNs | 5
-trojan://telegram-id-privatevpns@15.188.94.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR | trojan | @PrivateVPNs | 6
-trojan://telegram-id-privatevpns@13.39.57.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR | trojan | @PrivateVPNs | 7
-trojan://telegram-id-privatevpns@35.156.38.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE | trojan | @PrivateVPNs | 8
-trojan://telegram-id-privatevpns@3.67.131.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE | trojan | @PrivateVPNs | 9
-trojan://telegram-id-privatevpns@13.50.173.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE | trojan | @PrivateVPNs | 10
-trojan://telegram-id-privatevpns@51.21.108.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE | trojan | @PrivateVPNs | 11
-trojan://telegram-id-privatevpns@34.248.158.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 12
-trojan://telegram-id-privatevpns@52.31.98.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 13
-trojan://telegram-id-privatevpns@13.43.105.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | trojan | @PrivateVPNs | 14
-trojan://telegram-id-privatevpns@18.168.184.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | trojan | @PrivateVPNs | 15
-trojan://telegram-id-privatevpns@13.39.202.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | trojan | @PrivateVPNs | 16
-trojan://telegram-id-privatevpns@15.236.3.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | trojan | @PrivateVPNs | 17
-trojan://telegram-id-directvpn@51.21.53.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 0
-trojan://telegram-id-directvpn@13.50.57.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 1
-trojan://telegram-id-directvpn@18.193.57.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | trojan | @DirectVPN | 2
-trojan://telegram-id-directvpn@3.75.28.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | trojan | @DirectVPN | 3
-trojan://telegram-id-directvpn@16.171.119.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 4
-trojan://telegram-id-directvpn@51.20.177.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 5
-trojan://telegram-id-directvpn@52.43.123.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | trojan | @DirectVPN | 6
-trojan://telegram-id-directvpn@18.221.92.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | trojan | @DirectVPN | 7
-trojan://telegram-id-directvpn@3.17.106.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | trojan | @DirectVPN | 8
-trojan://telegram-id-directvpn@3.99.96.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | trojan | @DirectVPN | 9
-trojan://telegram-id-directvpn@15.223.19.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | trojan | @DirectVPN | 10
-trojan://telegram-id-directvpn@18.203.128.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | trojan | @DirectVPN | 11
-trojan://telegram-id-directvpn@63.33.175.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | trojan | @DirectVPN | 12
-trojan://telegram-id-directvpn@35.179.72.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | trojan | @DirectVPN | 13
-trojan://telegram-id-directvpn@18.134.1.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | trojan | @DirectVPN | 14
-trojan://telegram-id-directvpn@15.237.133.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | trojan | @DirectVPN | 15
-trojan://telegram-id-directvpn@15.188.253.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | trojan | @DirectVPN | 16
-trojan://telegram-id-directvpn@13.51.39.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 17
+trojan://telegram-id-privatevpns@18.197.187.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | trojan | @PrivateVPNs | 0
+trojan://telegram-id-privatevpns@16.16.42.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @PrivateVPNs | 1
+trojan://telegram-id-privatevpns@51.21.77.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @PrivateVPNs | 2
+trojan://telegram-id-privatevpns@52.30.23.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 3
+trojan://telegram-id-privatevpns@54.73.62.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 4
+trojan://telegram-id-privatevpns@18.135.177.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB | trojan | @PrivateVPNs | 5
+trojan://telegram-id-privatevpns@3.9.138.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB | trojan | @PrivateVPNs | 6
+trojan://telegram-id-privatevpns@15.188.94.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR | trojan | @PrivateVPNs | 7
+trojan://telegram-id-privatevpns@13.39.57.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR | trojan | @PrivateVPNs | 8
+trojan://telegram-id-privatevpns@35.156.38.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE | trojan | @PrivateVPNs | 9
+trojan://telegram-id-privatevpns@3.67.131.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE | trojan | @PrivateVPNs | 10
+trojan://telegram-id-privatevpns@13.50.173.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE | trojan | @PrivateVPNs | 11
+trojan://telegram-id-privatevpns@51.21.108.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE | trojan | @PrivateVPNs | 12
+trojan://telegram-id-privatevpns@34.248.158.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 13
+trojan://telegram-id-privatevpns@52.31.98.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 14
+trojan://telegram-id-privatevpns@13.43.105.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | trojan | @PrivateVPNs | 15
+trojan://telegram-id-privatevpns@18.168.184.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | trojan | @PrivateVPNs | 16
+trojan://telegram-id-directvpn@13.39.169.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | trojan | @DirectVPN | 0
+trojan://telegram-id-directvpn@15.237.229.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | trojan | @DirectVPN | 1
+trojan://telegram-id-directvpn@51.21.53.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 2
+trojan://telegram-id-directvpn@13.50.57.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 3
+trojan://telegram-id-directvpn@18.193.57.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | trojan | @DirectVPN | 4
+trojan://telegram-id-directvpn@3.75.28.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | trojan | @DirectVPN | 5
+trojan://telegram-id-directvpn@16.171.119.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 6
+trojan://telegram-id-directvpn@51.20.177.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | trojan | @DirectVPN | 7
+trojan://telegram-id-directvpn@52.43.123.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | trojan | @DirectVPN | 8
+trojan://telegram-id-directvpn@18.221.92.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | trojan | @DirectVPN | 9
+trojan://telegram-id-directvpn@3.17.106.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | trojan | @DirectVPN | 10
+trojan://telegram-id-directvpn@3.99.96.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | trojan | @DirectVPN | 11
+trojan://telegram-id-directvpn@15.223.19.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | trojan | @DirectVPN | 12
+trojan://telegram-id-directvpn@18.203.128.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | trojan | @DirectVPN | 13
+trojan://telegram-id-directvpn@63.33.175.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | trojan | @DirectVPN | 14
+trojan://telegram-id-directvpn@35.179.72.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | trojan | @DirectVPN | 15
+trojan://telegram-id-directvpn@18.134.1.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | trojan | @DirectVPN | 16
 ss://YjAxMzhkNTUtYTQ5My00ZGMzLTk5MzItYzZmMDM5MTcwN2MxOg==@104.31.16.162:443#🇨🇦CA | ss | @DeamNet_Proxy | 1
-ss://ZjQ4NTlmYzktZGM0NC0xMWVlLWI5YmEtMDA1MDU2MDNlNzBkOg==@st-fr-1.brocdn.com:443#🇨🇦CA | ss | @DeamNet_Proxy | 4
+ss://ZjQ4NTlmYzktZGM0NC0xMWVlLWI5YmEtMDA1MDU2MDNlNzBkOg==@st-fr-1.brocdn.com:443#🇺🇸US | ss | @DeamNet_Proxy | 4
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#🇫🇷FR | ss | @DeamNet_Proxy | 5
 ss://YjlhZDg5NWItMTJhYy00MGZjLWE1YWMtYTViMmExMjg1MDAxOg==@172.67.182.110:443#🇨🇦CA | ss | @DeamNet_Proxy | 6
 ss://NDRjZTFhN2QtZDVmYy0xMWVlLWFhYTgtMDA1MDU2MDNlNzBkOg==@st-pl-1.brocdn.com:443#🇨🇦CA | ss | @DeamNet_Proxy | 8
-ss://NTc3MWYyYzYtNGM2My00MzQ0LTlkYjctZjIzZTkxOGEyZGVjOg==@zula.ir:8443#🇨🇦CA | ss | @DeamNet_Proxy | 10
+ss://NTc3MWYyYzYtNGM2My00MzQ0LTlkYjctZjIzZTkxOGEyZGVjOg==@zula.ir:8443#🇺🇸US | ss | @DeamNet_Proxy | 10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#🇸🇬SG | ss | @DeamNet_Proxy | 12
 ss://NDJlOGNlZmQtMjIzMS00N2E2LThjYjAtMDdiMTdiMmM1NGZmOg==@bia-to2.unlimiteddev.site:8443#🇨🇦CA | ss | @DeamNet_Proxy | 13
 ss://ZjY5ZDQ1OTQtMmQxOC00MjY2LWFiYzQtZWViOWM1NjA0Y2E1Og==@172.67.213.235:443#🇺🇸US | ss | @DeamNet_Proxy | 14
@@ -82,7 +80,7 @@ vless://adabaaf2-600f-4223-991a-3c3add5176cf@3.66.226.207:2082?security=reality&
 vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?security=reality&encryption=none&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maps.google.com&sid=bfde1c85a6a4112a#🇳🇱NL | vless | @ShadowProxy66 | 33
 vless://e6e9d520-18ec-46c3-8141-a92ed6a90806@overcommitment.footballlovernews.com:443?security=tls&encryption=none&headerType=none&type=tcp#🇩🇪DE | vless | @Qv2rayDONATED | 0
 vless://fbff132d-376f-43d8-a806-40cbbe1672a1@digiswiftchannel.digiswiftdigiswiftdigiswift.workers.dev:443?security=tls&sni=digiswiftchannel.digiswiftdigiswiftdigiswift.workers.dev&type=ws&host=digiswiftchannel.digiswiftdigiswiftdigiswift.workers.dev&encryption=none#🏳️XX | vless | @v2ray_swhil | 11
-vless://5ca65294-d704-4ad7-a623-da28da359f52@3primeshop.getway.tech:2095?security=reality&encryption=none&pbk=GU_Z5mQ0yKBH_OlmZ8GJB4P_wJ2x7p9PB2JNQyo5408&headerType=none&fp=chrome&type=tcp&sni=speedtest.net&sid=c936d4c9#🇩🇪DE | vless | @proxyymeliii | 9
+vless://5ca65294-d704-4ad7-a623-da28da359f52@3primeshop.getway.tech:2095?security=reality&encryption=none&pbk=GU_Z5mQ0yKBH_OlmZ8GJB4P_wJ2x7p9PB2JNQyo5408&headerType=none&fp=chrome&type=tcp&sni=speedtest.net&sid=c936d4c9#🇩🇪DE | vless | @proxyymeliii | 10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#🇧🇭BH | ss | @VmessProtocol | 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#🇬🇧GB | ss | @VmessProtocol | 2
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#🇩🇪DE | ss | @OutlineVpnOfficial | 0
@@ -105,17 +103,18 @@ vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=realit
 vless://373e6d58-210f-4433-b623-e34b47cca8de@178.62.240.53:15177?security=reality&encryption=none&pbk=QPIfuN2b5h3qV-dLKEEPzE7WneDIIan5jgPNDR9NDBo&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=457aa090#🇳🇱NL | vless | @Capital_NET | 18
 vless://98314183-548a-4606-a177-bdb2f67ac272@64.225.81.175:31175?security=reality&encryption=none&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&headerType=none&fp=firefox&spx=/&type=tcp&sni=greenpepper.ir&sid=f2e78b8b#🇳🇱NL | vless | @Capital_NET | 20
 vless://945a6635-9884-46e4-b7e8-78fb7c79359b@tele.jokerv2ray.store:15557?security=reality&encryption=none&pbk=7XKXjQ8Y3TxGnBhqERCzRqVeWI2Mf7BpZ6cJulAI7yA&headerType=none&fp=firefox&spx=/&type=tcp&sni=telegram-id.jokerv2ray.store&sid=7dd63855#🏳️XX | vless | @Capital_NET | 24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#🇧🇭BH | ss | @forwardv2ray | 15
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#🇧🇭BH | ss | @forwardv2ray | 9
+ss://YWVzLTI1Ni1nY206QEdldE5ldHdvcmtCb3Q=@[2a0d:c740:3c:1::4d56:7f45]:47529#🏳️XX | ss | @forwardv2ray | 11
 vless://GozargahVPN-GozargahVPN@45.32.157.52:443?security=reality&encryption=none&pbk=WU05h8s5l6VKCtawHNsNLrTLAU_lAznVudsiBKywQDM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=ed#🇩🇪DE | vless | @GozargahVPN | 7
 vless://GozargahVPN-GozargahVPN@test.GozargahVPN.top:443?security=reality&encryption=none&pbk=LL9qDhlc3ZqjdzMYahZ-F-l75238UGnCKhuggBz9On8&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mci.loba.lol&sid=90#🏳️XX | vless | @GozargahVPN | 8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.169.32:443#🇬🇧GB | ss | @ROMAX_VPN | 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOFZlVk5LYk5lT04yWEw2UEhDeGRX@94.131.3.55:46583#🇨🇭CH | ss | @ROMAX_VPN | 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZ2x0YnBtNmNEOWVIU0ZoS0k2bWFD@45.89.52.197:32058#🇹🇷TR | ss | @ROMAX_VPN | 7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eDhvZ1RzUHpNbml6YkZrRm5kcUFR@95.164.11.94:1080#🇹🇷TR | ss | @ROMAX_VPN | 8
-vless://a799fc64-e04b-11ee-9fe0-00163cfb5321@offsitevisibility.com:443?security=tls&type=ws&sni=nezuko.yaemiko.cloudns.org&fp=random&path=/vpnjantit/se2.vpnjantit.com&encryption=none&headerType=none#🇺🇸US | vless | @TVCminer | 0
-vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?security=tls&type=ws&sni=steel.footballlovernews.com&fp=chrome&path=/steel&encryption=none&headerType=none#🇺🇸US | vless | @TVCminer | 1
-vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?security=tls&type=ws&sni=jorum.toptechnonews.com&path=/nimws&encryption=none&headerType=none#🇺🇸US | vless | @TVCminer | 2
-vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@shaliest.toptechnonews.com:443?security=tls&type=ws&sni=shaliest.toptechnonews.com&path=/nimws&encryption=none&headerType=none#🇺🇸US | vless | @TVCminer | 3
+vless://a799fc64-e04b-11ee-9fe0-00163cfb5321@offsitevisibility.com:443?security=tls&type=ws&sni=nezuko.yaemiko.cloudns.org&fp=random&path=/vpnjantit/se2.vpnjantit.com&encryption=none&headerType=none#🇨🇦CA | vless | @TVCminer | 0
+vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?security=tls&type=ws&sni=steel.footballlovernews.com&fp=chrome&path=/steel&encryption=none&headerType=none#🇨🇦CA | vless | @TVCminer | 1
+vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?security=tls&type=ws&sni=jorum.toptechnonews.com&path=/nimws&encryption=none&headerType=none#🇨🇦CA | vless | @TVCminer | 2
+vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@shaliest.toptechnonews.com:443?security=tls&type=ws&sni=shaliest.toptechnonews.com&path=/nimws&encryption=none&headerType=none#🇨🇦CA | vless | @TVCminer | 3
 ss://bm9uZTphYmJjY2FhLWFjYmEtYWNhYi1kYWJjLWJjYWNiYWFiYmNhYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SUN-27-ESFAND-1402 🕑 11:25
 ss://bm9uZTpjY2FiYmFhLWNiYWEtYWJjYS1iY2RhLWJjYmJhYmNhYWFjYw==@127.0.0.1:2080#🌱 HAPPY NOWRUZ, THE PERSIAN NEW YEAR IN ADVANCE ✨ CELEBRATE SPRING REBIRTH
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.135:8118#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.135:8118 📡 PING-050.27-MS
@@ -977,60 +976,60 @@ vmess://eyJhZGQiOiAiY2EtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAi
 vmess://eyJhZGQiOiAiZnIyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJmZjQwNjY2Ni1mNjE4LTQ5OWEtOGMwYi00ZDAxYWY3ZTEzNDAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1JBQ0VWUE4iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwRnJhbmNlJTIwVm1lc3MlMjBXUyUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiZnIzLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI0NTRmODRkZi03MjRkLTQ0MmEtYTRhMi02OThhNmQ2M2Y5NDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JhY2V2cG4iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwRnJhbmNlJTIwVm1lc3MlMjBXUyUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-vless://7502d8c0-b4cd-462f-93ec-b8e04e46caa8@map.footballlovernews.com:443?path=%2Fmap&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=map.footballlovernews.com#map-oajhedi1
-vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
-vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
-vless://db1eeace-797f-4d75-ac27-9a97acda853d@pikk.minusober.com:443?path=%2Fpikk&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=pikk.minusober.com#pikk-mafs45pk
-vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@masin.minusober.com:443?path=%2Fmasin&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=masin.minusober.com#masin-bgcrbj06
-vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@masin.minusober.com:443?path=%2Fmasin&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=masin.minusober.com#masin-bgcrbj06
-vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
-vless://45bb078e-fa46-43b3-9432-d06bf16a1d2d@kroos.lm10football.com:443?path=%2Fkroos&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=kroos.lm10football.com#kroos-an90v5gy
-vless://43e00e4c-2316-4dc9-8262-cef31886dc56@marly.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=marly.toptechnonews.com&type=ws&sni=marly.toptechnonews.com#marly.toptechnonews.com_VLESS_WS
-vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
-vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
-vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
-vless://45bb078e-fa46-43b3-9432-d06bf16a1d2d@kroos.lm10football.com:443?path=%2Fkroos&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=kroos.lm10football.com#kroos-an90v5gy
-vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
-vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
-vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@storeships.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=storeships.toptechnonews.com&type=ws&sni=storeships.toptechnonews.com#storeships.toptechnonews.com_VLESS_WS
-vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=jorum.toptechnonews.com&type=ws&sni=jorum.toptechnonews.com#jorum.toptechnonews.com_VLESS_WS
-vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
-vless://0fdd8743-50fe-4615-ba4d-be3bd6d98cb3@tana.minusober.com:443?path=%2Ftana&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=tana.minusober.com#tana-76sn2cr5
-vless://c0197135-3415-45ad-992f-870f36d3c9b2@psychologist.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&host=psychologist.aurorainiceland.com&type=ws&sni=psychologist.aurorainiceland.com#psychologist.aurorainiceland.com_VLESS_WS
-vless://b867aa62-33f4-452a-a175-98b84fad295b@unlikelier.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=unlikelier.toptechnonews.com&type=ws&sni=unlikelier.toptechnonews.com#unlikelier.toptechnonews.com_VLESS_WS
-vless://43e00e4c-2316-4dc9-8262-cef31886dc56@marly.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=marly.toptechnonews.com&type=ws&sni=marly.toptechnonews.com#marly.toptechnonews.com_VLESS_WS
-vless://0fdd8743-50fe-4615-ba4d-be3bd6d98cb3@tana.minusober.com:443?path=%2Ftana&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=tana.minusober.com#tana-76sn2cr5
-vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
-vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
-vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
-vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
+vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@knocked.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&host=knocked.aurorainiceland.com&type=ws&sni=knocked.aurorainiceland.com#knocked.aurorainiceland.com_VLESS_WS
+vless://18dd47e0-ab71-441d-9373-1324444151bd@nebula.butterfly-galaxy.com:443?path=%2Fnebula&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=nebula.butterfly-galaxy.com#nebula-pangoo6k
 vless://b867aa62-33f4-452a-a175-98b84fad295b@unlikelier.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=unlikelier.toptechnonews.com&type=ws&sni=unlikelier.toptechnonews.com#unlikelier.toptechnonews.com_VLESS_WS
 vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?path=%2Fsteel&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=steel.footballlovernews.com#steel-7wemi0le
-vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@knocked.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&host=knocked.aurorainiceland.com&type=ws&sni=knocked.aurorainiceland.com#knocked.aurorainiceland.com_VLESS_WS
-vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
-vless://7502d8c0-b4cd-462f-93ec-b8e04e46caa8@map.footballlovernews.com:443?path=%2Fmap&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=map.footballlovernews.com#map-oajhedi1
-vless://18dd47e0-ab71-441d-9373-1324444151bd@nebula.butterfly-galaxy.com:443?path=%2Fnebula&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=nebula.butterfly-galaxy.com#nebula-pangoo6k
-vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
-vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
-vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
-vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
-vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
-vless://c0197135-3415-45ad-992f-870f36d3c9b2@psychologist.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&host=psychologist.aurorainiceland.com&type=ws&sni=psychologist.aurorainiceland.com#psychologist.aurorainiceland.com_VLESS_WS
-vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
 vless://0fdd8743-50fe-4615-ba4d-be3bd6d98cb3@tana.minusober.com:443?path=%2Ftana&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=tana.minusober.com#tana-76sn2cr5
-vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
-vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
-vless://18dd47e0-ab71-441d-9373-1324444151bd@nebula.butterfly-galaxy.com:443?path=%2Fnebula&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=nebula.butterfly-galaxy.com#nebula-pangoo6k
+vless://7502d8c0-b4cd-462f-93ec-b8e04e46caa8@map.footballlovernews.com:443?path=%2Fmap&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=map.footballlovernews.com#map-oajhedi1
 vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
-vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=jorum.toptechnonews.com&type=ws&sni=jorum.toptechnonews.com#jorum.toptechnonews.com_VLESS_WS
 vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@knocked.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&host=knocked.aurorainiceland.com&type=ws&sni=knocked.aurorainiceland.com#knocked.aurorainiceland.com_VLESS_WS
-vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
-vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
 vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?path=%2Fsteel&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=steel.footballlovernews.com#steel-7wemi0le
 vless://0fdd8743-50fe-4615-ba4d-be3bd6d98cb3@tana.minusober.com:443?path=%2Ftana&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=tana.minusober.com#tana-76sn2cr5
+vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
+vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=jorum.toptechnonews.com&type=ws&sni=jorum.toptechnonews.com#jorum.toptechnonews.com_VLESS_WS
+vless://43e00e4c-2316-4dc9-8262-cef31886dc56@marly.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=marly.toptechnonews.com&type=ws&sni=marly.toptechnonews.com#marly.toptechnonews.com_VLESS_WS
+vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
+vless://7502d8c0-b4cd-462f-93ec-b8e04e46caa8@map.footballlovernews.com:443?path=%2Fmap&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=map.footballlovernews.com#map-oajhedi1
+vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
 vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@storeships.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=storeships.toptechnonews.com&type=ws&sni=storeships.toptechnonews.com#storeships.toptechnonews.com_VLESS_WS
-vless://db1eeace-797f-4d75-ac27-9a97acda853d@pikk.minusober.com:443?path=%2Fpikk&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=pikk.minusober.com#pikk-mafs45pk
+vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
+vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
+vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
+vless://45bb078e-fa46-43b3-9432-d06bf16a1d2d@kroos.lm10football.com:443?path=%2Fkroos&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=kroos.lm10football.com#kroos-an90v5gy
 vless://0fdd8743-50fe-4615-ba4d-be3bd6d98cb3@tana.minusober.com:443?path=%2Ftana&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=tana.minusober.com#tana-76sn2cr5
+vless://0fdd8743-50fe-4615-ba4d-be3bd6d98cb3@tana.minusober.com:443?path=%2Ftana&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=tana.minusober.com#tana-76sn2cr5
+vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
+vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
+vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@masin.minusober.com:443?path=%2Fmasin&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=masin.minusober.com#masin-bgcrbj06
+vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@storeships.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=storeships.toptechnonews.com&type=ws&sni=storeships.toptechnonews.com#storeships.toptechnonews.com_VLESS_WS
+vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
+vless://43e00e4c-2316-4dc9-8262-cef31886dc56@marly.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=marly.toptechnonews.com&type=ws&sni=marly.toptechnonews.com#marly.toptechnonews.com_VLESS_WS
+vless://45bb078e-fa46-43b3-9432-d06bf16a1d2d@kroos.lm10football.com:443?path=%2Fkroos&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=kroos.lm10football.com#kroos-an90v5gy
+vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
+vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
+vless://c0197135-3415-45ad-992f-870f36d3c9b2@psychologist.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&host=psychologist.aurorainiceland.com&type=ws&sni=psychologist.aurorainiceland.com#psychologist.aurorainiceland.com_VLESS_WS
+vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=jorum.toptechnonews.com&type=ws&sni=jorum.toptechnonews.com#jorum.toptechnonews.com_VLESS_WS
+vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
+vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
+vless://0fdd8743-50fe-4615-ba4d-be3bd6d98cb3@tana.minusober.com:443?path=%2Ftana&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=tana.minusober.com#tana-76sn2cr5
+vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
+vless://18dd47e0-ab71-441d-9373-1324444151bd@nebula.butterfly-galaxy.com:443?path=%2Fnebula&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=nebula.butterfly-galaxy.com#nebula-pangoo6k
+vless://db1eeace-797f-4d75-ac27-9a97acda853d@pikk.minusober.com:443?path=%2Fpikk&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=pikk.minusober.com#pikk-mafs45pk
+vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
+vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
+vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?path=%2Fauto&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=auto.minusober.com#auto-yq5rwqut
+vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
+vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
+vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
+vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@masin.minusober.com:443?path=%2Fmasin&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=masin.minusober.com#masin-bgcrbj06
+vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?path=%2Fsafe&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=safe.footballlovernews.com#safe-dcokde76
+vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?path=%2Ffoal&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=foal.aurorainiceland.com#foal-nw2d5xtk
+vless://c0197135-3415-45ad-992f-870f36d3c9b2@psychologist.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&host=psychologist.aurorainiceland.com&type=ws&sni=psychologist.aurorainiceland.com#psychologist.aurorainiceland.com_VLESS_WS
+vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?path=%2Fsolid&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=ws&sni=solid.footballlovernews.com#solid-9znw616w
+vless://db1eeace-797f-4d75-ac27-9a97acda853d@pikk.minusober.com:443?path=%2Fpikk&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=pikk.minusober.com#pikk-mafs45pk
+vless://b867aa62-33f4-452a-a175-98b84fad295b@unlikelier.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&host=unlikelier.toptechnonews.com&type=ws&sni=unlikelier.toptechnonews.com#unlikelier.toptechnonews.com_VLESS_WS
+vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=vahem.minusober.com#vahem-9a7y9x2u
 
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@KOSeMADAR-PUBLISHER.ddns.net:443?sni=q77gpucuontxt4hkbdg8.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  1
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@09303582303.ddns.net:443?sni=4n5c7jo0lca3g3upivhj.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  2
