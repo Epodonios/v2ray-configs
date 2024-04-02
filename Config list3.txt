@@ -491,10 +491,10 @@ vmess://eyJhZGQiOiAiY2EtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAi
 vmess://eyJhZGQiOiAiZnIyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJhOGMzNWE3OC03Y2Q5LTQ1OGMtOTdjNC0zZGIwOTU0YjdlMzAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1JBQ0VWUE4iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwRnJhbmNlJTIwVm1lc3MlMjBXUyUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiZnIzLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI0NTRmODRkZi03MjRkLTQ0MmEtYTRhMi02OThhNmQ2M2Y5NDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JhY2V2cG4iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwRnJhbmNlJTIwVm1lc3MlMjBXUyUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-vless://cababac-cbaa-aacb-adcb-baccabccbaab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-15-FARVARDIN-1403 🕑 02:24
-vless://baacbac-aacb-caba-bdac-acbbbcccaaba@127.0.0.1:2080?security=tls&type=tcp#⚠️ UNDER CONSTRUCTION 🔴 REPORT TECHNICAL ISSUES 🟢 SUGGEST FEATURE ENHANCEMENT
-vless://ed0d825f-508d-4ff1-9ae2-a80c84a375d5@172.105.25.249:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-172.105.25.249:2003 📡 PING-062.03-MS
-vless://ed0d825f-508d-4ff1-9ae2-a80c84a375d5@172.105.25.249:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-172.105.25.249:443 📡 PING-062.37-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.209.198.74:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-3.209.198.74:22222 📡 PING-067.19-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.209.37.194:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-3.209.37.194:22222 📡 PING-067.34-MS
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.244.43:443?security=tls&sni=mt1.nabsk.com&type=ws&path=users%3Fed%3D2048&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.244.43:443 📡 PING-067.69-MS
+vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@masin.minusober.com:443?type=ws&path=%2Fmasin&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=masin.minusober.com#masin-bgcrbj06
+vless://f97386df-3700-4f58-bbdd-9ff2bce803f1@geminal.aurorainiceland.com:2096?type=ws&path=%2Fgeminal&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=geminal.aurorainiceland.com#geminal-6ml5h5c9
+vless://0d8a3822-24fa-4a55-bffb-443793582162@run.nextgentechnews.com:443?type=ws&path=%2Frun&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=run.nextgentechnews.com#run-c62m3xuw
+vless://089f4e2e-2167-4e4c-a050-91b9997ba0b9@ilm.minusober.com:443?type=ws&path=%2Film&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ilm.minusober.com#ilm-heb83z07
+vless://43e00e4c-2316-4dc9-8262-cef31886dc56@marly.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=marly.toptechnonews.com&sni=marly.toptechnonews.com&path=/nimws#marly.toptechnonews.com_VLESS_WS
+vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?type=ws&path=%2Fvahem&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=vahem.minusober.com#vahem-9a7y9x2u
+vless://d566e589-93f6-4106-8e89-443e9dc748c9@retuned.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=retuned.toptechnonews.com&sni=retuned.toptechnonews.com&path=/nimws#retuned.toptechnonews.com_VLESS_WS
