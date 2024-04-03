@@ -1,3 +1,8 @@
+ss://YWVzLTEyOC1nY206d3NMVFgxeXhyYUFGaXkzaVFaUi0tUQ==@91.198.166.48:1080#🔒 SS-TCP-NA 🇵🇱 PL-91.198.166.48:1080 📡 PING-118.38-MS
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9101 📡 PING-118.44-MS
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6379 📡 PING-118.84-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6679 📡 PING-118.88-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5601#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5601 📡 PING-119.03-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#🔒 SS-TCP-NA 🇳🇴 NO-185.90.61.153:989 📡 PING-119.05-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:8888#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8888 📡 PING-119.26-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-119.41-MS
@@ -493,8 +498,3 @@ vless://1052a560-7009-43ef-82ae-50065bfcf613@65.109.128.227:2096?security=none&t
 vless://3ae2d20d-2354-47da-9ce9-b921f8793164@65.109.241.5:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.241.5:443 📡 PING-125.67-MS
 vless://48a5b05b-cf59-4a70-87fb-e685780f1991@185.251.38.172:443?security=tls&flow=xtls-rprx-vision&sni=by.jarviskit.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-185.251.38.172:443 📡 PING-126.53-MS
 vless://21060c29-45a3-4b62-8193-068b75455627@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-95.164.46.235:443 📡 PING-126.66-MS
-vless://9e2f3f27-a7ff-4574-8e22-5f094c649689@94.131.117.240:443?security=tls&sni=es-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇪🇸 ES-94.131.117.240:443 📡 PING-127.41-MS
-vless://ad162865-cd88-4568-875a-4cc9aeed918a@195.123.213.46:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇱🇻 LV-195.123.213.46:443 📡 PING-127.44-MS
-vless://9e2f3f27-a7ff-4574-8e22-5f094c649689@94.131.117.240:2003?security=tls&sni=es-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇪🇸 ES-94.131.117.240:2003 📡 PING-127.46-MS
-vless://ad162865-cd88-4568-875a-4cc9aeed918a@195.123.213.46:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇱🇻 LV-195.123.213.46:2003 📡 PING-129.57-MS
-vless://3a54e450-df3f-4f67-8b66-61e98c329f9a@109.68.213.105:80?security=none&type=ws&host=xbox.com&path=/@aklisvpn#🔒 VL-WS-NONE 🇷🇺 RU-109.68.213.105:80 📡 PING-130.24-MS
