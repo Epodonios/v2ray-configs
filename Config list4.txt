@@ -1,10 +1,3 @@
-vless://c7d4d8ce-019d-49b5-8ee8-882d8d964bba@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://81b3a81c-f098-4835-ab34-bc6560f15403@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://2513bd46-548c-481d-9082-7f1c690079fe@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://2f024052-9128-4d8e-944c-124ae738c0d7@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://0a753ade-4cad-40e1-9207-08afbfa595c0@uk2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://63f2261a-17d8-44f8-bf93-837f1738b81c@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://7288521b-b3d9-4db4-88ff-5a4b98298663@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://cc3918f0-03c4-474a-8d8b-15d9e6750f1a@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://96c437b3-c993-4217-b228-21fbb67d5ff8@it-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -498,3 +491,10 @@ vless://a1e56ca0-6fe6-4ee7-a64b-d681ef9161e0@104.18.74.199:2096?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.46:80?type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.46:80 📡 PING-016.40-MS
 vless://cf428955-86c2-46b1-8cd7-f111666ff9fc@104.16.29.8:2053?security=tls&sni=sayhello.rokna.online&type=ws&path=%2Fbackup#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.29.8:2053 📡 PING-016.40-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.135.100:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.135.100:80 📡 PING-016.39-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.23.40:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.23.40:80 📡 PING-016.39-MS
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.17.58.44:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.58.44:443 📡 PING-016.39-MS
+vless://d113cd5c-80c9-43e2-a567-107819004a12@190.93.247.247:2083?security=tls&sni=dm.xsv2ray.cfd&type=grpc&serviceName=%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray&fp=safari&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.247.247:2083 📡 PING-016.38-MS
+vless://58a34615-d4cc-4be8-b0ae-d8b17da71c40@188.114.97.32:443?security=tls&sni=pt2-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.32:443 📡 PING-016.38-MS
+vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.126.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F@V2raySeven@V2raySeven@V2raySeven@V2raySeven%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.126.175:2083 📡 PING-016.38-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.27.50:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.27.50:80 📡 PING-016.38-MS
+vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.96.3:8880?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-188.114.96.3:8880 📡 PING-016.37-MS
