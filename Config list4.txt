@@ -1,6 +1,3 @@
-vless://2513bd46-548c-481d-9082-7f1c690079fe@kz-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20gRPC%20@V2rayStore
-vless://2f024052-9128-4d8e-944c-124ae738c0d7@uk-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20gRPC%20@V2rayStore
-vless://63f2261a-17d8-44f8-bf93-837f1738b81c@de-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20gRPC%20@V2rayStore
 vless://7288521b-b3d9-4db4-88ff-5a4b98298663@de2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20gRPC%20@V2rayStore
 vless://cc3918f0-03c4-474a-8d8b-15d9e6750f1a@au-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20gRPC%20@V2rayStore
 vless://96c437b3-c993-4217-b228-21fbb67d5ff8@it-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20gRPC%20@V2rayStore
@@ -498,3 +495,6 @@ vless://efd819f8-fe14-4500-e29a-1f4fb1efb197@65.21.52.239:443?security=tls&sni=o
 vless://93bdbc56-059a-4818-a6b8-f6229c27214e@103.9.77.6:443?security=tls&sni=vn-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇻🇳 VN-103.9.77.6:443 📡 PING-175.28-MS
 vless://21ced124-9a12-41f8-fe11-59a879a141d2@37.27.82.64:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.82.64:443 📡 PING-175.45-MS
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@123.253.33.231:8443?security=tls&sni=vpn.restia.love&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇾 MY-123.253.33.231:8443 📡 PING-176.31-MS
+vless://c4d390ec-96a9-4a26-ac75-c6de58bc2f45@195.123.213.46:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇱🇻 LV-195.123.213.46:2003 📡 PING-178.28-MS
+vless://c4d390ec-96a9-4a26-ac75-c6de58bc2f45@195.123.213.46:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇱🇻 LV-195.123.213.46:443 📡 PING-178.32-MS
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.13:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.13:80 📡 PING-178.51-MS
