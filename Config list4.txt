@@ -1,7 +1,3 @@
-vless://c72e672e-54d9-408b-b34c-38ff7e254d0a@jp-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20gRPC%20@V2rayStore
-vless://19e84929-f022-406a-ae78-7d0a11c0dd14@fr-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20gRPC%20@V2rayStore
-vless://d5ca65e4-60b7-468c-8621-a15cf18908dd@fr2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20gRPC%20@V2rayStore
-vless://29a8f285-3833-4f5e-b1cc-70f5c11aa596@167.235.150.39:443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=http%2F1.1%2Ch2&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20PREMIUM%20%20@V2rayStore
 vless://e1a7b9d0-e99c-4ee0-b83f-4b7d824b974d@nl.alphav2ray.link:443?security=tls&encryption=none&type=ws&path=/&sni=zoom.com&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Premium%20NL%20PREMIUM%20%20@V2rayStore
 vless://691da42c-0a59-48e2-eb78-441b97ee14e4@de1.alphav2ray.link:443?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20PREMIUM%20%20@V2rayStore
 vmess://eyJhZGQiOiAiaW4tZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjY3MzRmMDE4LTQ0YjItNDI1Yy05NWNhLTBjYzc4ZDY2ZmE4MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUkFDRVZQTiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICIlRjAlOUYlODclQUUlRjAlOUYlODclQjMlMjBJbmRpYSUyMFZtZXNzJTIwV1MlMjBAVjJyYXlTdG9yZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
@@ -498,3 +494,7 @@ vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.4:80?security=none&type=w
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.6:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.6:80 📡 PING-189.07-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.16:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.16:80 📡 PING-189.14-MS
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@47.245.40.55:8080?security=none&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇯🇵 JP-47.245.40.55:8080 📡 PING-190.25-MS
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@123.253.33.231:8443?security=tls&sni=vpn.restia.love&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇾 MY-123.253.33.231:8443 📡 PING-190.85-MS
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.17:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.17:80 📡 PING-190.90-MS
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.10:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.10:80 📡 PING-193.31-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@218.204.179.53:50394?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇨🇳 CN-218.204.179.53:50394 📡 PING-194.88-MS
