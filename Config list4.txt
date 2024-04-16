@@ -1,3 +1,5 @@
+vless://d5ca65e4-60b7-468c-8621-a15cf18908dd@fr2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20gRPC%20@V2rayStore
+vless://29a8f285-3833-4f5e-b1cc-70f5c11aa596@167.235.150.39:443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=http%2F1.1%2Ch2&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20PREMIUM%20%20@V2rayStore
 vless://e1a7b9d0-e99c-4ee0-b83f-4b7d824b974d@nl.alphav2ray.link:443?security=tls&encryption=none&type=ws&path=/&sni=zoom.com&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Premium%20NL%20PREMIUM%20%20@V2rayStore
 vless://691da42c-0a59-48e2-eb78-441b97ee14e4@de1.alphav2ray.link:443?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20PREMIUM%20%20@V2rayStore
 vmess://eyJhZGQiOiAianAtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImM3MmU2NzJlLTU0ZDktNDA4Yi1iMzRjLTM4ZmY3ZTI1NGQwYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUkFDRVZQTiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICIlRjAlOUYlODclQUYlRjAlOUYlODclQjUlMjBKYXBhbiUyMFZtZXNzJTIwV1MlMjBAVjJyYXlTdG9yZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
@@ -496,5 +498,3 @@ vless://973819e9-0e8b-435c-b4a4-214f02a8810e@209.97.164.73:443?security=tls&sni=
 vless://fba5ebfe-cf43-4719-91b7-129d160d3c1b@94.182.87.167:5615?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.167:5615 📡 PING-213.51-MS
 vless://c065bc89-d569-4455-a4f5-8f9b3a5dddb3@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-uS.pAgEs.dEv&type=ws&host=ViRgInIaVpN-US.PaGeS.DeV&path=%2F%3Fed%3D2048&fp=ios&alpn=http%2F1.1#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443 📡 PING-214.04-MS
 vless://4520dedd-d9f9-4136-80e3-75c3e21c7c48@94.182.222.62:1820?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.222.62:1820 📡 PING-214.09-MS
-vless://968f0072-fdef-4c14-8607-8e0d16bd1d88@157.245.50.83:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-157.245.50.83:443 📡 PING-214.52-MS
-vless://dd6a9ced-be20-48a8-94f7-69e0e2a9a234@94.182.87.163:5005?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.163:5005 📡 PING-215.45-MS

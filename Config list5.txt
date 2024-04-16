@@ -1,3 +1,5 @@
+vless://968f0072-fdef-4c14-8607-8e0d16bd1d88@157.245.50.83:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-157.245.50.83:443 📡 PING-214.52-MS
+vless://dd6a9ced-be20-48a8-94f7-69e0e2a9a234@94.182.87.163:5005?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.163:5005 📡 PING-215.45-MS
 vless://b032289f-7ba9-4f87-99ae-0a95d357c2fc@85.133.151.136:35349?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.151.136:35349 📡 PING-215.48-MS
 vless://fe78ff6d-3b66-4a7d-a1f5-704e116a0eb4@139.162.39.206:443?security=tls&sni=sg2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.39.206:443 📡 PING-215.57-MS
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-215.57-MS
@@ -496,5 +498,3 @@ vless://0ea35600-f4af-4dd1-a8b6-bb9de90a7105@104.24.176.7:80?security=none&type=
 vless://b209e761-cc1f-4b50-8c11-d0ace07af56b@185.162.228.3:2052?security=none&type=ws&host=aUcWG3aH9tU6LmP5QkMQ.dL-ApArat.COM&path=%2F#🔒 VL-WS-NONE 🇦🇲 AM-185.162.228.3:2052 📡 PING-002.90-MS
 vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.205.138:443 📡 PING-002.90-MS
 vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@172.67.147.31:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.147.31:80 📡 PING-002.90-MS
-vless://8a052c65-bdf6-485a-c1d7-cb2b23f15dfa@104.16.6.65:443?security=tls&sni=germany-frankfurt.bitplatform.cloud&type=ws&host=germany-frankfurt.bitplatform.cloud&path=%2F&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.6.65:443 📡 PING-002.90-MS
-vless://614cef89-a0a2-4afb-b4e8-8cc6fda8f792@104.22.30.97:2095?security=none&type=ws&host=%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%97%A5%E5%AD%90%E9%82%AA%E6%81%B6%E7%9A%84%E5%B0%8F%E5%AD%97%E6%AF%8D%D8%B2hanganslow.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.30.97:2095 📡 PING-002.89-MS
