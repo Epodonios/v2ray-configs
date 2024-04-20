@@ -1,10 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#🔒 SS-TCP-NA 🇿🇦 ZA-41.203.4.34:989 📡 PING-216.57-MS
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@103.172.116.90:9061#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9061 📡 PING-218.88-MS
-ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@103.172.116.79:9024#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9024 📡 PING-218.94-MS
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.79:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9097 📡 PING-219.39-MS
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.94:9000#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9000 📡 PING-219.41-MS
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.94:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9097 📡 PING-219.42-MS
-ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.103:9008#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9008 📡 PING-219.59-MS
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.79:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9041 📡 PING-219.82-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWkRjandOQ0NkeHRWM000TVBWN2tU@157.230.43.93:45238#🔒 SS-TCP-NA 🇸🇬 SG-157.230.43.93:45238 📡 PING-219.84-MS
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@103.172.116.90:9003#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9003 📡 PING-220.03-MS
@@ -498,3 +491,10 @@ vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.6:80?security=none&type=w
 vless://b9f2a247-d798-443b-b69d-ebbc78c04001@212.33.205.96:19196?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.205.96:19196 📡 PING-282.64-MS
 vless://1191c21c-7a93-425e-aa02-23c8b64d63cd@212.23.214.163:45700?type=ws&path=@v2raand,@v2raand,@v2raand,@v2raand#🔒 VL-WS-NA 🇮🇷 IR-212.23.214.163:45700 📡 PING-337.55-MS
 vless://37cd6516-ca2a-4a7f-bf1b-76a5ef4c0a72@43.229.154.91:19857?security=none&type=ws&path=%2Fray#🔒 VL-WS-NONE 🇭🇰 HK-43.229.154.91:19857 📡 PING-360.19-MS
+vless://ae23a92e-ee92-48ce-a245-d8e9470a5dff@45.92.93.134:31252?type=ws&path=/#🔒 VL-WS-NA 🇮🇷 IR-45.92.93.134:31252 📡 PING-418.38-MS
+vless://cea6a0fe-e987-4be3-9f5d-4ff2d5a3d43f@45.79.9.98:443?security=tls&sni=us-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-45.79.9.98:443 📡 PING-033.20-MS
+vless://cea6a0fe-e987-4be3-9f5d-4ff2d5a3d43f@45.79.9.98:2003?security=tls&sni=us-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-45.79.9.98:2003 📡 PING-032.08-MS
+vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@192.95.53.122:80?type=ws&host=viber.com&path=/dl/index.php#🔒 VL-WS-NA 🇨🇦 CA-192.95.53.122:80 📡 PING-019.74-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.95.197:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-15.157.95.197:22222 📡 PING-019.61-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.152.178:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-3.97.152.178:22222 📡 PING-018.58-MS
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?type=ws&path=/http#🔒 VL-WS-NA 🇨🇦 CA-148.113.175.147:80 📡 PING-018.50-MS
