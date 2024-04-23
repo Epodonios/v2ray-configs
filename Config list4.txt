@@ -1,10 +1,3 @@
-vless://0e469e8e-f3b4-4137-8e15-de85fa9a2cce@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
-vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
-vless://7d70bc41-7a14-42f2-96e8-9686c7444f6b@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
-vless://1db60da2-9d20-47f5-90a5-3faf028af5a5@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
-vless://36814c30-10a3-4d11-9106-22972101720e@ca-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20WS%20@V2rayStore
-vless://19e84929-f022-406a-ae78-7d0a11c0dd14@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
-vless://ca85660a-238c-4a41-8496-24a141d20b55@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://9eb99213-f082-4b5e-87c1-0511798c7da2@tr-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20gRPC%20@V2rayStore
 vless://31c8ace0-0495-4326-a47e-c3db49786ecc@uk-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20gRPC%20@V2rayStore
@@ -498,3 +491,10 @@ vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.15:80?security=none&type=
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.2:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.2:80 📡 PING-263.82-MS
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443 📡 PING-266.07-MS
 vless://cb9c6cac-2ed5-4703-8f2c-1227074b7280@85.133.178.27:22443?security=none&type=ws&host=www.speedtest.net&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.133.178.27:22443 📡 PING-266.26-MS
+vless://6748d18a-6ba1-48f5-b3ef-9cea211f05f7@188.212.98.5:2052?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.98.5:2052 📡 PING-266.45-MS
+vless://c3063557-da31-43ae-be5c-e5c317232773@5.63.23.37:2096?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.63.23.37:2096 📡 PING-268.95-MS
+vless://6fbfb5a7-c626-48ee-a00f-e5ba1628b630@95.38.102.221:54037?security=none&type=tcp&host=None&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.102.221:54037 📡 PING-268.97-MS
+vless://f1cc9b2b-f597-4dd6-9cc1-4b968311b9f9@94.182.222.57:5538?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.222.57:5538 📡 PING-270.38-MS
+vless://cefafcb9-6d55-4a27-8f13-d8c2ff8513c3@193.151.153.180:443?security=none&type=tcp&host=namava.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.153.180:443 📡 PING-270.47-MS
+vless://a1416976-edaa-4053-ae3c-31d12b7d578f@176.65.242.93:1112?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-176.65.242.93:1112 📡 PING-272.14-MS
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.12:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.12:80 📡 PING-273.61-MS
