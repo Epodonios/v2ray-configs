@@ -1,9 +1,3 @@
-trojan://telegram-id-privatevpns@16.170.83.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.83.6:22222 📡 PING-104.61-MS
-trojan://telegram-id-directvpn@13.50.81.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.81.151:22222 📡 PING-104.75-MS
-trojan://cb30e92e-faaf-4d63-b82a-d368c7ed1a43@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443 📡 PING-104.89-MS
-trojan://telegram-id-privatevpns@51.20.223.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.223.153:22222 📡 PING-104.95-MS
-trojan://telegram-id-privatevpns@13.48.221.128:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.221.128:22222 📡 PING-105.16-MS
-trojan://telegram-id-directvpn@51.21.68.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.68.66:22222 📡 PING-105.29-MS
 trojan://telegram-id-privatevpns@13.50.205.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.205.4:22222 📡 PING-105.39-MS
 trojan://159c73fa-a1f9-409e-8375-73c58917425d@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-110.68-MS
 trojan://g2M5EePKcZ@37.27.20.12:2083?security=tls&sni=dl.parhamtraberthos.ir&type=ws&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇫🇮 FI-37.27.20.12:2083 📡 PING-112.23-MS
@@ -498,3 +492,9 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.129.32:8443?security=tls&sni=
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.193.97:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.193.97:443 📡 PING-231.76-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.222.208.83:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.222.208.83:443 📡 PING-232.16-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.67.133:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.67.133:443 📡 PING-232.19-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.218.11.90:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-8.218.11.90:80 📡 PING-626.86-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.217.85.14:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇭🇰 HK-8.217.85.14:2053 📡 PING-917.14-MS
+vless://d950cb3a-535d-47ec-b76f-4e7818623404@45.79.19.29:443?security=tls&sni=us2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-45.79.19.29:443 📡 PING-041.43-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.31.71:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-15.156.31.71:22222 📡 PING-019.16-MS
+vless://69698d6a-8c4c-4d63-a11d-b70e064d8fa6@15.156.226.178:22548?security=tls&sni=m.zoom.us&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇨🇦 CA-15.156.226.178:22548 📡 PING-019.07-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.182.221.56:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-35.182.221.56:22222 📡 PING-019.06-MS
