@@ -1,6 +1,3 @@
-trojan://telegram-id-privatevpns@51.21.96.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.96.143:22222 📡 PING-111.88-MS
-trojan://telegram-id-privatevpns@16.170.51.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.51.229:22222 📡 PING-112.17-MS
-trojan://telegram-id-directvpn@13.51.21.0:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.21.0:22222 📡 PING-112.64-MS
 trojan://6fd1efa0-b559-48ce-81f9-56d1765f5ab5@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-117.86-MS
 trojan://4e0f0b6d-8164-4b4b-99be-1f7ad19c7600@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443 📡 PING-118.98-MS
 trojan://TYRgp1etNs@46.17.40.74:55818?security=none&type=tcp#🔒 TR-TCP-NONE 🇷🇺 RU-46.17.40.74:55818 📡 PING-127.57-MS
@@ -498,3 +495,6 @@ vless://9ffbbd7d-c985-4ba0-adc7-f5dbf2baa364@62.60.160.52:23441?security=none&ty
 vless://d0662757-bc64-44f9-9a6f-b60fa505ca6c@2.189.255.205:2001?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.255.205:2001 📡 PING-158.35-MS
 vless://7421c12c-47c4-41cb-8abe-23d0d98eb141@139.162.91.35:443?security=tls&sni=jp-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇯🇵 JP-139.162.91.35:443 📡 PING-158.36-MS
 vless://db7cd0fc-628c-42a8-b496-91821a5dfb3d@5.145.119.30:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.30:80 📡 PING-159.74-MS
+vless://beabdab3-65b4-4078-9f9c-e86c052ae9a8@193.37.37.27:1001?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.37.37.27:1001 📡 PING-160.45-MS
+vless://90315e1e-21da-49df-b9cf-c0202f3a208e@62.60.178.72:443?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇺🇸 US-62.60.178.72:443 📡 PING-160.63-MS
+vless://4839bc0b-0c7a-4c6d-90d6-b2a4997fde89@212.80.18.60:41661?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.60:41661 📡 PING-161.51-MS
