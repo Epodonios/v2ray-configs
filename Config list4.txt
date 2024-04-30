@@ -1,7 +1,3 @@
-trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-54.93.172.88:443 📡 PING-111.01-MS
-trojan://telegram-id-privatevpns@3.76.236.86:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.76.236.86:22222 📡 PING-111.23-MS
-trojan://ea630804-4d5d-4180-a464-a360e3793dc2@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-111.67-MS
-trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-70.34.205.1:443 📡 PING-119.08-MS
 trojan://telegram-id-privatevpns@13.51.164.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.164.124:22222 📡 PING-124.59-MS
 trojan://telegram-id-privatevpns@51.21.96.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.96.143:22222 📡 PING-124.63-MS
 trojan://telegram-id-privatevpns@16.170.51.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.51.229:22222 📡 PING-124.63-MS
@@ -498,3 +494,7 @@ vless://c3d656d7-8634-4a10-a043-810659fc6d4a@194.87.45.173:3306?security=none&ty
 vless://59eeaae6-8ec3-44ba-a297-8b14af898a53@141.105.130.77:57994?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.77:57994 📡 PING-133.36-MS
 vless://e36fe023-7881-4d6a-a99a-725394c1f30f@141.105.130.77:55945?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.77:55945 📡 PING-133.38-MS
 vless://d663c0bc-c515-470d-b28f-d99e33cd4a4b@79.137.205.123:443?security=none&type=tcp&host=sourceforge.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-79.137.205.123:443 📡 PING-134.71-MS
+vless://32be4b6d-4a84-4e0c-a77a-e850a6b3e225@89.221.224.166:443?security=tls&sni=is1.x2fast.net&type=ws&host=is1.x2fast.net&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇸 IS-89.221.224.166:443 📡 PING-135.50-MS
+vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.233.120:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:2052 📡 PING-135.71-MS
+vless://9eb99213-f082-4b5e-87c1-0511798c7da2@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003 📡 PING-135.84-MS
+vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.234.120:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:2052 📡 PING-135.88-MS
