@@ -1,5 +1,3 @@
-trojan://52bb627f-dd9d-4f67-9a28-822021beedd5@89.213.184.162:443?security=tls&sni=us01.service.nahidacloud.top&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-89.213.184.162:443 📡 PING-062.06-MS
-trojan://zIvR7ryOXv@159.223.207.182:34428?#🔒 TR-TCP-NA 🇺🇸 US-159.223.207.182:34428 📡 PING-068.33-MS
 trojan://telegram-id-directvpn@54.246.39.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.246.39.174:22222 📡 PING-070.44-MS
 trojan://telegram-id-directvpn@54.229.17.238:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.229.17.238:22222 📡 PING-070.57-MS
 trojan://telegram-id-privatevpns@34.246.97.46:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇮🇪 IE-34.246.97.46:22222 📡 PING-070.60-MS
@@ -498,3 +496,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.180.18.207:8443?security=tls&sni
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@144.24.206.147:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-144.24.206.147:443 📡 PING-089.37-MS
 vless://7a24704b-5d64-48a9-94d7-726ba993d51f@95.164.117.128:443?security=tls&sni=de2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-95.164.117.128:443 📡 PING-089.44-MS
 vless://7a24704b-5d64-48a9-94d7-726ba993d51f@95.164.117.128:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.117.128:2003 📡 PING-089.49-MS
+vless://86335524-a8c9-4805-9854-7195c57ca19b@213.159.64.5:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇲🇩 MD-213.159.64.5:443 📡 PING-089.52-MS
+vless://05799e0a-53fd-4436-b6e3-94111f6735b2@95.164.68.37:443?security=tls&sni=TLS-v2ray.taha-pannel.workers.dev&type=ws&host=de1.x2fast.net&path=%2Fws&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-95.164.68.37:443 📡 PING-089.52-MS
