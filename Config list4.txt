@@ -1,4 +1,3 @@
-vless://40e357c2-06f4-433a-b6cc-5d5c8b487e1d@176.126.113.161:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-176.126.113.161:443 📡 PING-101.69-MS
 vless://e09cc1bf-1fd4-4241-beee-561a98bdd959@188.119.113.68:443?security=tls&sni=nl1.x2fast.net&type=ws&host=nl1.x2fast.net&path=%2Fws&fp=random&alpn=h2#🔒 VL-WS-TLS 🇳🇱 NL-188.119.113.68:443 📡 PING-102.10-MS
 vless://40e357c2-06f4-433a-b6cc-5d5c8b487e1d@176.126.113.161:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-176.126.113.161:2003 📡 PING-102.40-MS
 vless://e8b7d8d7-2ed3-47c0-b815-33cc5bfe8a45@95.164.7.56:8080?type=tcp#🔒 VL-TCP-NA 🇳🇱 NL-95.164.7.56:8080 📡 PING-102.53-MS
@@ -498,3 +497,4 @@ vless://b5a10cb4-902e-4827-ff7a-8e748d037959@185.146.173.58:2095?security=none&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.181.197.233:80?security=none&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-NONE 🇺🇸 US-199.181.197.233:80 📡 PING-002.80-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.216:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.216:443 📡 PING-002.80-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.237:443 📡 PING-002.79-MS
+vless://a9138d82-4dca-443d-80d1-461b215f74cc@104.18.117.226:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.117.226:80 📡 PING-002.79-MS
