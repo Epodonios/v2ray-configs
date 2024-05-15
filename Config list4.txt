@@ -1,3 +1,8 @@
+trojan://auto@104.20.18.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.168:2083 📡 PING-005.38-MS
+trojan://1ZTbMoSRnm@104.17.239.159:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.239.159:2083 📡 PING-005.38-MS
+trojan://7784d85fde1eed0@154.85.99.134:2053?security=tls&sni=pro.followprovider.ir&type=grpc&serviceName=pro.followprovider.ir#🔒 TR-GRPC-TLS 🇺🇸 US-154.85.99.134:2053 📡 PING-005.38-MS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?sni=sherasheba.com&type=ws&host=sherasheba.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-104.19.171.3:443 📡 PING-005.38-MS
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:2083 📡 PING-005.38-MS
 trojan://auto@104.21.50.114:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.114:443 📡 PING-005.37-MS
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.2:443 📡 PING-005.37-MS
 trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083 📡 PING-005.36-MS
@@ -493,8 +498,3 @@ vless://ecdd0e8e-bf03-4627-b75b-f16b14242086@141.94.115.231:2003?security=tls&sn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.240.130:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-35.181.240.130:22222 📡 PING-083.54-MS
 vless://c0dd5587-7a55-4aa0-88e9-49e20b87a617@45.32.185.247:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-45.32.185.247:443 📡 PING-084.32-MS
 vless://2d13f516-a9bc-42c0-ab12-b17c130f3440@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-084.46-MS
-vless://db58c657-bc1b-4ac1-8462-120f70be4aef@185.167.96.162:2057?security=none&type=grpc&serviceName=2096vless#🔒 VL-GRPC-NONE 🇳🇱 NL-185.167.96.162:2057 📡 PING-084.59-MS
-vless://88845e47-23a5-4049-8e8c-2ea49f0c11a1@51.178.236.123:43633?security=none&type=kcp#🔒 VL-KCP-NONE 🇫🇷 FR-51.178.236.123:43633 📡 PING-085.09-MS
-vless://90fb9114-e01b-49fe-b24c-7a2b3884baca@176.126.113.161:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-176.126.113.161:443 📡 PING-085.17-MS
-vless://f4936eca-452e-40ec-b5f3-4a0a8a66a0e7@188.119.113.68:443?security=tls&flow=xtls-rprx-vision&sni=namasha.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-188.119.113.68:443 📡 PING-085.22-MS
-vless://90fb9114-e01b-49fe-b24c-7a2b3884baca@176.126.113.161:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=/&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-176.126.113.161:2003 📡 PING-085.44-MS
