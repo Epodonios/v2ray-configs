@@ -1,6 +1,3 @@
-trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2083
-trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@20.2.161.199:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.161.199:443
-trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.36:443
 trojan://c38d26dc-8cdc-4540-9187-a971fe9968cb@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443
 trojan://8789270c-f663-4eeb-b627-5efe67e38616@172.233.120.173:443?#🔒 TR-TCP-NA 🇪🇸 ES-172.233.120.173:443
@@ -498,3 +495,6 @@ vless://9450802e-0837-4cb4-bd94-9202f53a04ef@77.221.153.68:52761?security=realit
 vless://519a0f7f-5d5f-4e1d-8ded-69763fc9369a@77.105.146.212:2053?security=reality&sni=discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇩🇪 DE-77.105.146.212:2053
 vless://0f43969c-ff93-4080-b821-67fdc90fc074@104.168.107.230:2052?security=reality&flow=xtls-rprx-vision&sni=debian.org&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:2052
 vless://10e7da8c-745c-4d44-91fc-0b8f897758c8@103.106.3.170:51579?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=H6FR2--ex1uF8iy4fV5TmzyASdLk-NLkUMHch8VDmmU&sid=efa06914#🔒 VL-TCP-RLT 🇰🇿 KZ-103.106.3.170:51579
+vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@94.154.37.26:2086?security=reality&sni=zara.com&type=grpc&serviceName=2086vless&fp=chrome&pbk=IrE30UzYcVvkhnT2dcYAOrcvzaiaY7usPb5GEShnWCs&sid=f79d5509f3ca7718#🔒 VL-GRPC-RLT 🇺🇦 UA-94.154.37.26:2086
+vless://d5e775de-0530-4062-a654-25dd2ba648d2@77.221.143.183:33000?security=reality&sni=www.speedtest.net&type=grpc&serviceName=b&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd#🔒 VL-GRPC-RLT 🇸🇪 SE-77.221.143.183:33000
+vless://e659661d-8439-46e0-b1ab-d75ceaf73404@62.210.101.0:18700?security=reality&flow=xtls-rprx-vision&sni=update.microsoft&type=tcp&fp=chrome&pbk=PBRc2v9SSXpG4jjQRYNa-kgs8w9V4U3MNLuncd2d0hw&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇫🇷 FR-62.210.101.0:18700
