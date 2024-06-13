@@ -1,10 +1,3 @@
-vless://bbec8d43-e507-4587-a1eb-5528600ea07f@uk2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
-vless://ddfaf7cb-ed2f-4ab8-8a76-32f7ad15eb02@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://10af440a-e560-4b03-b9a4-8e7cd055e5a4@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://e3df3d48-b758-4f21-88c5-6790c3892f3c@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
-vless://d6a9427d-7274-4346-9d19-6c5713398305@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
-vless://1af90ee3-fa63-4bc8-aefc-ae7a3d2331fc@ua-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20WS%20@V2rayStore
-vless://94d17cfe-3697-4a9c-afd9-dfb9137c5a3f@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20WS%20@V2rayStore
 vless://328861dd-b949-4e19-9988-c53b07620646@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://8bf15470-19d5-43c6-8084-bf0a6178d066@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
@@ -498,3 +491,10 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.18:9101#%F0%9F%87%BA%F0%9F%8
 #profile-title: base64:VFZDIHwgTUlY
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/v2raycollector
+#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+
+vmess://eyJhZGQiOiJjZmNkbjMuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ3dHl3d2NyempwNS55b2ZuaGtmYy54eXoiLCJpZCI6IjU1NDQ0YzhmLWZkZWItNGFmNC05OGVlLTdjZjVmNDY2NzY1OSIsIm5ldCI6IndzIiwicGF0aCI6IlwvdmlkZW9cLzlUZlZFeWt1IiwicG9ydCI6IjIwNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAbWZ0aXppIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyJ9
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My41OSIsImFpZCI6MCwiaG9zdCI6ImhtczAyLmZ4aWFvbWkuc2JzIiwiaWQiOiI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmsiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImhtczAyLmZ4aWFvbWkuc2JzIiwidGxzIjoidGxzIiwidiI6IjIiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQERlYW1OZXRfUHJveHkgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIn0=
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBARGVhbU5ldF9Qcm94eSB8IENBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMifQ==
+vmess://eyJhZGQiOiIxMDQuMTYuNjEuOCIsImFpZCI6MCwiaG9zdCI6ImZyZWUuZm5ldDAwLndvcmtlcnMuZGV2IiwiaWQiOiI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2dsd2VpZGYuc2JzXC9saW5rd3MiLCJwb3J0IjoiMjA1MiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBARGVhbU5ldF9Qcm94eSB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMifQ==
