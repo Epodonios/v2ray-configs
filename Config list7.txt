@@ -470,12 +470,10 @@ vless://f29c6d40-e612-45b1-9208-a83fbd9884a7@sg-full.privateip.net:443?type=ws&e
 vless://489ba369-1c84-40d5-8786-e031d31ea173@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://0e9cb8e5-549b-4fe8-ac5f-81bb3e5a2e3b@id-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20WS%20@V2rayStore
-vless://d9ac84b0-7e0d-4fac-bccf-dee40aecb2df@hk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20WS%20@V2rayStore
 vless://1d04d5bb-9223-4916-bea6-e1a7d0a39d6b@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
 vless://363d6d5a-60e9-4577-8ca5-045fbc97f588@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20WS%20@V2rayStore
 vless://29ae1b78-76a6-4894-af76-15804af6154b@ca-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20WS%20@V2rayStore
 vless://25ab221a-c3b8-4196-8519-a2f3176629c2@in-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20WS%20@V2rayStore
-vless://7c8c641f-c970-471b-9785-08817a305b0a@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20WS%20@V2rayStore
 vless://3df30416-a570-4911-8441-889524a7c43e@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://1d567314-cc02-4256-afa7-b3f0fe3f6b0e@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
@@ -498,3 +496,5 @@ vless://d9ac84b0-7e0d-4fac-bccf-dee40aecb2df@hk-full.privateip.net:2003?type=grp
 vless://1d04d5bb-9223-4916-bea6-e1a7d0a39d6b@nl-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20gRPC%20@V2rayStore
 vless://363d6d5a-60e9-4577-8ca5-045fbc97f588@nl2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20gRPC%20@V2rayStore
 vless://29ae1b78-76a6-4894-af76-15804af6154b@ca-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20gRPC%20@V2rayStore
+vless://25ab221a-c3b8-4196-8519-a2f3176629c2@in-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20gRPC%20@V2rayStore
+vless://7c8c641f-c970-471b-9785-08817a305b0a@jp-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20gRPC%20@V2rayStore
