@@ -1,3 +1,16 @@
+trojan://b9ef98dd-d5aa-4b0d-8038-fa4669ac4d30@194.195.125.6:443?#🔒 TR-TCP-NA 🇦🇺 AU-194.195.125.6:443
+trojan://moist@47.243.67.28:2083?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-47.243.67.28:2083
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.66:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.66:2083
+trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sni=us1.trojanvpn.de&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2087
+trojan://26a663656e575c0b@5.44.249.50:3306?sni=n2.gladns.com#🔒 TR-TCP-NA 🇸🇬 SG-5.44.249.50:3306
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@172.207.175.114:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.175.114:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.2:2053?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.2:2053
+trojan://NISHIKUITAN222@8.222.179.231:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.179.231:8443
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12005?sni=cn1.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12005
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.157:2087?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.157:2087
+trojan://NISHIKUITAN222@47.237.14.220:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.14.220:8443
+trojan://a3bce210-eacc-11ee-be58-1239d0255272@172.67.204.84:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.204.84:443
+trojan://lrdxw@172.67.197.210:443?security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws&host=trojan-lrdxw.ala1-f11.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.210:443
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@185.107.56.52:443?#🔒 TR-TCP-NA 🇳🇱 NL-185.107.56.52:443
 trojan://telegram-id-privatevpns@35.180.176.149:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.180.176.149:22222
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&sni=nl1.chuqiangtou.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-149.50.75.62:4003
@@ -485,16 +498,3 @@ vless://ecc63598-1f38-424d-a949-1b207ee35dff@us2-full.privateip.net:2003?type=gr
 vless://342387f3-a105-4492-85fe-7e899de5e72c@tr-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20gRPC%20@V2rayStore
 vless://f2ff0d2e-3999-4371-bdb4-1165363f6093@kz-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20gRPC%20@V2rayStore
 vless://4b973eb5-08bd-4822-86ce-165ab4e6f42e@uk-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20gRPC%20@V2rayStore
-vless://215e0df2-f843-4b5b-a0f9-60a94c2bbd69@uk2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20gRPC%20@V2rayStore
-vless://1a418913-2f27-4ed2-8302-112a18acc5b0@de-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20gRPC%20@V2rayStore
-vless://10af440a-e560-4b03-b9a4-8e7cd055e5a4@de2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20gRPC%20@V2rayStore
-vless://985120a0-752c-4368-9a91-50aada0ff2de@au-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20gRPC%20@V2rayStore
-vless://15c54b37-5a22-48cf-82d4-4f05f01f324c@it-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20gRPC%20@V2rayStore
-vless://5683917d-3826-4a78-8156-b9293641c41a@ua-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20gRPC%20@V2rayStore
-vless://f29c6d40-e612-45b1-9208-a83fbd9884a7@sg-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
-vless://489ba369-1c84-40d5-8786-e031d31ea173@sg2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
-vless://0e9cb8e5-549b-4fe8-ac5f-81bb3e5a2e3b@id-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20gRPC%20@V2rayStore
-vless://d9ac84b0-7e0d-4fac-bccf-dee40aecb2df@hk-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20gRPC%20@V2rayStore
-vless://1d04d5bb-9223-4916-bea6-e1a7d0a39d6b@nl-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20gRPC%20@V2rayStore
-vless://363d6d5a-60e9-4577-8ca5-045fbc97f588@nl2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20gRPC%20@V2rayStore
-vless://29ae1b78-76a6-4894-af76-15804af6154b@ca-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20gRPC%20@V2rayStore
