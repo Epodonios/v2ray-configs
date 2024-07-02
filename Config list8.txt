@@ -1,6 +1,3 @@
-trojan://telegram-id-directvpn@35.181.250.36:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.250.36:22222
-trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@176.126.113.161:443?#🔒 TR-TCP-NA 🇳🇱 NL-176.126.113.161:443
-trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@172.232.250.160:443?#🔒 TR-TCP-NA 🇮🇩 ID-172.232.250.160:443
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
 trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:20224?security=tls&sni=v2usa01.fuqiangren.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:20224
 trojan://NISHIKUITAN222@47.237.81.112:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.81.112:8443
@@ -498,3 +495,6 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.14:80?type=ws&host=kr1.1
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.246.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.246.167:80
 vless://c2d391d5-9f1e-4721-bd25-b335d14caf07@185.146.173.20:8080?type=ws&host=DUwC0ik5lWCiueUniUDG.niGc-aR.com&path=/backup#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.20:8080
 vless://10716279-b1ee-41d8-b63e-87782088305b@185.148.105.250:443?security=tls&sni=mamaNe-FiLtERchi.PaGEs.dEv&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.250:443
+vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@104.21.85.75:8443?security=tls&sni=ice.moderplus.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.85.75:8443
+vless://2dafa27b-898b-4eb2-bbc4-6a1bbc27639b@104.19.219.113:443?security=tls&sni=bb.limoo.online&type=ws&host=bb.limoo.online&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.219.113:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.187:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.110.187:80
