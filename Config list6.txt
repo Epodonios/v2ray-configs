@@ -1,8 +1,3 @@
-ss://ZWI0NGUxYzctZTViYS00NDQ2LTgwN2MtYTA3NjhhOGY0NTg5Og==@104.16.51.20:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.51.20:2083
-ss://ZjBmNjdiODQtMjc3MC00NDEzLThiMjYtY2ZiMzAyZmFjMjQ3Og==@104.21.66.93:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.66.93:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak5tT0dFMA==@146.19.106.89:8388#🔒 SS-TCP-NA 🇨🇦 CA-146.19.106.89:8388
-ss://MGViYjE2NzctNDkwMi00NzZmLWJjMDMtM2U4YzdjYTZmZDIxOg==@104.21.80.190:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.80.190:443
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7306
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5601#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5601
 ss://NTFiYWVkYTgtMTI4OC00NThhLWI1YWUtYjhiMDgwYjkzN2I2Og==@198.41.194.136:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.194.136:8880
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3306#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:3306
@@ -498,3 +493,8 @@ trojan://auto@159.246.55.132:443?sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp
 trojan://NISHIKUITAN222@172.67.75.172:2053?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.75.172:2053
 trojan://NISHIKUITAN222@8.219.11.158:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.11.158:8443
 trojan://7b06d62b-25ed-45ed-ac0d-bc28a4779ef9@172.67.132.6:2096?sni=channel.v2bamdad.tech&type=grpc#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.132.6:2096
+trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@178.79.140.181:443?security=tls&sni=uk2-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-178.79.140.181:443
+trojan://4c4dfa50-e321-11ee-9b28-1239d0255272@144.217.81.44:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-144.217.81.44:443
+trojan://a8d5df53-7073-406f-8c88-ac993e3fb9a1@162.251.82.187:443?security=tls&sni=AtYrGkMyE51.diamondgalery.ir&type=ws&host=AtYrGkMyE51.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🇺🇸 US-162.251.82.187:443
+trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.20.23.46:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.20.23.46:443
