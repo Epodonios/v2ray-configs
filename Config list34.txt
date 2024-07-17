@@ -1,3 +1,17 @@
+        }
+        section {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .additional-info {
+            background-repeat: no-repeat;
+            background-color: #293A4A;
             color: #FFFFFF;
         }
         .additional-info-items {
@@ -78,7 +92,7 @@
                         This Account has been suspended.
                     </div>
                     <div class="reason-text">
-                        <a href="/cdn-cgi/l/email-protection#5d2a383f303c2e29382f1d302f2d3232243c7329322d" id="dynamicProviderLink" title="webmaster@mrpooya.top" rel="noopener noreferrer">Contact your hosting provider</a> for more information.
+                        <a href="/cdn-cgi/l/email-protection#324557505f5341465740725f40425d5d4b531c465d42" id="dynamicProviderLink" title="webmaster@mrpooya.top" rel="noopener noreferrer">Contact your hosting provider</a> for more information.
                     </div>
                 </div>
             </div>
