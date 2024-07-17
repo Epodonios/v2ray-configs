@@ -1,3 +1,24 @@
+                font-size: 160%;
+            }
+        }
+    </style>
+    </head>
+    <body>
+        <div class="container">
+            <span class="status-reason">
+                <i class="fas fa-user-times fa-2x"></i> Account Suspended
+            </span>
+        </div>
+        <section class="additional-info">
+            <div class="container">
+                <div class="additional-info-items">
+                    <div class="info-heading">
+                        This Account has been suspended.
+                    </div>
+                    <div class="reason-text">
+                        <a href="/cdn-cgi/l/email-protection#8cfbe9eee1edfff8e9fecce1fefce3e3f5eda2f8e3fc" id="dynamicProviderLink" title="webmaster@mrpooya.top" rel="noopener noreferrer">Contact your hosting provider</a> for more information.
+                    </div>
+                </div>
             </div>
         </section>
     <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
