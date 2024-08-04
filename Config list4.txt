@@ -1,4 +1,3 @@
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
 trojan://e4f288433b@54.36.173.159:443?security=tls&sni=pol1.connecton.surf&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-54.36.173.159:443
 trojan://moist@47.236.158.158:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇸🇬 SG-47.236.158.158:2096
 trojan://ZJU29smXwp@172.67.68.87:2053?security=tls&sni=Web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.87:2053
@@ -498,3 +497,4 @@ vless://d0f30d61-4a72-4640-8267-24f4afeb1b37@46.245.65.173:2053?security=none&ty
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.197.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.197.20:2083
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
 vless://0f7a9c01-2780-4898-bff1-445b7b7dd561@85.9.120.80:2095?security=none&type=tcp&host=cloud.docker.com,+tps.yektanet.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.120.80:2095
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@104.18.203.232:443?security=tls&sni=mindroom2-2kf.pages.dev&type=ws&host=mindroom2-2kf.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:443
