@@ -1,9 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.62:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.62:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#🔒 SS-TCP-NA 🇮🇳 IN-103.174.86.114:51348
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6679#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:6679
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:9102
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:806
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6OWR1WHJfeGNxakJrNHlHeEFrdThR@176.97.66.148:443#🔒 SS-TCP-NA 🇦🇪 AE-176.97.66.148:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🔒 SS-TCP-NA 🇷🇺 RU-217.196.103.206:29312
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5001
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.87.222:2375#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:2375
@@ -498,3 +492,9 @@ vless://b927294d-b137-45ff-ac76-86d774a15c0a@162.243.170.188:443?security=realit
 vless://7f1352c6-0ba2-4b38-97a0-6c4d3784afc2@49.12.245.202:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=K7C_pOD78XXS7D0fNVbwyjlfLc_MGQ_4BwfQU_DnbQY&sid=3dc679a73cf4bbf6#🔒 VL-TCP-RLT 🇩🇪 DE-49.12.245.202:443
 vless://b1c1da37-726b-4db1-8139-27a7497e3186@195.201.0.124:443?security=reality&sni=*.dnschecker.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=c452clIZOGrphH1pKZLlFFyN9bjhk2JxMemT2Df6C3w&sid=d276874c#🔒 VL-GRPC-RLT 🇩🇪 DE-195.201.0.124:443
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@67.205.152.244:12345?security=reality&sni=refersion.com&type=http&path=%2F&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🔒 VL-HTTP-RLT 🇺🇸 US-67.205.152.244:12345
+vless://177dfbdf-8337-40ea-8791-906924b9fb2f@167.99.152.70:12345?security=reality&sni=refersion.com&type=http&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🔒 VL-HTTP-RLT 🇺🇸 US-167.99.152.70:12345
+vless://a034f973-9a9c-4dfa-897e-e10647ac7109@81.31.245.106:443?security=reality&flow=xtls-rprx-vision&sni=microsoft.com&type=tcp&fp=chrome&pbk=5JA5Y0-T4zvUCJ018TbvhhZ0jkNPjuUFbdm2K2Rwiz4&sid=182f0114#🔒 VL-TCP-RLT 🇳🇱 NL-81.31.245.106:443
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&alpn=h2,http/1.1#🔒 VL-GRPC-RLT 🇮🇹 IT-185.247.184.147:2060
+vless://24595bd0-45b0-4cac-8857-6e70a6cd135d@104.21.7.241:443?security=reality&sni=mihanyas.ir&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray&fp=chrome&pbk=Lp6j3qTZyMyHxLIwQ16jUdis7PX3o44y5p8RE6CRxmA&sid=d7b5ea99#🔒 VL-GRPC-RLT 🏴‍☠️ NA-104.21.7.241:443
+vless://cf9e7994-4978-4be9-92c0-0992088f7800@165.154.217.19:3389?security=reality&flow=xtls-rprx-vision&sni=iarf.net&type=tcp&fp=chrome&pbk=LKY57231rstllemhba_L2effC1FEQyDxyXo5zcNtgFs&sid=3026f40f#🔒 VL-TCP-RLT 🇸🇬 SG-165.154.217.19:3389
+vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&sid=7554c6ea#🔒 VL-TCP-RLT 🇪🇪 EE-95.164.8.185:8080
