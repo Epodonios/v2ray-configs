@@ -1,8 +1,3 @@
-vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#🔒 VL-GRPC-RLT 🇮🇪 IE-85.159.229.8:2087
-vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@45.77.139.80:443?security=reality&flow=xtls-rprx-vision&sni=www.survive.org.uk&type=tcp&fp=chrome&pbk=gZLTRrh9Z0TIvMoXHB7_ih3EN6Zn0IuLstFFZ0y7Ryc&sid=cc61d4&alpn=http%2F1.1#🔒 VL-TCP-RLT 🇳🇱 NL-45.77.139.80:443
-vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&flow=xtls-rprx-vision&sni=github.io&type=tcp&fp=chrome&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&sid=b5b39d420f404069#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.135.58:443
-vless://418e0595-b419-4fc3-85c0-7980b90dab3b@88.99.121.221:443?security=reality&flow=xtls-rprx-vision&sni=www.openoffice.org&type=tcp&fp=random&pbk=b0DWGZOa5BHQWCcvTAC-ELSa8d1065zX1eefzPigQiY&sid=4c9dbb0cb1f36dab#🔒 VL-TCP-RLT 🇩🇪 DE-88.99.121.221:443
-vless://64db2a61-4296-4747-8f50-017201a4c5e4@74.48.95.50:17974?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=17FnGUGQ9rrtCtJvtYWywWCYtAc0dyxVbwNbNEp05yE&sid=6a565d14#🔒 VL-TCP-RLT 🇺🇸 US-74.48.95.50:17974
 vless://b927294d-b137-45ff-ac76-86d774a15c0a@159.223.142.210:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-159.223.142.210:443
 vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443
 vless://b927294d-b137-45ff-ac76-86d774a15c0a@159.223.96.42:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-159.223.96.42:443
@@ -498,3 +493,8 @@ vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sn
 vless://40834bb2-f1f6-4d2f-8571-5d6881cc920b@2.180.16.15:4433?security=tls&sni=irinput6.openprotocol.top&type=tcp&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-TCP-TLS 🇮🇷 IR-2.180.16.15:4433
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.41.75:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.41.75:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.70.219:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.70.219:80
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.185:2053
+vless://9bf9828f-faad-4259-842a-87a6e9da647e@104.21.88.53:443?security=tls&sni=fr1.vless.site&type=ws&host=fr1.vless.site&path=@TLS_v2ray,@AstroVPN_official,@TLS_v2ray/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.53:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.15.92:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.92:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.48.133:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.133:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.22.139:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.22.139:80
