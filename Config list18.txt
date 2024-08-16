@@ -1,3 +1,5 @@
+vless://908aac8f-e6d7-48ea-99e1-5de09c712d71@172.67.170.71:2083?security=tls&sni=d.nonoall.com&type=grpc&serviceName=@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.71:2083
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.142.80:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.142.80:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.56.245:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.56.245:80
 vless://27296b86-e52d-4293-8814-20f041c291a1@104.21.27.210:2053?security=tls&sni=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&type=ws&host=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.210:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.254.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.113:80
@@ -496,5 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.12.52:8443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.2.239:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.2.239:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.177.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.177.74:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.122:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.122:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.20:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.31.20:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.239.207:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.207:80
