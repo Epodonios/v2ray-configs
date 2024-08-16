@@ -1,3 +1,6 @@
+vless://c7af5083-b86c-4edd-8a97-01ddaba17a4f@176.96.137.139:2083?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=21Wy4raA5577OR54aGehA9q8wuFLV38XCbUr39e0SV0&sid=c3949bd4#🔒 VL-TCP-RLT 🇩🇪 DE-176.96.137.139:2083
+vless://7b13ecd1-9893-4b2a-81fb-e36798ae868e@188.245.39.146:443?security=reality&sni=duckduckgo.com&type=grpc&serviceName=utaFR1lGdrKmDYV3Pf&fp=chrome&pbk=WPF76C161rO80d4T21eaTIenhQUgy7ePTLwJtYII62Q&sid=ea8f31cd&alpn=http/1.1#🔒 VL-GRPC-RLT 🇩🇪 DE-188.245.39.146:443
+vless://c274799d-6bbd-48a8-b985-e203217f79b2@45.140.167.94:2096?security=reality&flow=xtls-rprx-vision&sni=2606:4700:4700::1111&type=tcp&fp=chrome&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&sid=2880ee24bb417d46#🔒 VL-TCP-RLT 🇬🇧 GB-45.140.167.94:2096
 vless://637d3b63-758b-47cb-a5f6-f96fe6e4ab3b@193.228.1.157:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM&sid=cd2ccdd9761335d4#🔒 VL-TCP-RLT 🇹🇷 TR-193.228.1.157:443
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.21.47:443
 vless://7f1352c6-0ba2-4b38-97a0-6c4d3784afc2@49.12.245.202:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=K7C_pOD78XXS7D0fNVbwyjlfLc_MGQ_4BwfQU_DnbQY&sid=3dc679a73cf4bbf6#🔒 VL-TCP-RLT 🇩🇪 DE-49.12.245.202:443
@@ -495,6 +498,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?security=tls&sni
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.132:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.132:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.50:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.50:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.72.39:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.72.39:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.0.14:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.0.14:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.17.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.17.185:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.159.187:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.159.187:80
