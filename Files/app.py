@@ -101,7 +101,7 @@ def main():
     filename1 = os.path.join(output_folder, f'All_Configs_base64_Sub.txt')
     if os.path.exists(filename):
         os.remove(filename)
-    elif os.path.exists(filename1):
+    if os.path.exists(filename1):
         os.remove(filename1)
     for i in range(20):
         filename = os.path.join(output_folder, f'Config list{i}.txt')
@@ -110,7 +110,11 @@ def main():
         filename1 = os.path.join(base64_folder, f'Config list{i}_base64.txt')
         if os.path.exists(filename1):
             os.remove(filename1)
-    
+
+    # Remove TLS configs file
+    filename = os.path.join(output_folder, f'Config_TLS.txt')
+    if os.path.exists(filename):
+        os.remove(filename)
 
     # Write merged configs to output file
     output_file = os.path.join(output_folder, 'All_Configs_Sub.txt')
@@ -150,7 +154,13 @@ def main():
 
         with open(output_filename, 'w') as output_file:
             output_file.write(encoded_config)
-    
+
+    # Take all tls enabled configs and save them to Configs_TLS.txt
+    tls_file = os.path.join(output_folder, f"Configs_TLS.txt")
+    with open(tls_file, "w") as f:
+        for line in lines:
+            if "security=tls" in line:
+                f.write(line)
 
     
 if __name__ == "__main__":
