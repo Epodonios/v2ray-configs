@@ -162,6 +162,16 @@ def main():
             if "security=tls" in line:
                 f.write(line)
 
+    # Take all tls enabled configs from tls_file, encode and save them to Configs_TLS_base64.txt
+    tls_encoded_file = os.path.join(output_folder, f'Config_TLS_base64.txt')
+    with open(tls_file, 'r') as input_file:
+        tls_config_data = input_file.read()
+    
+    encoded_tls_config = base64.b64encode(tls_config_data.encode()).decode()
+
+    with open(tls_encoded_file, 'w') as output_file:
+        output_file.write(encoded_tls_config)
+
     
 if __name__ == "__main__":
     main()
