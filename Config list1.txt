@@ -66,6 +66,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.115.251:22222?path=/telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.124.36:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇫🇷FR | 🔴 | vless | @VlessConfig | 14
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.46.203:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇫🇷FR | 🔴 | vless | @VlessConfig | 15
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.133.143:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 16
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.171.207:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 17
 vless://Telegram-ipV2Ray-has@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ipV2Ray?ed=2048&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇨🇦CA | 🔴 | vless | @ipV2Ray | 0
 vless://Telegram-ipV2Ray-had@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ipV2Ray?ed=2048&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇨🇦CA | 🔴 | vless | @ipV2Ray | 1
 vless://Telegram-ipV2Ray-get@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ipV2Ray?ed=2048&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇨🇦CA | 🔴 | vless | @ipV2Ray | 2
@@ -258,6 +259,7 @@ trojan://telegram-id-directvpn@13.37.177.207:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@35.180.215.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@13.60.149.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 15
 trojan://telegram-id-directvpn@13.51.122.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 16
+trojan://telegram-id-directvpn@18.153.202.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 17
 vmess://eyJhZGQiOiIxNDYuNTkuMTQ3LjI1MCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI4MjQ0N2FiZi1kY2I5LTQwOGEtOWNhNi03OWUwYTc2OThkMDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5Nzc2Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RlIgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB2MnJheV9vdXRsaW5laXIgfCAwIn0=
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzYuNTEuMjMiLCJwb3J0IjoiNDUwMjAiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAbWZ0aXppIHwgMCJ9
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzguOTAuMyIsInBvcnQiOiI0MDg5MCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ04gfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBtZnRpemkgfCAxIn0=
@@ -496,5 +498,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#🇯�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMnpFb0xWN1hid1U0WnZHTjQ2Z3ly@165.22.208.240:4917#🇮🇳IN | 🟢 | ss | @OutlineVpnOfficial | 23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQnVkbE11M1pieXQ4enRZdGNMbVMz@195.2.76.71:60422#🇷🇺RU | 🟢 | ss | @OutlineVpnOfficial | 24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UHJLVUJRUHdDRmVYRVE1dVhsUk5Y@13.94.117.31:10238#🇮🇪IE | 🟢 | ss | @OutlineVpnOfficial | 25
-ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@218.250.217.111:81#🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 26
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#🇬🇧GB | 🟢 | ss | @OutlineVpnOfficial | 27
