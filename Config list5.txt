@@ -1,8 +1,3 @@
-trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
-trojan://tg-dns68@152.70.245.66:12693?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇰🇷 KR-152.70.245.66:12693
-trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118
-trojan://CMLiu@65.109.184.193:2087?security=tls&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=%2F#🔒 TR-WS-TLS 🇫🇮 FI-65.109.184.193:2087
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12069?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12069
 trojan://telegram-id-directvpn@34.252.234.105:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.252.234.105:22222
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.6.6:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.6.6:443
 trojan://ZJU29smXwp@172.67.68.87:2053?security=tls&sni=Web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.87:2053
@@ -498,3 +493,8 @@ vless://cf9e7994-4978-4be9-92c0-0992088f7800@165.154.217.19:3389?security=realit
 vless://9f34276e-9573-45a4-bd80-86b72e13563e@89.23.103.229:443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=IsmdLsy1lHrliuyajHf7kAW1lSPT7RKLZlM4RTj6gwQ&sid=4efc89e5#🔒 VL-TCP-RLT 🇳🇱 NL-89.23.103.229:443
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&sid=a18472f7#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.149.241:443
 vless://b927294d-b137-45ff-ac76-86d774a15c0a@68.183.16.147:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-68.183.16.147:443
+vless://e3e5f5fa-862d-4246-8fdf-59ab37d6415c@172.67.175.226:8080?security=reality&flow=xtls-rprx-vision&sni=www.coinmarketcap.com&type=tcp&fp=chrome&pbk=zLaDmeXeP0TOHAlx8Q3LiKcsIy5fN2B4lx2wNQwdNmI&sid=02#🔒 VL-TCP-RLT 🏴‍☠️ NA-172.67.175.226:8080
+vless://71a162cc-7fad-409d-87fa-5ca9e13474fb@172.233.89.104:56702?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=chrome&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#🔒 VL-TCP-RLT 🇯🇵 JP-172.233.89.104:56702
+vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&sni=www.faceit.com&type=tcp&fp=chrome&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&sid=f7#🔒 VL-TCP-RLT 🇸🇬 SG-5.223.42.211:443
+vless://28e5064c-67dd-4356-bf93-b4946eab41c6@185.219.84.208:2096?security=reality&flow=xtls-rprx-vision&sni=zdnet.com&type=tcp&fp=chrome&pbk=cbRCuIX4kwEZCHs7lh_LQxrJQRrUR1NWpbUSwASs-iE&sid=4177d9c9#🔒 VL-TCP-RLT 🇩🇪 DE-185.219.84.208:2096
+vless://b927294d-b137-45ff-ac76-86d774a15c0a@137.184.105.42:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&sid=f394b7d3#🔒 VL-TCP-RLT 🇺🇸 US-137.184.105.42:443
