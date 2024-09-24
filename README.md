@@ -21,6 +21,7 @@ This script collects several thousand V2ray configurations every five minutes, a
 
 #### IOS:
 1. fair
+2. streisand
 
 #### Windows and Linux:
 1. hiddify-next
@@ -39,6 +40,18 @@ https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt
 If the above link doesn't work, try the base 64 configurations:
 ```
 https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_base64_Sub.txt
+```
+
+### TLS Only:
+
+These Configurations are tls secured:
+```
+https://github.com/Epodonios/v2ray-configs/raw/main/Configs_TLS.txt
+```
+
+If the above link doesn't work, try the base 64 configurations:
+```
+https://github.com/Epodonios/v2ray-configs/raw/main/Config_TLS_base64.txt
 ```
 
 ### Splited by protocol:
