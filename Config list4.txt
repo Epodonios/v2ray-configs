@@ -1,5 +1,3 @@
-trojan://bpb-trojan@172.66.44.156:2053?security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&type=ws&path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.156:2053
-trojan://tg-dns68@162.159.153.131:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.131:443
 trojan://7a566d21dfcd0f12490275fd3dd3cfc4@133.18.200.127:443?sni=trs01.bolab.net#🔒 TR-TCP-NA 🇯🇵 JP-133.18.200.127:443
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI&fp=chrome&alpn=http%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.149.124:443
 trojan://blue2024@172.64.35.209:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.209:443
@@ -498,3 +496,5 @@ vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@66.81.247.16:443?security=tls&sni=t
 vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@104.19.198.35:80?security=none&sni=30279.olielielie.store.&type=ws&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.198.35:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.140:443?security=tls&sni=ar.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.140:443
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@143.47.243.144:8443?security=tls&sni=bPB005.PAgES.DEv&type=ws&path=%2FNeI8pzNcXTmdgBSA%2FMTUyLjY3LjIzNC40OQ%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇬🇧 GB-143.47.243.144:8443
+vless://6babb657-1524-43bb-b421-11bda27bc9de@160.153.0.183:443?security=tls&sni=smart.latisko.fun&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-160.153.0.183:443
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@162.159.192.169:443?security=tls&sni=BPB-WorkER-paneL1-e4P.PaGEs.deV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Fr6JxYhM7twpPzdOc%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.169:443
