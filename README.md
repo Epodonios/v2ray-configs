@@ -168,17 +168,26 @@ Tunnel entire system:
 For better use and tunneling the entire system, you can use a proxy program. The usage steps are as follows:
 
 Usage Instructions:
+
   1-First, install the Proxifier program.
+
+  https://proxifier.com/download/
   
   2-Activate the program:
 
 Activation keys:
 
-Portable Edition: L6Z8A-XY2J4-BTZ3P-ZZ7DF-A2Q9C
+Portable Edition:  
 
-Standard Edition: 5EZ8G-C3WL5-B56YG-SCXM9-6QZAP
+    L6Z8A-XY2J4-BTZ3P-ZZ7DF-A2Q9C
 
-Mac OS: P427L-9Y552-5433E-8DSR3-58Z68
+Standard Edition: 
+      
+      5EZ8G-C3WL5-B56YG-SCXM9-6QZAP
+
+Mac OS:
+
+     P427L-9Y552-5433E-8DSR3-58Z68
 
 3-Go to the Profile section and select the Proxy Server. In the displayed section, click on Add.
 
