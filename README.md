@@ -162,3 +162,44 @@ Mobile and pc:
 
 I hope u use this configs very well.
 
+
+Tunnel entire system:
+
+For better use and tunneling the entire system, you can use a proxy program. The usage steps are as follows:
+
+Usage Instructions:
+  1-First, install the Proxifier program.
+  
+  2-Activate the program:
+
+Activation keys:
+
+Portable Edition: L6Z8A-XY2J4-BTZ3P-ZZ7DF-A2Q9C
+
+Standard Edition: 5EZ8G-C3WL5-B56YG-SCXM9-6QZAP
+
+Mac OS: P427L-9Y552-5433E-8DSR3-58Z68
+
+3-Go to the Profile section and select the Proxy Server. In the displayed section, click on Add.
+
+4-Enter the following information:
+
+IP: Enter 127.0.0.1
+
+Port: Depending on the version you are using, enter:
+
+V2rayN: 10808
+
+Netch: 2801
+
+SSR: 1080
+
+Mac V2rayU: 1086
+
+Protocol: Select SOCKS5
+
+5-Enjoy!
+
+Some installed programs on the system, like Spotube, might not fully tunnel. This issue can be resolved with this method.
+
+Your friend, EPODONIOS
