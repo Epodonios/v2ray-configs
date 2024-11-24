@@ -163,11 +163,11 @@ Mobile and pc:
 I hope u use this configs very well.
 
 
-Tunnel entire system:
+## Tunnel entire system:
 
 For better use and tunneling the entire system, you can use a proxy program. The usage steps are as follows:
 
-Usage Instructions:
+### Usage Instructions:
 
   1-First, install the Proxifier program.
 
@@ -212,3 +212,31 @@ Protocol: Select SOCKS5
 Some installed programs on the system, like Spotube, might not fully tunnel. This issue can be resolved with this method.
 
 Your friend, EPODONIOS
+
+
+
+
+## u can use this feayure with another way it no needs any program set by system tools 
+
+### instruction: 
+
+1- open your OS setting 
+
+2- go to proxy section
+
+3- in proxy section set this values : 
+  ip : 127.0.0.1
+  
+  port : 10809
+  
+  local host : 
+  ```
+localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*
+```
+ 4- then set it up with ON key 
+
+ 5- back to v2rayn and after set your config turn it to set system proxy 
+
+ 6- now your system tunneled entirely
+
+ur friend,EPODONIOS
