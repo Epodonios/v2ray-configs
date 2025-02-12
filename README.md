@@ -216,7 +216,7 @@ Your friend, EPODONIOS
 
 
 
-## u can use this feayure with another way it no needs any program set by system tools 
+## u can use this feature with another way it no needs any program set by system tools 
 
 ### instruction: 
 
