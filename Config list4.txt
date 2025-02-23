@@ -1,5 +1,3 @@
-vless://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=reality&flow=xtls-rprx-vision&sni=spotify.com&type=raw&fp=chrome&pbk=SDUAmbkyV3wQEEXwV9wpwTqS2qi7gOekiZNpS1jfcXc&sid=d59cd3&alpn=http%2F1.1#🔒 VL-RAW-RLT 🇩🇪 DE-156.67.30.77:443
-vless://b27f4d97-2562-4867-ae20-45e625eec5f5@15.235.46.187:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=-L10J9UWL4oIvj6LX59wV9Zxr66lQS9QIzjfBV6N90E&sid=87859af4ef1b7e08#🔒 VL-GRPC-RLT 🇨🇦 CA-15.235.46.187:2053
 vless://0c24ef77-da5e-403c-9ce2-750d666d8a8e@46.38.136.79:2096?security=reality&flow=xtls-rprx-vision&sni=auchan-retail.com&type=tcp&fp=chrome&pbk=jB5mQwVxnzh4cvWeiV4UEJaJWzVtCPBXTKDv5IzXUGw&sid=ba6b07cd#🔒 VL-TCP-RLT 🇮🇷 IR-46.38.136.79:2096
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@159.54.160.222:443?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp&fp=chrome&pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇺🇸 US-159.54.160.222:443
 vless://c775021c-c5a5-476e-8f0d-d78116f506c0@13.39.155.100:443?security=reality&sni=ap130.zhongguocu.link&type=grpc&serviceName=grpc&fp=chrome&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=6ba85179e30d4fc2#🔒 VL-GRPC-RLT 🇫🇷 FR-13.39.155.100:443
@@ -498,3 +496,5 @@ vless://9a4af176-4a4f-4a8e-af2b-91fff6856cf9@188.114.99.154:443?security=tls&sni
 vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#🔒 VL-TCP-NA 🇹🇷 TR-95.164.34.105:2052
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.92.243:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?security=none&type=ws&host=redw.pooriam.ir&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇵🇭 PH-154.83.2.156:8880
+vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@104.21.59.165:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.105:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.47.105:443

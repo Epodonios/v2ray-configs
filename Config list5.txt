@@ -1,5 +1,3 @@
-vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@104.21.59.165:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.105:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.47.105:443
 vless://e8c5e684-019f-4b79-f741-401008b3a56d@151.101.130.228:80?security=none&type=ws&host=foffmelo.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
 vless://5471350b-483e-4d9e-9cba-32decdc9d3de@104.21.96.1:2053?security=tls&sni=esna.twn24.ir&type=ws&host=esna.twn24.ir&path=/?ed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:2053
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?type=ws&host=pormang.webhost99.workers.dev&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.129.2:80
@@ -498,3 +496,5 @@ vless://b3dfdcfa-a791-4f73-9c06-e90a11ff24ea@173.245.59.100:2052?security=none&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.22.135:1001?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#🔒 VL-WS-TLS 🇩🇪 DE-159.69.22.135:1001
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?security=none&type=ws&host=teleirani.ir#🔒 VL-WS-NONE 🇺🇸 US-167.82.0.47:80
 vless://5d5adc8c-a34b-4c7f-bb67-429621e838d9@193.43.104.152:443?security=tls&flow=xtls-rprx-vision&sni=fra5.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇩🇪 DE-193.43.104.152:443
+vless://354712c4-dab3-452c-89fd-0a2edd6999f9@103.241.66.112:2060?type=grpc&serviceName=2096vless#🔒 VL-GRPC-NA 🇮🇹 IT-103.241.66.112:2060
+vless://73e53134-6f78-4c99-9d15-f13b00ccfc05@152.42.138.170:1286?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-152.42.138.170:1286

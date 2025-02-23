@@ -1,5 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.201.244.7:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.201.244.7:8880
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.43:443?security=tls&sni=zz.bgm2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.43:443
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.89:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.89:443
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.46.216:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.46.216:443
 vless://a511ea21-d41a-49e3-8fec-5df2145682d6@104.18.165.38:8443?security=tls&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&alpn=h2,h3,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.165.38:8443
@@ -498,3 +496,5 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=t
 vless://2ab26340-5b82-4c22-ca63-dfa725b7abfe@45.76.230.236:8080?path=%2F&security=none&encryption=none&type=ws#telegram
 vless://2ed74ed2-46f3-4199-f362-1c288bccacfe@149.28.240.245:8080?path=%2F&security=none&encryption=none&type=ws#telegram
 vless://30170e07-9c03-4256-8dff-58a32ed493d4@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=aval42.allgums.com&type=ws&alpn=http/1.1&host=aval42.allgums.com&path=/wss#telegram
+vless://348da6c0-4717-4782-9e28-18174cf0957b@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=t9swgm.allgums.com&type=ws&alpn=http/1.1&host=t9swgm.allgums.com&path=/wss#telegram
+vless://6f45e60b-441f-4824-fa10-c11ab1dfa0f7@45.32.94.179:8080?path=%2F&security=none&encryption=none&type=ws#telegram
