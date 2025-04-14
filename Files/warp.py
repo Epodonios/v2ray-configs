@@ -7,8 +7,8 @@ import os
 warp_fixed_text = """#profile-title: base64:8J+GkyBCYXJyeS1mYXIgfCBXYXJwIPCfjJA=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-Configs
-#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+#support-url: https://github.com/Epodonios/v2ray-configs
+#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
 
 """
 
@@ -50,7 +50,7 @@ def main():
     os.makedirs(output_folder, exist_ok=True)
 
     # Writing the fixed text and merged warp lines to an output file
-    warp_output_file = os.path.join(output_folder, 'Warp_sub.txt')
+    warp_output_file = os.path.join(output_folder, 'Cloud Flare Warp_sub.txt')
     with open(warp_output_file, 'w') as f:
         f.write(warp_fixed_text + merged_configs)
 
