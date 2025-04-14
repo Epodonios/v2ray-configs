@@ -74,21 +74,21 @@ https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.
 
 Config List 1:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list1.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
 ```
 Config List 2:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list2.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt
 ```
 
 Config List 3:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list3.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt
 ```
 
 Config List 4:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list4.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub4.txt
 ```
 
 Config List 5:
