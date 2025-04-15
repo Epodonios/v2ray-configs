@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.209.215:80?sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.215:80
-vless://ea561f22-02df-4076-b668-73342098af83@51.44.8.64:36105?security=tls&sni=b.vahidvpn.com.tr&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-51.44.8.64:36105
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.15:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.15:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.150:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.150:80
 vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.211:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.211:2052
@@ -503,3 +501,5 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@192.0.54.137:443?security=tls&sni=r
 vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.150:18010
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2053?security=tls&sni=MeHRNEWS.farsonLInE24.ir&type=httpupgrade&host=mehrnews.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.48.6:2053
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@188.114.99.110:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.110:443
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.95:2053
+vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.34.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔒 VL-WS-TLS 🇺🇸 US-216.239.34.21:443
