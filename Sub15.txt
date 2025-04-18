@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDQgfCAgMi4zTUIvcyIsICJhZGQiOiAiMmU5MzkxMmQtc3V0ajQwLXN1dGdhdS0xcjYyZi5jdS5wbGViYWkubmV0IiwgInBvcnQiOiA1MjI5LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTU0YjBiZjgtZjlhNy0xMWVlLWEyMTgtZjIzYzkxY2ZiYmM5In0=
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:12791?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%8C%801-CN%20%7C%20%201.1MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:29877?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0017
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDE1IHwgIDUuNE1CL3MiLCAiYWRkIjogIjNiNmVjOTJlLXN1eDhnMC1zd2ZmYjUtMXM2eG0uY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJiNjM0YzgwLWZkN2UtMTFlZi05ZjI1LWYyM2M5MTY0Y2E1ZCJ9
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:38302?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0029
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDI2IHwgIDMuOU1CL3MiLCAiYWRkIjogIjJjMjIyN2UxLXN1dGo0MC10OTA3Y3ItMWMxbXIuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImExMjY0MGQwLWUyYWQtMTFlZi04ZjViLWYyM2M5MTNjOGQyYiJ9
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:32055?allowInsecure=0&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0032
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMSwxM3zml6XmnKw0fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgxZjZiZjM3LXN1dGo0MC1zdmdweHUteTJncy5jbTUucDVwdi5jb20iLCAicG9ydCI6ICIxNzIzMyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiODA2YjM4OC01Zjk3LTExZWUtODAxNC1mMjNjOTEzYzhkMmIiLCAic25pIjogIiJ9
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:48121?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0014
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:40430?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%202.6MB/s
@@ -496,10 +503,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1139
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#%F0%9F%87%BA%F0%9F%87%B8US-216.39.248.133-1117
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1121
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.247-6379
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.101-1140
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1128
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.197-1113
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5003#%F0%9F%87%BA%F0%9F%87%B8US-142.202.49.84-1127
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1120
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1106
