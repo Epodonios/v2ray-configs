@@ -93,52 +93,52 @@ https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub4.t
 
 Config List 5:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list5.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub5.txt
 ```
 
 Config List 6:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list6.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub6.txt
 ```
 
 Config List 7:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list7.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub7.txt
 ```
 
 Config List 8:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list8.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub8.txt
 ```
 
 Config List 9:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list9.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub9.txt
 ```
 
 Config List 10:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list10.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub10.txt
 ```
 
 Config List 11:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list11.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub11.txt
 ```
 
 Config List 12:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list12.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub12.txt
 ```
 
 Config List 13:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list13.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub13.txt
 ```
 
 Config List 14:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list14.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub14.txt
 ```
 
 ### Usage:
