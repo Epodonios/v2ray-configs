@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.34.244.71:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.71:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYaHJteUtFNkY5QlFDaW9naWdKMUlE@77.110.106.74:31465#🔒 SS-TCP-NA 🇫🇷 FR-77.110.106.74:31465
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.164:443
 ss://YWVzLTI1Ni1nY206UjVTWEE3MFAzQVJOQlVCTw==@156.245.190.21:15012#🔒 SS-TCP-NA 🇭🇰 HK-156.245.190.21:15012
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:8008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.249.220.208:2377#🔒 SS-TCP-NA 🇯🇵 JP-54.249.220.208:2377
@@ -503,3 +500,6 @@ trojan://vip@104.16.239.254:443?security=tls&type=ws&sni=heihu880.pages.dev&host
 trojan://26224a7a-804d-48cc-bc95-cd86e6faf525@144.202.22.147:443?security=tls&type=tcp&sni=v12.nmcf.me#US20
 trojan://vip@104.19.173.68:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A578
 trojan://d08d4b82-6a66-4ac2-9051-81b2375e1aaa@45.146.232.173:43499?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK10
+trojan://Aimer@220.71.185.223:10093?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A579
+trojan://Aimer@188.164.159.234:2083?security=tls&type=ws&sni=ageph.ambercc.filegear-sg.me&path=/&host=ageph.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A580
+trojan://1a7e4dd1-fa44-4471-a3eb-40e3aa3630fa@45.146.232.171:33505?sni=q08m.vgraxiw73s.hasyaf.cn#HK11
