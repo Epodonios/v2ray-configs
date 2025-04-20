@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.123:80?security=none&sni=foffmelo.com&type=ws#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.123:80
+vless://ad14a642-09d6-4fc2-8b76-7cd7e27b5bcd@135.181.155.147:40240?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-135.181.155.147:40240
 vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@104.21.92.241:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.241:443
 vless://e0d2a95b-60c8-4b53-ae25-8fc112f7d608@104.21.32.1:2053?security=tls&sni=khamenei313.dl-data360.ir&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.1:2053
 vless://c9757870-462f-4010-829f-2766522f7d46@172.67.204.84:8880?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.自己不看啥事基本事事.hoursebe.monster#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.204.84:8880
@@ -501,5 +503,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.205:443?security=tls&sni=
 vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?security=tls&sni=4ef0b961.aru0006.pages.dev&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.134:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.178:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.178:80
 vless://77e064b2-ff24-4794-9aa0-910bd831c6f1@159.89.216.103:6067?security=none&type=grpc&serviceName=2055vless#🔒 VL-GRPC-NONE 🇺🇸 US-159.89.216.103:6067
-vless://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.147.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.147.32:8443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.198.203:443?security=tls&sni=cb.dong2025.cfd&type=ws&host=cb.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.198.203:443

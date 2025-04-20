@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.73:8880
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@92.53.190.149:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇸🇮 SI-92.53.190.149:2096
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.147.114.60:443?security=tls&sni=psycho.suex12.ir&type=ws&host=psycho.suex12.ir#🔒 VL-WS-TLS 🇬🇧 GB-141.147.114.60:443
 vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.192.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.150:443
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@172.67.130.66:2087?security=tls&sni=wsxaa.aleppo-janinan.info&type=ws&host=wsxaa.aleppo-janinan.info&path=/morano#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.66:2087
@@ -501,5 +503,3 @@ vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.164:443?security=tls&sni=
 vless://1b12594c-6f7a-4282-a9e5-69979762ab93@31.22.116.185:443?security=tls&sni=usb.kobtty.me&type=ws&path=/bing#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.185:443
 vless://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.163.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.163.32:8443
 vless://576c81b6-4976-4fe3-b1a9-05a9c302e98e@172.67.204.22:443?security=tls&sni=us10-02.890602.xyz&type=ws&host=us10-02.890602.xyz&path=%2FHlAPZV9g9xmyAVVtopw90eoXel&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.22:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.27:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.27:80
-vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.18.2.69:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.2.69:443
