@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?security=tls&sni=vl31.rnd.biz.id&type=ws&host=vl31.rnd.biz.id#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.131:443
-vless://cd01db3b-4b0a-4718-98dd-1d38f55be03f@193.9.49.241:443?security=tls&sni=eua.kobtty.me&type=ws&path=/bing#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.241:443
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
-vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@188.114.99.216:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.216:443
-vless://fda4e7fd-897d-4d56-90af-94f7240002ab@104.17.148.22:2053?security=tls&sni=netpie.ddns-ip.net&type=ws&host=netpie.ddns-ip.net&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.70.100:443?sni=vb.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.70.100:443
 vless://994c91dd-b282-4c25-a0c5-af76b480c080@2.189.59.4:443?security=tls&sni=mci-google-bing3164.sdb5j.workers.dev.&type=ws&host=mci-google-bing3164.sdb5j.workers.dev.&path=%2Fvless&fp=ios&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇮🇷 IR-2.189.59.4:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.34:80?security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.34:80
 vless://c9757870-462f-4010-829f-2766522f7d46@172.67.204.84:8880?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.自己不看啥事基本事事.hoursebe.monster#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.204.84:8880
@@ -503,3 +497,9 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.239:8443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.249:443?security=tls&sni=V2NgfAst-2Zn.pageS.dEv&type=ws&host=V2NgFast-2zn.pAgES.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.249:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@185.146.173.16:2052?type=ws&host=digitalscientificresearchgroup.ir&path=%2FTM-%40AZARBAYJAB1#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.16:2052
 vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80
+vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@172.67.214.223:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.223:443
+vless://d8f1fa98-be39-47e8-8107-335f0afc77eb@104.17.147.22:2095?security=none&type=httpupgrade&host=h1.N.iranshopering.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:2095
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.156:443?sni=vb.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-198.62.62.156:443
+vless://3d044bd1-2de9-4bc2-b1d1-f55102fdf1f5@84.47.235.218:33585?security=none&type=tcp&host=chess.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.218:33585
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443?security=tls&flow=-udp443&sni=147135011033.sec21org.com&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-135.148.186.250:443
+vless://5a4e040a-8de6-4222-bd6f-9f535b8772fd@104.21.58.212:80?type=ws&host=calm-violet-0e47.pomofoc222.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.58.212:80
