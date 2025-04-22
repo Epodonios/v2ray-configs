@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.194.216:80?security=none&type=ws&host=marzneshinestonia.car&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.216:80
+vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.3.35:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.3.35:8880
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.159:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.159:443
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@104.21.26.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.58:443
 vless://de3e121a-8405-4888-98ec-8914c1850a2d@104.19.222.79:2053?security=tls&sni=trall.sabinhosting.ir&type=ws&host=usaall.sabinhosting.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.222.79:2053
 vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@188.114.98.107:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.107:443
@@ -500,6 +503,3 @@ trojan://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?sni=3wsxcvbn.890
 trojan://Aimer@162.159.44.227:443?sni=epcco.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.227:443
 trojan://blue2024@172.64.146.66:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.146.66:443
 trojan://BTns3czXfT@104.21.15.33:2096?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.15.33:2096
-trojan://Aimer@162.159.44.235:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.235:2053
-trojan://telegram-id-vlessconfig@99.80.195.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-99.80.195.6:22222
-trojan://Aimer@206.238.236.16:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-206.238.236.16:443
