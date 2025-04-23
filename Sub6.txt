@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.20.161.32:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.161.32:443
+vless://801b7b00-2271-45ec-b189-bf0aef419073@138.128.225.100:2086?security=none&type=ws&host=shark.cloud&path=%2Ftelegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip#🔒 VL-WS-NONE 🇦🇪 AE-138.128.225.100:2086
 vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@151.101.194.228:443?security=tls&sni=lactation.ucdavis.edu&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&path=/vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.228:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.203:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.203:80
 vless://3ed03120-2e95-49bf-afcb-59bc1be5d937@104.21.74.214:80?type=ws&host=MyDashboard.WS.2FreeNet.Online&path=%2Fwp-admin.php%3Fed%3D2052#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.74.214:80
@@ -501,5 +503,3 @@ vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&t
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.26.9.9:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.9:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@50.62.172.113:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#🔒 VL-WS-NONE 🇺🇸 US-50.62.172.113:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.32:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.32:8880
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.135.9.87:2087?security=tls&sni=50C1iGiMpI.mYsPdMmEtI.cOm&type=grpc#🔒 VL-GRPC-TLS 🇩🇪 DE-185.135.9.87:2087
-vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:8080?security=none&type=ws&host=anTiFiLTEr.dOXAs38496.wOrkErs.dEV#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.48:8080
