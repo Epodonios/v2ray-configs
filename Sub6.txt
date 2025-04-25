@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.2:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.2:80
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@45.142.120.190:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-45.142.120.190:443
 vless://cead2070-79e8-4f9c-809f-c845322f6b90@185.143.235.1:80?type=ws&host=www.iranpoems.ir#🔒 VL-WS-NA 🇮🇷 IR-185.143.235.1:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.154:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.154:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.18:2087?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.18:2087
@@ -503,3 +501,5 @@ vless://e927c61f-8a00-45a5-9d43-06ac4f1b8b0e@188.114.96.3:80?type=ws&host=VpNken
 vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@104.17.221.248:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&alpn=h3%252Ch2%252Chttp%252F1.1&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.221.248:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.125:80?type=ws&host=redfree8.pooriashop.ir&path=Telegram%40vpnAndroid2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.125:80
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.16.38.178:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%40ShadowProxy66#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.38.178:80
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@172.67.153.74:2053?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.74:2053
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.11:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.11:80

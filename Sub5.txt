@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://075b9690-f1cc-4d0c-aa1e-f80f07f09815@172.67.152.170:443?security=tls&sni=4dfghj.191288.xyz&type=ws&host=4dfghj.191288.xyz&path=%2FcXwWQOGtZd9NCd8WBZ57XYkE&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.152.170:443
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443?security=tls&sni=rayan.sahel.us.kg&type=ws&host=rayan.sahel.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.214:443
 vless://91774e31-8e83-4949-b8af-b3ddc0b8b9f1@217.60.198.33:80?security=none&type=tcp&path=%2F#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.198.33:80
 vless://82598762-334a-4d4b-9a97-fec2277a1e98@172.66.47.119:2053?security=tls&sni=maHDiSErVER-5oY.pAgES.DEV&type=ws&host=mahdiserver-5oy.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.119:2053
 vless://199176bd-be7c-d280-1884-0ae4df064645@37.27.211.10:8249?security=none&sni=all88-vip.f-sub.com&type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=testspeed-foreign.tci.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.211.10:8249
@@ -503,3 +501,5 @@ vless://51385ef4-f91d-40f0-9acd-10fda0032ac8@172.66.47.45:2083?security=tls&sni=
 vless://5d2e4955-9ac0-42a1-945d-695f40470ad7@104.21.48.1:8443?security=tls&sni=crm.iranigamebaz.ir&type=grpc&serviceName=Vpnmizban---Vpnmizban----Vpnmizban----Vpnmizban&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.48.1:8443
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?type=ws&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&path=/?ed%3D1080Telegram_V2ray_Alpha#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.70.123:2052
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.188:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.188:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.2:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.2:80
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@45.142.120.190:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-45.142.120.190:443
