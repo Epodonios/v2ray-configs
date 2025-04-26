@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&type=tcp&sni=x1es-ovh.devefun.net#%E6%9C%AA%E7%9F%A543%2013.6MB%2Fs
-trojan://Aimer@118.38.137.237:21025?sni=epccs.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
-trojan://Uy1,SF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&type=tcp&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv#%E6%9C%AA%E7%9F%A544
-trojan://Aimer@104.18.9.214:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A545
-trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.21.226:443?security=tls&type=ws&sni=1P.890689.xyZ&path=/lXENb74xF4ylXngZ#%E6%9C%AA%E7%9F%A546
-trojan://NISHIKUITAN111@141.101.122.171:443?#%E6%9C%AA%E7%9F%A547
-trojan://Aimer@135.84.64.36:2083?sni=epccu.ambercc.filegear-sg.me#US14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.22.161.134:2377#TW3
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A548
 trojan://bpb-trojan@104.17.147.22:2053?security=tls&type=tcp&sni=bPB-worker-PANeL1-e4p.paGes.DeV#%E6%9C%AA%E7%9F%A549
 trojan://Aimer@162.159.39.181:443?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A550
@@ -503,3 +495,11 @@ vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixo
 vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0xMTE1Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMjE2MTI4MTI5MjEwLjEtc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy00NTk0Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ0MjAyNjYyMTMuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy03NzI1Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExNDU3NjU3MTQyLjEtc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0zNTc2Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMjA3MTQ4MjYxLjItc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy02MDM0Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ5MjgyNTExNDguMi1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0xNTA1Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExNDU3NjIzODIxMi4yLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206RHY0Z1U2MXI=@54.235.183.175:13384#%F0%9F%87%BA%F0%9F%87%B8US-54.235.183.175-1470
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-0972
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0973
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0975
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#%F0%9F%87%BA%F0%9F%87%B8US-194.5.215.59-0976
