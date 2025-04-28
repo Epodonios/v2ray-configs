@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.211:443?sni=cn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.211:443
-vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@172.64.35.33:80?security=tls&sni=fari24.clodmolt3.com&type=ws&host=fari24.clodmolt3.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.33:80
 vless://b4c97223-8d5d-4ffd-af6f-d5a59b575ffc@104.21.12.212:443?security=tls&sni=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&type=ws&host=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.212:443
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@104.18.18.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.18.179:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.151:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.151:80
@@ -503,3 +501,5 @@ vless://890c9650-809e-445b-a4b0-2cd883e0de62@188.114.96.150:443?security=tls&sni
 vless://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:2083?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=/8PaKguUsL3cShypAZpXO7Ci&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.43:2083
 vless://704222bd-7eff-4307-ae26-d6a5ab79817a@31.22.116.18:443?sni=usc.xzncr.asia&type=ws&host=usc.xzncr.asia#🔒 VL-WS-NA 🇬🇧 GB-31.22.116.18:443
 vless://12b3cbba-e6ac-485a-9481-546a0415eab9@172.67.190.208:443?security=tls&sni=eSETSECURITyLIcEnse.gpGRbd.woRKErS.dEv&type=ws&host=EsETsECUrItyLiCENsE.GpGrbd.WorkERS.Dev&path=%2FBtvjgv4WL5X48Nfv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.208:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.43.245:443
+vless://4587e98c-ec45-408e-b395-67923b6e9ded@104.16.0.6:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.0.6:443
