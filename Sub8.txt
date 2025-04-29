@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@104.21.28.188:2052?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.c.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:2052
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.245.53:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.245.53:443
 vless://271416b7-446f-45fe-afb6-17f9f005df81@142.132.191.72:8443?security=tls&sni=DE-ComPany-AlphaOmegA-TeaM.1AlphaOmega.Org.&type=xhttp&host=DE-ComPany-AlphaOmegA-TeaM.1AlphaOmega.Org.&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇩🇪 DE-142.132.191.72:8443
 vless://d687fb60-b650-4429-9187-58bad6d689d5@162.159.24.142:443?security=tls&sni=messi10.pages.dev&type=ws&host=messi10.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.142:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.82:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.82:80
@@ -501,5 +503,3 @@ vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2096?security=tls&sni
 vless://f48579fc-7ee1-4898-9e3a-bef82131acaa@157.180.79.133:25972?security=tls&sni=yahoo.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇫🇮 FI-157.180.79.133:25972
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.19:8880
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.6.57:80?sni=workerr.dimon22287.workers.dev&type=ws&host=workerr.dimon22287.workers.dev&path=Telegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.57:80
-vless://d96ddab8-306d-4a6b-86d9-d8e427316075@162.159.1.94:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.1.94:443
-vless://a3fdef53-af0c-4777-b941-c52707d5afe9@195.85.59.161:2086?type=ws&host=0215.kiefcascz.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.161:2086
