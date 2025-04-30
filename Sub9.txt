@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://03ae39fd-ec71-4db5-b234-94de99a6e514@172.67.180.12:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.12:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.185:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.185:80
-vless://cc6b985d-0362-4129-8763-38564174fb3e@154.194.12.96:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇸🇬 SG-154.194.12.96:443
-vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.72:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒 VL-GRPC-TLS 🇸🇬 SG-92.243.75.72:443
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.246:2096
 vless://4587e98c-ec45-408e-b395-67923b6e9ded@188.114.99.193:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.193:443
 vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.242.126:443?type=ws&host=4h5.ghalikermaniz.info&path=/#🔒 VL-WS-NA 🇩🇪 DE-188.245.242.126:443
@@ -503,3 +499,7 @@ vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.187:2096?security=tls&sn
 vless://3df9e1f8-9d05-4452-b5b6-dede049231a2@162.159.195.96:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.96:443
 vless://8c129b7d-c87f-42d7-bdac-55dfbfe88534@104.21.22.88:8080?security=none&type=ws&host=maHdi-hEctOrR.viSoWe1371.WOrkERS.dEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.88:8080
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.151.198.3:2053?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇸🇪 SE-129.151.198.3:2053
+vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.248.204:80
+vless://890c9650-809e-445b-a4b0-2cd883e0de62@104.18.53.121:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.53.121:443
+vless://ac7bcf0a-ef69-4949-aff2-a93630021826@104.26.12.101:443?security=tls&sni=0C9CF137-telegRAM-CaSsIUsvpn-tElegrAm-cAsSIusvpn-teLEgrAm.eamOnN-120.workers.DEV&type=ws&host=0c9cf137-telegram-cassiusvpn-telegram-cassiusvpn-telegram.eamonn-120.workers.dev&path=%2FqmMTvZWWZJIvtX37%2FMy43MC4yMTkuMTk2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.101:443
+vless://8e732062-d0c4-4e91-a288-572a359b5020@128.140.88.226:8880?security=none&type=tcp&host=eN.TwiTtER.cOM.:8880&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-128.140.88.226:8880

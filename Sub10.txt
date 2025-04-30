@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.248.204:80
-vless://890c9650-809e-445b-a4b0-2cd883e0de62@104.18.53.121:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.53.121:443
-vless://ac7bcf0a-ef69-4949-aff2-a93630021826@104.26.12.101:443?security=tls&sni=0C9CF137-telegRAM-CaSsIUsvpn-tElegrAm-cAsSIusvpn-teLEgrAm.eamOnN-120.workers.DEV&type=ws&host=0c9cf137-telegram-cassiusvpn-telegram-cassiusvpn-telegram.eamonn-120.workers.dev&path=%2FqmMTvZWWZJIvtX37%2FMy43MC4yMTkuMTk2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.101:443
-vless://8e732062-d0c4-4e91-a288-572a359b5020@128.140.88.226:8880?security=none&type=tcp&host=eN.TwiTtER.cOM.:8880&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-128.140.88.226:8880
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.98.158:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.158:443
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@188.114.96.160:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.160:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.192.142:443?security=tls&sni=ppal03-sHANbEH2.mRS-aNtOinETTE-OhArA.WorKerS.deV&type=ws&host=ppAl03-sHANBeH2.mRS-AntoINetTe-OHarA.wOrkerS.deV&path=%2F0ZMEGjVSSsqFUJqv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.142:443
@@ -503,3 +499,7 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@129.226.150.167:443?security=tls&sn
 vless://9530a590-49bc-41dd-9499-88c33614ef28@185.176.26.131:2086?security=none&sni=cdn.sudolog.ir&type=ws&host=cdn.sudolog.ir&path=%2Fwp-admin%3Fed%3D2048&fp=chrome#🔒 VL-WS-NONE 🇰🇿 KZ-185.176.26.131:2086
 vless://8f320d6a-9953-4065-b61c-d62f89a6767f@104.26.12.23:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&path=/?ed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.23:2083
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.217:443?sni=cb.dong2025.cfd&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.217:443
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2096
+vless://94fadaf3-ccd8-4734-b372-8772c9bfd147@162.247.5.91:443?security=tls&sni=tw.qhahd.shop&type=ws&host=tw.qhahd.shop&path=%2Fbing#🔒 VL-WS-TLS 🇭🇰 HK-162.247.5.91:443
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.113:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.113:80
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.151:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.151:80

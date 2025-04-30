@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.64.35.129:80?security=none&type=ws&host=cc.ailicf.us.kg&path=%2Fb5cdabf0-e04#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.35.129:80
-vless://10525b84-7f6e-43ef-912b-87434df813f4@108.162.194.232:443?security=tls&sni=news5.testsnew.com&type=ws&host=news5.testsnew.com&path=%2Fwss&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.232:443
-vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2087?security=tls&sni=exPrESSTV.farsonLine24.IR&type=ws&host=expresstv.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.40:2087
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.162:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.162:80
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.57:2087?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.57:2087
 vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@104.26.8.156:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.156:2096
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=raw&fp=randomized&alpn=h2#🔒 VL-RAW-TLS 🇩🇪 DE-89.144.25.195:443
@@ -503,3 +499,7 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@185.146.173.167:8880?security=none&
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.1.12:80?security=none&type=ws&host=redw.pooriam.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.1.12:80
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.152.2:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
 vless://4587e98c-ec45-408e-b395-67923b6e9ded@104.16.0.6:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.0.6:443
+vless://a04be978-3b21-42cf-a80c-4832894d26f0@172.67.155.241:8080?security=none&type=ws&host=shahed2.novintecc.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.155.241:8080
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.71:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.71:2096
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.83:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.83:443
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@61.76.198.73:30066?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒 VL-WS-TLS 🇰🇷 KR-61.76.198.73:30066

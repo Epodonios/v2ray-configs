@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.16.150.89:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.150.89:443
-vless://d8e7d362-9436-4bb4-abe3-f490761e3c20@152.42.198.175:80?security=none&type=ws&host=static.whatsapp.net&path=%2Fshalana#🔒 VL-WS-NONE 🇸🇬 SG-152.42.198.175:80
-vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.16.171.146:2087?security=tls&sni=smart.trainofy.info&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.171.146:2087
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.136:80?sni=teleirani.ir&type=ws&host=teleirani.ir&path=Telegram@proxy_mtm/?ed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-NA 🇺🇸 US-167.82.1.136:80
 vless://eae05234-7dc6-4221-9118-7cee4914318e@172.66.44.81:8443?security=tls&sni=MaHdIseRvEr-2Eg.PaGes.Dev&type=ws&host=mahdiserver-2eg.pages.dev&path=%2Fu2YM6qSM3C1JXdj6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.81:8443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.189:2083?security=tls&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.189:2083
 vless://9b956070-2332-4b9e-b700-b1c765fde16c@104.21.80.1:2083?security=tls&sni=mas43.890614.xyz&type=ws&host=mas43.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2083
@@ -503,3 +499,7 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.175.36:2053?security=tls&sni
 vless://55520747-311e-4015-83ce-be46e2060ce3@183.106.162.127:18888?sni=vx.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-183.106.162.127:18888
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.169:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.169:443
 vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.134:36380?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.134:36380
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?security=none&type=ws&host=photographipictureai.ir&path=%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇬🇧 GB-185.170.166.242:8880
+vless://2bd7ee4d-b1c8-4ea8-ab79-f7ca74cfceca@89.208.97.26:443?security=tls&flow=-udp443&sni=tgju.org&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-89.208.97.26:443
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@43.156.116.194:443?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-43.156.116.194:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.13.31:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
