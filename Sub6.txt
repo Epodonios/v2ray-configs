@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.0.44:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.0.44:443
+vless://5c6460ab-5eb1-41c0-8187-6a57d7cfbfab@162.159.38.232:443?security=tls&sni=news6.testsnew.com&type=ws&host=news6.testsnew.com&path=%2Fwss&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.232:443
+vless://03ae39fd-ec71-4db5-b234-94de99a6e514@188.114.97.62:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.62:443
+vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.4.185:80?sni=yuming.kkllllkkkk95.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.185:80
+vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@104.16.154.71:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.154.71:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.171:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.171:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@161.145.150.29:2083?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-161.145.150.29:2083
 vless://974a6daf-ff7e-438a-9216-aaeae027c0bb@104.21.80.1:2087?security=tls&sni=JoINMahdiSErVeR-cUt.pAGes.dEv&type=ws&host=joinmahdiserver-cut.pages.dev&path=%2FYHRZLw1e3m5RQ9ew%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2087
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.186:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.186:443
@@ -497,9 +503,3 @@ vless://21016605-0d5e-4750-9360-694dc55997cd@172.67.4.74:443?security=tls&sni=hy
 vless://b28a0d8d-6964-4226-b41e-ef22b7624a01@188.114.97.3:8080?security=none&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=/admin&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:8080
 vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.150:18010
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.8.214:443?security=tls&sni=crolinde.carlotta.cloudns.org&type=ws&host=crolinde.carlotta.cloudns.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.214:443
-vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.221.248:443?security=tls&sni=is.oldcloud.online&type=ws&host=is.oldcloud.online&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.221.248:443
-vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.194.200:80?security=none&type=ws&host=game.baziha0098.ir#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.200:80
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.234:8443?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.234:8443
-vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.67.71.187:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:2096
-vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@104.26.0.117:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.0.117:2095
-vless://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:8443?security=tls&sni=app.soft10.ir&type=httpupgrade&host=app.soft10.ir&path=/8PaKguUsL3cShypYFXoLUeVZ81vwc&fp=chrome&alpn=http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.203.189:8443
