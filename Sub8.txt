@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80?security=none&type=ws&host=billowing-recipe-c066-ppal03.kerocel835.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.146:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.211.139:80?sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.139:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.64:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.64:80
 vless://bc04292b-d7e6-4966-b6ab-c9fe5f30fba3@188.114.99.78:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.78:443
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@109.120.189.30:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇷🇺 RU-109.120.189.30:443
@@ -503,3 +501,5 @@ vless://9dca0400-cb85-4328-88f3-6e765c9a2e82@172.64.68.152:8443?security=tls&sni
 vless://fab5c9ab-c0b6-4a6c-9a98-ff675d135771@188.245.32.66:26745?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.32.66:26745
 vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.116:80?sni=japan.freenods-8d6.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇺🇸 US-103.116.7.116:80
 vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@185.135.9.105:443?security=tls&sni=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=/#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.105:443
+vless://a3fdef53-af0c-4777-b941-c52707d5afe9@195.85.59.161:8880?type=ws&host=0215.kiefcascz.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.161:8880
+vless://fa659470-ca91-43c1-a966-2349531fb6a8@162.159.192.76:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.76:443

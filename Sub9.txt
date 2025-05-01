@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://a3fdef53-af0c-4777-b941-c52707d5afe9@195.85.59.161:8880?type=ws&host=0215.kiefcascz.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.161:8880
-vless://fa659470-ca91-43c1-a966-2349531fb6a8@162.159.192.76:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.76:443
 vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.211.255:80?sni=yuming.kkllllkkkk95.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.255:80
 vless://06948934-0e10-49d6-ba42-90b15ba6a7d1@151.101.64.157:80?type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.64.157:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.70.100:443?sni=vb.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.70.100:443
@@ -503,3 +501,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.171:443?security=tls&sni
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.62:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=/&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.62:2096
 vless://5cafd4a8-db5a-4045-816c-2444cae1e362@95.38.210.142:35021?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.210.142:35021
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.21.89.147:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.89.147:2087
+vless://014f817e-b200-4e6f-bfda-2c1cbf05aa6a@185.143.232.201:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.232.201:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.23:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.23:80
