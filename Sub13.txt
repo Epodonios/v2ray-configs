@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://Aimer@172.64.35.82:443?sni=epccf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.82:443
-trojan://Aimer@104.19.55.89:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.55.89:443
-trojan://telegram-id-vlessconfig@56.228.53.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-56.228.53.24:22222
-trojan://Aimer@5.182.84.52:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-5.182.84.52:2083
 trojan://Aimer@159.54.173.8:443?sni=epccs.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-159.54.173.8:443
 trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.80.1:8443?security=tls&sni=tABNaK.TwN24.ir&type=ws&host=tabnak.twn24.ir&path=%2FvNF7RJtVepEuGq7R6Cczl&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.80.1:8443
 trojan://Aimer@172.64.154.38:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.154.38:443
@@ -503,3 +499,7 @@ trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&sn
 trojan://Aimer@104.19.60.99:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.60.99:2087
 trojan://telegram-id-privatevpns@35.178.114.243:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.178.114.243:22222
 trojan://Aimer@104.19.60.173:443?sni=epccf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.60.173:443
+trojan://Aimer@162.159.135.28:443?sni=epcch.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.135.28:443
+trojan://eG92F3gh09@51.15.86.181:1935?security=tls&sni=x1ams-scaleway.devefun.net&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.15.86.181:1935
+trojan://auto@104.20.18.74:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.74:443
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10004?security=tls&sni=www.cloudflare.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-54.169.111.81:10004

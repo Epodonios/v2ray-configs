@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://Aimer@108.165.152.163:2087?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.163:2087
-trojan://da26f571-6dea-42ff-a90e-8d72561f92b0@45.146.232.172:43499?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.172:43499
-trojan://Aimer@154.29.150.2:8080?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-154.29.150.2:8080
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@31.223.184.248:17721?sni=data.52daishu.life#🔒 TR-TCP-NA 🇯🇵 JP-31.223.184.248:17721
 trojan://Aimer@162.159.133.235:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.133.235:443
 trojan://Aimer@154.197.64.252:443?security=tls&sni=agepm.ambercc.filegear-sg.me&type=ws&host=agepm.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.252:443
 trojan://blue2024@104.17.40.244:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.40.244:443
@@ -503,3 +499,7 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYXJDTjAxd1BUWDRDN2pUSVc4cmd6@77.83.246.74:443#🔒 SS-TCP-NA 🇵🇱 PL-77.83.246.74:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@104.21.80.1:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.80.1:443
 ss://YWVzLTI1Ni1nY206TURBNE1qRmxNakF6T1RkaE16VmlPV0kxTVRGaE5HWTNZV1JqWW1WbA==@38.54.27.37:995#🔒 SS-TCP-NA 🇧🇬 BG-38.54.27.37:995
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@85.90.207.5:8080#🔒 SS-TCP-NA 🇦🇲 AM-85.90.207.5:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGFaNjJYTVo2N2NnNm5NWmJmaFVW@78.129.140.11:443#🔒 SS-TCP-NA 🇬🇧 GB-78.129.140.11:443
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.34.244.77:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.77:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🔒 SS-TCP-NA 🇵🇱 PL-92.118.205.228:990

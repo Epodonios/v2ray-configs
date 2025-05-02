@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:80
-vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?sni=sweet-glade-2430-ppal03.xasev15708.workers.dev&type=ws&path=%2FProxyIP#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.178.96:80
-vless://5543ae5c-c24f-405a-9266-597cbc43c818@52.76.110.129:20001?sni=miku.mikuru.ip-ddns.com&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇸🇬 SG-52.76.110.129:20001
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.27:443?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.27:443
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@92.53.190.248:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇸🇮 SI-92.53.190.248:2096
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.19:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.19:80
 vless://9b956070-2332-4b9e-b700-b1c765fde16c@104.21.80.1:2083?security=tls&sni=mas43.890614.xyz&type=ws&host=mas43.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2083
@@ -503,3 +499,7 @@ trojan://075b9690-f1cc-4d0c-aa1e-f80f07f09815@172.67.204.177:443?security=tls&sn
 trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10001?security=tls&sni=www.cloudflare.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-54.169.111.81:10001
 trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@64.23.236.215:443?security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-64.23.236.215:443
 trojan://fsoOufuTGmSKzRDaAwAbww@162.250.99.26:443?security=none&type=tcp#🔒 TR-TCP-NONE 🇺🇸 US-162.250.99.26:443
+trojan://Aimer@172.64.35.82:443?sni=epccf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.82:443
+trojan://Aimer@104.19.55.89:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.55.89:443
+trojan://telegram-id-vlessconfig@56.228.53.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-56.228.53.24:22222
+trojan://Aimer@5.182.84.52:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-5.182.84.52:2083

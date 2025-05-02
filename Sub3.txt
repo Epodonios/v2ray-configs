@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.111.148:443?security=reality&flow=xtls-rprx-vision&sni=video.intfreed.ru&type=tcp&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🔒 VL-TCP-RLT 🇳🇱 NL-91.84.111.148:443
-vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@93.123.46.100:443?security=reality&flow=xtls-rprx-vision&sni=spirako.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#🔒 VL-TCP-RLT 🇦🇱 AL-93.123.46.100:443
-vless://b31397e9-c81f-42a6-b20e-96fb9298a522@172.82.67.154:49318?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=_jMAMfNz3W6W76tXBa76qz-0Xj2XPNQiH5mk-TPfXgs&sid=fba4925aaccdb2#🔒 VL-TCP-RLT 🇺🇸 US-172.82.67.154:49318
-vless://dadbf1eb-93c5-4cd9-83f3-ed02fb539c6e@134.122.3.240:443?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=U-Crw9zWynOztMJJd-fYzl-rDkb7i7pyxMhORpmFzgU&sid=5a2003125d#🔒 VL-TCP-RLT 🇺🇸 US-134.122.3.240:443
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.229:1001?security=reality&sni=pqh25v6.whatstrue.shop&type=tcp&allowInsecure=1#🔒 VL-TCP-RLT 🇺🇸 US-185.236.232.229:1001
 vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?security=reality&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&type=tcp&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14#🔒 VL-TCP-RLT 🇺🇸 US-31.59.111.49:33718
 vless://dd63d759-c96a-4c05-bdfa-f430fb82ec51@104.248.90.230:8440?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#🔒 VL-TCP-RLT 🇳🇱 NL-104.248.90.230:8440
@@ -503,3 +499,7 @@ vless://b543c066-2189-4aa4-8afb-445ac8ee28d4@64.181.225.150:443?security=tls&flo
 vless://82b4207c-33ad-44ab-9397-59eab5d80ddb@188.245.95.151:6793?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:6793
 vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.191.43:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇺🇸 US-15.204.191.43:443
 vless://33061624-3968-4931-8edc-ea62191ab0c8@146.75.78.133:80?security=none&type=xhttp&host=biyatovistavdoray.com.&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-146.75.78.133:80
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.198:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.198:80
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@18.167.37.206:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇭🇰 HK-18.167.37.206:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?sni=xx.bgm2024.dpdns.org&type=ws&host=xx.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.193:443
+vless://ef23ddd0-14c5-39c2-9880-af55ce892363@153.121.71.72:1443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.amazon.com&fp=chrome#🔒 VL-TCP-TLS 🇯🇵 JP-153.121.71.72:1443

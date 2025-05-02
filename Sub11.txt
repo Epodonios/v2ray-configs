@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://d118038f-0d72-4b45-8cce-bcf237487f41@188.114.97.142:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.142:443
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@172.66.206.205:8443?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.206.205:8443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.212:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.212:80
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.7.37:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.37:443
 vless://f3562b04-2f2b-433a-80b4-45f60d659004@104.21.7.193:2095?security=none&type=ws&host=925tg.3gnc3sjz.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.193:2095
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.25.167.242:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.167.242:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.11:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.11:80
@@ -503,3 +499,7 @@ vless://a65eeff9-e5a5-45fb-a142-2210d98bcffd@162.159.133.234:443?security=tls&sn
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.4.60:8080?security=none&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.4.60:8080
 vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@188.114.97.173:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.173:443
 vless://2b3e7762-0b95-45cf-8b89-0452e8b585fb@185.31.8.57:11011?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.31.8.57:11011
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:80
+vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?sni=sweet-glade-2430-ppal03.xasev15708.workers.dev&type=ws&path=%2FProxyIP#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.178.96:80
+vless://5543ae5c-c24f-405a-9266-597cbc43c818@52.76.110.129:20001?sni=miku.mikuru.ip-ddns.com&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇸🇬 SG-52.76.110.129:20001
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.27:443?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.27:443

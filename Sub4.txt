@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.198:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.198:80
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@18.167.37.206:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇭🇰 HK-18.167.37.206:443
-vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?sni=xx.bgm2024.dpdns.org&type=ws&host=xx.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.193:443
-vless://ef23ddd0-14c5-39c2-9880-af55ce892363@153.121.71.72:1443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.amazon.com&fp=chrome#🔒 VL-TCP-TLS 🇯🇵 JP-153.121.71.72:1443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.62:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=/&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.62:2096
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.4.3:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.4.3:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.32.196:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM?ed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.32.196:443
@@ -503,3 +499,7 @@ vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?security=tls&sni=005
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@167.68.5.248:2087?security=tls&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-167.68.5.248:2087
 vless://d8f68715-4209-47ff-95ed-0f39abc19244@172.66.46.228:2083?security=tls&sni=joINMaHDiSErveR-hOD.PaGES.dEV&type=ws&host=joinmahdiserver-hod.pages.dev&path=%2FmBR62RM6m37lp7B5%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.228:2083
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:8443?security=tls&sni=Tasnim.fARSOnlIne24.IR&type=ws&host=tasnim.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.6:8443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@198.41.209.66:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.209.66:443
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.58.134:8443?security=tls&sni=mil-it.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇹 IT-84.17.58.134:8443
+vless://5ee914ec-2e31-4a99-8dcb-a477bfe055ec@185.79.158.144:8099?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.144:8099
+vless://ee29fa1d-a706-4035-bea1-ae1f73845f65@104.26.5.32:8443?security=tls&sni=usa.v2ray.com.br&type=ws&host=usa.v2ray.com.br&path=%2Frussian&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.32:8443
