@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+trojan://Aimer@211.57.90.42:50001?sni=epccf.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
+trojan://Aimer@154.29.150.2:8080?sni=epcca.ambercc.filegear-sg.me#US4
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.191:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A530
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzEgNi41TUIvcyIsImFkZCI6Ijk1LjE2NC40LjE0MCIsInBvcnQiOiI1MjkzNyIsImlkIjoiNzE4MjBlNjItN2I5OS00ZWQ5LWE4MzYtMWUwZjgxNGMzM2ExIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzEifQ==
+trojan://Aimer@192.200.160.35:2083?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US5
+trojan://tXsBdKfoe9@104.25.145.188:2083?security=tls&type=ws&sni=cpuhot.boshrachoice.ir.&path=/VPNTV20@_TOP.COM.VPNTV20@_TOP.COM.VPNTV20@_TOP.COM?ed=2048&host=cpuhot.boshrachoice.ir.#%E6%9C%AA%E7%9F%A532
+trojan://ctZ66Vttffqq@104.21.64.1:2083?security=tls&type=ws&sni=yjc.twn24.ir&path=/🆔@M3HDIO1&host=yjc.twn24.ir#%E6%9C%AA%E7%9F%A533
+trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&type=tcp&sni=z-v2-080537.kailib.com#%E6%9C%AA%E7%9F%A534
+trojan://bpb-trojan@104.18.107.117:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A535
+trojan://Aimer@103.116.7.100:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US6
+trojan://Aimer@108.165.152.98:2087?security=tls&type=ws&sni=ageph.ambercc.filegear-sg.me&path=/&host=ageph.ambercc.filegear-sg.mehttp/1.1#US7
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#US8%20118.5KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@92.223.2.79:8080#%E6%9C%AA%E7%9F%A536
 vmess://eyJ2IjoiMiIsInBzIjoiVVM5IDUzLjJNQi9zIiwiYWRkIjoiNTEuODEuMjAzLjU3IiwicG9ydCI6IjI4ODYwIiwiaWQiOiIxNzg0NDk3ZC0wM2ExLTQwYmItYmI4Yi1kZTRmZmFjN2M1OWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM5In0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#%E6%9C%AA%E7%9F%A537
 trojan://Aimer@199.34.228.187:443?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#US10
@@ -490,16 +503,3 @@ vless://f055d270-0e76-4a41-a53f-871bbb51b003@190.93.247.172:443?allowInsecure=0&
 vless://a268ce39-7687-4817-aa5f-def4f653fb88@190.93.245.90:443?allowInsecure=0&sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&path=/?ed=2560security=tls#15%7CCR_speednode_0011
 vless://a73cf704-008c-439b-8a22-8b693a9e3104@190.93.246.207:2083?allowInsecure=0&sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&path=/?ed=2560security=tls#15%7CCR_speednode_0012
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@121.174.200.92:12416?allowInsecure=1&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&path=/?ed=2560security=tls#15%7CKR_speednode_0014
-vless://344f7b4c-eb32-4e75-840c-cbdd10596a95@5.10.245.97:443?allowInsecure=0&sni=hax-us2.lzj520hxw.dpdns.org&type=ws&host=hax-us2.lzj520hxw.dpdns.org&path=/lzjjjjjjjjj666666666security=tls#15%7CNL_speednode_0017
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.8.211.230:443?allowInsecure=0&sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&path=/security=tls#15%7CRU_speednode_0019
-vless://6dfdd5a6-4e19-461c-84d3-81cbbdee179b@43.128.95.110:40029?allowInsecure=0&sni=111.workerscf.dpdns.org&type=ws&host=111.workerscf.dpdns.org&path=/?ed=2560security=tls#15%7CSG_speednode_0020
-trojan://Aimer@27.50.49.224:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#15%7CSG_speednode_0021
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@210.61.97.241:81?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#15%7CTW_speednode_0022
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.16.95.143:443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560security=tls#15%7CUS_speednode_0023
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?allowInsecure=0&sni=redfree8mahsang6.redfree8.ir&type=ws&host=redfree8mahsang6.redfree8.ir&path=/TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512#15%7CUS_speednode_0024
-vless://dcc8d6d4-25ab-4743-8724-78779ee359c0@162.159.152.48:2083?allowInsecure=0&sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0025
-vless://6965e558-73a4-4808-a778-67e8a82d15aa@162.159.153.28:2083?allowInsecure=0&sni=1.659118019.uk&type=ws&host=1.659118019.uk&path=/?ed=2560security=tls#15%7CUS_speednode_0026
-vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@162.159.152.81:8443?allowInsecure=0&sni=txmt.conetcdata.dpdns.org&type=ws&host=txmt.conetcdata.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0027
-vless://b0286bc2-e17c-4c17-b0e6-d39c93f74937@a0.nttkk.com:443?allowInsecure=0&sni=ss-c6o.pages.dev&type=ws&host=ss-c6o.pages.dev&path=/tg@myFreeNodeChat/?ed=2048security=tls#15%7CUS_speednode_0028
-vless://a73cf704-008c-439b-8a22-8b693a9e3104@162.159.153.245:2087?allowInsecure=0&sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0030
-vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@104.16.12.247:2053?allowInsecure=0&sni=txmt.conetcdata.dpdns.org&type=ws&host=txmt.conetcdata.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0031
