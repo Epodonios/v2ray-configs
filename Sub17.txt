@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://YWVzLTI1Ni1nY206SlE2QkNSV1gzQ1pFQjZKTQ==@185.47.254.177:20007#🔒 SS-TCP-NA 🇬🇹 GT-185.47.254.177:20007
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.178:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#🔒 SS-TCP-NA 🇹🇷 TR-185.123.101.241:990
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.133:7306#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.133:7306
+ss://YWVzLTEyOC1nY206OWRjY2ZmMjItMzA5ZS00OTBlLWJmNTUtNWNlZjU5OGU2NDA4@173.234.79.117:45615#🔒 SS-TCP-NA 🇬🇧 GB-173.234.79.117:45615
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.65:8080
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.237.185.160:989#🔒 SS-TCP-NA 🇱🇹 LT-185.237.185.160:989
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5600#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:5600
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.64.138.145:9101#🔒 SS-TCP-NA 🇺🇸 US-38.64.138.145:9101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#🔒 SS-TCP-NA 🇧🇭 BH-38.54.2.182:990
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.133:2375#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.133:2375
@@ -495,11 +503,3 @@ trojan://vip@104.26.2.223:443?security=tls&type=ws&sni=heihu880.pages.dev&host=h
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.44.214:2053?security=tls&type=ws&sni=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs?ed=2560&host=nop-55q.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-privatevpns@54.247.127.29:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A549
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#US9%202.0MB%2Fs
-trojan://Aimer@107.175.44.118:58621?sni=epcca.ambercc.filegear-sg.me#US10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#%E6%9C%AA%E7%9F%A550%2014.0MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxMSAyMy44TUIvcyIsImFkZCI6IjE1LjIwNC4yNDguOTIiLCJwb3J0IjoiMzA1NjIiLCJpZCI6IjgyNDY2NzE1LTZhNTgtNDA0Ni1hMzYzLWEwZDE4ZTViMmFiNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMxMSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpleThsWGdyTk9wVmQzcGhFZzVaY3lN@194.87.216.218:52571#%E6%9C%AA%E7%9F%A551
-trojan://NSCH50ljFtwg@172.67.175.40:2053?security=tls&type=ws&sni=manager.farsonline24.ir&path=/🆔@M3HDIO1&host=manager.farsonline24.ir #%E6%9C%AA%E7%9F%A552
-trojan://Aimer@104.16.60.104:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A553
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDNlY2MwYS00NjM1LTQwMmYtYjhjMC0xNDJiYjVlOTVkOWQ=@free.2apzhfa.xyz:31215#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://Aimer@154.197.64.233:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A554
