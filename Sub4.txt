@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@103.116.7.2:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇺🇸 US-103.116.7.2:80
-vless://7141b3e6-e314-465d-83df-243a7850edeb@178.239.146.76:2010?type=tcp&host=api4.callback.cdn.nim.file.plsvi.online&headerType=http&fp=chrome#🔒 VL-TCP-NA 🇮🇷 IR-178.239.146.76:2010
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@36.153.95.129:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🇨🇳 CN-36.153.95.129:443
 vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.130.234:8443?security=tls&sni=v-2rey-channel.pages.dev&type=ws&host=v-2rey-channel.pages.dev&path=%2FTeleram%3A+%40v_2ray#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.234:8443
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2083?security=tls&sni=tabnaK.FARSONlinE24.IR&type=ws&host=tabnak.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.40:2083
@@ -503,3 +501,5 @@ vless://428287e2-0a51-42d5-89a5-d07f5f10a481@86.38.214.30:8080?security=none&typ
 vless://ac7bcf0a-ef69-4949-aff2-a93630021826@104.26.13.101:443?security=tls&sni=0C9CF137-telegRAM-CaSsIUsvpn-tElegrAm-cAsSIusvpn-teLEgrAm.eamOnN-120.workers.DEV&type=ws&host=0c9cf137-telegram-cassiusvpn-telegram-cassiusvpn-telegram.eamonn-120.workers.dev&path=%2FqmMTvZWWZJIvtX37%2FMy43MC4yMTkuMTk2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.101:443
 vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@172.67.147.79:2052?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.c.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.79:2052
 vless://e36927d6-1ce7-4beb-bd17-11f78506aff8@151.101.128.84:80?security=none&type=xhttp&host=yyyy-dd-mm-de.global.ssl.fastly.net&path=%2F#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.128.84:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.180:80?sni=301.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.180:80
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@172.67.160.44:443?security=tls&sni=de.bolagskontaktstockholm.se&type=ws&path=%2Fws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.44:443

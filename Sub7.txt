@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2087?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2087
-vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.248.204:80
 vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@172.67.173.29:443?security=tls&sni=cdn-nodes.maviks.eu&type=ws&host=cdn-nodes.maviks.eu&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560%3F%2F%40JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.29:443
 vless://4587e98c-ec45-408e-b395-67923b6e9ded@104.18.154.102:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.154.102:443
 vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?security=tls&sni=satoshi.mom&type=ws&host=public.satoshi.mom&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.30.14:443
@@ -503,3 +501,5 @@ vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.138.232:8880?path=/@ZEDMODE
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.120:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.120:443
 vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@142.93.130.133:3993?security=tls&sni=ntmci.cdnpark.net&type=ws&path=%3Fed%3D2084&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-142.93.130.133:3993
 vless://a268ce39-7687-4817-aa5f-def4f653fb88@188.114.98.82:443?security=tls&sni=zeyichen.sbs&type=ws&host=zeyichen.sbs&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.82:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.199.226:80?security=none&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.199.226:80
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.28.52:2087?security=tls&sni=pics.floorshoping22.com&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇫🇮 FI-157.180.28.52:2087

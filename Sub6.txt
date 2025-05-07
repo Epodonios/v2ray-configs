@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.83:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.83:443
-vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.98.158:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.158:443
 vless://3ccf8b38-b790-4735-a4d8-848d75481e47@172.66.47.153:2087?security=tls&sni=MAHDIServEr-3M4.PAgES.DEV&type=ws&host=mahdiserver-3m4.pages.dev&path=%2FthFtzT7jnYHeBIXQ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.153:2087
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.20.161.32:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.161.32:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.98:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.98:80
@@ -503,3 +501,5 @@ vless://d6ff33a6-03bf-4338-8a63-62ab284a9466@45.131.5.111:80?type=ws&host=feng4.
 vless://fb07cf18-249e-43e2-8f47-799792ecafdd@216.24.57.126:2096?security=tls&sni=Channel-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.126:2096
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.58:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.58:80
 vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.135:36380?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.135:36380
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2087?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2087
+vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.248.204:80

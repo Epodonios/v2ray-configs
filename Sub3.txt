@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://4587e98c-ec45-408e-b395-67923b6e9ded@172.67.153.29:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.29:443
-vless://e80a5c54-ea7d-4eeb-80a4-76d1c6a0b1c6@173.245.59.100:8880?security=none&type=httpupgrade&host=iraniV2ray.nanowaash-shop.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.100:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@199.34.228.164:2087?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.164:2087
 vless://14cea04c-dbfa-4436-baa8-5a497d8f9e2c@23.235.33.233:80?security=none&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#🔒 VL-WS-NONE 🇺🇸 US-23.235.33.233:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.41.221.186:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.221.186:443
@@ -503,3 +501,5 @@ vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?security=tls&flo
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.7.45:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.7.45:8443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.66:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=/&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.66:8443
 vless://66623734-6266-4361-b037-613830383631@162.159.128.233:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:443
+vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@103.116.7.2:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇺🇸 US-103.116.7.2:80
+vless://7141b3e6-e314-465d-83df-243a7850edeb@178.239.146.76:2010?type=tcp&host=api4.callback.cdn.nim.file.plsvi.online&headerType=http&fp=chrome#🔒 VL-TCP-NA 🇮🇷 IR-178.239.146.76:2010

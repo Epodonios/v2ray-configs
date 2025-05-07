@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://feb59a0f-fac3-4058-8369-f17b7221aa46@49.12.105.24:20878?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.12.105.24:20878
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80?type=ws&host=foffmelo.com&path=/olem/ws?ed%3D2560#🔒 VL-WS-NA 🇫🇷 FR-151.101.123.159:80
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.43.245:443
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@162.159.195.221:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.221:443
 vless://28886c09-721a-447d-a82e-72c5500858f3@104.21.71.8:2083?security=tls&sni=TAsNiM.iTn24.IR&type=ws&host=tasnim.itn24.ir&path=%2FMaQIF0W0gcLzI5m8ZghCC5&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.71.8:2083
@@ -503,3 +501,5 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.211.202:8443?security=tls&sn
 vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?security=tls&sni=dd.foxnim.info&type=grpc&serviceName=@foxnim#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.126:2053
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@161.145.150.29:2083?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-161.145.150.29:2083
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.177:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.177:443
+vless://6475e370-b6fb-45de-b377-5796ba96e645@104.26.7.149:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.149:2053
+vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@143.47.237.215:443?security=tls&flow=xtls-rprx-vision&sni=dj-download-gb.xn--4gq62f52gopi49k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇬🇧 GB-143.47.237.215:443

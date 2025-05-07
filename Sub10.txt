@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@168.100.6.42:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.42:8443
-vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@188.114.96.60:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.60:443
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.37:2087?security=tls&sni=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO&type=ws&host=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO&path=%2F#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.37:2087
 vless://4460a461-2946-48da-a1b0-138641caa045@104.19.222.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s27.elitemizban.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.222.79:2096
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?security=tls&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.40.146:8443
@@ -503,3 +501,5 @@ vless://b72f10b0-69fa-43c3-9cf6-3907fba914e9@104.21.85.204:443?security=tls&sni=
 vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@199.34.228.47:443?security=tls&sni=cr77.medicalhistory.ir&type=ws&host=cr77.medicalhistory.ir&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.47:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.43.217:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.43.217:443
 vless://d2ab193e-9c7a-4671-df75-a95d0184931a@104.21.5.96:443?security=tls&sni=test.dnss-mobile.ir&type=httpupgrade&host=test.dnss-mobile.ir&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.5.96:443
+vless://feb59a0f-fac3-4058-8369-f17b7221aa46@49.12.105.24:20878?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.12.105.24:20878
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80?type=ws&host=foffmelo.com&path=/olem/ws?ed%3D2560#🔒 VL-WS-NA 🇫🇷 FR-151.101.123.159:80
