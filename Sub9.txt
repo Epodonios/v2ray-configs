@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@188.245.95.151:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:1522
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.247:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.247:80
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.158:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.158:80
 vless://a5c6f225-4cb9-4e58-edea-1e0793b656b7@47.57.190.3:443?security=tls&sni=clawhk.costs.asia&type=ws&path=%2Fbing#🔒 VL-WS-TLS 🇭🇰 HK-47.57.190.3:443
@@ -503,3 +502,4 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.151:80?security=none&type=
 vless://de543079-9ff5-4dce-8b68-97f61685efd7@104.20.3.6:443?security=tls&sni=hdfy1c1.cpiforpersia.uk&type=ws&host=hdfy1c1.cpiforpersia.uk&path=%2FLNGeLLJXXIlSdZMqnuxG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.3.6:443
 vless://5fb982aa-c10a-4230-989a-c1b5664d9737@176.9.243.164:600?security=tls&sni=marzban.negintel.xyz&type=tcp&host=%2FJoin_Bade_Channel%40JOKERRVPN#🔒 VL-TCP-TLS 🇩🇪 DE-176.9.243.164:600
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=/#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.232:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.205:80?type=ws&host=redw.pooriam.ir&path=Telegram#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.205:80

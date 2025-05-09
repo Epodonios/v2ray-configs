@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.224:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.224:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087?security=tls&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.131:2087
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇨🇾 CY-45.82.251.149:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.253:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.253:80
@@ -503,3 +502,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880?security=none&ty
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.135.9.87:2087?security=tls&sni=50C1iGiMpI.mYsPdMmEtI.cOm&type=grpc#🔒 VL-GRPC-TLS 🇩🇪 DE-185.135.9.87:2087
 vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.147:443
 vless://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@104.21.77.44:443?security=tls&sni=Us6-03.890603.XyZ&type=ws&host=us6-03.890603.xyz&path=%2FGuJUq5kZ2d6MQzxVoMQ&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.44:443
+vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.26.1.229:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.1.229:443

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.144:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.144:80
 vless://0a022137-d5d7-48f9-96cf-11b57210d12d@190.93.245.137:8880?security=none&type=httpupgrade&host=vihypercloud.academigroup.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-190.93.245.137:8880
 vless://3130e111-a06c-4388-aeda-4b43f6e8e51f@104.26.13.31:443?security=tls&sni=FinLAnd-A3r.pAgES.dEv&type=ws&host=finland-a3r.pages.dev&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.114:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.114:443
@@ -503,3 +502,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=none&sn
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.97.51:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.51:443
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
 vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.15.19:80?security=none&type=ws&host=0107.cxypogon.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.224:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.224:80

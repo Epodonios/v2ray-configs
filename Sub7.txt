@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.238:8880
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.233:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.223:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.223:80
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.19.24.111:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.24.111:443
@@ -503,3 +502,4 @@ vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@162.159.136.234:80?security=none&ty
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.120.94.23:2087?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=sz.ylks0033.dpdns.org&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-162.120.94.23:2087
 vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.130.216:80?security=none&type=ws&host=marzneshinestonia.car&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.216:80
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.35:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.35:80
+vless://391caf58-ca0e-4d36-96b4-79ca9743342b@107.170.11.135:6067?security=none&type=grpc&serviceName=2055vless#🔒 VL-GRPC-NONE 🇺🇸 US-107.170.11.135:6067

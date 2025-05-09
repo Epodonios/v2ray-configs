@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.26.1.229:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.1.229:443
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@104.21.91.19:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.91.19:443
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443?security=tls&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=%2F&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.189.41:443
 vless://cfc83feb-3bce-468c-b157-e1cdb9786283@104.18.22.235:443?security=tls&sni=nl1.yfjc.sbs&type=ws&host=nl1.yfjc.sbs&path=/yfjc/knl1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.235:443
@@ -503,3 +502,4 @@ vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.25.62.54:443?security=tls&sni=x
 vless://3232953e-5959-495c-b969-d6d86a635089@198.41.204.40:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.204.40:443
 vless://7c6d7ca6-8033-49b5-99a7-ffcc7042e6b6@188.114.97.3:8443?security=tls&sni=maHDiseRveR-uSu8.paGES.DEv&type=ws&host=mahdiserver-usu8.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.3:8443
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.197.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
+vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.238:8880
