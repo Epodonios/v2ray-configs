@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://cbeaa3aa-4364-4d79-8f60-e964a28724bf@152.70.124.233:30002?security=tls&sni=icloud.cdn-apple.com&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.124.233:30002
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.66.43.169:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.43.169:443
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.97.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.179:443
 vless://08fb790c-1d2d-433c-a588-fa3b6193c926@104.16.103.112:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=/2096/@V2RayyNGVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.103.112:2096
@@ -503,3 +502,4 @@ vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.136:36380?security=none&t
 vless://538ec70c-b386-51ad-8155-aeaed37a22b6@162.159.195.212:443?security=tls&sni=newus.sspeednetokala.uS.kg&type=ws&host=newus.sspeednetokala.uS.kg&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.212:443
 vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.64.1:2083?security=tls&sni=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&type=ws&host=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:2083
 vless://d91894d8-c06b-44aa-b905-57ef6e9354aa@45.131.4.7:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=%EA%84%93o%EA%84%AFr%EA%85%8Aa%EA%85%A1f%EA%85%BBi%EA%86%90c%EA%86%AA%EA%87%8D%EA%87%B1%EA%88%8D%EA%84%B0%EA%85%8B%EA%88%A9%EA%88%BF%EA%89%9C%EA%89%AD%EA%89%BF.YaHvE111.COM.&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.4.7:2087
+vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:8443?security=tls&sni=il-8.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:8443

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:8443?security=tls&sni=il-8.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:8443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.211.48:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.48:2096
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@188.114.97.121:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.121:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.254:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.254:80
@@ -503,3 +502,4 @@ vless://86177e67-df7d-561a-a708-19d1452bff97@104.26.13.8:80?security=none&type=w
 vless://35730674-20fe-4e01-88f9-5214633c75e0@104.19.174.68:2087?sni=ca-1-cbt.rayan-dns.dpdns.org&type=ws&host=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.174.68:2087
 vless://c6945a21-0abf-4e19-91dd-e9145ce4a8cc@172.67.149.227:80?type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&path=%2FaVSm9J5XUEFUKs1i%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.149.227:80
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.246.39.46:11325?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒 VL-WS-TLS 🇰🇷 KR-49.246.39.46:11325
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443
