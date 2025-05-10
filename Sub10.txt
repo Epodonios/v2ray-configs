@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087?security=tls&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.131:2087
-vless://9450fd6c-fe9b-4135-935b-62e84ee2fca9@104.24.14.164:443?security=tls&sni=workers.0115.eu.org&type=ws&host=workers.0115.eu.org&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.14.164:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.21.89.147:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.89.147:2053
-vless://0db523ac-6cd4-477c-9560-16177eb07a10@104.26.12.8:2087?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=httpupgrade&host=BeAt.mIRacLeTaXbItS.tOP.&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.26.12.8:2087
-vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2053?security=tls&sni=gb-0.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:2053
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@172.67.207.26:8080?security=none&type=ws&host=201.58vtg99l.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.207.26:8080
 vless://69dd9741-0ae4-4bd2-bb32-46ca96d05128@172.67.233.33:443?security=tls&sni=r-Vl1JFQdH165ohNhL.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.233.33:443
 vless://f84898a3-1691-489a-8d6e-0eb0981bef00@104.16.90.246:443?security=tls&sni=rnca.majiang.pp.ua&type=ws&host=rnca.majiang.pp.ua&fp=chrome&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.90.246:443
@@ -503,3 +498,8 @@ vless://c6919990-40ee-448c-a716-1cfbd4f0165e@162.159.192.168:443?security=tls&sn
 vless://4f2b9193-ab76-401f-a254-10982ac2881a@5.10.245.75:443?sni=hax-eu.lzj520hxw.dpdns.org&type=ws&host=hax-eu.lzj520hxw.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-5.10.245.75:443
 vless://19b3cbba-e6ac-485a-9481-926a0415eab2@172.67.189.174:80?security=none&type=ws&host=sHrill-tErm-639b.TageLIT414.workeRs.dEv&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.189.174:80
 vless://56c565c9-6360-40b5-9e74-e7636c0eeb57@212.80.10.34:5222?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.10.34:5222
+vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@198.41.192.204:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.192.204:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.173:443?sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.173:443
+vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=none&type=tcp#🔒 VL-TCP-NONE 🇦🇺 AU-170.64.171.83:36402
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.66:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.66:80
+vless://9b956070-2332-4b9e-b700-b1c765fde16c@104.21.112.1:2083?security=tls&sni=mas43.890614.xyz&type=ws&host=mas43.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:2083

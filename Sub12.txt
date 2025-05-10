@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://45ce6f5fd81c414286cad87e5ba1f61a@104.22.28.114:80?type=ws&host=inconigto.web.id&path=%2Ft.me%2FInconigto_Mode%2F35.219.50.99%2F443#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.28.114:80
-vless://504fa227-6493-4c4b-983c-4661c96a0e11@90.165.204.7:80?type=ws&host=vv.cscfwoker.fun&path=Telegram🇨🇳#🔒 VL-WS-NA 🇪🇸 ES-90.165.204.7:80
-vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@172.64.154.229:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.154.229:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.153.237:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.237:443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.146.46.164:443?sni=hn.ylka.dpdns.org&type=ws&host=hn.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-129.146.46.164:443
 vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@190.93.244.213:2096?sni=www.pjw5.top&type=ws&host=www.pjw5.top#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.244.213:2096
 vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@104.18.169.34:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.169.34:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.171:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.171:80
@@ -503,3 +498,8 @@ vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.46:2096?security=tls&sni
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@220.120.172.116:12365?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com#🔒 VL-WS-TLS 🇰🇷 KR-220.120.172.116:12365
 vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@104.18.8.209:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.209:443
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@104.17.207.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.207.87:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.18.143.57:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-192.18.143.57:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.29.253:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@69.84.182.141:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-69.84.182.141:443
+vless://939f62bc-3255-495a-8b9b-f0a3da02e513@190.93.247.56:8080?security=none&type=ws&host=it1.hpcdn.info&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.56:8080
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.153.7.133:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇱🇹 LT-45.153.7.133:443
