@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://YWVzLTI1Ni1nY206MTdKMjRHQkRHTFRVSERGMw==@156.231.104.21:18011#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.21:18011
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.178:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.99:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.99:2377
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:4444
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@85.90.207.153:8080#🔒 SS-TCP-NA 🇦🇲 AM-85.90.207.153:8080
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#🔒 SS-TCP-NA 🇬🇧 GB-62.100.205.48:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUd21EMUh0TU1WbkRlalVFeG5WcGwz@174.138.17.254:52252#🔒 SS-TCP-NA 🇸🇬 SG-174.138.17.254:52252
+ss://YWVzLTI1Ni1nY206QjBVUEdMMklVU0IwVVY0Qg==@23.185.248.16:17006#🔒 SS-TCP-NA 🇺🇸 US-23.185.248.16:17006
+ss://YWVzLTI1Ni1nY206SUU3U0MzWVI5WDJUNUk3Ng==@156.231.104.25:18015#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.25:18015
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY=@154.83.90.11:52101#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:52101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUG5SMUdDZ1N0NEY=@147.45.179.184:443#🔒 SS-TCP-NA 🇬🇧 GB-147.45.179.184:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#🔒 SS-TCP-NA 🇸🇪 SE-62.60.152.158:37618
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.170:443
@@ -493,13 +503,3 @@ trojan://Aimer@162.159.134.207:443?security=tls&type=ws&sni=epcca.ambercc.filege
 trojan://Aimer@167.68.4.10:2096?type=ws&sni=epccj.ambercc.filegear-sg.me&path=/?ed=2560&host=epccj.ambercc.filegear-sg.me#US7
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.96:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A564
 trojan://Aimer@168.138.204.44:587?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A565
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&type=ws&sni=vfarid.xcdi.wOrKERS.DEV&host=vfarid.xcdi.wOrKERS.DEV#%E6%9C%AA%E7%9F%A566
-trojan://Aimer@108.165.152.169:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US8
-trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&type=grpc&sni=frtgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A567
-trojan://juzi@3.66.115.225:443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A568
-trojan://Aimer@23.95.215.205:8443?security=tls&type=ws&sni=agepa.ambercc.filegear-sg.me&host=agepa.ambercc.filegear-sg.me#US9
-trojan://trojan@104.18.3.150:443?security=tls&type=ws&sni=main.xicun.us.kg&host=main.xicun.us.kg#%E6%9C%AA%E7%9F%A569
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#US10%2033.1KB%2Fs
-trojan://NISHIKUITAN111@198.41.205.240:443?#%E6%9C%AA%E7%9F%A570
-trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@104.21.86.106:443?security=tls&type=ws&sni=M4rrT.999157.XYz&path=/NuDL4mLrBwsbnEcmJLxC&host=m4rrt.999157.xyz#%E6%9C%AA%E7%9F%A571
-trojan://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@172.67.163.102:443?sni=sDFgHU.931.pP.ua#%E6%9C%AA%E7%9F%A572
