@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@131.186.20.178:27194?security=none&sni=edcci.aimercc.filegear-sg.me&type=ws&path=/&allowInsecure=1#🔒 VL-WS-NONE 🇰🇷 KR-131.186.20.178:27194
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.127:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram🇨🇳#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.127:8880
-vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.97.51:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.51:443
-vless://1d7a7b23-725f-41a4-96e8-517c4af78e58@172.66.44.245:443?security=tls&sni=mAHDIseRVer-PjA.pages.DEv&type=ws&host=mahdiserver-pja.pages.dev&path=%2F4SRctKJJ08D87Q3k%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.245:443
-vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?security=tls&sni=005188006073.sec1org.com&type=raw&alpn=h2%2Chttp%255C1.1#🔒 VL-RAW-TLS 🇺🇦 UA-5.188.6.73:443
-vless://c335c896-8893-4282-808d-13c2ddbefa7a@104.18.18.255:443?security=tls&sni=jjp1.jswstlsweb.top&type=ws&host=jjp1.jswstlsweb.top&path=%2Fjsjc%2Fjp1&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.18.255:443
-vless://eea0cd66-f631-46e5-8a68-e74797784eeb@172.66.46.213:443?security=tls&sni=speedtest1.svgspeedtest.net&type=ws&host=speedtest1.svgspeedtest.net&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.213:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.162:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.162:80
-vless://8db8f511-f01f-4ec7-8f88-08765acb0552@213.21.245.83:443?security=tls&sni=www.cdn77.com&fp=chrome#🔒 VL-TCP-TLS 🇱🇻 LV-213.21.245.83:443
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@150.241.96.55:2040?security=tls&sni=github.com&fp=chrome#🔒 VL-TCP-TLS 🇫🇮 FI-150.241.96.55:2040
-vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.18.95.72:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.95.72:443
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2096
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.46.246:2087?security=tls&sni=divrt.bamako-amrikayekesafat.org&type=ws&host=divrt.bamako-amrikayekesafat.org&path=/morano#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.246:2087
 vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.67.134.218:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.218:443
@@ -503,3 +492,14 @@ vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@172.67.151.188:8443?security=tls&sn
 vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?security=none&type=ws&host=luact.zahedan.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:80
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@135.148.211.118:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.211.118:443
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.98.120:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.120:443
+vless://883a7a73-0b8b-4b95-aa62-545952be13c0@104.19.54.50:8880?type=ws&host=V2rayArgoN.elmahstyle.xyz.#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.54.50:8880
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443
+vless://129ec9f4-56a9-497f-91fc-9a062faf5d72@151.101.129.124:80?security=none&type=xhttp&host=virus.global.ssl.fastly.net&path=%2F#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.129.124:80
+vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@172.67.211.140:2096?sni=void.crehistory.org&type=ws&host=void.crehistory.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.211.140:2096
+vless://4eec7bc2-6bfd-4e54-b0a4-5890e8f97439@141.148.196.208:443?security=tls&flow=xtls-rprx-vision&sni=dj-downloadin.xn--4gq62f52gopi49k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇮🇳 IN-141.148.196.208:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.235:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.235:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.51:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.51:80
+vless://3232953e-5959-495c-b969-d6d86a635089@188.114.99.239:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.239:443
+vless://a0141f76-4fb8-40a5-a404-926cf2dff73a@74.220.23.227:2030?security=tls&sni=refersion.com&type=grpc#🔒 VL-GRPC-TLS 🇬🇧 GB-74.220.23.227:2030
+vless://86c607c7-14e9-4441-9818-51f80b7eb6ae@172.67.137.175:2082?security=none&type=httpupgrade&host=farancemat.academigroup.ir.&path=%2F%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.137.175:2082
+vless://87d83358-a190-4075-8b51-46a9c21a2642@185.146.173.25:2095?type=httpupgrade&host=mci.mtn.ir.com.org.net.info.speedvps0.ir.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇸🇪 SE-185.146.173.25:2095
