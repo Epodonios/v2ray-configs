@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%23telegram_freev2alpha#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.30:80
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.20.17.25:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.17.25:443
 vless://efdc05f4-6681-43e8-813d-96e75e243a34@194.182.79.242:45831?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.79.242:45831
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.156:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.156:80
@@ -502,4 +503,3 @@ vless://f88e0a3c-75d5-411d-a39d-7a95bb123fd0@172.67.24.121:2087?security=tls&sni
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.254:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.254:80
 vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.16.21.18:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.21.18:443
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.14.19:8880?type=ws&host=0108.9ro3grfw.workers.dev&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.14.19:8880
-vless://9fc80977-d06e-42f8-b451-379a9e4c3047@172.64.68.37:443?sni=test.989819.xyz&type=ws&host=test.989819.xyz#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.68.37:443

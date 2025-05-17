@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.114:443
 vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.28:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.105.66:80?type=ws&host=plain-thunder-a1d0-ppal03.dakox63637.workers.dev&path=/@ShadowProxy66.US.fxxk.dedyn.io#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.105.66:80
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@152.70.99.180:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.music.apple.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇯🇵 JP-152.70.99.180:443
@@ -502,4 +503,3 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.204:80?security=none&ty
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.106.26:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.106.26:443
 vless://e82d795d-9848-40f4-a3ac-aa3da140794a@140.245.39.200:443?security=tls&sni=sgp.cayuo.me&type=ws&host=sgp.cayuo.me&path=%2Fbing#🔒 VL-WS-TLS 🇸🇬 SG-140.245.39.200:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.217:443?sni=cb.dong2025.cfd&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.217:443
-vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@104.16.60.79:8080?security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.79:8080
