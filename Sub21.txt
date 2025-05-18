@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+trojan://telegram-id-directvpn@15.188.156.39:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#15%7CFR_speednode_0041
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.16.110.70:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#15%7CFR_speednode_0042
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.156.39:22224?allowInsecure=0&sni=trojan.burgerip.co.uk&type=ws&host=trojan.burgerip.co.uk&path=/telegram-channel-vlessconfigsecurity=tls#15%7CFR_speednode_0043
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.16.110.113:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.16.110.113:443&proxyIP=null#15%7CFR_speednode_0044
 vless://ef1fdecb-e56f-4996-9b6a-da7ddb7f7c8d@51.158.205.126:24957?allowInsecure=1&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CFR_speednode_0045
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.162:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0046
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.1:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0047
@@ -499,7 +503,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#%F0%9F%87%BA%F0%
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-0631
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5189
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-6111
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-0634
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5885
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5194
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5875
