@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://5453ae26-250d-4e79-b4ec-016baf806865@172.67.205.22:443?security=tls&sni=1SsdDdfFffHhHJjJJ.20220420.PP.ua&type=ws&host=1ssdddffffhhhjjjj.20220420.pp.ua&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.22:443
 vless://b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@156.59.125.66:443?security=tls&sni=hk.mehun.me&type=ws&host=hk.mehun.me&path=%2Fbing#🔒 VL-WS-TLS 🇭🇰 HK-156.59.125.66:443
 vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?security=none&type=ws&host=nl36.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:2082
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.24:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.24:443
@@ -503,3 +502,4 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.209.3:443?security=tls&sni=p
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.180:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.180:80
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@94.247.142.186:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-94.247.142.186:8880
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@185.146.173.100:443?security=tls&sni=fari21.ati-app.com&type=ws&host=fari21.ati-app.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.100:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?type=grpc#🔒 VL-GRPC-NA 🇨🇾 CY-45.82.251.143:8880

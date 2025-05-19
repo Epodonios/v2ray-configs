@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.96:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇺🇸 US-63.141.128.96:443
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@160.153.0.219:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-160.153.0.219:8880
 vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80
 vless://d6660712-4d18-47fd-b095-0c36db667250@23.227.39.47:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.47:443
@@ -503,3 +502,4 @@ vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.26.1.100:443?security=tls&sni=x
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@172.67.75.162:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.162:443
 vless://39d1bc48-f356-465c-b12f-a642b62215b7@141.227.128.80:1210?security=tls&sni=ubuntu.com&type=grpc#🔒 VL-GRPC-TLS 🇪🇸 ES-141.227.128.80:1210
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.189:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.189:80
+vless://5453ae26-250d-4e79-b4ec-016baf806865@172.67.205.22:443?security=tls&sni=1SsdDdfFffHhHJjJJ.20220420.PP.ua&type=ws&host=1ssdddffffhhhjjjj.20220420.pp.ua&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.22:443

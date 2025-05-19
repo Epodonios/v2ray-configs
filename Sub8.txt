@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.134:36380?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.134:36380
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.213:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.213:443
 vless://f93a51bf-7f24-4166-bbc1-9525acd25949@188.245.32.66:26745?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.32.66:26745
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880?security=none&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-135.84.76.75:8880
@@ -503,3 +502,4 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.105:443?security=tls&sn
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2082?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.1:2082
 vless://b0ed6b6c-9606-4be6-bc53-6a32842e26ea@104.16.185.163:443?security=tls&sni=vless1.szmanlee.eu.org&type=ws&host=vless1.szmanlee.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.185.163:443
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:2087?security=tls&sni=us-190.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-108.162.192.217:2087
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇷🇺 RU-185.59.218.58:443

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?type=grpc#🔒 VL-GRPC-NA 🇨🇾 CY-45.82.251.143:8880
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.7.32:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.7.32:2096
 vless://213d6337-7e90-43cb-b515-e392c946b371@104.18.33.112:443?security=tls&sni=WWW.felafel.org.&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.33.112:443
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@104.21.57.32:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.32:2096
@@ -503,3 +502,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.156:8880?sni=us.laoyoutia
 vless://9bce4294-6ada-4c32-95d0-0160855d1fc6@172.67.143.215:443?security=tls&sni=13.speedtest24.ir&type=ws&host=13.speedtest24.ir&path=%2Falfred%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.215:443
 vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@5.10.247.86:443?security=tls&sni=xn--node-us-pr--s50t2233b.ikunair.me&type=ws&host=xn--node-us-pr--s50t2233b.ikunair.me&path=%2F#🔒 VL-WS-TLS 🇳🇱 NL-5.10.247.86:443
 vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@172.67.157.89:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.89:443
+vless://3232953e-5959-495c-b969-d6d86a635089@162.159.195.113:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.113:443
