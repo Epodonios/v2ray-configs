@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://4d877e02-e49f-47d3-a542-42b568ceee02@104.18.6.104:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.6.104:443
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.72.44:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.72.44:80
-vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:8880?security=none&type=ws&host=stARt.SItEG52770.wORkERS.DEV&path=%2FoqisYFWsXbEI2upX%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.34.188:8880
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.6.77:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.77:2096
-vless://13bcc3fb-a184-4c42-82eb-7a5af6633a2f@104.24.6.76:2053?security=tls&sni=msjsusjsjdjkd.vsgdgddgjdjjdjjrjrjejbdeudhrhruejhrhhrhehehrail.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.6.76:2053
 vless://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?security=tls&sni=3qws.890617.xyz&type=ws&host=3qws.890617.xyz&path=%2FIcc2cX4ThvubEYxWO67qEaMINZ1&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.56:443
 vless://97f26790-6e5a-4adc-83a8-5b17d873a4f0@104.19.160.0:443?sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.160.0:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@140.238.212.95:443?security=tls&sni=sx.ylks0033.dpdns.org&type=ws&host=sx.ylks0033.dpdns.org&path=%2F%3Fed#🔒 VL-WS-TLS 🇨🇭 CH-140.238.212.95:443
@@ -503,3 +498,8 @@ vless://31348b17-4ab2-40c0-b79e-c81032331d30@104.16.140.135:2086?sni=b4f0b859-su
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.209.78:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.78:2096
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?security=none&type=ws&host=c.lkzb-0t0.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.86.235:80
 vless://d2965257-0536-4811-a0d5-cdce54e90326@154.211.8.47:2096?sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-154.211.8.47:2096
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.15:443?security=tls&sni=147135001178.sec22org.com&type=raw&fp=chrome#🔒 VL-RAW-TLS 🇺🇸 US-135.148.14.15:443
+vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?type=ws&host=danuwazero.com&path=/#🔒 VL-WS-NA 🇺🇸 US-151.101.1.124:80
+vless://a3fdef53-af0c-4777-b941-c52707d5afe9@195.85.59.95:8880?type=ws&host=0215.kiefcascz.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.95:8880
+vless://112858f5-760f-4886-95c1-c87b3b6b298e@104.24.35.106:443?security=tls&sni=sbs666.jjjj2024.sbs&type=ws&host=sbs666.jjjj2024.sbs&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.35.106:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.152.69:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.152.69:443

@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://Aimer@172.67.153.221:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.153.221:443
-trojan://26224a7a-804d-48cc-bc95-cd86e6faf525@144.202.22.147:443?security=tls&sni=v12.nmcf.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-144.202.22.147:443
-trojan://Aimer@162.159.130.245:443?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.130.245:443
-trojan://Aimer@172.64.144.130:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.144.130:443
-trojan://6X1Ca9dbWv%40%5E@172.67.202.155:8443?security=tls&sni=soft.onetwothree123.ir&type=httpupgrade&host=soft.onetwothree123.ir&path=/L9sBUTui#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.202.155:8443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.179.98:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.179.98:443
 trojan://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?security=tls&sni=3wsxcvbn.890617.xyz&type=ws&host=3wsxcvbn.890617.xyz&path=/rFt8MpX4JNWO67qEaMINZ1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.56:443
 trojan://NISHIKUITAN111@104.20.65.198:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.65.198:443
@@ -503,3 +498,8 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.149:8080#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#🔒 SS-TCP-NA 🇫🇷 FR-195.154.185.174:989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#🔒 SS-TCP-NA 🇷🇸 RS-194.71.126.31:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.138:8080
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3389#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:3389
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUzFsWjlPSHhGRkNOOG4yajR6OHho@178.208.91.118:19805#🔒 SS-TCP-NA 🇳🇱 NL-178.208.91.118:19805
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#🔒 SS-TCP-NA 🇳🇱 NL-89.23.103.125:42090
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.206:8080

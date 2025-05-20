@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.95.24:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.95.24:443
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.148:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.148:80
-vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.21:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.21:80
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.83:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.83:80
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.132:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.132:8880
 vless://d6660712-4d18-47fd-b095-0c36db667250@141.101.121.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.121.87:443
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.112.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:2096
 vless://d877a8e6-2c10-4d70-a061-82c80f50e732@151.101.194.228:80?type=ws&host=joinshhproxybedeedeeeeee.ir#🔒 VL-WS-NA 🇺🇸 US-151.101.194.228:80
@@ -503,3 +498,8 @@ vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.64.1:2052?security=none&type
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.43:80?type=ws&host=cs.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇺🇸 US-141.193.213.43:80
 vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.0.183:443?security=tls&sni=QcGpEeHn17.hAmDoLlAh-bAgHeRi.iNfO&type=grpc&fp=chrome&alpn=h3#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.183:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.249.6:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.249.6:443
+vless://645a077b-5647-49bd-8817-fc74fcd95bab@104.21.32.1:2053?security=tls&sni=mas42.459.pp.ua&type=ws&host=mas42.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.1:2053
+vless://ef1fdecb-e56f-4996-9b6a-da7ddb7f7c8d@51.158.205.126:24957?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-51.158.205.126:24957
+vless://d62106d3-08fc-4bad-885f-ff85564bcd39@151.101.128.223:80?security=none&type=xhttp&host=bia_to_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.128.223:80
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80?type=ws&host=pormang.webhost99.workers.dev&path=%2F#🔒 VL-WS-NA 🇺🇸 US-66.235.200.30:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.254:80?type=ws&host=psycho.suex12.ir&path=%2FTelegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.254:80
