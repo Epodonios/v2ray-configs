@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTN88J+HrfCfh7Ag6aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiZjE2NDNkNTMtc3dvNzQwLXN5NTY0Mi0xbWlzaC5oZ2MxLnRjcGJici5uZXQiLCJwb3J0IjoiODA4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5ZWVlZWE4OC1mMzdiLTExZWQtYmQzZC1mMjNjOTE2NGNhNWQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTMsMTR86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoidjkuaGVkdWlhbi5saW5rIiwicG9ydCI6IjMwODA5IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb29vbyIsImhvc3QiOiJiYWlkdS5jb20iLCJ0bHMiOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODc3NzJlZC1jZWY5LTQ0NGEtYThlOC1iY2YyOTljODUwZWM@link.karleynetwork.xyz:23331#%F0%9F%87%AD%F0%9F%87%B0%2013%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF8%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#%F0%9F%87%AD%F0%9F%87%B0%2013%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF9%7C%40ripaojiedian
 trojan://bbe100f7-3b61-4602-8dc6-795239682ade@wb.kaiqsz.com:42765?allowInsecure=0&sni=mmbiz1.redapricotcloud.com#%F0%9F%87%A8%F0%9F%87%B3%2013%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766#%F0%9F%87%AF%F0%9F%87%B5%2013%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
@@ -41,10 +38,10 @@ trojan://RlzoEILU@36.151.251.62:28548?allowInsecure=1&sni=cdn.egvra.cn#15%7CCN_s
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@f8021ada-swo740-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#15%7CCN_speednode_0031
 trojan://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@a2bbfa2e-swq1s0-sxwsos-g3b3.cu.plebai.net:15229?allowInsecure=0&sni=a2bbfa2e-swq1s0-sxwsos-g3b3.cu.plebai.net#15%7CCN_speednode_0032
 trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?allowInsecure=1&sni=c2.validbv3528.eu.org&ws=1&wspath=%2F%3Fed%3D2560#15%7CUS_speednode_0218
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:38585/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOGVlZTBiYjhkZDU@103.140.136.76:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fnbbvdndo%3Bhost%3Djp1v9.8vote.cn%3Btls#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505181740997-cBGZl5Y2Ww.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505181740997-cBGZl5Y2Ww.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:38585/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 vless://cbabaac-cbaa-bcaa-bdac-aabbccacbcab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-01-KHORDAD-1404 🕑 23:23
 vless://aabacbc-bcaa-acba-cdab-aacbbcbbcaca@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
@@ -503,3 +500,6 @@ vless://48d34244-8fac-4fa4-b4fe-0931474f183d@104.21.69.44:2087?security=tls&sni=
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@168.100.6.5:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-168.100.6.5:8880
 vless://ea286109-d20f-415e-849e-4af20ab04b65@8.210.29.68:443?security=tls&sni=147135001195.sec22org.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇭🇰 HK-8.210.29.68:443
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@172.64.35.33:80?security=tls&sni=fari24.clodmolt3.com&type=ws&host=fari24.clodmolt3.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.33:80
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.22.237:443
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.135.9.203:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.203:2096
+vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@45.85.118.77:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.85.118.77:443

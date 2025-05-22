@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.35.218:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.35.218:443
-vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.21.61.76:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.76:443
-vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.17.9.123:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.9.123:443
 vless://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.16.163.16:443?security=tls&sni=edgetunnel-3pc.pages.dev&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.163.16:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.115.139:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.115.139:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.124:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.124:80
@@ -503,3 +500,6 @@ vless://c8898cfd-9927-4f36-b7bc-40de76076b80@212.233.95.52:443?security=tls&flow
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.227:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.227:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.154:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.154:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.99:80?type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.99:80
+vless://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.24.172:443?security=tls&sni=4.852224.dpdns.org&type=ws&host=4.852224.dpdns.org&path=%2FVHDGmboDYeMcCs9&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.172:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.208.67:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.208.67:443
+vless://bcacaab-abac-baac-bdac-accbcbabbaca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.64.148.138:8443?security=tls&sni=CoKrChAs3.RoCkStOnEy.iNfO&type=ws&host=CoKrChAs3.RoCkStOnEy.iNfO&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.148.138:8443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.142.120.77:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.77:2096
-vless://723af342-568e-4332-9233-6f33a9ca2de8@172.67.2.238:80?security=none&sni=v2raylandd-88.vmjisexa.workers.dev&type=ws&host=v2raylandd-88.vmjisexa.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.82:443?security=tls&sni=edcca.aimercc.filegear-sg.me&type=ws&host=edcca.aimercc.filegear-sg.me&path=%2Fflow%3D-udp443&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.82:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.94:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.94:80
 vless://93be59b7-ebce-4aec-8e66-4470e06e58ae@141.193.213.21:2096?security=tls&flow=none&sni=premium.vkehi.shop&type=ws&host=premium.vkehi.shop&path=%252F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.21:2096
@@ -503,3 +500,6 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.148:80?type=ws&host=gozarg
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.12.222:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.12.222:443
 vless://d79676d2-fa67-4a47-9105-150ec8c42517@129.154.228.4:4434?security=tls&sni=bazar.ir&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇮🇳 IN-129.154.228.4:4434
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.226:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.6.226:80
+vless://4e41764d-ac31-43f5-8e9b-231ddf252d1f@172.67.144.126:443?security=tls&sni=899.288288.shoP&type=ws&host=899.288288.shop&path=%2FwAlPWPCQWnsVcNgLsMVz&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.126:443
+vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
+vless://76fbf88a-f7d3-4b3a-b6f4-1fdfc569f0de@104.22.33.78:2052?type=ws&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.info.#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.33.78:2052

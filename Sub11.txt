@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://083a70ea-07c5-4542-9f53-fbdc7f31cc52@49.13.126.159:443?security=tls&sni=phone-ship.phoneonline.com.tr&type=grpc&serviceName=xzy#🔒 VL-GRPC-TLS 🇩🇪 DE-49.13.126.159:443
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@172.67.21.44:443?security=tls&sni=bugskti.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg.bxie84k3ndk.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg&type=ws&host=bugskti.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg.bxie84k3ndk.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg&path=%2FFree-CF-Proxy-DK1&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.21.44:443
-vless://e37beea4-2555-421f-b141-56ee23593686@151.101.38.133:80?type=xhttp&host=joinbede_unlimiteddev.ir&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed#🔒 VL-XHTTP-NA 🇳🇱 NL-151.101.38.133:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?security=tls&sni=ScKzAhYz14.qUiCkOrA.OrG&type=ws&host=ScKzAhYz14.qUiCkOrA.OrG&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:2096
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.137:443
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:2082?security=none&type=httpupgrade&host=LondoN-Ar-24.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-154.197.121.138:2082
@@ -503,3 +500,6 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.209.227:8443?security=tls&sn
 vless://f8467c42-f9e5-4c07-9854-517ef3090ef5@104.16.117.254:2083?sni=fantin.dpdns.org&type=ws&host=fantin.dpdns.org&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.117.254:2083
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.153.2:2096?security=tls&sni=XkEkRsA8nQ.bAbAuSmAn2.InFo&type=ws&host=XkEkRsA8nQ.bAbAuSmAn2.InFo&path=/&alpn=h3h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2096
 vless://2c19a4ac-eeae-575b-ac7e-92a14fb4acde@171.22.124.42:2052?security=none&type=ws&host=mihanwebhost.iri&path=/vless&pbk=@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL#🔒 VL-WS-NONE 🇨🇾 CY-171.22.124.42:2052
+vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.141:8088
+vless://4d877e02-e49f-47d3-a542-42b568ceee02@104.16.85.150:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.85.150:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.245.228.99:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇮🇳 IN-103.245.228.99:8880

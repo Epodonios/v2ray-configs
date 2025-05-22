@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://4e41764d-ac31-43f5-8e9b-231ddf252d1f@172.67.144.126:443?security=tls&sni=899.288288.shoP&type=ws&host=899.288288.shop&path=%2FwAlPWPCQWnsVcNgLsMVz&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.126:443
-vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
-vless://76fbf88a-f7d3-4b3a-b6f4-1fdfc569f0de@104.22.33.78:2052?type=ws&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.info.#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.33.78:2052
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:443?security=tls&sni=gb-3.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:443
 vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@185.174.138.66:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒 VL-GRPC-TLS 🇷🇺 RU-185.174.138.66:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.16.155.10:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.155.10:443
@@ -503,3 +500,6 @@ vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.215.248:443?type=ws&host=4h
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.16.110.70:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.70:443
 vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@162.159.192.137:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.137:443
 vless://585acd30-52bf-4b70-a537-e13649fafefc@172.67.212.59:443?security=tls&sni=bBA.890601.pP.UA&type=ws&host=bba.890601.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.59:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.76:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.76:80
+vless://f212c509-a73d-4501-a10d-71d9c9bc95b8@194.182.79.56:26432?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.79.56:26432
+vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@104.18.102.48:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.102.48:443

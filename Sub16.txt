@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.24.172:443?security=tls&sni=4.852224.dpdns.org&type=ws&host=4.852224.dpdns.org&path=%2FVHDGmboDYeMcCs9&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.172:443
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.208.67:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.208.67:443
-vless://bcacaab-abac-baac-bdac-accbcbabbaca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNiYWJhYWMtY2JhYS1iY2FhLWJkYWMtYWFiYmNjYWNiY2FiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJcdWQ4M2RcdWRkMDQgTEFURVNULVVQREFURSBcdWQ4M2RcdWRjYzUgVEhVLTAxLUtIT1JEQUQtMTQwNCBcdWQ4M2RcdWRkNTEgMjM6MjMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFhYmFjYmMtYmNhYS1hY2JhLWNkYWItYWFjYmJjYmJjYWNhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIwODAsICJwcyI6ICJcdWQ4M2VcdWRkMTYgVEVMRUdSQU0tQ0hBTk5FTCBcdWQ4M2NcdWRmMWYgQVJUSUZJQ0lBTC1JTlRFTExJR0VOQ0UgXHVkODNkXHVkZGE1IEBORVVST1ZBTkNFIFx1ZDgzZVx1ZGRlMCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJhYmFhY2MtYWJjYS1hYmNhLWNhYmQtY2JiY2NhYmFhYmNhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDMwODAsICJwcyI6ICJcdWQ4M2RcdWRlZTEgVEVMRUdSQU0tQ0hBTk5FTCBcdWQ4M2RcdWRkMTAgTVRQUk9UTy1QUk9YWSBcdWQ4M2NcdWRmMGQgQE5FWFVQUk9YWSBcdWQ4M2RcdWRjZTEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -503,3 +500,6 @@ trojan://Aimer@198.41.220.88:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://Aimer@121.149.228.125:12315?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-121.149.228.125:12315
 trojan://Aimer@172.67.145.119:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.145.119:443
 trojan://Aimer@67.226.221.102:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-67.226.221.102:80
+trojan://Aimer@45.86.229.28:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇪🇸 ES-45.86.229.28:443
+trojan://Aimer@129.146.226.222:587?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-129.146.226.222:587
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.23.72:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.23.72:443
