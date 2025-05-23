@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.98.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.19:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.121:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.121:2096
 vless://15d7ddce-151e-400a-94d0-2b7f8d30e331@172.66.44.209:443?security=tls&sni=MaHDiSERver-kaO.pagES.DeV&type=ws&host=mahdiserver-kao.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.209:443
 vless://d984caa3-c94f-4e47-bac8-7cd4c210fb7c@104.26.14.16:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=/2096/@V2RayyNGVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:2096
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.207:443?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.207:443
@@ -503,3 +501,5 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.18.143.57:443?sni=vv.ylka.dpdns
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.189.244:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.189.244:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.134:8880?type=ws&host=us.laoyoutiao.link&path=Telegram#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.134:8880
 vless://699f6733-5766-42f0-a05b-da23c5ee3817@27.50.48.186:2083?sni=ed.sosocn.filegear-sg.me&type=ws&host=ed.sosocn.filegear-sg.me&allowInsecure=0#🔒 VL-WS-NA 🇸🇬 SG-27.50.48.186:2083
+vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.194.200:80?security=none&type=ws&host=game.baziha0098.ir#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.200:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.25.200:8880

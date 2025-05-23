@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://4d877e02-e49f-47d3-a542-42b568ceee02@185.176.26.53:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.53:443
-vless://48eb8684-aa12-4b6d-b0ef-765193e6fb49@104.16.122.82:80?security=none&type=ws&host=tight-queen-5bc0-ppal03.siwome4657.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.122.82:80
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.62:443
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.18.24.128:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.24.128:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.55.231:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.55.231:443
@@ -503,3 +501,5 @@ vless://de67740f-b6fe-4844-adb0-55431f2e162c@91.107.191.193:1483?security=none&t
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.120.94.23:2087?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-162.120.94.23:2087
 vless://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.172.91:443?security=tls&sni=Ty.457.PP.uA&type=ws&host=ty.457.pp.ua&path=%2FAMpQdWyvpaPkb7QHHkQBzYO&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.91:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.3.165:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-95.164.3.165:2198
+vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.98.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.19:443
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.121:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.121:2096

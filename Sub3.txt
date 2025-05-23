@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.33.144:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.144:443
-vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.16.76.55:80?type=ws&host=patient-shadow-baf1-ppal03.hohel98085.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.76.55:80
 vless://c6945a21-0abf-4e19-91dd-e9145ce4a8cc@104.21.88.9:443?security=tls&sni=Fl9f9ZCNhrfnVKA1OYa84yY6p44DHfQp.tuRbOoseRVER.wORKeRS.deV&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&path=%2F2PNbAmbRoAqtRj0f%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.9:443
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?security=tls&sni=ed19-dc7.pages.dev&type=ws&host=ed19-dc7.pages.dev&path=%2Fazarbayjab1.tab.net%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.92:443
 vless://7e82278c-40cb-4b63-b29c-db0de34134bc@65.108.157.227:443?security=tls&flow=xtls-rprx-vision-udp443&sni=refersion.com&fp=chrome#🔒 VL-TCP-TLS 🇫🇮 FI-65.108.157.227:443
@@ -503,3 +501,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.12.75.20:8880?sni=reedfree8mahsa
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@162.159.195.75:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.75:443
 vless://8dabe69a-0cf2-47d1-bce2-2404bb1d67d5@104.19.150.10:2095?security=none&type=httpupgrade&host=mci.mtn.ir.com.org.net.om.org.my-digimento0.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.150.10:2095
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.22:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.22:80
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.27:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.27:80
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.142:443?sni=hl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.105.142:443

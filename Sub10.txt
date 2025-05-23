@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.153.216:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.216:443
-vless://68509c26-cfad-4dc8-9def-e8190a98d647@162.159.152.2:8880?security=none&type=ws&host=revolutiontime-dailyconfigs.vigilante.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇨🇦 CA-44.31.62.3:80
 vless://63d7714a-2ac5-46ac-93be-96cea00300f8@172.64.88.159:80?security=none&type=ws&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.88.159:80
 vless://96a05ae4-d4fe-448e-9b20-07da6c7ae482@52.141.25.42:443?security=tls&sni=dciargo.lzj520hxw.dpdns.org&type=ws&host=dciargo.lzj520hxw.dpdns.org&path=%2F96a05ae4-d4fe-448e-9b20-07da6c7ae482-vless%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-52.141.25.42:443
@@ -503,3 +501,5 @@ vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2096?security=tls&sni
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@104.19.0.251:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.0.251:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.33:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.33:80
 vless://76dca53e-d4cc-40c4-b6f3-1e0ff838c1d6@172.66.46.228:8443?security=tls&sni=mahdIseRVEr-d5C.PAgeS.dev&type=ws&host=mahdiserver-d5c.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.228:8443
+vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?security=tls&sni=allnet.deragv2ray.net&type=grpc&serviceName=@DeragNet&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.94:2087
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@160.153.0.219:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-160.153.0.219:8880

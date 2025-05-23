@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.194.200:80?security=none&type=ws&host=game.baziha0098.ir#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.200:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.25.200:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.252.181:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.252.181:443
 vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@104.21.72.233:443?security=tls&sni=rn-us-node.woxihuan.dpdns.org&type=ws&host=rn-us-node.woxihuan.dpdns.org&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.233:443
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@162.159.135.42:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.42:443
@@ -503,3 +501,5 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.113:80?type=ws&host=gozarg
 vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.179.157:80
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.111.32:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇩🇪 DE-45.80.111.32:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.176:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.176:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.153.216:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.216:443
+vless://68509c26-cfad-4dc8-9def-e8190a98d647@162.159.152.2:8880?security=none&type=ws&host=revolutiontime-dailyconfigs.vigilante.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:8880

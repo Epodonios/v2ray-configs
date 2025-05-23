@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://736e4ed1-63dc-4d63-af14-451c17ac059a@104.18.15.19:2052?security=none&type=ws&host=0124.5zvmocbv.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:2052
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇬🇧 GB-45.89.111.250:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.105.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.148.105.29:8880
 vless://d64887d0-6c10-480d-a17f-b5cc7252f1b9@173.245.59.100:80?security=none&type=httpupgrade&host=www.speedtest.net.digikala.com.torob.com.filimo.com.downloadha.com.p30download.ir.vgdl.ir.farsroid.com.myket.ir.cafebazaar.ir.www.eitaa.com.bale.ai.splus.ir.www.rubika.igap.dmr.cfr.htp.rtp.cvl.qpl.gvl.rtl.ftl.htl.ip-ddns.com.&path=%2FJoin%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG%3Fed#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.100:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.110:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.110:80
@@ -503,3 +501,5 @@ vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@104.26.12.140:8443?security=tls&sni
 vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.234:443?security=tls&sni=romania.isegaro.click&type=ws&host=romania.isegaro.click&path=%2Fisegaro#🔒 VL-WS-TLS 🇷🇴 RO-45.85.118.234:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.158:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.158:80
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.18.1.22:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.22:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.31.226:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.31.226:8880
+vless://42890216-1d90-489d-a231-e0f5df231fb2@104.21.77.118:2096?security=tls&sni=blog.afghancloud.ir&type=xhttp&host=blog.afghancloud.ir&path=%2Fnewyork&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.21.77.118:2096
