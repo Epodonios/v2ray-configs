@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@20.243.85.49:10443?sni=edccz.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-20.243.85.49:10443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.33.110:443?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.110:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.104:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.104:2096
 vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@23.227.39.185:8080?security=none&type=ws&host=seyyed.webdade.ddns-ip.net&path=%2FV2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇦 CA-23.227.39.185:8080
 vless://e3b79749-005b-4387-f7d7-7aa4025b646a@104.21.44.185:2052?security=none&type=ws&host=zoornazanfarsineveshtam.onetwothree123.ir&path=%2F%40MEHDIO1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.44.185:2052
@@ -501,5 +503,3 @@ vless://27fdd2e8-ee23-4f56-b497-698d59938396@104.21.7.235:443?security=tls&sni=a
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.47:8880
 vless://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.204.75:443?security=tls&sni=sanjose-dy.818185.xyz&type=ws&host=sanjose-dy.818185.xyz&path=%2FoLdow5owANhO1cThJQeJb&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.75:443
 vless://6c798320-13c3-4d05-bc1d-0bb1284952b2@172.66.44.167:2083?security=tls&sni=mAHdiserVeR-3PH.PAgeS.dev&type=ws&host=mAHdiserVeR-3PH.PAgeS.dev&path=%2Fu2aoawnxhyazvnlr%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.167:2083
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.95.233.8:2040?security=tls&sni=fr.ign.com&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-45.95.233.8:2040
-vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@142.93.130.133:3993?security=tls&sni=ntmci.cdnpark.net&type=ws&path=%3Fed%3D2084&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-142.93.130.133:3993

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.95.233.8:2040?security=tls&sni=fr.ign.com&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-45.95.233.8:2040
+vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@142.93.130.133:3993?security=tls&sni=ntmci.cdnpark.net&type=ws&path=%3Fed%3D2084&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-142.93.130.133:3993
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.217:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.20.217:2086
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.116:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.116:443
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@172.67.138.69:443?security=tls&sni=night.wfft.ir&type=ws&host=night.wfft.ir&path=@sinavm&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.69:443
@@ -501,5 +503,3 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.35.218:443?security=tls&sni=
 vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@143.47.237.215:443?security=tls&flow=xtls-rprx-vision&sni=dj-download-gb.xn--4gq62f52gopi49k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇬🇧 GB-143.47.237.215:443
 vless://75c966ea-e594-4c73-8d11-07aa56ef10a7@104.24.196.20:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:2096
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@140.99.233.176:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-140.99.233.176:8880
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@146.56.136.39:10099?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-146.56.136.39:10099
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.131.208.55:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.55:443

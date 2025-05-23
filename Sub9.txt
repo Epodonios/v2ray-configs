@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@77.74.228.175:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇧🇦 BA-77.74.228.175:8880
+vless://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@172.67.187.251:8880?security=none&type=ws&host=520.msdtlasm.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.251:8880
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.45.12:443
 vless://e5b9b393-bac0-4bea-ad96-53acc299e622@104.21.64.1:2087?security=tls&sni=SUPerCaRS.gobeXOR577.workErs.deV&type=ws&host=supercars.gobexor577.workers.dev&path=%2F9cIedl69CKURumzI%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:2087
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.2.108:8443?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.2.108:8443
@@ -501,5 +503,3 @@ vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?security=tls&flow=
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.83:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.83:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.209.110:80?sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.110:80
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880?security=none&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-135.84.76.75:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@20.243.85.49:10443?sni=edccz.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-20.243.85.49:10443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.33.110:443?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.110:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.198.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.198.20:8880
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.153.7.133:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇱🇹 LT-45.153.7.133:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@141.11.202.3:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-141.11.202.3:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.57:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.57:80
 vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@194.76.18.46:2082?security=none&type=httpupgrade&host=switzerlandnode.wordperessweb.ir&path=/?ed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.46:2082
@@ -501,5 +503,3 @@ vless://e5b9b393-bac0-4bea-ad96-53acc299e622@104.21.48.1:2096?security=tls&sni=S
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@146.235.208.162:443?security=tls&flow=xtls-rprx-vision-udp443&sni=dcpqjs.yydjc.top&fp=ios&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-146.235.208.162:443
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.57.77:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.103:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.103:8443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@77.74.228.175:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇧🇦 BA-77.74.228.175:8880
-vless://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@172.67.187.251:8880?security=none&type=ws&host=520.msdtlasm.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.251:8880

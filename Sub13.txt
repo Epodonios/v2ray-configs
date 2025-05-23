@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.69.216:8880?security=none&type=ws&host=www.speedtest.net.zula.ir.cfw1.chimigi.sIte.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.69.216:8880
+vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.193:443
 vless://51385ef4-f91d-40f0-9acd-10fda0032ac8@172.66.47.45:2083?security=tls&sni=MaHdiSerVER-3ZO.PAgeS.DeV&type=ws&host=mahdiserver-3zo.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.45:2083
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.235.201:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.235.201:2053
 vless://6ad08747-42b9-4618-8f11-ac47de0da0f8@188.114.97.2:8443?security=tls&sni=proxiiraniii.fiseye5589.workers.dev&type=ws&host=proxiiraniii.fiseye5589.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.2:8443
@@ -501,5 +503,3 @@ vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.21:80?type=ws&host=hk1-t
 vless://5ae1ff2c-6e74-4b47-930d-f04f89c31cfe@162.159.153.109:443?security=tls&sni=washing-decline-viewed-mysimon.trycloudflare.com&type=ws&host=washing-decline-viewed-mysimon.trycloudflare.com&path=%2F5ae1ff2c-6e74-4b47-930d-f04f89c31cfe-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.109:443
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.211.86:443?security=tls&sni=147135004002.sec20org.com&type=raw#🔒 VL-RAW-TLS 🇺🇸 US-135.148.211.86:443
 vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.138:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.160.204.44:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-103.160.204.44:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.251.139:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.251.139:443
