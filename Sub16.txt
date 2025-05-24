@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://be813f12-47ac-4b16-9146-8435ebacae3f@104.24.170.5:443?sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.170.5:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@119.197.201.29:11481?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-119.197.201.29:11481
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.120.0:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.120.0:443
+vless://fa659470-ca91-43c1-a966-2349531fb6a8@162.159.192.76:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.76:443
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.12.31.128:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.128:443
 vless://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.59.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.59.100:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.181.186:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.181.186:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.55.231:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.55.231:443
@@ -498,8 +503,3 @@ trojan://Aimer@104.16.32.58:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 
 trojan://bpb-trojan@43.206.192.211:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr&allowInsecure=0#🔒 TR-WS-NA 🇯🇵 JP-43.206.192.211:443
 trojan://Aimer@47.79.86.103:587?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇯🇵 JP-47.79.86.103:587
 trojan://Aimer@103.116.7.67:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-103.116.7.67:2083
-trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@104.21.21.190:443?security=tls&sni=Us6-08.890606.xYZ&type=ws&host=us6-08.890606.xyz&path=/ILLcisbMYUd6MQzxVoMQ#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.21.190:443
-trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.174.252:443
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.48.1:8443?security=tls&sni=mEHRneWs.Twn24.iR&type=ws&host=mehrnews.twn24.ir&path=/vNF7RJtVepEuGq7R6Cczl#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.48.1:8443
-trojan://Aimer@107.175.44.118:58621?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-107.175.44.118:58621
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.16.110.113:443?sni=icecream.955850.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇫🇷 FR-185.16.110.113:443
