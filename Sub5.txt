@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://db60d098-86db-445b-8a06-98e8d8318083@104.16.196.131:80?type=ws&host=www.opensignal.com.deepvpn.khunaungphyo.shop&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.196.131:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.40.206:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.40.206:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-89.116.180.20:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.230.57:2083
@@ -502,4 +503,3 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?security=tls&sni
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.103:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.103:443
 vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@188.114.99.58:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.58:443
 vless://20f8daf0-3aa1-43e9-845b-9cb7c1487897@142.132.185.23:12685?security=none&type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet#🔒 VL-GRPC-NONE 🇩🇪 DE-142.132.185.23:12685
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.228.170:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-14.102.228.170:8880

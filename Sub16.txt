@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@188.114.99.177:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.177:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.86:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.86:80
 vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.242.126:443?type=ws&host=4h5.ghalikermaniz.info&path=/#🔒 VL-WS-NA 🇩🇪 DE-188.245.242.126:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.142.196:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.196:443
@@ -502,4 +503,3 @@ trojan://Aimer@45.194.53.13:2053?sni=agept.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://Aimer@104.16.56.42:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.56.42:443
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.25:443?security=tls&sni=trus.moonfree.top&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-74.63.241.25:443
 trojan://Aimer@27.50.48.189:2083?sni=agepn.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-27.50.48.189:2083
-trojan://Aimer@162.159.142.145:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.142.145:443

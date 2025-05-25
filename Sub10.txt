@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.77:8880?security=none&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20%2F%3Fed#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.77:8880
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.128:443
 vless://c07900aa-44bf-488f-b8ac-48cf82acbc3c@104.21.30.168:443?security=tls&sni=nn.wersad.dpdns.org&type=ws&host=nn.wersad.dpdns.org&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.30.168:443
 vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@188.114.96.92:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.92:443
@@ -502,4 +503,3 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.165.226:443?security=tls&sni
 vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@172.64.68.58:443?security=tls&sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.68.58:443
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.175.176:8443?security=tls&sni=de1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-195.181.175.176:8443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.70:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.208.70:8880
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.140:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.140:80

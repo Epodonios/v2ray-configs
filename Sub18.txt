@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+trojan://Aimer@104.18.123.117:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.123.117:2053
 trojan://Aimer@104.17.188.219:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.188.219:443
 trojan://Aimer@162.159.44.236:443?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.236:443
 trojan://Aimer@108.165.152.78:2083?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.78:2083
@@ -502,4 +503,3 @@ trojan://Aimer@162.159.153.187:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
 trojan://Aimer@154.197.64.196:2087?security=tls&sni=agepj.ambercc.filegear-sg.me&type=ws&host=agepj.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.196:2087
 trojan://Aimer@108.165.152.58:2087?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.58:2087
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip#🔒 TR-WS-TLS 🇬🇧 GB-217.163.76.227:443
-trojan://Aimer@104.16.10.64:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.10.64:443
