@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@156.238.18.162:2087?security=tls&sni=smart.trainofy.info&type=grpc#🔒 VL-GRPC-TLS 🇯🇵 JP-156.238.18.162:2087
+vless://d984caa3-c94f-4e47-bac8-7cd4c210fb7c@104.26.14.16:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=%2F2096%2F%40V2RayyNGVpn&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:2096
+vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?security=tls&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:8443
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.18.1.22:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.22:443
 vless://f055d270-0e76-4a41-a53f-871bbb51b003@190.93.247.172:443?security=tls&sni=what.zhonghuoxing.top&type=ws&host=what.zhonghuoxing.top&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.172:443
 vless://3df9e1f8-9d05-4452-b5b6-dede049231a2@162.159.195.96:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.96:443
@@ -500,6 +503,3 @@ vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.142.120.158:8880?security=none&t
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.55.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-195.13.55.29:8880
 vless://908fe4f8-eb66-42eb-bd97-8d88be7f0ac4@104.17.233.65:2053?security=tls&sni=txmt.conetcdata.dpdns.org&type=ws&host=txmt.conetcdata.dpdns.org&path=%2FTelegram%40zede_filteri%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.233.65:2053
 vless://c23462c4-986a-402e-80f8-dce5e1e893c0@164.38.155.156:443?security=tls&sni=cdn.maviks.eu&type=httpupgrade&host=cdn.maviks.eu&path=%2FMaGLM25tSikPTFr75Q0Yri&fp=chrome#🔒 VL-HTTPUPGRADE-TLS 🇬🇧 GB-164.38.155.156:443
-vless://17d87202-4ca2-49d2-9c90-5eca029c97f6@104.21.8.209:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.8.209:80
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.228:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.7.174:443

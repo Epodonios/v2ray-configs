@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.230.135:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.230.135:443
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.178.177:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.178.177:2087
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.238:8880?security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.238:8880
 vless://be68b2c8-835a-423d-a070-c0831e741b36@109.61.42.127:5511?security=none&type=grpc#🔒 VL-GRPC-NONE 🇦🇪 AE-109.61.42.127:5511
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@104.26.12.101:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.12.101:8880
 vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80
@@ -500,6 +503,3 @@ vless://ac7bcf0a-ef69-4949-aff2-a93630021826@104.26.12.101:443?security=tls&sni=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.192:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.192:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.245:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.245:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.116:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.116:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.59:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.59:8880
-vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.17.165.1:443?security=tls&sni=z.softmeto.site&type=xhttp#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.17.165.1:443
-vless://ad8aa9eb-7120-4953-a877-e7206f5a7c3c@188.114.99.99:2096?security=tls&sni=tarasvalete.parhamtraberthos.IR.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2096

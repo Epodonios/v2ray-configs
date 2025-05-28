@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://de67740f-b6fe-4844-adb0-55431f2e162c@65.109.200.1:1483?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.200.1:1483
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@154.83.2.235:443?security=tls&sni=cvarad3.taban-rason.space&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇵🇭 PH-154.83.2.235:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.66.29:8880?security=none&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇱🇹 LT-88.216.66.29:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.79:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.79:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.42:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.42:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.54:443?security=tls&sni=PPaL03.AbDulLAH-MAVerYcK.woRKeRS.DEv&type=ws&host=pPal03.aBDuLlaH-maverYCk.workeRs.deV&path=%2FTelegram%40MTMVPN---MTMVPN%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.54:443
@@ -500,6 +503,3 @@ vless://10b59513-ef76-4494-a925-305ec45dd3a4@138.124.116.112:2040?security=tls&s
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@159.112.235.193:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-159.112.235.193:8880
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.210.89:443?security=tls&sni=vp28.hiddendom.shop&type=grpc&host=vp28.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.210.89:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.203:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.195.203:443
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@89.187.174.104:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇳🇱 NL-89.187.174.104:8443
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.239:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.64.239:80
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@162.120.94.51:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-162.120.94.51:8880
