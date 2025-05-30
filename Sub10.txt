@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@147.78.140.58:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇧🇬 BG-147.78.140.58:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.126:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.126:80
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.194.120:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.120:80
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.113:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%20re.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.113:443
@@ -502,4 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.28:80?sni=cs.laoyoutiao
 vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@172.66.47.179:443?security=tls&sni=rn-us-node.woxihuan.dpdns.org&type=ws&host=rn-us-node.woxihuan.dpdns.org&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.179:443
 vless://647c5c62-01e4-426e-90ac-b97e00d039b5@172.64.81.129:2083?security=tls&sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.81.129:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.7.207:80?sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.207:80
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@159.246.55.230:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-159.246.55.230:8443
