@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.18:9040#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9040
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.247:8882
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@104.21.16.1:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.16.1:443
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.93:7306#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.93:7306
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@139.28.4.95:8080#🔒 SS-TCP-NA 🇦🇲 AM-139.28.4.95:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQ0ZmbERnTm41Qzg5SU1BOG10OWNn@62.60.234.92:53579#🔒 SS-TCP-NA 🇱🇻 LV-62.60.234.92:53579
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.66:2377#🔒 SS-TCP-NA 🇹🇼 TW-211.72.214.66:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🔒 SS-TCP-NA 🇹🇭 TH-119.59.98.58:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.138:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.28.138:2377
@@ -497,9 +503,3 @@ trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&type=tcp
 trojan://Aimer@89.248.207.37:443?sni=epcci.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5154
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZ3I2WUJIRW5wZnQ=@178.22.31.239:443#%E6%9C%AA%E7%9F%A5155
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#US25
-trojan://NISHIKUITAN111@104.24.140.72:443?#%E6%9C%AA%E7%9F%A5156
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.132:6697#US26%2029.4KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVMyNyIsImFkZCI6IjE5OC4yNTEuODMuMjA4IiwicG9ydCI6IjQ1MjcxIiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMjcifQ==
-
-hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#3%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.228.235.1:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%204.4MB/s%7C30%25%7COpenai
