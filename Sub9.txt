@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.216.129:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.159.216.129:443
-vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80?type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.184.113:80
-vless://da1796fd-0916-4939-8c5e-e9593593f96c@172.67.204.120:2083?security=tls&sni=mas3f2e9e7a0-76d0-6ef2-8403-2a2ccb5da856.890602.xyz&type=ws&host=mas3f2e9e7a0-76d0-6ef2-8403-2a2ccb5da856.890602.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.120:2083
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.54.0:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.54.0:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@14.39.172.147:30069?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒 VL-WS-TLS 🇰🇷 KR-14.39.172.147:30069
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@217.163.76.97:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇬🇧 GB-217.163.76.97:443
@@ -503,3 +500,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@152.67.74.223:443?security=tls&sni=
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.13.54:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
 vless://d3c62dea-ac54-4163-ab3f-20d6ef9f8420@104.16.138.167:2083?security=tls&sni=1.659118019.uk&type=ws&host=1.659118019.uk&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.138.167:2083
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.105:8880?security=none&sni=pqf1v1.fomula1race.shop&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.105:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@198.41.214.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.214.20:8880
+vless://4d877e02-e49f-47d3-a542-42b568ceee02@162.159.195.206:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.206:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.157:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.157:8880
