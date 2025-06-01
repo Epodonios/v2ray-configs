@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?security=tls&sni=GgGgr.PaGES.dEV&type=ws&host=GgGgr.PaGES.dEV#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.15:443
-vless://ed37675e-12d0-4782-8352-d851ede3e961@172.64.33.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.81:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.126:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.126:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@198.41.199.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.199.20:8880
-vless://e36927d6-1ce7-4beb-bd17-11f78506aff8@151.101.192.84:80?security=none&type=xhttp&host=yyyy-dd-mm-de.global.ssl.fastly.net&path=%2F#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.192.84:80
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.245:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40ShadowProxy66#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.245:80
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@104.18.23.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 vless://647c5c62-01e4-426e-90ac-b97e00d039b5@190.93.244.85:2087?security=tls&sni=my126.worldip.dpdns.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.85:2087
@@ -503,3 +498,8 @@ vless://06fa2c71-38a0-4a4c-8493-8dc716ab1adf@151.101.194.219:443?security=tls&sn
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@168.100.6.11:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-168.100.6.11:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.70:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.70:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@216.205.52.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-216.205.52.29:8880
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.148.106.56:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.148.106.56:2087
+vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.124:80
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@66.81.247.43:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.43:2096
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.26:8880
+vless://2c699fc7-cc37-4ca3-a7fe-c7ab9355a248@141.147.33.180:443?security=tls&flow=xtls-rprx-vision&sni=767w1-85dc0-9yjd.xn--4gq62f52gppi29k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇩🇪 DE-141.147.33.180:443
