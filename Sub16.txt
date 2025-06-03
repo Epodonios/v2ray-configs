@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇷🇺 RU-45.8.211.71:443
 vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@109.61.17.90:6587?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-109.61.17.90:6587
 vless://822abf1e-f617-407b-9ff0-ce40eb821f71@190.93.247.119:2083?sni=abc.jaiven.dedyn.io&type=ws&host=abc.jaiven.dedyn.io#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.247.119:2083
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@108.162.193.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.10:443
@@ -502,4 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.6:80?type=ws&host=us.la
 vless://4679efd2-1467-4392-b8c1-39df418b6ce1@104.17.195.81:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.195.81:443
 vless://8185cea6-0540-4f23-9182-b608d22dc620@172.67.58.118:2052?security=none&type=httpupgrade&host=hygygbygy.hehdhhdhdjrj-jrjdjjdj-bdhdbdhdh-vdhdhdbbd.BLOG&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.58.118:2052
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@27.50.48.252:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-27.50.48.252:8880
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.72:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.105.72:443

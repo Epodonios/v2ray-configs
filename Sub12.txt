@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.88.226:443?security=tls&sni=5eR.WWW890604.dPDNS.OrG&type=ws&host=5er.www890604.dpdns.org&path=%2FC1SukvGdr58yeduy9AOG&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.226:443
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.195.92:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.92:443
 vless://807b2717-e1ac-4209-933b-b04076cddde9@206.238.237.212:443?security=tls&sni=amedo.ambercc.filegear-sg.me&type=ws&host=amedo.ambercc.filegear-sg.me&path=/?ed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.212:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.3.11:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.3.11:2052
@@ -502,4 +503,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.207:443?security=tls&sni=e
 vless://f3130b95-9ee8-4c6e-b0c4-50606dd0e9f2@104.24.141.216:2083?security=tls&sni=go-79m.pages.dev&type=ws&host=go-79m.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.141.216:2083
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.209:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.209:443
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@190.93.246.241:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.241:443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.56:443?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇷🇺 RU-45.67.215.56:443
