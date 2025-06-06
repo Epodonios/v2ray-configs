@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://908fe4f8-eb66-42eb-bd97-8d88be7f0ac4@104.17.233.65:2053?security=tls&sni=txmt.conetcdata.dpdns.org&type=ws&host=txmt.conetcdata.dpdns.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.233.65:2053
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.8.211.119:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-45.8.211.119:8880
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@140.99.233.176:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-140.99.233.176:8880
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@8.222.178.214:6666?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇸🇬 SG-8.222.178.214:6666
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.37.33:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.37.33:443
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?security=none&type=ws&host=gozargah.validbv7996.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:80
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.34.120:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.34.120:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.14.5:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.14.5:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@170.114.45.21:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-170.114.45.21:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.35.228:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.35.228:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.96.1:8880?security=none&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.96.1:8880
@@ -495,11 +503,3 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.162.133:443?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.7.41:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.41:443
 vless://5bb66394-b962-494a-bdf3-ff976c67500f@140.248.180.62:443?security=tls&sni=Channel-MOSI%562-MOSI%562.IR&type=ws&host=Channel-MOSI%562-MOSI%562.IR&path=%2FCh%61nn%65l-MOSI%562--MOSI%562--Ch%61nn%65l-MOSI%562--MOSI%562%3Fed%3D2560&fp=qq&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-140.248.180.62:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.83.2.217:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇵🇭 PH-154.83.2.217:8880
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@194.36.55.247:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🇬🇧 GB-194.36.55.247:443
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&host=google.com&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.195:443
-vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.248.204:80
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.55:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.55:443
-vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@188.114.96.160:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.160:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.0:443?security=tls&sni=PPaL03.ESHAan-KyLIN.wORKeRS.DEv&type=ws&host=ppAL03.EsHaAn-kylIN.worKErS.Dev&path=%2FEHThwbZNpd2fnT1c%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.0:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.82:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.82:443
