@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://trojan@172.67.130.66:443?security=tls&sni=test-a23.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.130.66:443
-trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.77.44:443?security=tls&sni=x4444.890603.xyz&type=ws&host=x4444.890603.xyz&path=%2FxJXdWGMbbZovkcaL2SsGTGxE&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.77.44:443
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.76:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.76:2053
 trojan://Aimer@46.254.93.37:8443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-46.254.93.37:8443
 trojan://Aimer@51.195.47.243:8443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇩🇪 DE-51.195.47.243:8443
@@ -503,3 +501,5 @@ trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?security=tls&sni
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.184:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.184:2053
 trojan://Aimer@162.159.143.47:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.143.47:443
 trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@172.67.218.63:443?security=tls&sni=M4rrT.999157.XYz&type=ws&host=m4rrt.999157.xyz&path=/NuDL4mLrBwsbnEcmJLxC#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.218.63:443
+trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&sni=007.com&type=grpc#🔒 TR-GRPC-TLS 🇹🇼 TW-60.249.28.59:443
+trojan://Aimer@104.16.149.162:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.149.162:443

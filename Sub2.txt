@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#🔒 VL-TCP-RLT 🇰🇿 KZ-176.120.72.63:38339
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#🔒 VL-TCP-RLT 🇷🇺 RU-5.181.171.10:443
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#🔒 VL-TCP-RLT 🇦🇱 AL-45.15.170.80:28495
 vless://b357d11e-48ff-483f-969e-e72c380341f5@165.232.33.67:8440?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=firefox&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#🔒 VL-TCP-RLT 🇬🇧 GB-165.232.33.67:8440
 vless://f14d0d37-9c0e-4376-9d33-94aba1859e47@45.150.174.80:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔒 VL-TCP-RLT 🇩🇪 DE-45.150.174.80:8443
@@ -503,3 +501,5 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.21.89.147:2053?security=tls&sni
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.254.147:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.254.147:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.159.34:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.159.34:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@156.238.18.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-156.238.18.26:8880
+vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🇱🇹 LT-86.38.214.30:2052
+vless://428287e2-0a51-42d5-89a5-d07f5f10a481@172.67.184.29:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.184.29:8080

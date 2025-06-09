@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@77.37.33.62:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-77.37.33.62:8880
-vless://39a2588a-2980-4ae6-a32e-63fb3456daef@104.24.240.115:2053?security=tls&sni=xpvip168.eu.org&type=ws&host=xpvip168.eu.org&path=%2F%3Fed%3D2560security%3Dtls#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.240.115:2053
 vless://47e9a0db-50c6-4522-8819-502c55b06dde@159.112.235.174:2082?security=none&type=ws&host=workerr.schodog1.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-159.112.235.174:2082
 vless://66623734-6266-4361-b037-613830383631@162.159.135.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.232:443
 vless://1da18cc1-8a80-4671-b79c-6c9375bed1b2@172.67.137.175:8880?security=none&type=ws&host=Mystic-vpn.academivpn-mystic.site.&path=%2FTelegram-Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn---Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn-Admin-Mystic_vpn%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.137.175:8880
@@ -503,3 +501,5 @@ vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.18.20.62:443?security=tls&sni=x
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.46.30.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-209.46.30.29:8880
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.205.0.58:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.205.0.58:443
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@104.21.10.34:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.34:443
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.242.126:443?type=ws&host=4h5.ghalikermaniz.info&path=/#🔒 VL-WS-NA 🇩🇪 DE-188.245.242.126:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.246:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.247.246:8880

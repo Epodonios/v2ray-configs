@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://bc04292b-d7e6-4966-b6ab-c9fe5f30fba3@104.26.11.176:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.176:443
-vless://3d2cbfd1-b6ef-49fb-8fc3-c1623c66da59@104.16.0.77:80?type=ws&host=us2.xyxy.dpdns.org&path=%2Fgb5xvq6h#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.0.77:80
 vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=none&sni=order.fortgift.ir&type=ws&host=order.fortgift.ir&path=%2Fz5lsHF5zQrd1rJDr#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.3:8080
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.110:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.110:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.54:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.54:8880
@@ -503,3 +501,5 @@ vless://4ed35d81-30af-489d-aecc-7adc611a256a@185.148.105.52:443?security=tls&sni
 vless://3df93bd0-ae17-46db-92e5-90bff99762c0@188.114.97.253:2083?sni=cmp.danjun.ddns-ip.net&type=ws&host=cmp.danjun.ddns-ip.net&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.97.253:2083
 vless://74b56295-1845-4b22-b9a7-85b733218451@45.95.186.44:50004?security=tls&sni=etc.mesa.ip-ddns.com&type=ws&host=etc.mesa.ip-ddns.com&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-45.95.186.44:50004
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.32:80?type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-185.148.106.32:80
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.13.174:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.13.174:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.35:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-194.53.53.35:80
