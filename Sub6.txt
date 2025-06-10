@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?security=tls&sni=NGINX-Z.pages.DEV&type=ws&host=nginx-z.pages.dev&path=%2Fassets%3Fed%3D2560&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🇹🇷 TR-62.3.12.185:443
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@118.37.73.36:11953?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇰🇷 KR-118.37.73.36:11953
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.199:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.199:443
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@91.193.59.187:2052?security=none&type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-91.193.59.187:2052
 vless://880dd128-51d5-509c-8bd2-f1182c33e4c0@172.67.189.176:443?security=tls&sni=cdnt575678568.erfantop.ir&type=ws&host=cdnt575678568.erfantop.ir&path=%2Fvless%2F%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20%3Fed%3D2052&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.176:443
@@ -503,3 +501,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.245.98:8880?sni=reedfree8mahsa
 vless://35fcfcfd-001e-45c6-9111-913767b12d06@104.21.80.1:8443?security=tls&sni=mas41.459.pp.ua&type=ws&host=mas41.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:8443
 vless://e5b9b393-bac0-4bea-ad96-53acc299e622@104.21.48.1:2053?security=tls&sni=sUpERcARs.GObExoR577.WOrKeRS.DEV&type=ws&host=supercars.gobexor577.workers.dev&path=%2FCNyqIlsUzDQhx137%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.1:2053
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.105.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-185.148.105.20:8880
+vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.249.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.249.203:2096
+vless://38f53254-2252-4497-a42a-bc07e087246b@172.67.221.169:443?security=tls&sni=test.digikala-aparat-zula.com&type=ws&host=test.digikala-aparat-zula.com&path=%2Fadmin#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.169:443

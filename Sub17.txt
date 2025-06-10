@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://cad5a49f-14e5-4a05-aae9-c5df8fad394f@104.21.14.54:443?security=tls&sni=c1swER.777159.xYz&type=ws&host=c1swer.777159.xyz&path=%2FM31AlZi4vavXqXENw4Z4&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.14.54:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.165.216.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-108.165.216.29:8880
 vless://44ae2a63-403b-40b2-9102-45eaf462df02@104.24.75.75:443?security=tls&sni=sol.us.kg&type=ws&host=sol.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.75.75:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.12.41:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.12.41:443
 vless://82fd9622-83a8-4378-92d6-dcb4a2787d63@130.61.124.127:443?security=tls&sni=qwok.feidyql.dpdns.org&type=ws&host=qwok.feidyql.dpdns.org&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-130.61.124.127:443
@@ -503,3 +501,5 @@ vless://9c7e9c02-d37a-4f3c-b860-6460a6ff473b@104.24.21.212:2096?security=tls&sni
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?security=none&type=ws&host=photographipictureai.ir#🔒 VL-WS-NONE 🇬🇧 GB-185.170.166.242:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.165.152.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-108.165.152.29:8880
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.60:80
+vless://401374e6-df77-41fb-f638-dad8184f175b@159.246.55.28:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-159.246.55.28:443
+vless://82d5e8f8-11f9-45c6-b602-2920d9c39bd2@104.26.12.31:443?security=tls&sni=ip.sb&type=xhttp&host=de.ovo2024.dpdns.org&path=f743e7c4&allowInsecure=1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.26.12.31:443

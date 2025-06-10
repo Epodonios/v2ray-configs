@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.220:443?sni=icecream.955850.xyz#🔒 TR-TCP-NA 🇺🇸 US-160.79.105.220:443
-trojan://Aimer@162.159.143.89:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.143.89:443
 trojan://Aimer@162.159.45.156:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.45.156:8443
 trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.189:443
 trojan://vip@172.67.71.122:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.71.122:443
@@ -503,3 +501,5 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.80:3306#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.251:8080
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.198:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#🔒 SS-TCP-NA 🇻🇳 VN-103.163.218.2:989
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#🔒 SS-TCP-NA 🇩🇰 DK-192.36.27.94:989
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.236:443

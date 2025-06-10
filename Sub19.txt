@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.226:80?security=none&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=%2F---%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.226:80
-vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@45.131.5.211:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&path=%2FTl%40vlees_v2rayng%3Fed%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.211:8443
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@104.18.18.222:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.18.222:443
 vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.32.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔒 VL-WS-TLS 🇺🇸 US-216.239.32.21:443
 vless://6bc29783-3ff6-4379-8650-611a7095307b@54.179.89.113:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b295-23ap29-6bh.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒 VL-TCP-TLS 🇸🇬 SG-54.179.89.113:443
@@ -503,3 +501,5 @@ trojan://Aimer@104.16.116.28:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://Aimer@47.79.90.82:8843?sni=epccx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇯🇵 JP-47.79.90.82:8843
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.243:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.243:2053
 trojan://NISHIKUITAN111@198.41.205.240:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.205.240:443
+trojan://Aimer@46.254.92.142:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-46.254.92.142:2087
+trojan://Aimer@162.159.129.29:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.129.29:443
