@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://87ced8c4-b4d4-4c7b-ba67-11b78833a1b6@172.66.44.68:443?security=tls&sni=37c60f8d.ALBAnGURaKUqi.paGEs.dEv&type=ws&host=37c60f8d.ALBAnGURaKUqi.paGEs.dEv&alpn=h2%2Chttp/1.1&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.68:443
+vless://f7b426d7-14fc-34fe-11ce-703760c38b9f@151.101.7.10:443?security=tls&sni=github.io&type=xhttp&host=kazem-kakero.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.7.10:443
+vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2096?security=tls&sni=us-228.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:2096
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.179:8880
+vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@188.114.97.201:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.201:443
 vless://6bc29783-3ff6-4379-8650-611a7095307b@54.179.186.107:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒 VL-TCP-TLS 🇸🇬 SG-54.179.186.107:443
 vless://e917db16-e9b4-4aa7-8a77-617f5e82f1f8@172.67.110.101:8080?type=ws&host=816tg.3wzxh3.workers.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.110.101:8080
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?security=tls&sni=vkvd127.mycdn.me&type=ws&host=bnnm.azurewebsites.net&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇰🇷 KR-52.231.38.95:443
@@ -498,8 +503,3 @@ vless://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.219.196:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.33.100:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.33.100:2052
 vless://3232953e-5959-495c-b969-d6d86a635089@172.67.165.251:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.251:443
 vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.18.15.16:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.16:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.37.33:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.37.33:443
-vless://908fe4f8-eb66-42eb-bd97-8d88be7f0ac4@172.67.195.73:2053?security=tls&sni=txmt.conetcdata.dpdns.org&type=ws&host=txmt.conetcdata.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.195.73:2053
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.67.144.9:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.9:443
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.34:8880
-vless://807b2717-e1ac-4209-933b-b04076cddde9@206.238.237.212:443?security=tls&sni=amedo.ambercc.filegear-sg.me&type=ws&host=amedo.ambercc.filegear-sg.me&path=/?ed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.212:443

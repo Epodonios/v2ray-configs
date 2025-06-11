@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.236:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.236:8880
+vless://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.16.163.16:443?security=tls&sni=edgetunnel-3pc.pages.dev&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.163.16:443
+vless://adec6fda-bd8b-4348-a3d8-a82c3d270532@188.114.98.13:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.13:443
+vless://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=xXCdFRt.222560.XyZ&type=grpc&serviceName=fjpweaMxKblWR0QwhWm3F&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.149.202:443
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.247.78:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.124:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.124:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.23:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.23:80
 vless://4eec7bc2-6bfd-4e54-b0a4-5890e8f97439@141.148.196.208:443?security=tls&flow=xtls-rprx-vision&sni=dj-downloadin.xn--4gq62f52gopi49k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇮🇳 IN-141.148.196.208:443
@@ -498,8 +503,3 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.12.30.132:443?security=tls&sni=m
 vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2053
 vless://3df93bd0-ae17-46db-92e5-90bff99762c0@104.16.198.126:443?sni=cmp.danjun.ddns-ip.net&type=ws&host=cmp.danjun.ddns-ip.net&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.126:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.12:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.12:443
-vless://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.24.130.17:443?sni=taoj.eu.org&type=ws&host=taoj.eu.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.130.17:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.252:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.252:80
-vless://84630ddd-b04a-4494-aa3a-b831a9873b81@172.66.168.218:443?security=tls&sni=maxnetvipaP-us4.NetKh3.sItE&type=ws&host=maxnetvipaP-us4.NetKh3.sItE#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.218:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇴 RO-45.12.31.20:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.144.27:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.144.27:443
