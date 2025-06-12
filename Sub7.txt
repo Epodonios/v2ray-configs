@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://a9bc52a0-7993-4bd8-9326-0330b1a7f698@104.16.225.238:443?security=tls&sni=8.kongcheng666.dpdns.org&type=ws&host=8.kongcheng666.dpdns.org&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.225.238:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.14:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.14:8880
 vless://3fefc100-faed-43ad-b087-d47ddfe75121@23.227.60.7:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=Path%2FTelegram@proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.7:443
 vless://8edae61f-5940-4abe-a30e-570dcdec8e18@104.18.6.36:8443?sni=testvless2-ah2.pages.dev&type=ws&host=testvless2-ah2.pages.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.6.36:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.230:8880?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.230:8880
@@ -503,3 +501,5 @@ vless://3e33f29c-44aa-49aa-94f7-fac8fd018b9e@38.225.102.22:43000?security=tls&fl
 vless://8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9@173.245.58.100:2086?security=none&type=httpupgrade&host=soed.serrjioo.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.100:2086
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.122:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-45.150.115.122:8880
 vless://4aaa257a-be34-4fca-a25e-c2fa17159c3c@37.32.43.27:5019?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.43.27:5019
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@161.145.150.29:2083?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-161.145.150.29:2083
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053?security=tls&sni=MaHdisErVEr-asl.pAGEs.DEv&type=ws&host=mAHdIserveR-asL.paGES.dEv&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.59.70:2053
