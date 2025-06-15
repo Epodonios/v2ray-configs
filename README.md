@@ -22,6 +22,7 @@ This script collects several thousand V2ray configurations every five minutes, a
 #### IOS:
 1. fair
 2. streisand
+3. hiddify
 
 #### Windows and Linux:
 1. hiddify-next
