@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.57:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-45.142.120.57:8880
+vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443?security=tls&sni=ZYzzZoAO.putata.eU.Org&type=ws&host=zyzzzoao.putata.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.252.217:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@162.159.134.85:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.134.85:443
 vless://255b4df3-080b-4846-866c-24992a29467d@146.75.106.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Kowroshhormozvpn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.106.133:443
 vless://dd3d18b9-28df-4680-a79e-e1c0c8d5496d@172.67.68.242:443?security=tls&sni=azarandooz.prospective.workers.dev&type=ws&host=azarandooz.prospective.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.242:443
@@ -501,5 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.105.29:8880?sni=hk.laoyouti
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.234:80?path=Telegram#🔒 VL-TCP-NA 🇯🇵 JP-156.238.18.234:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.1:80?path=Telegram🇨🇳#🔒 VL-TCP-NA 🇺🇸 US-141.193.213.1:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.207:443?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.207:443
-vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@104.16.64.38:8080?security=none&type=ws&host=b2.iraniancp.click#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.64.38:8080
-vless://832accbb-e9ca-4ae9-9f52-9aaafaa28e8a@172.67.202.251:8443?security=tls&sni=w-FM31C626b071M8Zad1Z891u-AzF81b.VazIfeDANmOHAmMaD8.WORKErS.dEv&type=ws&host=w-fm31c626b071m8zad1z891u-azf81b.vazifedanmohammad8.workers.dev&path=%2Fj0xDXbyZ80VEDnnx%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.251:8443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://f14d0d37-9c0e-4376-9d33-94aba1859e47@185.193.158.10:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒 VL-TCP-RLT 🇳🇱 NL-185.193.158.10:8443
+vless://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.85:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔒 VL-TCP-RLT 🇩🇪 DE-45.150.174.85:8443
 vless://51633696-7053-499e-add5-d8473eda3440@64.44.158.121:36800?security=reality&sni=www.microsoft.com&type=xhttp&path=%2Fv2raybluecrystal&fp=chrome&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&sid=9fd097cb4d#🔒 VL-XHTTP-RLT 🇺🇸 US-64.44.158.121:36800
 vless://a6fe2ebd-a8df-4be7-a4df-d7f671513088@45.144.48.180:2083?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=@Hormozv@hormozvp@Hormozv@hormozvp@Hormozv@hormozvp@Hormozv@hormozvp@Hormozv@hormozvp@Hormozv@hormozvp&fp=firefox&pbk=kiWKh0alnh0SU6PPIWUOaJyByPoepDlCbfxHw94QHCI&sid=775e2976#🔒 VL-GRPC-RLT 🇵🇱 PL-45.144.48.180:2083
 vless://8517f922-b0e7-4386-a723-d3a7f8d29fca@94.131.101.102:8443?security=reality&flow=xtls-rprx-vision&sni=DEDUso.su&type=tcp&fp=chrome&pbk=I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0&sid=a4eed13ebbf2f9d2#🔒 VL-TCP-RLT 🇺🇸 US-94.131.101.102:8443
@@ -501,5 +503,3 @@ vless://4b7251f3-d895-4c5b-8108-b83e80c73c3f@104.16.124.207:443?sni=pzdxlzk97.dp
 vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.18.5.182:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.182:443
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@198.41.196.17:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.196.17:443
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.57.77:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@194.36.55.55:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=/&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.55:8443
-vless://cc37532d-3158-44b6-aa05-1eb9064fcff0@62.60.147.73:23245?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.147.73:23245

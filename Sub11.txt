@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://f184c89c-80a4-4a3a-bc67-97db43266c11@89.22.239.172:8443?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-89.22.239.172:8443
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.66.47.24:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.47.24:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.61:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.61:8880
 vless://b072d14f-133d-4f9f-e3d8-1185e6a00533@66.211.168.9:80?security=none&type=ws&host=JOKERRVPN.com&path=%2FTELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN,TELEGRAM-@JOKERRVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-66.211.168.9:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@102.177.176.140:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇿🇦 ZA-102.177.176.140:8880
@@ -501,5 +503,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.0.62:443?security=tls&sni=a.
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-45.192.222.213:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.87:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.87:80
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?security=tls&sni=5eR.WWW890604.dPDNS.OrG&type=ws&host=5er.www890604.dpdns.org&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.179:443
-vless://34b8b791-c2a0-4dff-9893-1c9054f0aca7@154.17.229.82:443?security=tls&sni=usa.carvic.me&type=ws&path=%2Fbing#🔒 VL-WS-TLS 🇺🇸 US-154.17.229.82:443
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.13:443?security=tls&sni=147135001178.sec22org.com&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.14.13:443
