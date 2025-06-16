@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.74.213:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net%2F#🔒 VL-WS-NONE 🇺🇸 US-135.84.74.213:8880
 vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.136.234:8443?security=tls&sni=v-2rey-channel.pages.dev&type=ws&host=v-2rey-channel.pages.dev&path=%2FTeleram%3A+%40v_2ray#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:8443
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?security=tls&sni=nb.bgm2024.dpdns.org&type=ws&host=nb.bgm2024.dpdns.org&path=/ss.vs2024.us.kg#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.117:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@198.41.221.222:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.221.222:443
@@ -502,4 +503,3 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@193.9.49.83:2096?security=tls&sni=S
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.190:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.190:8880
 vless://d118038f-0d72-4b45-8cce-bcf237487f41@188.114.98.175:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.175:443
 vless://c6945a21-0abf-4e19-91dd-e9145ce4a8cc@104.21.88.9:443?security=tls&sni=Fl9f9ZCNhrfnVKA1OYa84yY6p44DHfQp.tuRbOoseRVER.wORKeRS.deV&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&path=%2F2PNbAmbRoAqtRj0f%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.9:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.225.81:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.225.81:443

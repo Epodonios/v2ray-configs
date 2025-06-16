@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://4b1e7834-4565-4c91-99fe-c55139e74882@172.67.186.148:8443?security=tls&sni=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.148:8443
 vless://4ed35d81-30af-489d-aecc-7adc611a256a@185.148.105.52:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=/?ed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.105.52:443
 vless://aa39887e-2572-4665-b9a9-491d21e492e4@94.182.136.62:443?security=none&type=tcp&host=yjc.ir%2Ccloudflare.com%2Cwww.speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.136.62:443
 vless://f411e405-da5e-47aa-93bb-8454c6f59ae1@104.21.44.185:2087?security=tls&sni=MEhRNeWs.oNEtwotHree123.Ir&type=ws&host=mehrnews.onetwothree123.ir&path=%2Fm3PXEz1aEnAZ7wb9bS7H1OOKD&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.185:2087
@@ -502,4 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.24.224:8880?sni=reedfree8ma
 vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.24.9.204:80?type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.9.204:80
 vless://4337e327-c77e-4ae3-a376-0374fb82eca1@45.67.215.44:2096?security=tls&sni=Join-Channel-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.44:2096
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.158:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.158:80
-vless://46df0d48-8dea-49ab-974e-2256e4c2b1b8@185.133.35.118:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🔒 VL-WS-NONE 🇧🇷 BR-185.133.35.118:80
