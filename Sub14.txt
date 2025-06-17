@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@188.114.96.254:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.254:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.98:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.98:443
 vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.1.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.1.117:2083
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.142.196:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.196:443
@@ -502,4 +503,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.10.210:443?sni=xv6.jpmj.dpdn
 vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?security=tls&sni=Ppal03.ally-Hirthe.wOrKERs.DEv&type=ws&host=ppaL03.Ally-hIRthE.woRkErs.DeV&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.39:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?security=none&type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.153:2095
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.159:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇰🇿 KZ-185.176.26.159:8880
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.101:443?security=tls&sni=147135011033.sec21org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-135.148.97.101:443

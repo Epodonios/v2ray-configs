@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.21.74.124:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.124:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.76:80?sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40ShadowProxy66%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.76:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-45.192.222.63:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.129.163:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.163:443
@@ -502,4 +503,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.72.18:443?security=tls&sni=v
 vless://bbcf346d-b058-4a72-b471-a606e25b6775@162.159.193.4:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.193.4:443
 vless://a7c9c017-db10-4d15-b01b-0634db498b57@104.21.13.36:443?security=tls&sni=XcdvfGBnHU7.0890604.XyZ&type=ws&host=xcdvfgbnhu7.0890604.xyz&path=%2FxZjr7v1DqrYyamxeTh7sLJtI1&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.36:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.43:2096?security=tls&sni=1749800520363.wk.by.ktff.ss#🔒 VL-TCP-TLS 🏴‍☠️ NA-141.101.121.43:2096
-vless://bcad1dbf-6ab3-4516-b51c-37213737c2e4@94.247.142.1:80?type=ws&host=APPinfo.EiNETWORK.NEWS#🔒 VL-WS-NA 🇬🇧 GB-94.247.142.1:80
