@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://82fd9622-83a8-4378-92d6-dcb4a2787d63@132.145.94.80:443?security=tls&sni=qwok.feidyql.dpdns.org&type=ws&host=qwok.feidyql.dpdns.org&allowInsecure=0#🔒 VL-WS-TLS 🇰🇷 KR-132.145.94.80:443
 vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@104.26.12.140:8443?security=tls&sni=qing-dbz.pages.dev&type=ws&host=qing-dbz.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:8443
 vless://41454b20-c9f8-4392-85df-fb6c69447c59@146.75.94.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=joinbede_unlimiteddev.ir#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.94.133:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.116.7.158:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-103.116.7.158:443
@@ -503,3 +502,4 @@ vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.19.186.16:443?security=tls&sni=
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.4.211:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.4.211:8880
 vless://9314580d-c11e-4f32-d544-566e6142565a@104.26.13.31:8080?type=ws&host=0612.heweiyi.dpdns.org&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.13.31:8080
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.156:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-198.62.62.156:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.252.181:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.252.181:443

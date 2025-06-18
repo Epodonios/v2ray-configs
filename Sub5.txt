@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.153.74:2083?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.74:2083
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@86.38.214.85:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-86.38.214.85:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@184.174.80.199:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-184.174.80.199:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.112:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.112:8880
@@ -503,3 +502,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.147:8880?security=none&s
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.146:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.105.146:443
 vless://32b1630f-7964-4d58-847c-1cea931e60ed@172.67.127.210:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.127.210:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇵🇭 PH-154.83.2.20:8880
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.249.6:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.249.6:443

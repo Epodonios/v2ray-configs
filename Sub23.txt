@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://716e8c06-40e6-41ae-82ca-db79b41112c2@172.67.29.218:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.29.218:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.155.150:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.155.150:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.146.173.39:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com&path=%2FFKnSNrPXVx6punGp%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.39:2083
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.118:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.118:8880
@@ -503,3 +502,4 @@ trojan://851418c5-a1f0-453c-b8f8-24664990bdf8@220.130.58.136:28504?sni=green2.cd
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10103?sni=sni.eos-suzhou-4.cmecloud.cn&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:10103
 trojan://Aimer@162.159.153.125:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.153.125:443
 trojan://amclubs@154.83.2.61:8443?security=tls&sni=tran.amclubstest.nyc.mn&type=ws#🔒 TR-WS-TLS 🇵🇭 PH-154.83.2.61:8443
+trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.159.5:443

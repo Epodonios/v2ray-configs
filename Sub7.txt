@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.246:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-45.142.120.246:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.162.230.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇦🇲 AM-185.162.230.213:8880
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@172.67.69.188:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.188:443
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:443?security=tls&sni=pari.parinazz.dpdns.org&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.114.48:443
@@ -503,3 +502,4 @@ vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@162.159.192.144:443?security=tls&sn
 vless://897a4bec-26b8-11e8-94be-00505695472c@198.41.220.221:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.220.221:443
 vless://fe4dca53-b4bb-4c57-c52a-e1cfd910ab5c@46.254.93.124:80?type=httpupgrade&host=sNaPp.TiMeClAsSiC.iR.&path=%2FJoin--HAJIMAMADVPN%3Fed%3D80#🔒 VL-HTTPUPGRADE-NA 🇷🇺 RU-46.254.93.124:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.105:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.30.105:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.2:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.2:8880
