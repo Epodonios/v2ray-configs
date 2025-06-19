@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.13.229:443?security=tls&sni=add.lobia.sbs&type=ws&host=add.lobia.sbs&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.229:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.144:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.85.118.144:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-160.79.105.63:8880
 vless://fa0ebd45-fadc-4f0e-b191-ccf73f5aefb4@172.67.219.54:80?type=ws&host=c1h.huangdi2031.dpdns.org&path=%2FhD9Bsvo2iASdyMAdtxLQhzLw#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.219.54:80
@@ -503,3 +502,4 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.209.12:443?security=tls&sni=
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@172.64.40.240:443?sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.40.240:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.244.104:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.244.104:8880
 vless://69d6a749-1cc8-4322-da5e-b9a74ae83ba5@172.67.212.82:2053?security=tls&flow=xtls-rprx-vision&sni=m1s.131.pp.ua&type=ws&host=m1s.131.pp.ua&path=%2Fm1s.131.pp.ua#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.82:2053
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:45888?sni=edccs.aimercc.filegear-sg.me&type=ws&host=edccs.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇹🇼 TW-141.11.86.94:45888

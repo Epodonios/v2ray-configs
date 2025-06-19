@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://5177172c-125a-47fa-bccd-3778b459a75e@172.64.33.113:443?sni=vless04.trevely.us.kg&type=ws&host=vless04.trevely.us.kg#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.33.113:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.150.115.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇨🇾 CY-45.150.115.63:8880
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2086?security=none&type=ws&host=domain2025.dpdns.org&path=%2FtvBEHCmw4qDK5mxR%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.75.66:2086
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@104.25.213.66:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.213.66:443
@@ -503,3 +502,4 @@ vless://e3b74b3a-38f3-489b-bdf0-2d4019e801ec@151.101.1.194:80?security=none&type
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@91.193.58.247:8880?type=ws&host=steep.skyfigure.top&path=%2F#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.247:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.102:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.85.118.102:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@155.46.213.149:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-155.46.213.149:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.221.160.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇷🇺 RU-185.221.160.213:8880
