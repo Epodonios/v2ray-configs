@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://Aimer@216.24.57.207:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-216.24.57.207:443
-trojan://Aimer@104.21.228.29:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.228.29:443
 trojan://NISHIKUITAN111@5.182.84.93:443?#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.93:443
 trojan://ttfang@198.41.221.32:443?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.221.32:443
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
@@ -503,3 +501,5 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.14:5344#🔒 SS-TCP-NA 🇰🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZWt6SVZKd2JrMWY=@147.45.177.65:443#🔒 SS-TCP-NA 🇨🇦 CA-147.45.177.65:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@139.28.4.95:8080#🔒 SS-TCP-NA 🇦🇲 AM-139.28.4.95:8080
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.183.222.24:443#🔒 SS-TCP-NA 🇯🇵 JP-18.183.222.24:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#🔒 SS-TCP-NA 🇷🇺 RU-38.60.223.8:989
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#🔒 SS-TCP-NA 🇬🇧 GB-62.100.205.48:989
