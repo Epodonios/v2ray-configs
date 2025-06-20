@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.137.52:443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&allowInsecure=0#🔒 VL-WS-TLS 🇸🇪 SE-77.221.137.52:443
-vless://ce833c9b-e39a-475f-b649-23e7f1ea5236@212.233.94.204:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇷🇺 RU-212.233.94.204:443
-vless://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-192.9.129.48:8443
 vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.152.11:443?security=tls&sni=fs.bgm2024.dpdns.org&type=ws&host=fs.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.11:443
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@92.53.191.43:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#🔒 VL-WS-TLS 🇸🇮 SI-92.53.191.43:443
 vless://906ba92f-ef96-4133-8eee-f33202a5a721@104.21.79.79:443?security=tls&sni=9yuhj.938.pp.ua&type=ws&host=9yuhj.938.pp.ua&path=%2FK8X1ocJD1r0dTd5pVam9w&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.79:443
@@ -503,3 +500,6 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.31.82:8880?security=none&type
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.85.119.165:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.85.119.165:2096
 vless://1023da2d-e0be-4fe1-99c4-f26ca88abcd6@172.67.150.210:443?security=tls&sni=anyaforger.yaechan.ip-ddns.com&type=ws&host=anyaforger.yaechan.ip-ddns.com&path=%2Fproxyip%3Dcitlali.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.150.210:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.48:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇬🇧 GB-194.36.55.48:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.79:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-45.8.211.79:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.246.137:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram#🔒 VL-WS-NA 🇳🇱 NL-5.10.246.137:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.175:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.175:8880

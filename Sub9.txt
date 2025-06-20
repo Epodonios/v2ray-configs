@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@147.45.179.201:443?type=tcp#🔒 VL-TCP-NA 🇬🇧 GB-147.45.179.201:443
-vless://4a622662-1d41-4ce9-aa44-b2c9733080b8@190.93.244.103:2083?security=tls&sni=Z.LiV2ray.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.103:2083
-vless://716e8c06-40e6-41ae-82ca-db79b41112c2@104.26.15.85:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:443
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@104.19.250.20:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.250.20:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.211.49:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.211.49:8880
 vless://e47d3aef-8be7-489d-9aca-88fbb05eded9@141.11.202.251:8443?security=tls&sni=vip.donghi.ir&type=ws&host=vip.donghi.ir&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.251:8443
@@ -503,3 +500,6 @@ vless://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@104.21.6.179:443?security=tls&sni=U
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.36.21:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.36.21:443
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@176.124.223.192:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-176.124.223.192:8880
+vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2096?security=tls&sni=TABnak.FArsONlInE24.ir&type=httpupgrade&host=tabnak.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.175.40:2096
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.152:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.152:80
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@195.85.59.155:8880?type=ws&host=photographipictureai.ir&path=%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.155:8880
