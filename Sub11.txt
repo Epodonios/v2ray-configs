@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@147.185.161.199:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-147.185.161.199:8880
+vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.247.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.203:443
 vless://d9deb36e-aa79-409a-ba54-012d69b0f9d7@104.16.44.151:8443?security=tls&sni=x5kh.org&type=ws&host=x5kh.org&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.44.151:8443
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@138.2.81.71:443?security=tls&sni=147135004002.sec20org.com&type=raw#🔒 VL-RAW-TLS 🇸🇬 SG-138.2.81.71:443
 vless://00a03bb1-91d7-4fa4-a623-0cdad5a87cf8@104.18.20.20:443?security=tls&sni=us4.globals-download.com&type=ws&host=us4.globals-download.com&path=%2Fpq%2Fus4&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.20:443
@@ -501,5 +503,3 @@ vless://1995f2ee-6767-4623-b819-db5d6386bcda@104.21.74.214:2082?security=none&ty
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.130:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇧🇬 BG-147.78.140.130:8880
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.239.188:80?security=none&sni=di.dibdibini.dpdns.org&type=ws&host=di.dibdibini.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.239.188:80
 vless://da5d2d40-df2c-49fb-a3be-77f0f0299d23@104.24.236.108:443?sni=520588.xyz&type=ws&host=520588.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.236.108:443
-vless://43b7ef80-c7b0-475b-8959-2aa38d7136ba@37.32.41.237:4432?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.237:4432
-vless://ac452e59-6585-4f6f-d1e4-ee8e1b12f0bd@91.134.88.205:443?security=tls&sni=france.linceed.se&type=tcp#🔒 VL-TCP-TLS 🇫🇷 FR-91.134.88.205:443

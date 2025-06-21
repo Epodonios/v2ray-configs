@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.173:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.173:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.223.213:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NONE 🇭🇰 HK-45.192.223.213:8880
 vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.16.143.139:2096?security=tls&sni=ghh.wsthh.site&type=ws&host=ghh.wsthh.site&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.139:2096
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&sni=vp33.hiddendom.shop&type=grpc&host=vp33.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.3.186:443
 vless://81936cbd-6f9a-4f53-adf8-b8822e77b461@172.67.34.58:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.34.58:443
@@ -501,5 +503,3 @@ vless://413775c3-ec6e-4d65-a969-336205799f44@5.160.35.247:5112?security=none&typ
 vless://99727208-0086-43f9-f0ad-9e30f546b822@154.206.12.114:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-154.206.12.114:8880
 vless://8aa58cd4-00d8-4f80-9153-49b574db0937@162.159.128.233:2096?security=tls&sni=Fast.zed-zoon.tech&type=grpc&serviceName=---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.128.233:2096
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@135.84.74.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-135.84.74.251:8880
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.89:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.89:8443
-vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?security=none&type=ws#🔒 VL-WS-NONE 🇬🇧 GB-104.248.168.91:80

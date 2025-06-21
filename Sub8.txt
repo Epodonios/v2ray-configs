@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.233:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.233:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.251:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NONE 🇯🇵 JP-156.238.19.251:80
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@185.157.214.81:2040?security=tls&sni=cdnjs.com&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-185.157.214.81:2040
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.12.75.7:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-31.12.75.7:8880
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&sni=147135010072.sec21org.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-135.148.206.76:443
@@ -501,5 +503,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.92.9.118:8880?security=none&typ
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.99:80?type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJoin_Bade_Channel%40ShadowProxy66#🔒 VL-WS-NA 🇷🇺 RU-185.148.106.99:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.206:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.206:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@159.246.55.168:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-159.246.55.168:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-45.159.216.20:8880
-vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.212:443

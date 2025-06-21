@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://b2e125db-f0a3-4ae4-b883-e5874897fe27@109.172.54.5:3993?security=tls&sni=marzban.negintel.xyz&type=ws&path=%3Fed%3D2084&fp=chrome#🔒 VL-WS-TLS 🇫🇮 FI-109.172.54.5:3993
+vless://99727208-0086-43f9-f0ad-9e30f546b822@88.216.67.72:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-88.216.67.72:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.38:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.38:80
 vless://d99749f3-2e63-40f8-b461-5ca4d2ad952a@2.56.173.227:443?security=tls&sni=blog.demo98.ir&type=ws&host=blog.demo98.ir&path=%2Fwp-admin%3Fed%3D1024&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇫🇮 FI-2.56.173.227:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.148:443?security=tls&sni=zn.ylka.dpdns.org&type=ws&host=zn.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.148:443
@@ -501,5 +503,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.14.8:443?sni=xv6.jpmj.dpdns.
 vless://15083687-114c-4c76-875e-2a61018c6317@104.21.48.6:443?security=tls&sni=iran.farsonline24.ir&type=ws&host=iran.farsonline24.ir&path=%2F19817%2F%40M3HDIO1&fp=random&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.6:443
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.226:2052?security=none&type=ws&host=gozargah.validbv7996.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.226:2052
 vless://bbcf346d-b058-4a72-b471-a606e25b6775@162.159.193.4:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.193.4:443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.173:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.173:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.223.213:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NONE 🇭🇰 HK-45.192.223.213:8880
