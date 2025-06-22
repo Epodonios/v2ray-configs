@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://c650b795-aa5b-49d4-9cec-4c3c7ba6c31f@172.66.213.38:443?security=tls&sni=mansdhuuidjcn.vip202030.com.tr&type=xhttp&host=mansdhuuidjcn.vip202030.com.tr&path=/Zfr830dnZP1HI14E52Wh&fp=chrome&alpn=h3#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.66.213.38:443
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.53.32:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇩🇪 DE-18.199.53.32:22224
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.80.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇪🇸 ES-185.251.80.213:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.8:8880?type=grpc#🔒 VL-GRPC-NA 🇸🇪 SE-88.216.214.8:8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.194.53.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-45.194.53.247:8880
 vless://2f28ff4e-218d-42de-ed49-960083a48228@188.34.164.75:2053?security=none&type=ws&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#🔒 VL-WS-NONE 🇩🇪 DE-188.34.164.75:2053
@@ -500,6 +503,3 @@ vless://46dbac8b-eaba-4275-940c-819f95d16916@104.18.0.22:443?security=tls&sni=fa
 vless://2bb5e4f9-35c5-45aa-8f84-b81ac8da330d@[2606:4700:3030::6815:2001]:443?security=tls&sni=osi.speedx3net.ir&type=httpupgrade&path=%2F#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-[2606:4700:3030::6815:2001]:443
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.203:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.203:443
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@172.67.187.190:2083?security=tls&sni=frEe.CFDnS.OnLiNE&type=ws&host=free.cfdns.online&path=/skVDPaIS0o7Yls2P&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.190:2083
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.52.230:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.52.230:443
-vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@172.67.208.128:80?type=ws&host=azadnet.b0b723a182.workers.dev&path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.208.128:80
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.4.2:443

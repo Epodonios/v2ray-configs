@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇲🇹 MT-193.227.99.213:8880
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.3.26:2083?security=tls&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.3.26:2083
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.162.194.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.194.63:8880
 vless://a285d843-f490-4b39-aeb4-3128d256f072@62.60.155.216:12045?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-62.60.155.216:12045
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.155:443?security=tls&sni=yz.ylka.dpdns.org&type=ws&host=yz.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.155:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.135.9.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-185.135.9.63:8880
@@ -500,6 +503,3 @@ vless://c3c20db7-d32b-454a-9843-ec22d064a842@104.21.41.131:443?security=tls&sni=
 vless://1e610976-fef5-4ca4-a447-f3530e70603e@104.18.20.173:443?security=tls&sni=escoffier.changli.ddns-ip.net&type=ws&host=escoffier.changli.ddns-ip.net&path=%2Fproxyip%3Dayaka.shorekeeper.ir&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.173:443
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?security=none&sni=barayeiran.nastaranh.dpdns.org&type=ws&host=barayeiran.nastaranh.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.164.239:80
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.17:443?security=tls&sni=147135001178.sec22org.com&type=tcp&host=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI#🔒 VL-TCP-TLS 🇺🇸 US-15.204.151.17:443
-vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?type=ws&host=my-mail-management-pr0-git-land-manager.clients-github.com&path=58834%2Fmail-template#🔒 VL-WS-NA 🇺🇸 US-162.251.82.187:80
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.148.104.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.148.104.247:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.35.225:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.35.225:443

@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.52.230:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.52.230:443
+vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@172.67.208.128:80?type=ws&host=azadnet.b0b723a182.workers.dev&path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.208.128:80
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.4.2:443
 vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.8.211.206:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.206:443
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.192.222.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-45.192.222.247:8880
@@ -500,6 +503,3 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.16.59.199:443?security=tls&sni=
 vless://5ea08aa1-96db-4614-b5b5-823717d27c17@198.41.220.249:443?security=tls&sni=vless3.114514660.xyz&type=ws&host=vless3.114514660.xyz&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.249:443
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@5.10.245.197:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇳🇱 NL-5.10.245.197:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.245.204:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram#🔒 VL-WS-NA 🇳🇱 NL-5.10.245.204:8880
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.21.181:8880?security=none&type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.21.181:8880
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@[2606:4700:10::6816:1bc1]:443?security=tls&sni=privasi.najah.biz.id&type=ws&host=privasi.najah.biz.id&path=%2FFree-CF-Proxy-EUROP185.159.131.233-443#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:10::6816:1bc1]:443
-vless://2cf55e47-b788-43b3-8e2c-bc0672991b88@2.189.175.37:5053?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.175.37:5053

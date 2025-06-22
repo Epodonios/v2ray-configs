@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.208.226.170:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-18.208.226.170:443
+vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.182.185:80?sni=havvas.shohreh.dpdns.org&type=ws&host=havvas.shohreh.dpdns.org&path=/&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.182.185:80
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@14.39.172.147:30069?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒 VL-WS-TLS 🇰🇷 KR-14.39.172.147:30069
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.166.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇺🇸 US-104.129.166.29:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.58:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.58:80
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@172.67.70.92:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:443
@@ -500,6 +503,3 @@ vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.96.1:2096?security=tls&sni=s
 vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@104.21.1.12:2053?security=tls&sni=dl2.hupcloud.com&type=ws&host=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.1.12:2053
 vless://99727208-0086-43f9-f0ad-9e30f546b822@102.177.189.16:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.16:8880
 vless://b0b37889-4881-43eb-9452-8944d5eb4666@104.16.5.230:2053?security=tls&sni=shop-gv1.pages.dev&type=ws&host=shop-gv1.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.5.230:2053
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@45.12.31.42:443?security=tls&sni=cvarad3.taban-rason.space&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.42:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-185.18.184.66:80
-vless://15372547-4201-48e4-9d4b-8691d9915ceb@154.21.83.154:443?security=tls&sni=usb.cayuo.me&type=ws&host=usb.cayuo.me&path=%2Fbing#🔒 VL-WS-TLS 🇺🇸 US-154.21.83.154:443

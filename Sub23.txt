@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.124.224.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇦🇪 AE-193.124.224.29:8880
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.139:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-5.182.84.139:8880
+vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@185.174.138.37:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.37:443
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@185.148.106.213:2086?security=none&type=ws&host=domain2025.dpdns.org&path=%2F%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-185.148.106.213:2086
 vless://e53892eb-3eaa-4fdc-b88b-167160764eb3@104.16.88.167:443?sni=fei.989618.xyz&type=ws&host=fei.989618.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.88.167:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.191.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇸🇮 SI-92.53.191.213:8880
@@ -500,6 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.5.63:8880?sni=jp.laoyoutiao.
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.244.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.244.213:8880
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.192:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.192:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.104.223:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.104.223:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.183:8443?security=tls&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&path=/#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.183:8443
-vless://f456a478-b619-4f8c-8e43-2b3b2844d4bc@62.60.176.78:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.176.78:443
-vless://d91894d8-c06b-44aa-b905-57ef6e9354aa@45.131.4.26:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=%EA%84%93o%EA%84%AFr%EA%85%8Aa%EA%85%A1f%EA%85%BBi%EA%86%90c%EA%86%AA%EA%87%8D%EA%87%B1%EA%88%8D%EA%84%B0%EA%85%8B%EA%88%A9%EA%88%BF%EA%89%9C%EA%89%AD%EA%89%BF.YaHvE111.COM.&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.4.26:2087
