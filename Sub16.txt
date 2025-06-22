@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.67.216.21:80?security=none&sni=aymng.bahareh.dpdns.org&type=ws&host=aymng.bahareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.216.21:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@103.116.7.230:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.230:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.224.24:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.109.224.24:8880
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.250:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.20.250:2086
@@ -502,4 +503,3 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@66.235.200.94:443?security=tls&sni=
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@195.13.54.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-195.13.54.247:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@94.247.142.175:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-94.247.142.175:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.145.7:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.145.7:443
-vless://20421f01-5215-4f7c-934f-1675b9235f23@185.146.173.185:8080?security=none&type=httpupgrade&host=google3.rizzlerlegacy.inK.#🔒 VL-HTTPUPGRADE-NONE 🇸🇪 SE-185.146.173.185:8080

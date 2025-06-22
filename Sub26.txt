@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@157.180.41.190:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-157.180.41.190:1524
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.14:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.164.14:8880
 vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@59.16.86.130:10098?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇰🇷 KR-59.16.86.130:10098
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.31.82:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.31.82:8880
@@ -502,4 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.234:8880?type=ws&host=sk.
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@162.159.152.165:8443?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.165:8443
 vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443?security=tls&sni=w26io.deonta-yancy.workers.dev&type=ws&host=w26io.deonta-yancy.workers.dev&path=%2F&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.43:443
 vless://ef1fdecb-e56f-4996-9b6a-da7ddb7f7c8d@51.158.205.126:24957?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇱 NL-51.158.205.126:24957
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.182.1:443

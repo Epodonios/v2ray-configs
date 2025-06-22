@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@172.67.130.66:443?security=tls&sni=bpclf.bogota-khezarshahrian.info&type=ws&host=bpclf.bogota-khezarshahrian.info&path=/tiger#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.66:443
 vless://3b25587c-bc05-457d-aa77-7b8cd08573aa@91.223.61.108:2003?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-91.223.61.108:2003
 vless://0dd5ea89-7171-41e6-840c-b52773dde4a0@154.90.54.4:16075?type=tcp#🔒 VL-TCP-NA 🇦🇪 AE-154.90.54.4:16075
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.162.192.154:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-108.162.192.154:2053
@@ -502,4 +503,3 @@ vless://0791e547-9191-4981-8b38-3d490c2b41d5@49.13.237.7:1521?security=none&type
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.229.111.223:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-34.229.111.223:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.161.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇱🇹 LT-89.116.161.213:8880
 vless://adec6fda-bd8b-4348-a3d8-a82c3d270532@172.67.212.184:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.184:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.106:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.106:80

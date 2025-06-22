@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://bd892d3c-c912-43fa-b434-39ee9343d5b5@94.182.129.84:90?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-94.182.129.84:90
 vless://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?security=none&type=ws&host=Fr1.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.39:80
 vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?type=ws&host=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&path=%2FwP3dwCyRAVyMJFfW%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.81.174:80
 vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@185.135.9.193:2086?type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=/#🔒 VL-WS-NA 🇩🇪 DE-185.135.9.193:2086
@@ -502,4 +503,3 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?security=tls&sni=
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.166.17:443?security=tls&sni=147135010072.sec21org.com&type=raw&allowInsecure=1#🔒 VL-RAW-TLS 🇺🇸 US-15.204.166.17:443
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@5.10.245.168:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.245.168:8880
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?security=tls&sni=carlotta.shoorekeeper.cloudns.org&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.12:443
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.67.216.21:80?security=none&sni=aymng.bahareh.dpdns.org&type=ws&host=aymng.bahareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.216.21:80

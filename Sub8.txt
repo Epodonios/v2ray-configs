@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@91.99.150.157:2398?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.157:2398
 vless://e7553661-4261-c330-124c-0acd5b12bffe@85.133.194.51:20443?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.133.194.51:20443
 vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&sni=zamimm.e59b57f84c.workers.dev&type=ws&host=zamimm.e59b57f84c.workers.dev&path=%2F%40TELEGRAM-gh_v2rayng%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.192:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.213:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.247.213:8880
@@ -502,4 +503,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.61.194:443?sni=xv6.jpmj.dpdn
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.116:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.30.116:2096
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.137.128:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.137.128:2053
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.135.9.80:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.org&type=grpc#🔒 VL-GRPC-TLS 🇩🇪 DE-185.135.9.80:2087
-vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?security=tls&sni=e420ceed.aryoo-vpn-friends.pages.dev&type=ws&host=e420ceed.aryoo-vpn-friends.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.57:443
