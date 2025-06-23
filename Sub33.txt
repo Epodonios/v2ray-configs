@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+trojan://Aimer@192.3.86.244:995?sni=epmd.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-192.3.86.244:995
 trojan://Aimer@162.159.138.192:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.192:443
 trojan://03e92910-34b1-4245-ac63-04a865f43cd5@104.21.84.242:443?security=tls&sni=3ERt.4444916.XyZ&type=ws&host=3ert.4444916.xyz&path=%2Fbi35bFWoRrnPhIJoo2wcE6Q&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.84.242:443
 trojan://M-i4vQza-UrKR3OB5Ix1IA@65.109.209.201:6176?security=none&type=tcp#🔒 TR-TCP-NONE 🇫🇮 FI-65.109.209.201:6176
@@ -502,4 +503,3 @@ trojan://Aimer@27.50.49.207:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 
 trojan://telegram-id-privatevpns@3.123.63.21:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.123.63.21:22222
 trojan://telegram-id-directvpn@35.172.151.55:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-35.172.151.55:22222
 trojan://wfwVSy2j-3jdYx_YrVmEcg@85.198.15.132:8084?security=tls&sni=ghost.pixeltbz.fun&type=grpc&serviceName=trojan&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🇮🇷 IR-85.198.15.132:8084
-trojan://ttfang@146.56.107.41:27306?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇰🇷 KR-146.56.107.41:27306

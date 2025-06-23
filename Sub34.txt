@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+trojan://ttfang@146.56.107.41:27306?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇰🇷 KR-146.56.107.41:27306
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.8:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.8:2053
 trojan://Aimer@199.34.230.9:8443?sni=epccx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-199.34.230.9:8443
 trojan://Aimer@104.19.45.0:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.45.0:443
@@ -502,4 +503,3 @@ trojan://Aimer@162.159.128.139:443?security=tls&sni=epcca.ambercc.filegear-sg.me
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.179.98:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.179.98:443
 trojan://Aimer@103.116.7.152:2096?sni=epme.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.152:2096
 trojan://telegram-id-directvpn@13.36.101.183:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.101.183:22223
-trojan://ttfang@198.41.221.255:443?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.221.255:443
