@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.216.167:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.216.167:443
-vless://1640cca8-8e6d-4173-8014-eadcddafb0a0@146.75.57.255:80?security=none&type=xhttp&host=tamash360.com&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480#🔒 VL-XHTTP-NONE 🇺🇸 US-146.75.57.255:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.232:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.232:80
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@3.81.35.73:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-3.81.35.73:443
 vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@85.198.23.128:7031?type=tcp&host=parssafe.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.198.23.128:7031
@@ -503,3 +501,5 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.146.132:443?security=tls&sni
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@130.250.137.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇺🇸 US-130.250.137.251:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.66.40.87:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.40.87:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.162:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇴 RO-45.12.31.162:8880
+vless://b3d0438a-195e-4b37-b9ac-27e07781ba38@91.99.146.31:8787?type=tcp&host=tgju.org&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-91.99.146.31:8787
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.7.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.63:8880

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://8d97e162-51be-4502-b4cf-51a26b6c0766@84.47.234.9:2014?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=firefox&pbk=LTWOvgF70MIQf-unHKEMhJkmJzGjCZtM8a9XF1UySXY&sid=187f7d36#🔒 VL-TCP-RLT 🇮🇷 IR-84.47.234.9:2014
-vless://f14c088d-16a4-4add-e753-c02ec313f05c@89.34.230.69:443?security=reality&sni=maps.google.com&type=grpc&serviceName=telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&pbk=1I2en5PvdIfXRrlfeqzaHZd0tRMyNyrq0J9IakEfchQ#🔒 VL-GRPC-RLT 🇳🇱 NL-89.34.230.69:443
 vless://31242903-b05f-4795-a845-cb434eb57c03@91.99.154.133:4040?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.154.133:4040
 vless://e1f692a1-5f51-4baf-b403-77f367601463@157.180.41.190:1534?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒 VL-XHTTP-RLT 🇫🇮 FI-157.180.41.190:1534
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.111.148:443?security=reality&flow=xtls-rprx-vision&sni=video.intfreed.ru&type=tcp&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🔒 VL-TCP-RLT 🇳🇱 NL-91.84.111.148:443
@@ -503,3 +501,5 @@ vless://9cda3236-b6fd-47f9-97ce-c50331690326@209.38.162.204:2323?security=realit
 vless://0b83a99a-62e1-4eff-97cf-894f865aaced@172.67.206.5:443?security=reality&sni=asoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top&type=tcp&fp=chrome&pbk=uVs_46PIq004Zu7T_n88y6EEL1me-9dcNVEaNKHFQEI&sid=b33f11f1#🔒 VL-TCP-RLT 🏴‍☠️ NA-172.67.206.5:443
 vless://9783723b-b652-472e-aa72-d181621eef41@165.227.144.84:8629?security=reality&sni=journalofbigdata.springeropen.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-165.227.144.84:8629
 vless://ce5234e2-97b2-4c4b-bafb-6c467123bef3@102.207.41.160:26974?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=q31Vmd3USW3F3WNX0n3OxYRchh8Rbs9uYbr5HUKY_Bo&sid=fc#🔒 VL-TCP-RLT 🇳🇬 NG-102.207.41.160:26974
+vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@159.203.150.213:505?security=reality&sni=journalofbigdata.springeropen.com&type=grpc&serviceName=xyz&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#🔒 VL-GRPC-RLT 🇺🇸 US-159.203.150.213:505
+vless://9a976dba-b3c5-48e0-88c1-8492d42c2998@84.234.28.153:2093?security=reality&flow=xtls-rprx-vision&sni=iranserver.com&type=tcp&fp=chrome&pbk=vhu_xRGelbv5xPYJvQOl62g96G4STaJ7OVEnQYfX0Hc&sid=353ac16b#🔒 VL-TCP-RLT 🇨🇭 CH-84.234.28.153:2093

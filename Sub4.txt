@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.197.88.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇨 SC-154.197.88.254:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.11.214:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.11.214:443
 vless://6a7c2881-83f0-47ea-b05c-441a18960ef4@125.134.6.129:11333?security=tls&sni=mihu.sorry.ip-ddns.com&type=ws&host=mihu.sorry.ip-ddns.com&allowInsecure=0#🔒 VL-WS-TLS 🇰🇷 KR-125.134.6.129:11333
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.188.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇮 SI-92.53.188.63:8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.18.184.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-185.18.184.247:8880
@@ -503,3 +501,5 @@ vless://d6660712-4d18-47fd-b095-0c36db667250@104.21.75.191:443?security=tls&sni=
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.171:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-103.133.1.171:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.159.216.134:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.159.216.134:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.162.192.154:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-108.162.192.154:2053
+vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.17.74.91:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.74.91:443
+vless://4b132e2b-24b1-418b-90e9-a11b619a799b@104.21.82.14:443?security=tls&sni=m1qqaw3.777259.xyz&type=ws&host=m1qqaw3.777259.xyz&path=/6pC5ZWNjJLlDlbpi&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.14:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@162.159.192.222:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.222:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@[2606:4700:24:82da:f11c:19d3:7e39:9263]:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-[2606:4700:24:82da:f11c:19d3:7e39:9263]:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.46.238:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.251.46.238:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇺 LU-188.42.89.29:8880
 vless://3834a452-778b-42d5-be27-b12236597a0d@140.248.180.60:443?security=tls&sni=JOIN-ELiV2RAY.IR&type=ws&host=JOIN-ELiV2RAY.IR&fp=qq#🔒 VL-WS-TLS 🇺🇸 US-140.248.180.60:443
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.59.5.213:8880?type=ws&host=jp.l
 vless://cadf5c65-6ab4-41f3-87a1-8454d92e6ee0@2.189.243.174:80?type=ws&path=/#🔒 VL-WS-NA 🇮🇷 IR-2.189.243.174:80
 vless://7ee9482b-18d1-478f-8208-1395c80048c4@212.80.20.138:999?security=none&type=tcp&host=bmi.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.20.138:999
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@92.53.191.43:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇸🇮 SI-92.53.191.43:2096
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.194.53.52:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.194.53.52:8880
+vless://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@5.160.35.73:5126?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.73:5126

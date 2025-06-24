@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@167.68.42.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-167.68.42.63:8880
-vless://d41bf778-df73-4cc6-9b88-7ef4bfe16014@27.50.48.231:8443?security=tls&sni=ham12-dsadsaddsa-dsadsadsad.gameha9.ir&type=ws&host=ham12-dsadsaddsa-dsadsadsad.gameha9.ir&path=/#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.231:8443
 vless://6bd60a4e-a1fe-480f-aea5-0eabb6fdefdd@185.143.235.200:80?security=none&type=httpupgrade&host=DE-1.PoWerAlpha.IR.&path=%2Fwss8000%3Fed%3D%23TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🇮🇷 IR-185.143.235.200:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.190.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇮 SI-92.53.190.63:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.18.184.63:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NONE 🇳🇱 NL-185.18.184.63:8880
@@ -503,3 +501,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.226:2096?security=tls&sni
 vless://8a1b71ff-a775-4412-95fa-e182386b167c@104.16.237.41:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.237.41:443
 vless://5e802e1a-3c82-41ec-aaca-f6371b8b86a5@160.153.0.11:2083?security=tls&sni=fraG2.MAhSAAmINI.cC&type=ws&host=fraG2.MAhSAAmINI.cC&path=%2FCPI#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.11:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@72.1.32.168:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#🔒 VL-WS-NONE 🇺🇸 US-72.1.32.168:80
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.5.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.213:8880
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.175:443?security=tls&sni=rz.ylks0033.dpdns.org&type=ws&host=rz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.175:443

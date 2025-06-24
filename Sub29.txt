@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.198.173.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇮🇳 IN-154.198.173.213:8880
-vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@190.93.245.36:8443?sni=www.pjw5.top&type=ws&host=www.pjw5.top#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.245.36:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.148:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.148:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.154.169:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.154.169:443
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.208.227.137:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-18.208.227.137:443
@@ -503,3 +501,5 @@ vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.81.202:2096?security=tls&sni
 vless://fb953758-08ee-4f47-a82b-46ac4de1d0dd@188.245.171.79:443?security=tls&sni=y.vajehai.li&type=ws&host=y.vajehai.li&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-188.245.171.79:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.145.7:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.145.7:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@168.138.46.67:443?security=tls&sni=fs.bgm2024.dpdns.org&type=ws&host=fs.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-168.138.46.67:443
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.45.40:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.45.40:443
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.80:80?security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.80:80
