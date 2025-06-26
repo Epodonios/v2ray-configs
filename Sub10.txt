@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@85.198.23.128:7031?type=tcp&host=parssafe.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.198.23.128:7031
+vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@2.59.38.46:443?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&alpn=http/1.1&allowInsecure=0#🔒 VL-WS-TLS 🇳🇱 NL-2.59.38.46:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.222:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-5.10.215.222:8880
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@199.34.228.41:443?security=tls&sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.41:443
 vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.201.171:1360?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.201.171:1360
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.174.138.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇷🇺 RU-185.174.138.29:8880
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.18.22.208:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.208:443
@@ -499,7 +503,3 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@102.132.188.3:8880?sni=Telegram-cha
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@172.67.204.24:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&path=%2Fadmins%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.24:2053
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@198.41.199.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.199.20:8880
 vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&type=ws&host=esetsecuritylicense.cfmglpqb.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.54:8443?security=tls&sni=eb043CC5.mKHalilI.pAges.Dev&type=ws&host=Eb043cc5.MKhalili.PaGes.DeV&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.54:8443
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@198.202.211.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-198.202.211.247:8880
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@194.53.53.65:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-194.53.53.65:2096
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.121:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.121:8880

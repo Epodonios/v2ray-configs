@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.33.212:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.109:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.109:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.64.146.80:2087?security=tls&sni=LzPmJySw22.zImBa-zUlA.OrG&type=grpc&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.146.80:2087
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.211.182:8880?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2FTelegram%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.211.182:8880
 vless://99727208-0086-43f9-f0ad-9e30f546b822@104.129.164.78:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.164.78:8880
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.85.119.160:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.85.119.160:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.210.78:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.210.78:2096
@@ -499,7 +503,3 @@ vless://30a082ad-3ebb-43d8-813c-f25072205c6d@104.18.21.135:443?security=tls&sni=
 vless://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.24.38.60:8443?sni=ball.757718.xyz&type=ws&host=ball.757718.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.38.60:8443
 vless://41b85a5a-82aa-4e21-88a2-4b3377e9cf57@95.38.104.37:1336?security=none&type=tcp&host=parsabr.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.104.37:1336
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.152.69:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.152.69:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.145.0:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.145.0:443
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@172.64.35.227:443?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&host=agedy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.227:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.61:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.61:80
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.154.56:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.154.56:443

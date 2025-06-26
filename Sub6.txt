@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.148.83:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.148.83:443
+vless://caaf0e88-9139-48c2-b712-fcacde7a3a45@85.133.240.49:31086?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.240.49:31086
+vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.163:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.64.163:443
+vless://e4e54189-80ab-4e73-90af-b05bf52d0581@37.32.26.250:20255?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.26.250:20255
 vless://683c95fa-672b-49a3-bf44-342adfbb7c36@104.19.1.59:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.1.59:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.206:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.206:8880
 vless://68d511b0-91eb-4541-b983-21bc1617314a@172.67.204.84:8880?security=none&type=httpupgrade&host=wS.lasTofUsGame.Ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.204.84:8880
@@ -499,7 +503,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.107.222:443?sni=xv6.jpmj.dpd
 vless://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@188.114.98.243:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.243:443
 vless://edb75d88-00f4-4c9a-a4a3-c211262dae7d@104.26.2.186:8080?security=none&type=httpupgrade&host=www.speedtest-divar.ir&path=%2FMTMVPN----------MTMVPN--------MTMVPN---------MTMVPN----MTMVPN-----MTMVPN----MTMVPN----MTMVPN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.2.186:8080
 vless://e1f692a1-5f51-4baf-b403-77f367601463@49.13.237.7:3789?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.237.7:3789
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@27.50.48.239:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-27.50.48.239:8880
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.25:80
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@206.238.236.134:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.134:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.65.91:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.65.91:443
