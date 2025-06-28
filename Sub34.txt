@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://Aimer@104.19.50.199:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.50.199:443
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@94.177.131.150:46002?#🔒 TR-TCP-NA 🇯🇵 JP-94.177.131.150:46002
-trojan://DHvwod7oq7@104.21.64.1:2083?security=tls&sni=esna.twn24.ir&type=ws&host=esna.twn24.ir&path=%2Fmehdi&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.64.1:2083
-trojan://Aimer@104.18.72.49:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.72.49:443
-trojan://Aimer@104.18.8.119:443?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.8.119:443
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23013?sni=99.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:23013
-trojan://Aimer@162.159.140.164:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.140.164:443
-trojan://Aimer@162.159.128.160:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.128.160:443
-trojan://91658@104.21.27.146:2053?security=tls&sni=MywEBpAn.114514660.XYZ&type=ws&host=mywebpan.114514660.xyz&path=%2FtrBSYspZtZmeZDnrRC%2FdHMuaHBjLnR3%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.27.146:2053
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.80:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.80:2053
-trojan://aaaccbb-cbaa-abac-dbac-cacabababccb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTphY2NiYmFhLWFiYWMtYWFjYi1kYWJjLWJhYWFiYmNjY2JhYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SAT-07-TIR-1404 🕑 22:56
 ss://bm9uZTpiYWFhYmNjLWFiYWMtYmNhYS1kYmNhLWNiY2JiYmFjY2FhYQ==@127.0.0.1:2080#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
 ss://bm9uZTpjYWNiYWFiLWJhYWMtYWFiYy1jZGJhLWFhYmFiY2JhY2NjYg==@127.0.0.1:3080#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.24:38388#🔒 SS-TCP-NA 🇻🇳 VN-103.186.155.24:38388
@@ -503,3 +491,15 @@ ss://YWVzLTI1Ni1nY206RFcxQjQ2UFRXUzNYU1BZVQ==@156.245.190.12:15003#🔒 SS-TCP-N
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.237:8388#🔒 SS-TCP-NA 🇭🇰 HK-154.197.26.237:8388
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.52:8080#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.52:8080
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.149:443#🔒 SS-TCP-NA 🇬🇧 GB-172.99.190.149:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.219.240:443#🔒 SS-TCP-NA 🇧🇭 BH-15.184.219.240:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#🔒 SS-TCP-NA 🇨🇴 CO-181.119.30.20:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWV3NCeW1kQ3hRSTlRazht@131.145.82.136:443#🔒 SS-TCP-NA 🇬🇧 GB-131.145.82.136:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RWJhYjd6VnhpeWItNUR6YXFqMGlB@176.97.66.148:443#🔒 SS-TCP-NA 🇦🇪 AE-176.97.66.148:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@5.181.20.23:5904#🔒 SS-TCP-NA 🇫🇮 FI-5.181.20.23:5904
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🔒 SS-TCP-NA 🇵🇱 PL-45.144.49.140:57456
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#🔒 SS-TCP-NA 🇸🇪 SE-37.19.222.212:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY=@154.83.90.11:51102#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:51102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@2.58.241.42:443#🔒 SS-TCP-NA 🇹🇼 TW-2.58.241.42:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#🔒 SS-TCP-NA 🇲🇹 MT-171.22.254.17:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q0p6M0oxR1lsalE=@88.151.192.57:443#🔒 SS-TCP-NA 🇺🇦 UA-88.151.192.57:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443#🔒 SS-TCP-NA 🇮🇹 IT-147.45.51.30:443
