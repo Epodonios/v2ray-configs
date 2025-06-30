@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.47.107:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.47.107:443
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.218.15.173:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.173:8880
-vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?security=tls&sni=ooao14004.74gwenneth.workers.dev&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.171:443
-vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.247.174:443?security=tls&sni=lv.2138937.xyz&type=ws&host=lv.2138937.xyz&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.174:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.175.141.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.175.141.213:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.190.20:8880?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇸🇮 SI-92.53.190.20:8880
 vless://b505bd79-137b-4d8c-924d-53eb8a6161f2@217.60.236.191:8443?security=none&type=tcp&host=head.shecanmarket.com&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.236.191:8443
@@ -503,3 +499,7 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@77.232.140.254:8880?type=ws&host=yg
 vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@103.116.7.1:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇺🇸 US-103.116.7.1:80
 vless://3f789164-ca20-4041-89c0-bc553819970c@91.238.82.243:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-91.238.82.243:8443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.192.229:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.192.229:443
+vless://15372547-4201-48e4-9d4b-8691d9915ceb@154.21.83.154:443?security=tls&sni=usb.cayuo.me&type=ws&host=usb.cayuo.me&path=%2Fbing#🔒 VL-WS-TLS 🇺🇸 US-154.21.83.154:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@170.114.46.48:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-170.114.46.48:8880
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.76:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1-TABREZ.NET%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.76:2095
+vless://53d3a892-7a41-4c6b-9e5c-dd5b94691813@78.157.45.171:52333?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.157.45.171:52333
