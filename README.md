@@ -16,8 +16,7 @@ This script collects several thousand V2ray configurations every five minutes, a
 ### You can use a v2ray client to use these subscription links:
 
 #### Android:
-1. hiddify-next
-2. v2rayng
+  v2rayng
 
 #### IOS:
 1. fair
