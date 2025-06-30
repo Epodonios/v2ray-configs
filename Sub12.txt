@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.70:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.70:2096
-vless://ccc75873-a458-48c5-8de5-890c901aaaf5@172.67.130.66:8080?security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:8080
-vless://60562772-a87c-4a3e-83ef-f459642b6350@173.245.58.85:443?security=tls&sni=suauoc.fivegravity.com&type=ws&host=suauoc.fivegravity.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.85:443
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@185.208.79.182:6985?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.208.79.182:6985
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.2.253:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.2.253:443
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.14:2053
@@ -503,3 +500,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.122:8880?sni=reedfree8mahs
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&type=raw#🔒 VL-RAW-TLS 🇫🇮 FI-65.109.145.54:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.121.211:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-154.197.121.211:8880
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@172.67.70.92:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:443
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@45.67.215.168:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.67.215.168:443
+vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.106:443?security=tls&sni=awmirx-v2ray.com&type=ws&host=awmirx-v2ray.com&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.123.106:443
+vless://792ee41a-991a-4f29-9b90-cec3149b7bef@104.21.27.177:2087?security=tls&sni=a.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.27.177:2087

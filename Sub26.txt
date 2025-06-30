@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.200:443
-vless://02a81466-16b9-4346-9fa6-2abd044bc9d3@95.164.68.37:443?security=tls&flow=xtls-rprx-vision&sni=fra5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇩🇪 DE-95.164.68.37:443
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.163.100:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.251.163.100:443
 vless://933e8733-1c42-4f13-93a0-2472f2633d8e@104.21.4.90:443?security=tls&sni=amphetamine.shividpolo.site&type=ws&host=amphetamine.shividpolo.site&path=/downloader.php?ed%3D2560&fp=chrome&alpn=h2&allowInsecure=false#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.4.90:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.120:2083?sni=1749800457620.a1.a2.a3.a4.a5.a6.a7.a8.a9.a10.a11。#🔒 VL-TCP-NA 🏴‍☠️ NA-141.101.121.120:2083
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.120:80?type=ws&host=301.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.120:80
@@ -503,3 +500,6 @@ vless://15d7ddce-151e-400a-94d0-2b7f8d30e331@172.66.44.209:443?security=tls&sni=
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.147.70:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.147.70:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.147.211:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.147.211:443
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.175.148:2083?security=tls&sni=FreEdOm.pANotosU.stOre&type=ws&host=FreEdOm.pANotosU.stOre&path=%2Fkshty81cfjdnvixr%2Fc2hpcmvulnlhzw1pa28uz2dmzi5uzxq%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.148:2083
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.89:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.89:8443
+vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.218:443?security=tls&sni=ls.bgm2024.dpdns.org&type=ws&host=ls.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.218:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.31.113.72:443?security=tls&sni=edmp.aimercc.filegear-sg.me&type=ws&host=edmp.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇯🇵 JP-154.31.113.72:443
