@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://8aa58cd4-00d8-4f80-9153-49b574db0937@162.159.136.232:2096?security=tls&sni=Fast.zed-zoon.tech&type=grpc&serviceName=---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.232:2096
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.46.14:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-89.116.46.14:8880
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.68:443?security=tls&sni=uk1.blackismyfavorite.ir&type=httpupgrade&host=uk1.blackismyfavorite.ir&path=%2FXRAYVPNHTTPUPGRADE&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🇺🇸 US-199.34.229.68:443
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.131.208.177:8880?type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.177:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.240:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇩🇪 DE-5.10.214.240:8880
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.178:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.178:80
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.4:2083?sni=vlee.amclubs.rr.nu&type=ws&host=vlee.amclubs.rr.nu&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-103.160.204.4:2083
 vless://55520747-311e-4015-83ce-be46e2060ce3@130.61.124.127:443?security=tls&sni=ls.bgm2024.dpdns.org&type=ws&host=ls.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-130.61.124.127:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.85.186:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-5.182.85.186:8880
@@ -497,9 +503,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.10:2083?sni=17498004576
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.218.15.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-154.218.15.3:8880
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@176.124.223.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-176.124.223.3:8880
 vless://15372547-4201-48e4-9d4b-8691d9915ceb@154.21.83.154:443?security=tls&sni=usb.cayuo.me&type=ws&host=usb.cayuo.me&path=%2Fbing#🔒 VL-WS-TLS 🇺🇸 US-154.21.83.154:443
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@173.245.59.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-173.245.59.13:8880
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.196.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-185.207.196.254:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.45.67:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.45.67:443
-vless://aba23245-8389-4d61-a6c3-b72e8603b1bb@151.101.59.75:80?security=none&type=xhttp&host=jabervistaroham.com&path=%2F%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.59.75:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-45.142.120.134:80
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.193.29.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&allowInsecure=1#🔒 VL-WS-NA 🇬🇧 GB-185.193.29.254:8880

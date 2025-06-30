@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.45.245:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.45.245:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.70:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.208.70:8880
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.4.179:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.4.179:8880
+vless://8161b03d-ab2f-45ce-8f15-9b0061044f70@185.16.110.185:8443?security=tls&sni=iran.dr-ping.ir&type=ws&host=iran.dr-ping.ir&path=/DoctorPing_Bot&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.185:8443
+vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.157:2092?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.188.157:2092
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.92.9.76:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇨🇾 CY-154.92.9.76:443
 vless://e281fd41-85fc-465e-9299-356e31ae57a4@109.122.242.185:45839?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.122.242.185:45839
 vless://3232953e-5959-495c-b969-d6d86a635089@104.18.186.11:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.186.11:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.245.235:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.245.235:8880
@@ -497,9 +503,3 @@ trojan://Aimer@18.167.74.152:1080?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-N
 trojan://xZoTMbL3vm@172.67.202.155:2083?security=tls&sni=zoornazanfarsineveshtam.onetwothree123.ir&type=httpupgrade&host=zoornazanfarsineveshtam.onetwothree123.ir&path=%2F%40MEHDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.202.155:2083
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.152.71:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.152.71:443
 trojan://Aimer@5.182.84.229:2087?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.84.229:2087
-trojan://Aimer@222.97.9.166:50004?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-222.97.9.166:50004
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.183:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.183:2053
-trojan://Aimer@154.218.15.250:2083?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-154.218.15.250:2083
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2087?security=tls&sni=invInCibLE.FAFA20.ShOp&type=ws&host=invincible.fafa20.shop&path=%2FtrSC827RVJ8e9FFsFa%2FMTI5LjE1OS44NC43MQ%3D%3D%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.95.229:2087
-trojan://Bw5Mz7QkVp@66.42.76.182:443?security=tls&sni=z-v2-076956.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-66.42.76.182:443
-trojan://Aimer@104.21.225.247:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.225.247:443

@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.64.138.145:443#🔒 SS-TCP-NA 🇺🇸 US-38.64.138.145:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYjg5NTQxNS04MDQwLTRlNTItOGMyZC0zYTI0MjQ0OWVmYWE=@191.96.206.4:51166#🔒 SS-TCP-NA 🇭🇰 HK-191.96.206.4:51166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#🔒 SS-TCP-NA 🇳🇱 NL-77.246.102.112:60117
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🔒 SS-TCP-NA 🇷🇺 RU-45.139.24.24:57456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@59.125.75.111:2377#🔒 SS-TCP-NA 🇹🇼 TW-59.125.75.111:2377
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#🔒 SS-TCP-NA 🇮🇳 IN-82.180.146.173:35652
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSzRXRW9iVGVlQlM=@120.233.44.70:998#🔒 SS-TCP-NA 🇨🇳 CN-120.233.44.70:998
 ss://YWVzLTI1Ni1nY206WWpJeE1HTXlNVGN6T0RneFpUY3dPVE00WkdFMU0yRTRNekF5TnpjMg==@37.152.179.151:11107#🔒 SS-TCP-NA 🇮🇷 IR-37.152.179.151:11107
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.149:443#🔒 SS-TCP-NA 🇬🇧 GB-172.99.190.149:443
@@ -485,7 +491,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=ree
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%204.3MB/s%7C0%25%7CDisney%7COpena...
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#%40Selinc
-hysteria2://ca5c8e49-3b25-45f8-9fbb-6dd1806a1444@132.226.117.48:30000?insecure=1&sni=www.apple.com#%40meli_proxyy
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Filter_breaker
 hysteria2://dec336f6-e5da-40f4-a4de-986c7b34d587@fr4.eyucdn.xyz:2056?insecure=1&sni=fr4.eyucdn.xyz#IRAN%204%20%28%40Outline_Vpn%29
 hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1&sni=apple.com#IRAN%209%20%28%40Outline_Vpn%29
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#%40drakvpn%F0%9F%90%89
@@ -497,9 +503,3 @@ hysteria2://9FmazX8AAPpM8TQcNyI2zvBDF5o@92.112.23.216:28264?insecure=1#Channel%2
 hysteria2://e48d6377dda26840@185.184.70.120:42353?insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://6d579896-40eb-400c-89b4-4eef10f2e7a6@45.147.201.231:30073?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA%20%231
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://e3f67f43-9097-4e56-96e2-681910b92150@172.245.106.236:35091?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=fWQ4LCfAYiKaEVRe#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%233
-hysteria2://d9fe1f5e-8f0f-41b6-95f6-d90aa0404924@75.127.13.83:45551?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%234
-hysteria2://e3f67f43-9097-4e56-96e2-681910b92150@107.175.145.72:22647?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=fWQ4LCfAYiKaEVRe#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%235
-hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%236
-hysteria2://f70ff140-9c4e-44d3-8864-f336d7607d7e@jp.xn--mes91t7ofgnw.com:20252?insecure=1&sni=jp.xn--mes91t7ofgnw.com#%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29
-hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%231

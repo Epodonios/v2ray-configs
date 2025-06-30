@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.124:80?path=Telegram#🔒 VL-TCP-NA 🇯🇵 JP-156.238.18.124:80
+vless://c6a8fa8a-9fa0-4866-a786-5d11199d0c1d@199.232.90.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Jomshamirsiaii.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-199.232.90.133:443
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@91.238.82.241:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-91.238.82.241:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.108:80?security=none&type=ws&host=us.laoyoutiao.link&path=Telegram%D1%80%D0%AF%D0%97#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.108:80
+vless://622c959c-0e77-435b-b116-8b2e45e87b39@185.146.173.146:443?security=tls&sni=lIsT.ClOudUPdATe.Ir.&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.146:443
+vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@188.114.96.253:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.253:443
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.131.211.177:8880?type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.177:8880
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=/57ba2ab1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.156:8443
 vless://f68ecbc3-bf67-470c-a4a8-dcd157112813@146.19.196.222:443?security=tls&sni=aka.ms&type=tcp&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-TCP-TLS 🇸🇬 SG-146.19.196.222:443
@@ -497,9 +503,3 @@ vless://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?security=tls&sni=v
 vless://25636ecf-9958-48a3-9b0d-63c25a9db541@104.24.94.106:2087?sni=w-am1.pages.dev&type=ws&host=w-am1.pages.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.94.106:2087
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.153.74:8443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.74:8443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@130.250.137.63:2083?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-130.250.137.63:2083
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.132.188.247:8880?path=/Telegram🇨🇳#🔒 VL-TCP-NA 🇿🇦 ZA-102.132.188.247:8880
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.121.252:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-154.197.121.252:8880
-vless://27fdd2e8-ee23-4f56-b497-698d59938396@104.21.7.235:443?security=tls&sni=a.kanal-tel-nufilter.store&type=ws&host=a.kanal-tel-nufilter.store&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.235:443
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@167.68.11.104:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.11.104:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.247:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.247:443
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@185.83.113.141:6985?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.113.141:6985
