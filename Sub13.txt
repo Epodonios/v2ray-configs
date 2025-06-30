@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://8df60790-c903-4661-b85d-64c0009378e5@104.24.254.172:443?security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws&host=f1.parsa.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.254.172:443
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.222.128:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.222.128:443
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@91.99.148.251:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.148.251:1522
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.13:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.15.13:8443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.40.154.139:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.40.154.139:2053
@@ -503,3 +501,5 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.5:443?sni=cl.bgm2024.dp
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.153:443?security=tls&sni=147135004002.sec20org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.74.153:443
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@31.43.179.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇰🇿 KZ-31.43.179.13:8880
 vless://d2947a55-5fa6-4d21-93c6-b558c662ec8d@46.29.239.149:443?security=tls&sni=unixkey.nobatow.site&type=ws&host=unixkey.nobatow.site&alpn=h3%2Ch2%2Chttp/1.1#🔒 VL-WS-TLS 🇳🇱 NL-46.29.239.149:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.133.166:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.166:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.63:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-NONE 🇿🇦 ZA-102.132.188.63:8880

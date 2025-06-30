@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://15868173-1378-4984-a4e2-07d51591b237@188.244.122.224:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.224:2096
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.98:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram:#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.98:80
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.157:8880?type=ws&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇹 LT-45.81.58.157:8880
 vless://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@172.67.177.109:443?security=tls&sni=xXXxXXXxxC.666461.xyz&type=grpc&serviceName=Ryxyg63Pk7cFSn5Ttq58yozYn&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.177.109:443
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@45.131.209.103:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&path=%2FTl%40vlees_v2rayng%3Fed%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.103:8443
@@ -503,3 +501,5 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.134:2053?security=tls&
 trojan://Aimer@108.162.193.110:443?sni=agepw.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.193.110:443
 trojan://Aimer@162.120.94.232:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-162.120.94.232:8443
 trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.40.215:443?security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&type=ws&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.40.215:443
+trojan://vip@104.22.14.132:443?security=tls&sni=heihu880.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.22.14.132:443
+trojan://Aimer@162.159.143.31:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.143.31:443
