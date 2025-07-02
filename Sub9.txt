@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.82:8443?security=tls&sni=edmk.ambercc.filegear-sg.me&type=ws&host=edmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.82:8443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.69.129:443?security=tls&sni=zn.ylka.dpdns.org&type=ws&host=zn.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.129:443
 vless://b0c1d2e3-f4a5-4b6c-9d7e-8f9a0b1c2d3e@104.21.236.19:443?security=tls&sni=epodonios.vpn&type=ws&host=epodonios.vpn&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.236.19:443
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@167.68.5.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-167.68.5.177:8880
@@ -503,3 +502,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.33.87.29:8880?sni=hk.laoyoutiao
 vless://e7bc7c8e-07bb-4ff8-a06a-39b8665be2d4@172.67.138.243:2053?security=tls&sni=chat.neshaan.org&type=ws&host=chat.neshaan.org&path=%2Fadmins%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.243:2053
 vless://21dc817b-6a67-4781-b229-fe2f89f771db@104.21.95.103:443?security=tls&sni=IlYEzA7mQ9AF39k15VikclEn48o8G8IU.RUfiNiTTA200711.WOrKErS.DEV&type=ws&host=ilyeza7mq9af39k15vikclen48o8g8iu.rufinitta200711.workers.dev&path=%2FpNdRq2rLMpL1FGJs%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.103:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@77.232.140.46:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-77.232.140.46:8880
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.5.127:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.5.127:443

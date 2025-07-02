@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.80.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.251.80.29:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇧🇦 BA-77.74.228.213:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.217.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-45.159.217.63:8880
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@104.21.67.187:2087?security=tls&sni=unitedkingdom.iranfastspeed.net&type=httpupgrade&host=unitedkingdom.iranfastspeed.net&path=/@saeedtelcom?ed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.67.187:2087
@@ -503,3 +502,4 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@194.152.44.13:8880?sni=Telegram-cha
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.12:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.12:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.149.162:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.149.162:443
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.17.99.202:80?security=none&sni=lot.sosant.dpdns.org&type=ws&host=lot.sosant.dpdns.org&path=%2F&allowInsecure=1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.99.202:80
+vless://948f6596-66f9-4707-aa92-3107a214ce53@152.69.229.175:22558?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-152.69.229.175:22558

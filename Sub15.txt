@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.168:443?security=tls&sni=zn.ylka.dpdns.org&type=ws&host=zn.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.168:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.177:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.177:8880
 vless://401374e6-df77-41fb-f638-dad8184f175b@159.246.55.28:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-159.246.55.28:443
 vless://31022df4-d581-4e3a-b891-be3cd029e675@172.67.204.120:2087?security=tls&sni=mas33a9278f1-c22b-aecb-72b1-bc8ddc42b35f.890603.xyz&type=ws&host=mas33a9278f1-c22b-aecb-72b1-bc8ddc42b35f.890603.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.120:2087
@@ -503,3 +502,4 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.16.29.8:443?security=tls&sni=ra
 vless://0aca17e2-e010-c78d-372d-0b4070367d41@185.143.234.120:8080?security=none&type=ws&host=alpha.node.iran-speed.ir&path=%2Fwebsocket%3Fed%3D2560#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:8080
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.211.8.45:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-154.211.8.45:8880
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@156.238.18.109:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-156.238.18.109:8880
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.18:2087?security=tls&sni=edmz.ambercc.filegear-sg.me&type=ws&host=edmz.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.18:2087

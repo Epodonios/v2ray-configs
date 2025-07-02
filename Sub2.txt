@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://d53da42f-d4b7-4d80-a9ca-cecf3beaa79a@91.107.152.130:443?security=reality&sni=speedtest.net&type=xhttp&path=/@iNeronix&fp=chrome&pbk=kxj-EhIXEgwh66gBVOf3shmmwuMqKgsd0mUJNUN8Gw8&sid=d62385a8#🔒 VL-XHTTP-RLT 🇩🇪 DE-91.107.152.130:443
 vless://c31b0a82-4aff-4da9-adc8-9ef69dbcea02@91.99.164.21:8443?security=reality&sni=www.speedtest.net&type=xhttp&path=/&fp=chrome&pbk=DGP9cbRXZry_5RwARuV9nYyOqS0vE7EM91YZEV7KAyM#🔒 VL-XHTTP-RLT 🇩🇪 DE-91.99.164.21:8443
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@54.238.57.53:443?security=reality&flow=xtls-rprx-vision&sni=buylite.tv.apple.com&type=tcp&fp=chrome&pbk=xOnY2ykLrcFMIhp7GBQu1mSH7yIW-yCc1ThJnVVtKDc&sid=5b6762be#🔒 VL-TCP-RLT 🇯🇵 JP-54.238.57.53:443
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@31.40.205.42:32223?security=reality&flow=xtls-rprx-vision&sni=apps.apple.com&type=tcp&fp=edge&pbk=dXwonwg9IAAXTVdh8-vhzgP1u6yhJOjVlWrx1fWOzFU&sid=77#🔒 VL-TCP-RLT 🇹🇷 TR-31.40.205.42:32223
@@ -503,3 +502,4 @@ vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@188.114.98.39:443?security=tls&sni=
 vless://602df253-3202-4928-af79-ab1a40e52ae6@151.101.2.165:80?security=none&type=ws&host=cpro.panelit.com.&path=%2Fspdnet%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-147.185.161.229:80
 vless://3c269817-978d-43ca-b9b0-c69362d43849@172.66.47.115:8443?security=tls&sni=mAhdIserVEr-amu.PaGes.Dev&type=ws&host=mahdiserver-amu.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.115:8443
+vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@172.67.165.151:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.151:443
