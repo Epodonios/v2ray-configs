@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://99727208-0086-43f9-f0ad-9e30f546b822@140.99.233.195:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-140.99.233.195:8880
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.59.218.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.13:8880
 vless://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@185.83.113.136:5126?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.113.136:5126
 vless://92dc86bd-f73a-42d6-afc7-4af5b2835d53@162.159.128.233:2087?security=tls&sni=configngnixV2rayng.shhproxy.cfd&type=ws&host=configngnixV2rayng.shhproxy.cfd&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:2087
 vless://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.157.127:2083?security=tls&sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.157.127:2083
@@ -503,3 +501,5 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.155.42:443?sni=xv6.jpmj.dpdn
 vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@178.239.149.79:2086?security=none&type=tcp&host=bmw.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.149.79:2086
 vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.152.225:443?security=tls&sni=zv.bgm2024.dpdns.org&type=ws&host=zv.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.225:443
 vless://dcafb248-38ba-489c-bceb-42e5a72e85d1@209.38.100.208:43643?security=none&type=tcp&host=ir1.node.check-host.net&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-209.38.100.208:43643
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.215.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇨🇦 CA-74.49.215.63:8880
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@88.216.66.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-88.216.66.247:8880

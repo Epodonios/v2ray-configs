@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://99727208-0086-43f9-f0ad-9e30f546b822@140.99.233.78:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-140.99.233.78:8880
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.48:2096?security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.48:2096
 vless://3682c57c-9905-41d0-9b99-458f0da76ab3@37.202.241.247:2070?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.241.247:2070
 vless://8ce7cc80-dd6b-4002-85b0-2a01b18966fb@57.128.219.105:443?security=tls&sni=pl-1-rvp.medicaldream.ir&type=ws&host=pl-1-rvp.medicaldream.ir&path=%2Fws&fp=chrome#🔒 VL-WS-TLS 🇵🇱 PL-57.128.219.105:443
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@89.116.250.232:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.250.232:8880
@@ -503,3 +501,5 @@ trojan://Aimer@162.159.133.136:443?sni=epcca.ambercc.filegear-sg.me&allowInsecur
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.41.190:443?sni=tt.vs2024.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.41.190:443
 trojan://bpb-trojan@27.36.125.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net#🔒 TR-WS-TLS 🇨🇳 CN-27.36.125.2:443
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.118:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.118:2053
+trojan://vip@172.67.71.122:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.71.122:443
+trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.155.16:2053

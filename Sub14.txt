@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.165:8880?type=ws&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇹 LT-45.81.58.165:8880
-vless://31348b17-4ab2-40c0-b79e-c81032331d30@185.135.9.138:2086?security=none&sni=b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev&type=ws&host=b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev#🔒 VL-WS-NONE 🇩🇪 DE-185.135.9.138:2086
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.145:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.145:80
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.46.227:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.46.227:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.188.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.188.26:8880
@@ -503,3 +501,5 @@ vless://ed6c2e75-d3f1-4d1f-9e23-74552c543e68@88.218.16.102:58098?security=none&t
 vless://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev&path=%2F%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-[::ffff:50.7.85.220]:80
 vless://bd227cdc-cccd-4915-8d48-5ca798b6d328@62.60.186.198:443?security=tls&sni=space20562056.ir&type=ws&host=space20562056.ir&path=%2Fdigikala.com%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-62.60.186.198:443
 vless://adec6fda-bd8b-4348-a3d8-a82c3d270532@104.26.6.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.10:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram@Selinc%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.147:80
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@154.218.15.172:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.172:8880

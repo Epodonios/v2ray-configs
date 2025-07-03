@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://0f5bd9ef-cba9-4867-a6cf-028077a3d840@94.232.168.16:30501?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.232.168.16:30501
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.9:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.9:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.148:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.148:80
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.176:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.176:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.168.37:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.168.37:443
@@ -503,3 +501,5 @@ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@102.132.188.251:8880?security=none&
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.192.51:80
 vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@208.86.168.45:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-208.86.168.45:2096
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.151:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.40.151:443
+vless://99727208-0086-43f9-f0ad-9e30f546b822@140.99.233.78:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-140.99.233.78:8880
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.48:2096?security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.48:2096

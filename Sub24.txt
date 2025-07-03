@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.106:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.106:8880
-vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@104.21.16.1:2086?security=none&type=ws&path=speedtest.net#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.1:2086
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=1#🔒 VL-WS-NA 🇸🇨 SC-156.243.83.29:8880
 vless://413775c3-ec6e-4d65-a969-336205799f44@5.160.35.248:5112?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.248:5112
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@210.178.96.12:50003?security=tls&sni=edmk.aimercc.filegear-sg.me&type=ws&host=edmk.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇰🇷 KR-210.178.96.12:50003
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@80.93.202.63:8880?sni=jp.laoyoutiao
 vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@104.22.1.49:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.1.49:443
 vless://bfc61729-ee78-4504-a6bc-3cb11ac96049@104.22.33.78:2052?security=none&type=ws&host=mosiv2.eliii.mosiv2.mosiv2.Www.speedtest.net.mosiv2.mosic7.info.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:2052
 vless://cb4560ba-ae96-4f8d-b6ec-ae4d1f0bf7c4@104.21.80.1:8080?type=httpupgrade&host=docs.acveo.ir&path=%2FMTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.80.1:8080
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.202:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.202:443
+vless://599a3443-4db5-4d91-9117-066ef0bda053@172.67.153.29:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.29:443

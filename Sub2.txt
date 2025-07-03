@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.214.14:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-89.163.214.14:8443
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&flow=xtls-rprx-vision&sni=www.tradingview.com&type=tcp&fp=chrome&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096#🔒 VL-TCP-RLT 🇸🇮 SI-92.60.78.221:443
 vless://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.75.222:443?security=reality&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&type=tcp&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#🔒 VL-TCP-RLT 🇯🇵 JP-160.16.75.222:443
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@51.89.229.92:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒 VL-TCP-RLT 🇬🇧 GB-51.89.229.92:1370
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#🔒 VL-TCP-RLT 🇳🇿 NZ-45.15.140.38:28495
@@ -503,3 +501,5 @@ vless://1c4c856f-6ef1-4d32-a556-068d948a2158@104.16.83.224:443?sni=taoj.eu.org&t
 vless://15e99f9a-2aa6-46ff-ab8e-903ae48c3f8c@46.38.151.245:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-46.38.151.245:8080
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.194.12.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NA 🇸🇬 SG-154.194.12.254:8880
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:2096
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.118:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇷🇺 RU-45.67.215.118:443
+vless://de375b7b-339e-4b62-97b0-3527d843d239@91.99.8.231:1517?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.8.231:1517

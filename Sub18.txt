@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://4587e98c-ec45-408e-b395-67923b6e9ded@162.159.192.56:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.56:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.65:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-154.197.108.65:8880
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@45.80.108.253:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇪🇪 EE-45.80.108.253:443
 vless://d58909c6-16be-4e1d-bca6-bfbfca35ae48@151.101.195.6:443?security=tls&sni=Hydyrow.com&type=xhttp&host=Hydyrow.com&path=%2F&fp=chrome&alpn=h3&allowInsecure=1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.195.6:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.48:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.48:8880
@@ -503,3 +501,5 @@ vless://34b3cbba-e6ac-485a-9481-976a0415eab9@172.67.141.28:443?security=tls&sni=
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@46.149.203.202:7656?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇭🇰 HK-46.149.203.202:7656
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@195.13.54.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-195.13.54.247:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?security=none&sni=pqh36v5.economy36top.shop&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.183:8880
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443?security=tls&sni=sdfee4.azurewebsites.net&type=ws&host=sdfee4.azurewebsites.net&path=/&fp=chrome#🔒 VL-WS-TLS 🇦🇺 AU-20.42.228.160:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&sni=TABRIZ.NET&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-NONE 🇫🇷 FR-95.164.45.94:8880

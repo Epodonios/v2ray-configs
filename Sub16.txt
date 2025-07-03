@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://063f79bf-b690-43bd-99d7-18fd0d0f03de@2.188.224.183:54546?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-2.188.224.183:54546
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.147.19:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.147.19:443
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.2.26:2083?security=tls&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.2.26:2083
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.164.70:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.164.70:443
 vless://eb50d091-51ed-4f89-bc4e-8b04320585d7@162.120.94.90:2096?security=tls&sni=premium.vkehi.shop&type=ws&host=premium.vkehi.shop&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-162.120.94.90:2096
@@ -503,3 +501,5 @@ vless://02475224-e7cd-58a5-a6d7-81d7d025acac@86.38.214.22:2052?security=none&typ
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.242.104:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.104:443
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?security=tls&sni=werrr.azurewebsites.net&type=ws&host=werrr.azurewebsites.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-52.187.36.104:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.247.209:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.247.209:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.19:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-130.250.137.19:443
+vless://2e19ad3d-133c-4e88-bfc4-2d8b0e9ee43d@14.102.229.71:8080?security=none&type=httpupgrade&host=pivaz-i.plas-nim.org&path=%2F%3Fed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-14.102.229.71:8080

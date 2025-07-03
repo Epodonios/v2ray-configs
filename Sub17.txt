@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.19:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-130.250.137.19:443
-vless://2e19ad3d-133c-4e88-bfc4-2d8b0e9ee43d@14.102.229.71:8080?security=none&type=httpupgrade&host=pivaz-i.plas-nim.org&path=%2F%3Fed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-14.102.229.71:8080
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.30:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.30:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.107.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.148.107.63:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@216.24.57.36:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-216.24.57.36:443
@@ -503,3 +501,5 @@ vless://948f6596-66f9-4707-aa92-3107a214ce53@104.16.108.43:80?security=none&sni=
 vless://99727208-0086-43f9-f0ad-9e30f546b822@103.160.204.85:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-103.160.204.85:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.188.17:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.188.17:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.5.186:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.5.186:8880
+vless://4587e98c-ec45-408e-b395-67923b6e9ded@162.159.192.56:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.56:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.65:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-154.197.108.65:8880

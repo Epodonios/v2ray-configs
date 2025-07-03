@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@192.200.160.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-192.200.160.3:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.135.157:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.157:443
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@162.159.49.46:443?security=tls&sni=rayan-08.parastoo.dpdns.org&type=ws&host=rayan-08.parastoo.dpdns.org&path=%2F%40Rayan_Config&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.49.46:443
 vless://27275572-727f-4b81-bf79-00d1c1c5dd1c@104.16.6.65:443?security=tls&sni=m237.inaonehorseopensleigh.com&type=ws&host=m237.inaonehorseopensleigh.com&path=%2Fv6894569690#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.6.65:443
 vless://c74dddf5-ae66-4deb-9f5f-af6c4661b4b2@104.26.0.146:443?security=tls&sni=akenohimejima.riasgremory.ip-ddns.com&type=ws&host=akenohimejima.riasgremory.ip-ddns.com&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.0.146:443
@@ -503,3 +501,5 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.4.253:8880?security=none&typ
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.246.248:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.246.248:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.82.20:8880?type=ws&host=us.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇪🇸 ES-185.251.82.20:8880
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws&host=bypass.dd-6b2.workers.dev&path=@bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.73:443
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@192.65.217.0:2087?security=tls&sni=a2.flcode.ir&type=grpc#🔒 VL-GRPC-TLS 🇦🇺 AU-192.65.217.0:2087
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.209.227:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.227:8443

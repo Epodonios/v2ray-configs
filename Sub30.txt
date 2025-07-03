@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-trojan://vip@172.67.71.122:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.71.122:443
-trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.155.16:2053
 trojan://91658@172.67.142.239:2053?security=tls&sni=MYwEbpaN.114514660.XYZ&type=ws&host=mywebpan.114514660.xyz&path=%2FtrzgO9jkPd04KXukqX%2FdHMuaHBjLnR3%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.142.239:2053
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.88:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.88:2053
 trojan://Aimer@35.167.93.200:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-35.167.93.200:443
@@ -503,3 +501,5 @@ trojan://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@104.21.86.44:443?sni=10xcvb.he2022
 trojan://uV8u9Q41e2@104.18.165.78:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.165.78:443
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-185.107.56.192:443
 trojan://Aimer@104.16.159.28:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.159.28:443
+trojan://Aimer@104.16.52.87:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.52.87:443
+trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.71.112:443?security=tls&sni=CFR56ty7890.288288.sHOP&type=ws&host=cfr56ty7890.288288.shop&path=/By7cEmOrNRS58yeduy9AOG#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.71.112:443
