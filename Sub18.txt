@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2096
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.150.115.247:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇨🇾 CY-45.150.115.247:443
 vless://ac189eff-1a6a-4efc-bb14-5938f271a18f@45.12.30.239:8880?security=none&type=ws&host=joker.ahang-alpha.IR#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.239:8880
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.46.167:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇩🇪 DE-89.116.46.167:443
@@ -502,4 +503,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.55.71:443?sni=xv6.jpmj.dpdns
 vless://5a365e51-4772-4791-a3a9-bed686ca89ac@78.109.193.145:9091?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.109.193.145:9091
 vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?security=tls&sni=newus.sspeednetokala.US.KG&type=ws&host=newus.sspeednetokala.US.KG&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.245.156:2087
 vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.49:4243?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.49:4243
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.79.61:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.79.61:443

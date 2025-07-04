@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://6a29215e-52fd-44aa-ad2b-8ea04546f8f2@104.19.174.68:2087?security=tls&sni=prx11.proxystore11.news&type=ws&host=prx11.proxystore11.news&path=%2Fprx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:2087
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@62.60.210.105:6985?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.105:6985
 vless://908fe4f8-eb66-42eb-bd97-8d88be7f0ac4@172.67.195.73:2053?security=tls&sni=txmt.conetcdata.dpdns.org&type=ws&host=txmt.conetcdata.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.195.73:2053
 vless://6bf5267e-cbe3-42eb-bdb0-9f6cd457f168@138.128.225.100:2053?security=tls&sni=design-mobo.ir&type=ws&host=shark.cloud&path=%2Ftelegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇦🇪 AE-138.128.225.100:2053
@@ -502,4 +503,3 @@ vless://2cc09c17-3272-4892-a52d-b39e0df000e3@190.93.245.137:2087?security=tls&sn
 vless://563709ea-3663-4f86-b413-5299897659a5@104.18.13.149:2053?security=tls&sni=laj.iranianmobail.ir&type=ws&host=laj.iranianmobail.ir&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----9KsgRW1AnYtwZOVz&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.149:2053
 vless://60882caa-4e74-42a2-be70-220755fc1551@104.18.156.119:443?security=tls&sni=rayan-karma.parvaneh.dpdns.org&type=ws&host=rayan-karma.parvaneh.dpdns.org&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.156.119:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.101.175:443?security=tls&sni=jk.ylka.dpdns.org&type=ws&host=jk.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.101.175:443
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.175.176:8443?security=tls&sni=de1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-195.181.175.176:8443
