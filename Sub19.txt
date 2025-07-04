@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.49:4243?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.49:4243
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.79.61:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.79.61:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.244.122.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-188.244.122.63:8880
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@62.72.166.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇯🇴 JO-62.72.166.13:8880
@@ -502,4 +503,3 @@ vless://99727208-0086-43f9-f0ad-9e30f546b822@103.169.142.23:8880?security=none&t
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.242:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.242:80
 vless://45c3ceef-af58-45ba-83e9-6fad74dbb663@104.21.33.210:443?security=tls&sni=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FNBuFH5KdNl08Dm06&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.33.210:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.30:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.30:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.242:8443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&alpn=h3&allowInsecure=0#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.242:8443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.247.78:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.158.14:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.158.14:443
 vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082?type=ws&host=0210.uous1wog.workers.dev#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.95:2082
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@88.216.66.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram#🔒 VL-WS-NA 🇱🇹 LT-88.216.66.251:8880
@@ -502,4 +503,3 @@ vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@172.67.178.144:8880?security=none&t
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@104.129.167.250:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.167.250:8880
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.82.33:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2FTELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.82.33:443
 vless://abbc5434-655a-4371-9ab9-b3493da6a313@172.66.44.157:443?security=tls&sni=mahDiSErVEr-aP4.pAges.dEv&type=ws&host=mahdiserver-ap4.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.157:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.31:8880?type=ws&host=sk.laoyoutiao.link&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40MxlShare%2520%40WangCai2%2520%2F#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.31:8880

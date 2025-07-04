@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.47.193:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.47.193:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.221.160.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.221.160.20:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.82.214:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.82.214:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.88:443?security=tls&sni=bv.bgm2024.dpdns.org&type=ws&host=bv.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.88:443
@@ -502,4 +503,3 @@ trojan://Aimer@104.17.19.20:443?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA �
 trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443?security=tls&sni=44444444.HuanGShANG.DPDNs.oRG&type=ws&host=44444444.huangshang.dpdns.org&path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.7.147:443
 trojan://Aimer@104.18.73.122:443?sni=epccx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.73.122:443
 trojan://Aimer@104.18.39.115:443?security=tls&sni=epmf.ambercc.filegear-sg.me&type=ws&host=epmf.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.39.115:443
-trojan://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.177.109:443?security=tls&sni=sssxXZAw.666461.xYz&type=ws&host=sssxxzaw.666461.xyz&path=%2FPLibEtUpg4ykd4O&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.177.109:443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://941d092e-8313-452a-ba21-c9995dcba79d@104.16.110.49:80?security=none&type=ws&host=havvas.shohreh.dpdns.org&path=%2F%3Fed%3D2570#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.110.49:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.87:80?security=none&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.121.87:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.61:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.61:2096
 vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?security=tls&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&type=ws&host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&path=%2F#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.135:443
@@ -502,4 +503,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?security=tls&sni=c
 vless://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:8443?security=tls&sni=app.soft10.ir&type=httpupgrade&host=app.soft10.ir&path=/8PaKguUsL3cShypYFXoLUeVZ81vwc&fp=chrome&alpn=http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.203.189:8443
 vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@217.163.76.117:2052?security=none&type=ws&host=workerr.aasihmin.workers.dev&path=%2F@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇬🇧 GB-217.163.76.117:2052
 vless://41fb8e4d-313b-4939-9ef4-a6d7ab6c6570@195.201.249.224:11460?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-195.201.249.224:11460
-vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:443?security=tls&sni=gb-3.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:443

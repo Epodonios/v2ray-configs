@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.101.175:443?security=tls&sni=jk.ylka.dpdns.org&type=ws&host=jk.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.101.175:443
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.175.176:8443?security=tls&sni=de1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-195.181.175.176:8443
 vless://c3c07679-bddc-4ce8-9cc4-57b550a1c000@104.26.13.140:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&path=/B4IDro51Svb6AYgE?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@170.114.46.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇺🇸 US-170.114.46.29:8880
@@ -502,4 +503,3 @@ vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.110:443?security=tls&sni
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-194.53.53.20:8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@195.26.229.247:8880?security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed#🔒 VL-WS-NONE 🇨🇾 CY-195.26.229.247:8880
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@141.101.115.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.115.251:8880
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.12:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.12:443
