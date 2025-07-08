@@ -2,7 +2,7 @@ name: Update Sub Files Every 10 Minutes
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 
+    - cron: '*/20 * * * *'  # 
   workflow_dispatch:        # ا
 
 jobs:
