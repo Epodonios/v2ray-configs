@@ -1,0 +1,37 @@
+name: Auto Remark Updater
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-subs:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout main branch
+      uses: actions/checkout@v3
+      with:
+        ref: main  # محتوای برنچ main رو می‌گیریم
+
+    - name: Copy script from automation branch
+      run: |
+        git fetch origin automation
+        git checkout origin/automation -- change_remark_all_types.py
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Run updater
+      run: python change_remark_all_types.py "epodonios"
+
+    - name: Commit changes to main
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add Sub*.txt
+        git commit -m "🔁 Auto remark update" || echo "No changes"
+        git push origin main
