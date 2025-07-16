@@ -90,6 +90,10 @@ def main():
         "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
         "https://mrpooya.top/SuperApi/BE.php",
         "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt"
+        https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
+        https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/configtg.txt
+        https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt
+        https://raw.githubusercontent.com/R3ZARAHIMI/tg-v2ray-configs-every2h/refs/heads/main/Config_jo.txt
     ]
     dir_links = [
         "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
