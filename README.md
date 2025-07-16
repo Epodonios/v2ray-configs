@@ -151,6 +151,38 @@ Mobile and pc:
 I hope u use this configs very well.
 
 
+
+
+
+# V2Ray Config Scanner
+
+A lightweight Python script that scans and pings a list of V2Ray configuration links (vmess, vless, etc.), and outputs their protocol and latency. Useful for testing and sorting multiple V2Ray configs based on performance.
+
+## Features
+
+- Supports `vmess`, vless, and other V2Ray protocols
+- Measures latency (ping) for each config
+- Sorts or filters results based on protocol and responsiveness
+- Simple, fast, and dependency-free (only requires Python)
+
+## Requirements
+
+- Python 3.x (no external packages required)
+
+## Usage
+
+ 1. Make sure Python 3 is installed on your system.
+ 2. Download the sub*.txt files from this repository (they contain lists of V2Ray subscription links).
+ 3. Run the script and provide the path to one or more sub*.txt files as arguments.
+ 4. The script will start scanning and show you the protocol and ping for each config.
+
+Sample Output
+
+[vmess] node1.example.com - 42 ms
+[vless] node2.example.net - timeout
+[shadowsocks] fastnode.org - 35 ms
+
+
 ## Tunnel entire system:
 
 For better use and tunneling the entire system, you can use a proxy program. The usage steps are as follows:
