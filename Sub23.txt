@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#%3E%3E%40v2ray_configs_pool%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc=@89.23.103.229:443#%3E%3E%40v2rayngvpn%3A%3ANL
+vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#%3E%3E%40v2rayngvpn%3A%3AUS
+vless://5879d109-8c92-448%61-801b-3f3989019934@212.183.88.1:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&security=tls&encryption=none&host=tbs-80p.p%61g%65s.d%65%76&type=ws&sni=pages.dev#%3E%3E%40mehrosaboran%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#%3E%3E%40flyv2ray%3A%3ANL
 vless://edeffe9e-4725-428e-a1c0-7b6a96124f8d@194.182.79.163:10108?mode=gun&security=reality&encryption=none&pbk=wGHsRP4taNR7OgyRPba24krQVhH9ZRbR7pvDxVsGjj0&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=ed#%3E%3E%40v2rayngvpn%3A%3ACZ
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2FFREEV2RNGTELEGRAM----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#%3E%3E%40v2ray_configs_pool%3A%3AUS
@@ -498,8 +502,4 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:49720/?sni=dxobg
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
