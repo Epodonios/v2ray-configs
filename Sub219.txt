@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
@@ -499,7 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880/?type=grpc&enc
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=MpUpI7796u.RaNdOmKoHsTaN.oRg&alpn=h3%2Ch2&fp=chrome&type=ws&host=MpUpI7796u.RaNdOmKoHsTaN.oRg&path=%2F#v2%2B
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880/?type=grpc&encryption=none&flow=#✅@v2ray_configs_pools
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none&flow=#✅@v2ray_configs_pools
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880/?mode=gun&security=none&encryption=none&type=grpc#✅@v2ray_configs_pools
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#opennet_ir
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.12.30.165:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#✅@v2ray_configs_pools
