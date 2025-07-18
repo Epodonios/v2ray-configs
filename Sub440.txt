@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?encryption=none&security=none&type=grpc#%40mobilesignal%F0%9F%87%AB%F0%9F%87%B7
-vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20@v2ray_configs_pools`
-vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&sid=a31a8d04622560&type=tcp&headerType=none#%40Daily_Configs
-vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&type=grpc&serviceName=Telegram%3A%40FergalVpnMod&sni=cloudflare.com&sid=9ecc4615ce#%40kinds_of_vibes%20%F0%9F%8E%B5`
-vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2FTel-%40MTMVPN%2F%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#%F0%9F%86%94%40kaanfing
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?encryption=none&security=tls&sni=yx.yushan.dpdns.org&fp=chrome&type=ws&host=yx.yushan.dpdns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed#%40mobilesignal%F0%9F%87%A8%F0%9F%87%A6
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@v2ray_configs_pools`
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#opennet_ir
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=KtT44fPtXh.DaStAtSaRd.OrG&type=ws&sni=KtT44fPtXh.DaStAtSaRd.OrG#%40aski_proxy%20%3A%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7`
 vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-olala.parvaneh.dpdns.org&type=ws&sni=rayan-olala.parvaneh.dpdns.org#%40kinds_of_vibes%20%F0%9F%8E%B5`
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.18.12.149:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-09.leila.dpdns.org&fp=chrome&type=ws&sni=rayan-09.leila.dpdns.org#%40kinds_of_vibes%20%F0%9F%8E%B5`
@@ -503,3 +495,11 @@ ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636/?plugin=v2ray-plugin%3B
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:41225?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjguMjExLjEzNi4yNDkiLCJwb3J0IjoiNTY0MjgiLCJ0eXBlIjoiZHRscyIsImlkIjoiMmEzN2ViNDUtNGNkZC00YzJlLTkxNGUtZWQyZjk3MmU0MDAzIiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:16158?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:44123?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:32765?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-knyhjj43dT.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:4447?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:13855?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
+vmess://eyJ2IjoiMiIsInBzIjoiMSB8ICAxLjhNQi9zfDU0JXxZb3V0dWJlfE9wZS4uLiIsImFkZCI6InNzbHZwbi41MWpvYi5jb20iLCJwb3J0IjoiMTQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJhNmEwZDkwMS02N2U5LTQ2MGEtOTBiNS02MzRjNWM0Zjk3ODIiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii82MzRjNWM0Zjk3ODIiLCJob3N0IjoiY2VudG9zNyIsInRscyI6InRscyJ9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#3-SK%20%7C%20%205.0MB%2Fs%7C0%25%7CYoutube%7COp...
+vmess://eyJ2IjoiMiIsInBzIjoiMSB8ICAxLjBNQi9zfDAlfE5ldGZsaXh8RGlzbi4uLiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJwb3J0IjoiNDkyOTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
