@@ -7,7 +7,7 @@ on:
       - main
   schedule:
     # Run every 9 minutes
-    - cron: "*/9 * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   build:

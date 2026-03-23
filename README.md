@@ -16,8 +16,7 @@ This script collects several thousand V2ray configurations every five minutes, a
 ### You can use a v2ray client to use these subscription links:
 
 #### Android:
-1. hiddify-next
-2. v2rayng
+  v2rayng
 
 #### IOS:
 1. fair
@@ -42,17 +41,6 @@ If the above link doesn't work, try the base 64 configurations:
 https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_base64_Sub.txt
 ```
 
-### TLS Only:
-
-These Configurations are tls secured:
-```
-https://github.com/Epodonios/v2ray-configs/raw/main/Configs_TLS.txt
-```
-
-If the above link doesn't work, try the base 64 configurations:
-```
-https://github.com/Epodonios/v2ray-configs/raw/main/Config_TLS_base64.txt
-```
 
 ### Splited by protocol:
 
@@ -85,71 +73,71 @@ https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.
 
 Config List 1:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list1.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
 ```
 Config List 2:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list2.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt
 ```
 
 Config List 3:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list3.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt
 ```
 
 Config List 4:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list4.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub4.txt
 ```
 
 Config List 5:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list5.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub5.txt
 ```
 
 Config List 6:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list6.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub6.txt
 ```
 
 Config List 7:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list7.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub7.txt
 ```
 
 Config List 8:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list8.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub8.txt
 ```
 
 Config List 9:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list9.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub9.txt
 ```
 
 Config List 10:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list10.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub10.txt
 ```
 
 Config List 11:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list11.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub11.txt
 ```
 
 Config List 12:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list12.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub12.txt
 ```
 
 Config List 13:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list13.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub13.txt
 ```
 
 Config List 14:
 ```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list14.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub14.txt
 ```
 
 ### Usage:
@@ -163,11 +151,11 @@ Mobile and pc:
 I hope u use this configs very well.
 
 
-Tunnel entire system:
+## Tunnel entire system:
 
 For better use and tunneling the entire system, you can use a proxy program. The usage steps are as follows:
 
-Usage Instructions:
+### Usage Instructions:
 
   1-First, install the Proxifier program.
 
@@ -212,3 +200,31 @@ Protocol: Select SOCKS5
 Some installed programs on the system, like Spotube, might not fully tunnel. This issue can be resolved with this method.
 
 Your friend, EPODONIOS
+
+
+
+
+## u can use this feature with another way it no needs any program set by system tools 
+
+### instruction: 
+
+1- open your OS setting 
+
+2- go to proxy section
+
+3- in proxy section set this values : 
+  ip : 127.0.0.1
+  
+  port : 10809
+  
+  local host : 
+  ```
+localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*
+```
+ 4- then set it up with ON key 
+
+ 5- back to v2rayn and after set your config turn it to set system proxy 
+
+ 6- now your system tunneled entirely
+
+ur friend,EPODONIOS
