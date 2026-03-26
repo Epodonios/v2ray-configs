@@ -1,5 +1,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/Epodonios/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/Epodonios/V2ray-Configs)  
 
+<a href="https://t.me/+IOG0nSifAV03ZmY0" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="500" height="500"> contact us
+</a>
 
 # Bulk V2ray Configs
 💻 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
@@ -69,7 +72,7 @@ Trojan:
 https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt
 ```
 
-### Splited in 500 count of configs:
+### Splited in 250 count of configs:
 
 Config List 1:
 ```
