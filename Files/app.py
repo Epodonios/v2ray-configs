@@ -28,6 +28,7 @@ def decode_links(links):
     for link in links:
         try:
             response = requests.get(link, timeout=TIMEOUT)
+            response.raise_for_status()
             encoded_bytes = response.content
             decoded_text = decode_base64(encoded_bytes)
             decoded_data.append(decoded_text)
@@ -41,6 +42,7 @@ def decode_dir_links(dir_links):
     for link in dir_links:
         try:
             response = requests.get(link, timeout=TIMEOUT)
+            response.raise_for_status()
             decoded_text = response.text
             decoded_dir_links.append(decoded_text)
         except requests.RequestException:
