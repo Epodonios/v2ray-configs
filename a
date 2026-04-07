@@ -1,0 +1,36 @@
+2026-04-05T08:46:21.2190821Z Current runner version: '2.333.1'
+2026-04-05T08:46:21.2215078Z ##[group]Runner Image Provisioner
+2026-04-05T08:46:21.2215930Z Hosted Compute Agent
+2026-04-05T08:46:21.2216534Z Version: 20260213.493
+2026-04-05T08:46:21.2217097Z Commit: 5c115507f6dd24b8de37d8bbe0bb4509d0cc0fa3
+2026-04-05T08:46:21.2217853Z Build Date: 2026-02-13T00:28:41Z
+2026-04-05T08:46:21.2218485Z Worker ID: {9cbe4f8e-1505-42b0-b4ce-2564060b93fb}
+2026-04-05T08:46:21.2219152Z Azure Region: eastus
+2026-04-05T08:46:21.2219678Z ##[endgroup]
+2026-04-05T08:46:21.2221156Z ##[group]Operating System
+2026-04-05T08:46:21.2221710Z Ubuntu
+2026-04-05T08:46:21.2222157Z 24.04.4
+2026-04-05T08:46:21.2222910Z LTS
+2026-04-05T08:46:21.2223365Z ##[endgroup]
+2026-04-05T08:46:21.2223843Z ##[group]Runner Image
+2026-04-05T08:46:21.2224455Z Image: ubuntu-24.04
+2026-04-05T08:46:21.2224958Z Version: 20260329.72.1
+2026-04-05T08:46:21.2226137Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260329.72/images/ubuntu/Ubuntu2404-Readme.md
+2026-04-05T08:46:21.2227552Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260329.72
+2026-04-05T08:46:21.2228413Z ##[endgroup]
+2026-04-05T08:46:21.2229531Z ##[group]GITHUB_TOKEN Permissions
+2026-04-05T08:46:21.2231540Z Contents: read
+2026-04-05T08:46:21.2232111Z Metadata: read
+2026-04-05T08:46:21.2232831Z Packages: read
+2026-04-05T08:46:21.2233332Z ##[endgroup]
+2026-04-05T08:46:21.2235469Z Secret source: Actions
+2026-04-05T08:46:21.2236191Z Prepare workflow directory
+2026-04-05T08:46:21.2560131Z Prepare all required actions
+2026-04-05T08:46:21.2653755Z Complete job name: sleep
+2026-04-05T08:46:21.3341513Z ##[group]Run sleep 120
+2026-04-05T08:46:21.3342135Z [36;1msleep 120[0m
+2026-04-05T08:46:21.3725572Z shell: /usr/bin/bash -e {0}
+2026-04-05T08:46:21.3727668Z ##[endgroup]
+2026-04-05T08:47:33.5163901Z ##[error]The operation was canceled.
+2026-04-05T08:47:33.5315785Z Cleaning up orphan processes
+2026-04-05T08:47:33.5562211Z Terminate orphan process: pid (2147) (sleep)
