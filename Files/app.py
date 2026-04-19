@@ -25,26 +25,34 @@ def decode_base64(encoded):
 # Function to decode base64-encoded links with a timeout
 def decode_links(links):
     decoded_data = []
+    errors = []
     for link in links:
         try:
             response = requests.get(link, timeout=TIMEOUT)
+            response.raise_for_status()
             encoded_bytes = response.content
             decoded_text = decode_base64(encoded_bytes)
             decoded_data.append(decoded_text)
-        except requests.RequestException:
-            pass  # If the request fails or times out, skip it
+        except requests.RequestException as exc:
+            errors.append(f"{link}: {exc}")
+    if errors:
+        raise RuntimeError("Failed to process some base64 links:\n" + "\n".join(errors))
     return decoded_data
 
 # Function to decode directory links with a timeout
 def decode_dir_links(dir_links):
     decoded_dir_links = []
+    errors = []
     for link in dir_links:
         try:
             response = requests.get(link, timeout=TIMEOUT)
+            response.raise_for_status()
             decoded_text = response.text
             decoded_dir_links.append(decoded_text)
-        except requests.RequestException:
-            pass  # If the request fails or times out, skip it
+        except requests.RequestException as exc:
+            errors.append(f"{link}: {exc}")
+    if errors:
+        raise RuntimeError("Failed to process some directory links:\n" + "\n".join(errors))
     return decoded_dir_links
 
 # Filter function to select lines based on specified protocols and remove duplicates (only for config lines)
