@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?type=tcp&security=tls&headerType=none&insecure=0&allowInsecure=0#EPODONIOS
@@ -1000,6 +1003,3 @@ vless://3195e102-c157-eed6-eaa5-13ae596360e2@rvg-production-b337.up.railway.app:
 vless://3195e102-c157-eed6-eaa5-13ae596360e2@rvg-production-b337.up.railway.app:443?path=/ws/3195e102-c157-eed6-eaa5-13ae596360e2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-b337.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-b337.up.railway.app#EPODONIOS
 vless://31e302aa-c0ef-4ab3-b16f-71ac8ccfb045@lastkh.mobileman1.com:4242?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#EPODONIOS
 vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#EPODONIOS
-vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#EPODONIOS
-vless://31fc82da-1136-4a84-a596-7fbba8026c1d@104.16.72.70:443?path=/gateway/ws/a8d2f91c&security=tls&encryption=none&host=dfs8545fads4ds5.another-appleid.ccwu.cc&fp=chrome&type=ws&sni=dfs8545fads4ds5.another-appleid.ccwu.cc#EPODONIOS
-vless://31fc82da-1136-4a84-a596-7fbba8026c1d@104.18.153.10:443?path=/gateway/ws/a8d2f91c&security=tls&encryption=none&host=dfs8545fads4ds5.another-appleid.ccwu.cc&fp=chrome&type=ws&sni=dfs8545fads4ds5.another-appleid.ccwu.cc#EPODONIOS
