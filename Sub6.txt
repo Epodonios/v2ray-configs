@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ca3e2071-6857-4e46-9b01-c7bfafc4300d@141.11.21.242:53924?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://ca519d0a-d626-472c-bf30-d8feaca16c44@olds-1.lubbs.de:2086?path=/&security=&encryption=none&host=nim-art1.mimkiscx.ir&type=httpupgrade#EPODONIOS
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#EPODONIOS
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#EPODONIOS
@@ -1003,3 +1002,4 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls&ins
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#EPODONIOS
 trojan://PI36027154@tight-possum.rooster465.autos:443?allowInsecure=1#EPODONIOS
 trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?host=unnes.ac.id.yxls.eu.cc&path=%2Fbr-orcl&sni=unnes.ac.id.yxls.eu.cc&type=ws#EPODONIOS
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443#EPODONIOS
