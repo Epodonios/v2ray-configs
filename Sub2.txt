@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.6:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://24d49ddd-67c1-4821-b5b9-f12107366978@151.101.3.147:80?encryption=none&se
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:8080?encryption=none&security=none&type=ws&host=play.google.com&path=/#EPODONIOS
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:80?encryption=none&security=none&type=ws&host=play.google.com&path=/#EPODONIOS
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
+vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
+vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS

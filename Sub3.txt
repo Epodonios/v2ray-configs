@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
-vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
 vless://253ded96-665e-420d-86fb-16d4b6701155@stockholm.wizard1.info:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=yahoo.com#EPODONIOS
 vless://2547fcff-03a0-453d-bc20-acd66ef75611@fans2.mahoshid.ir:9560?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#EPODONIOS
 vless://2598c743-f9ce-4aa0-a459-bb4c505f0907@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=sub.zynavo.ir&fp=chrome&type=xhttp&sni=sub.zynavo.ir#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none&fp
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net&note=@FreeOnlineVPN#EPODONIOS
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@172.66.213.38:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=gr4.monopolitass.ir#EPODONIOS
