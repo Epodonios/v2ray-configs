@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.us.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://9627c5e0-9a11-4d36-a470-3ce64797149e@fr-po.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@gr-direct.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#EPODONIOS
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@www1.n.ahmadhamoumi.fun:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-tr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-tr.ipng.site#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://c1f37260-7d28-4370-9e67-33d9bb17f5f6@199.91.220.99:36449?security=none&e
 vless://c23a425c-caa3-471a-b80a-e42448b4034d@192.166.82.47:80?path=/assets/js/app-v2.8.4-5f9a2b3c.js&security=none&encryption=none&host=skyroom.online&type=httpupgrade#EPODONIOS
 vless://c23a425c-caa3-471a-b80a-e42448b4034d@192.166.82.47:80?path=/assets/js/app-v2.8.4-5f9a2b3c.js&security=none&encryption=none&host=skyroom.online&type=httpupgrade#EPODONIOS
 vless://c23a425c-caa3-471a-b80a-e42448b4034d@192.166.82.47:80?path=/assets/js/app-v2.8.4-5f9a2b3c.js&security=none&encryption=none&host=skyroom.online&type=httpupgrade#EPODONIOS
+vless://c2591fc2-d8e5-48c8-b264-3c0d6cf86603@194.116.236.222:2082?encryption=none&security=none&type=ws&host=194.116.236.222&path=/#EPODONIOS
+vless://c2c94230-7075-4558-89f4-ddf74d7de107@45.76.87.125:14750?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#EPODONIOS
