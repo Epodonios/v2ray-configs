@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://SoftNetConnect@213.108.20.209:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#EPODONIOS
 trojan://SoftNetConnect@213.165.44.57:2083?type=xhttp&security=reality&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}&sni=image.led.samsung.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lRs4h-oruGfbotF97TbnJ9Wosgo7-X3F2nAOLM_9sUQ&sid=84&spx=/5br9LeD00H3nH8C#EPODONIOS
 trojan://SoftNetConnect@213.165.44.57:2087?mode=auto&path=/&security=reality&pbk=MDvbl1ruvtvzUK0dGetdw_5-T04ZyeTvS0qZ3SKmh0g&fp=chrome&spx=/TR0Ze7nnj1Hp7xF&type=xhttp&sni=s.yimg.com&sid=6693ba492b61f1#EPODONIOS
 trojan://SoftNetConnect@213.165.44.57:2087?type=xhttp&security=reality&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}&sni=s.yimg.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MDvbl1ruvtvzUK0dGetdw_5-T04ZyeTvS0qZ3SKmh0g&sid=6693ba492b61f1&spx=/TR0Ze7nnj1Hp7xF#EPODONIOS
@@ -1001,5 +1002,4 @@ vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@213.67.213.166:1005?encryption=none
 vless://1a0be96d-7953-4994-8532-43640268e756@nodejs.org:443?path=/eyJqdW5rIjoiN2lzNjh0STgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.masoumkkl.workers.dev&fp=chrome&type=ws&sni=v2nGFASt.masOUMKkl.wORkeRS.DEv#EPODONIOS
 vless://1a0cefad-99be-486a-a062-2ceee14849fa@104.17.121.70:80?encryption=none&security=none&type=ws&host=zeus-panel-n4i8us.zeus-ri73nu.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#EPODONIOS
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.95.197:8686?encryption=none&security=reality&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&type=tcp&headerType=none#EPODONIOS
-vless://1a22d61a-a052-446a-a942-32984b695c77@89.34.230.192:57222?encryption=none&security=none&type=ws&host=play.google.com&path=/store#EPODONIOS
 vless://1a22d61a-a052-446a-a942-32984b695c77@89.34.230.192:57222?encryption=none&security=none&type=ws&host=play.google.com&path=/store#EPODONIOS
