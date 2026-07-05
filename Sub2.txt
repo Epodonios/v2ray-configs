@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://Mitivpn@167.82.101.251:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de#EPODONIOS
 trojan://Mitivpn@iranpoems.ir:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=cdn.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#EPODONIOS
 trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.gamingdll.ir#EPODONIOS
 trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&host=www.gamingdll.ir&type=ws&sni=www.gamingdll.ir#EPODONIOS
@@ -1000,6 +1003,3 @@ vless://1a6db04f-e089-49d5-8a78-5d362cb9b850@188.114.97.6:443?path=/path&securit
 vless://1a7015d0-1790-452f-a31d-d863b69b7bcb@web-production-9a1f3.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-9a1f3.up.railway.app&path=/ws/1a7015d0-1790-452f-a31d-d863b69b7bcb&sni=web-production-9a1f3.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://1b969107-0c23-4735-bab0-b66d29dcdd92@2.144.23.70:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#EPODONIOS
-vless://1b969107-0c23-4735-bab0-b66d29dcdd92@2.144.23.70:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#EPODONIOS
-vless://1b969107-0c23-4735-bab0-b66d29dcdd92@2.144.23.70:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#EPODONIOS
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#EPODONIOS
