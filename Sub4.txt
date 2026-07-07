@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://632ef785-c9f6-49c1-82c7-4411ba6c48be@bmi.ir.marandcity.com:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#EPODONIOS
 vless://634cdbe8-963c-403b-8347-0e107ef6891e@172.67.223.47:443?encryption=none&security=tls&sni=ez-22bbc3.ezaccess1a491f7.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-22bbc3.ezaccess1a491f7.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh@NebulaVPNx#EPODONIOS
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?security=reality&encryption=none&pbk=A0oiMHyUXzvKw3vlEtfUulJ3ba8fjOKbSXg8PoRCgG8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cherry-de1.t1n2.com&sid=ecf7a3c57ca42895#EPODONIOS
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?security=reality&encryption=none&pbk=A0oiMHyUXzvKw3vlEtfUulJ3ba8fjOKbSXg8PoRCgG8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cherry-de1.t1n2.com&sid=ecf7a3c57ca42895#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@britain.oorluma.ir:6300?security=re
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@britain.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
 vless://8f6e8820-f291-4d2e-8ac4-8a70ced10659@nodejs.org:443?path=/eyJqdW5rIjoiUHNzd0RZMTRiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-e8540b.kaviri46.workers.dev&fp=chrome&type=ws&sni=ez-E8540B.kAvirI46.WORkERS.DeV#EPODONIOS
 vless://8fbc60ef-9174-49f8-b3e1-941831849e44@104.16.72.101:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=play.dearhossein-taktaz.ir&fp=chrome&type=xhttp&sni=play.dearhossein-taktaz.ir#EPODONIOS
+vless://8fbc60ef-9174-49f8-b3e1-941831849e44@45.131.6.211:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=play.dearhossein-taktaz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=play.dearhossein-taktaz.ir#EPODONIOS
