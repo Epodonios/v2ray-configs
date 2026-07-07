@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?encryption=none&path=/jdiedjiedjijd&security=none&type=ws#EPODONIOS
 vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@31.172.87.124:443?security=reality&encryption=none&fm={"fragment":{"length":"50-100","packets":"tlshello","interval":"10-20"}}&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#EPODONIOS
 vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@31.76.7.28:443?security=reality&encryption=none&fm={"fragment":{"length":"50-100","packets":"tlshello","interval":"10-20"}}&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#EPODONIOS
 vless://644710a2-e782-461b-9f86-0cea1792d150@198.41.209.223:2086?path=/api&security=none&encryption=none&host=katze.gurbe.online&type=httpupgrade#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://8fbc60ef-9174-49f8-b3e1-941831849e44@104.16.72.101:443?mode=auto&path=/&
 vless://8fbc60ef-9174-49f8-b3e1-941831849e44@45.131.6.211:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=play.dearhossein-taktaz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=play.dearhossein-taktaz.ir#EPODONIOS
 vless://8fbc60ef-9174-49f8-b3e1-941831849e44@45.131.6.211:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=play.dearhossein-taktaz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=play.dearhossein-taktaz.ir#EPODONIOS
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#EPODONIOS
