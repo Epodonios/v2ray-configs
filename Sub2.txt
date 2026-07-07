@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://d682c8f4-e719-577e-cbe9-2e5b00000001@0406.infinityconfig7.workers.dev:2053?security=tls&sni=0406.infinityconfig7.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=0406.infinityconfig7.workers.dev&path=/sync#EPODONIOS
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#EPODONIOS
 trojan://dfdse334053vuohm@104.16.72.2:443?path=/&security=tls&insecure=0&host=alternative.mhjstudio.ir&type=ws&allowInsecure=0&sni=alternative.mhjstudio.ir#EPODONIOS
 trojan://dfdse334053vuohm@104.16.72.2:443?path=/&security=tls&insecure=0&host=alternative.mhjstudio.ir&type=ws&allowInsecure=0&sni=alternative.mhjstudio.ir#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://213839be-1717-4302-b374-47f6ec0811ef@172.67.190.118:80?path=/In_Panel_Ra
 vless://213839be-1717-4302-b374-47f6ec0811ef@kishstars.ir:443?encryption=none&security=tls&sni=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#EPODONIOS
 vless://213839be-1717-4302-b374-47f6ec0811ef@www.boobaniantire.ir:80?encryption=none&security=none&sni=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev&fp=chrome&type=ws&host=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#EPODONIOS
 vless://213839be-1717-4302-b374-47f6ec0811ef@www.boobaniantire.ir:80?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&host=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev&fp=chrome&type=ws&sni=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev#EPODONIOS
-vless://215541be-aeec-4988-8758-db096b79a4dc@172.67.194.145:2083?path=/eyJqdW5rIjoiVDlIckVhME5WZmUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-882894.kakadada1.workers.dev&fp=chrome&type=ws&sni=Ez-882894.KAkaDadA1.wORkers.DEv#EPODONIOS
