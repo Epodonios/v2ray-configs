@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6e475ace-9410-5f61-8ea9-f05fadd1f604@x4g-production-213b.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-213b.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-213b.up.railway.app&path=/ws/6e475ace-9410-5f61-8ea9-f05fadd1f604#EPODONIOS
 vless://6e475ace-9410-5f61-8ea9-f05fadd1f604@x4g-production-213b.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-213b.up.railway.app&path=/ws/6e475ace-9410-5f61-8ea9-f05fadd1f604&sni=x4g-production-213b.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://6e76eb41-46c0-438a-8e23-3c3abc7bfd77@162.159.17.145:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ez-7e157e.alexianoo.workers.dev&path=/eyJqdW5rIjoidFRZQUtRSm9iSXdDY1MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=eZ-7e157E.AlEXIANOo.WorKeRs.dEv&type=ws#EPODONIOS
 vless://6e76eb41-46c0-438a-8e23-3c3abc7bfd77@162.159.17.145:2087?path=/eyJqdW5rIjoidFRZQUtRSm9iSXdDY1MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-7e157e.alexianoo.workers.dev&fp=chrome&type=ws&sni=eZ-7e157E.AlEXIANOo.WorKeRs.dEv#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://Telegram:TurboConfigs@45.74.158.246:8443?security=reality&encryption=non
 vless://Telegram:X_RAY_VPN1@45.74.158.246:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&sid=2125d7ff&spx=/#EPODONIOS
 vless://Telegram:X_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=2125d7ff#EPODONIOS
 vless://Telegram🇨🇳 @WangCai2@162.251.82.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
-vless://X_RAY_VPN1@31.56.206.13:2035?encryption=none&type=tcp#EPODONIOS

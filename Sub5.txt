@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://X_RAY_VPN1@31.56.206.13:2035?encryption=none&type=tcp#EPODONIOS
 vless://XpnTeam-65@151.101.57.134:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
 vless://XpnTeam-65@151.101.57.134:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
 vless://XpnTeam-65@151.101.57.134:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://e9afe2e2-ff58-6389-127d-6ee24ff200ce@x4g-production-c55e.up.railway.app:
 vless://e9afe2e2-ff58-6389-127d-6ee24ff200ce@x4g-production-c55e.up.railway.app:443?path=/ws/e9afe2e2-ff58-6389-127d-6ee24ff200ce&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-c55e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-c55e.up.railway.app#EPODONIOS
 vless://e9c56342-e57b-47f0-8da0-b79bc04d8305@146.75.119.82:80?path=ws/?ed=2048/@v2ray_configs_pools/?2048&security=none&encryption=none&host=rb24.ir&type=ws#EPODONIOS
 vless://e9c56342-e57b-47f0-8da0-b79bc04d8305@146.75.119.82:80?path=ws/?ed=2048/@v2ray_configs_pools/?2048&security=none&encryption=none&host=rb24.ir&type=ws#EPODONIOS
-vless://e9c56342-e57b-47f0-8da0-b79bc04d8305@146.75.119.82:80?path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048&security=none&encryption=none&host=rb24.ir&type=ws#EPODONIOS
