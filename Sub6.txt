@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://edef0572-87d2-427f-a900-6d87b9b07861@olds-1.lubbs.de:2086?path=/&security=none&encryption=none&host=sub-4.linemtf.ir&type=httpupgrade#EPODONIOS
-vless://ee15a0b3-de1f-4c1f-a60d-8812658b5933@fast.motorbazan.com:443?security=tls&type=ws&headerType=&path=&host=firsttime.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#EPODONIOS
 vless://ee15a0b3-de1f-4c1f-a60d-8812658b5933@fast.motorbazan.com:443?security=tls&type=ws&headerType=&path=&host=loosboijji.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#EPODONIOS
 vless://ee15a0b3-de1f-4c1f-a60d-8812658b5933@fast.motorbazan.com:443?security=tls&type=ws&headerType=&path=&host=sevenfeshab.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#EPODONIOS
 vless://ee15a0b3-de1f-4c1f-a60d-8812658b5933@fast.motorbazan.com:443?security=tls&type=ws&headerType=&path=&host=sevenfeshab.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.67:443?encryption=none&f
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.44.172:2083?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.226:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#EPODONIOS
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#EPODONIOS

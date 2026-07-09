@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@185.83.127.82:443?mode=gun&security=reality&encryption=none&pbk=h9aR_LyBrt2_zfbJYMZAGqfjk4zumCVuwOXzrFJEK1A&fp=chrome&type=grpc&serviceName=grpc-play-7f3a92&sni=play.google.com&sid=5b3aa0bdbe8d6a0e#EPODONIOS
-vless://a3ba189d-d6d6-4f46-a575-6647d1f7cb36@45.74.159.138:2053?encryption=none&type=tcp&security=reality&sni=yahoo.com&insecure=1&allowInsecure=1&pbk=mt8WJF8MDM9oHts_TRFLU9skAYb0KAwwwr8B2UjwqzY&sid=9adbd70b13ab0f7a#EPODONIOS
 vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?path=/vless&security=none&encryption=none&host=education.panelvps.eu.org&type=ws#EPODONIOS
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@om.mastermarly.ir:8080?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.129:443?path=/194.127.19
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.3:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#EPODONIOS
 vless://ed713345-61f4-4eca-8708-b3a1e9bfbb40@38.180.104.152:21077?path=/&security=none&encryption=none&host=www.google.com&type=ws#EPODONIOS
 vless://ed838389-e7e0-0001-8a1b-040f06d0ba88@2.26.78.34:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&sni=pro-de.emrata.top#EPODONIOS
+vless://edef0572-87d2-427f-a900-6d87b9b07861@olds-1.lubbs.de:2086?path=/&security=none&encryption=none&host=sub-4.linemtf.ir&type=httpupgrade#EPODONIOS
+vless://ee15a0b3-de1f-4c1f-a60d-8812658b5933@fast.motorbazan.com:443?security=tls&type=ws&headerType=&path=&host=firsttime.global.ssl.fastly.net&sni=ssl.fastly.com&fp=#EPODONIOS
