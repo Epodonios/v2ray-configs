@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&security=reality&sid=60bf01f7&sni=www.cloudflare.com&type=tcp#EPODONIOS
-vless://48006c58-db4f-467f-9652-b7a296de83c0@45.130.125.210:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=directturk.gsmonline.top&fp=chrome&type=xhttp&allowInsecure=0&sni=directturk.gsmonline.top#EPODONIOS
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/#EPODONIOS
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.165:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#EPODONIOS
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#EPODONIOS
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#EPODONIOS
@@ -1003,3 +1000,6 @@ vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?encryption=none&f
 vless://83518691-3491-4ac2-80bf-f2c9ac67d6e7@87.120.106.254:443?encryption=none&type=tcp&security=reality&headerType=http&host=play.google.com&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=0JIn6taGHs9O5GedFWoMom9x7MOFL2hJ78p7eIaW1mo&sid=9df3f297&spx=/fiqKUmBQf2JQ6g6#EPODONIOS
 vless://83518691-3491-4ac2-80bf-f2c9ac67d6e7@87.120.106.254:443?encryption=none&type=tcp&security=reality&headerType=http&host=play.google.com&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=0JIn6taGHs9O5GedFWoMom9x7MOFL2hJ78p7eIaW1mo&sid=9df3f297&spx=/fiqKUmBQf2JQ6g6#EPODONIOS
 vless://8367513c-e6af-4f9d-85b4-f527816a03bb@185.238.251.207:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=doNd-f1bIh82aC2-I0plzWQqlev7ZcIlv7XRJ35MjVE&security=reality&sid=c77216010f29aec6&sni=gateway.icloud.com&type=tcp#EPODONIOS
+vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir&allowInsecure=0&sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co#EPODONIOS
+vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#EPODONIOS
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#EPODONIOS
