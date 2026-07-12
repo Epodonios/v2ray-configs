@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?encryption=none&fp=chrome&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#EPODONIOS
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?host=octopusss5.info&allowInsecure=0&path=/udfyfws&type=ws&security=tls&sni=octopusss5.info&insecure=0&fp=chrome&encryption=none#EPODONIOS
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?path=/udfyfws#EPODONIOS
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?path=/udfyfws#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://f16ac657-9bf4-4999-bb59-f45945333715@poxc.foot8all.ir:56625?mode=gun&sec
 vless://f19bbfdc-0d46-4b32-8b92-82ecd47da2c9@nova-orbit-spark-b52f.nova-b339f7.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=nova-orbit-spark-b52f.nova-b339f7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-orbit-spark-b52f.nova-b339f7.workers.dev#EPODONIOS
 vless://f19bbfdc-0d46-4b32-8b92-82ecd47da2c9@nova-orbit-spark-b52f.nova-b339f7.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=nova-orbit-spark-b52f.nova-b339f7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-orbit-spark-b52f.nova-b339f7.workers.dev#EPODONIOS
 vless://f19bbfdc-0d46-4b32-8b92-82ecd47da2c9@nova-orbit-spark-b52f.nova-b339f7.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=nova-orbit-spark-b52f.nova-b339f7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-orbit-spark-b52f.nova-b339f7.workers.dev#EPODONIOS
-vless://f1a489f8-872f-404e-804a-c3b9e4048fd2@2.27.57.185:41586?security=reality&encryption=none&pbk=KyTuOJPRM2uub_q-NmSOR3alV6SrQrL6-iTLjdSS8jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=1e610a545a7bfb90#EPODONIOS
