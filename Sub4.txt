@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#EPODONIOS
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea#TELEGRAM-Proxy_Se7en?ed=2048&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#EPODONIOS
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea#TELEGRAM-Proxy_Se7en?ed=2048&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#EPODONIOS
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&securi
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?security=reality&sid=10ffb85da1c2d986&encryption=none&sni=api-maps.yandex.ru&type=grpc&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&mode=gun&serviceName=neurex#EPODONIOS
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?sni=api-maps.yandex.ru&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&serviceName=neurex&encryption=none&mode=gun#EPODONIOS
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?encryption=none&fp=&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#EPODONIOS
+vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#EPODONIOS
