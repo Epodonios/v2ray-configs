@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#EPODONIOS
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#EPODONIOS
 vless://4071fd0c-c8d2-4353-907e-d8e39ce9b71b@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#EPODONIOS
 vless://4085e7cf-989e-4f92-a9c6-891b4b6e8daa@104.20.6.134:8880?type=httpupgrade&encryption=none&path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&host=armenia.chatgpt.com.siasia.ir&security=none#EPODONIOS
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://864f675f-2177-4cdb-967e-6bfc13792a24@test.dnmpropack.ir:443?security=rea
 vless://864f675f-2177-4cdb-967e-6bfc13792a24@test.dnmpropack.ir:443?security=reality&encryption=none&pbk=OUhhbeFOCEY0IFnWfWCPn2-MRIRb3LsBU7W9zSk-ino&headerType=none&fp=chrome&spx=/e72f260ec8ae4df&type=tcp&sni=www.samsung.com&sid=f48e#EPODONIOS
 vless://864f675f-2177-4cdb-967e-6bfc13792a24@test.dnmpropack.ir:80?security=reality&encryption=none&pbk=In1QpuYnfeWDVwULBrPVsut1UIN_BqK9DxGuIwprg0c&headerType=none&fp=chrome&spx=/e72f260ec8ae4df&type=tcp&sni=www.nvidia.com&sid=6d#EPODONIOS
 vless://867e88e0-4e38-7f01-b5f0-dab70b7c43e4@x4g-production-4c5f.up.railway.app:443?path=/ws/867e88e0-4e38-7f01-b5f0-dab70b7c43e4&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-4c5f.up.railway.app&fp=chrome&type=ws&sni=x4g-production-4c5f.up.railway.app#EPODONIOS
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.4.189:2095?path=/fp&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&type=ws&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev#EPODONIOS
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.186:2095?path=/&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#EPODONIOS
