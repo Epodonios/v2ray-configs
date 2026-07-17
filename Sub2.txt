@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/assignment#EPODONIOS
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#EPODONIOS
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#EPODONIOS
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://4392b776-41a2-4300-b545-a3d2724b605b@51.250.69.118:443?security=reality&
 vless://43ec05c9-ae90-41c0-ab97-dfe168644bb5@hu99.bearbeer.digital:443?encryption=none&fp=&mode=auto&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hu99.bearbeer.digital&type=xhttp#EPODONIOS
 vless://44289654-8618-403b-a573-a79a849100ce@rose5.lhpuniversity.online:54338?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp&note=@FreeOnlineVPN#EPODONIOS
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#EPODONIOS
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#EPODONIOS
