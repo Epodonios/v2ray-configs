@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4e155a2f-c1b1-4ce7-9f4e-47fdcc4d8f0f@167.233.162.232:443?security=reality&encryption=none&pbk=SQOHWkwXxz5t1u1wvHCd4A_kAGBWngUsg97GIungc0g&headerType=none&fp=chrome&spx=/naranv2ray&type=tcp&sni=play.google.com&sid=9f042169#EPODONIOS
 vless://4e155a2f-c1b1-4ce7-9f4e-47fdcc4d8f0f@167.233.162.232:443?sni=play.google.com&pbk=SQOHWkwXxz5t1u1wvHCd4A_kAGBWngUsg97GIungc0g&security=reality&type=tcp&spx=/naranv2ray&headerType=none&fp=chrome&sid=9f042169&encryption=none#EPODONIOS
 vless://4e155a2f-c1b1-4ce7-9f4e-47fdcc4d8f0f@167.233.162.232:443?spx=/naranv2ray&fp=chrome&pbk=SQOHWkwXxz5t1u1wvHCd4A_kAGBWngUsg97GIungc0g&sid=9f042169&headerType=none&encryption=none&type=tcp&sni=play.google.com&security=reality#EPODONIOS
 vless://4e155a2f-c1b1-4ce7-9f4e-47fdcc4d8f0f@dew.fizikade.ir:443?security=reality&encryption=none&pbk=SQOHWkwXxz5t1u1wvHCd4A_kAGBWngUsg97GIungc0g&headerType=none&fp=chrome&spx=/naranv2ray&type=tcp&sni=play.google.com&sid=9f042169#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://8db76567-25f0-44eb-bebb-333c4dc13539@route1.hexogate.net:80?mode=auto&pa
 vless://8db76567-25f0-44eb-bebb-333c4dc13539@route2.xorvex.ir:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=images01.sueeostarrs.ir&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
 vless://8db76567-25f0-44eb-bebb-333c4dc13539@static2.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=66d6d3d24148fc1f#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#EPODONIOS
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?mode=gun&security=&encryption=none&type=grpc#EPODONIOS

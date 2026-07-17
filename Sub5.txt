@@ -4,7 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@hyperon.site:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#EPODONIOS
-vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@hyperon.site:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#EPODONIOS
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@nexigen.pro:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#EPODONIOS
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@nexigen.pro:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#EPODONIOS
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@89.124.89.102:8090?encryption=none&
 vless://ef22e0d1-e901-4a10-b043-65e818f1298f@46.8.69.229:21474?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://ef3e206d-3cbc-4254-8374-df04fe35a762@31.77.56.218:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.karzino-connected.com&sid=30e530274c0c72cc#EPODONIOS
 vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.karzino-connected.com&sid=30e530274c0c72cc#EPODONIOS
+vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=30e530274c0c72cc#EPODONIOS
