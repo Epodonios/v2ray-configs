@@ -4,6 +4,7 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.raketa-balance.com&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&headerType=none#EPODONIOS
+vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.raketa-balance.com&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&headerType=none#EPODONIOS
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=de2.raketa-balance.com&insecure=1&allowInsecure=1&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#EPODONIOS
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?security=reality&encryption=none&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.raketa-balance.com&sid=6c6082a2223c1d03#EPODONIOS
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?security=reality&encryption=none&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.raketa-balance.com&sid=6c6082a2223c1d03#EPODONIOS
@@ -1001,5 +1002,4 @@ vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.108:2085?mode=gun&securit
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.108:2085?type=grpc&serviceName=vless#EPODONIOS
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?encryption=none&security=none&serviceName=vless&type=grpc#EPODONIOS
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?encryption=none&type=grpc&mode=gun&security=none&serviceName=vless#EPODONIOS
-vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS

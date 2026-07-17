@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ef3e206d-3cbc-4254-8374-df04fe35a762@31.77.56.218:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.karzino-connected.com&sid=30e530274c0c72cc#EPODONIOS
 vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.karzino-connected.com&sid=30e530274c0c72cc#EPODONIOS
 vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=30e530274c0c72cc#EPODONIOS
 vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=30e530274c0c72cc#EPODONIOS
@@ -993,6 +994,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICJzcGVlZHRlc3Rnb29nbGV5
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#EPODONIOS
 
+vless://12929592-a7bd-41eb-ab4d-d804f76c4ff9@144.31.38.207:23792?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#EPODONIOS
+
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#EPODONIOS
 
 vless://2196f28b-8217-4631-a28e-1d34112aa947@cis.visa.com:443?security=tls&sni=RAyaN107-gXrV00-2.raYan-107.WORKERs.dEv&fp=chrome&type=ws&path=/?ed%3D2560&host=RAyaN107-gXrV00-2.raYan-107.WORKERs.dEv&encryption=none#EPODONIOS
@@ -1000,6 +1003,3 @@ vless://2196f28b-8217-4631-a28e-1d34112aa947@cis.visa.com:443?security=tls&sni=R
 vless://226c8b99-407a-4215-b00c-ff44b02b8b63@myanmar.visa.com:443?security=tls&sni=RAYaN106-9uIaCO-1.rayan-106.wOrKErs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=RAYaN106-9uIaCO-1.rayan-106.wOrKErs.DeV&encryption=none#EPODONIOS
 
 vless://22c71398-f576-4608-8b1f-b65badde088b@africa.visa.com:443?security=tls&sni=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&fp=chrome&type=ws&path=/?ed%3D2560&host=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&encryption=none#EPODONIOS
-
-vless://2f466a3b-5093-4556-8759-c87c8511c753@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#EPODONIOS
-
