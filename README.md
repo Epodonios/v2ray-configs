@@ -23,7 +23,11 @@ Markdown
 ---
 
 
-# ✨ Introducing MEMENTO – A New Project
+# ✨ Introducing [MEMENTO](https://github.com/Epodonios/MEMENTO)– A New Project
+
+<p align="center">
+  <img src="https://github.com/Epodonios/MEMENTO/blob/main/Import%20configs.png" alt="MEMENTO Dashboard" width="100%">
+</p>
 
 > **A full-fledged V2Ray/Xray configuration editor & manager for Windows**
 
@@ -33,9 +37,17 @@ Markdown
 
 **MEMENTO** is a modern Windows tool with a sleek **Glassmorphism UI** and smooth animations. It turns managing, editing, and connecting to V2Ray/Xray configs into a professional, seamless experience. With **xray-core** bundled right in, there's no need for any separate installations!
 
+<p align="center">
+  <img src="https://github.com/Epodonios/MEMENTO/blob/main/Config%20Table.png" alt="MEMENTO Editor" width="100%">
+</p>
+
 ---
 
 ## ✨ Key Features You'll Love
+
+<p align="center">
+  <img src="https://github.com/Epodonios/MEMENTO/blob/main/VPN.png" alt="MEMENTO Editor" width="100%">
+</p>
 
 - **Professional Config Management:** Import from clipboard, local files, or subscription links, and export to Raw, Base64, JSON, Clash, Surge, and Sing-Box formats.
 - **Real Xray Connections:** Supports Vmess, Vless, Trojan, Shadowsocks, Hysteria2, and TUIC.
@@ -48,9 +60,12 @@ Markdown
 ---
 
 ## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://github.com/Epodonios/MEMENTO/blob/main/Editor.png" alt="MEMENTO Editor" width="100%">
+</p>
 
 | Component | Technology |
-|---|---|
+| :--- | :--- |
 | **Frontend** | React 19, TypeScript, Tailwind CSS, Vite |
 | **State Management** | Zustand |
 | **Backend (Desktop)** | Tauri 2.0 (Rust) |
@@ -59,12 +74,18 @@ Markdown
 ---
 
 ## 📥 Download & Installation
-
+<p align="center">
+  <img src="https://github.com/Epodonios/MEMENTO/blob/main/Pinger.png" alt="MEMENTO Editor" width="100%">
+</p>
 **Just head over to the [Releases page](https://github.com/Epodonios/MEMENTO/releases) and grab the `MEMENTO.exe` file.** 
 
 ---
 
 ## 💝 Support the Development
+
+<p align="center">
+  <img src="https://github.com/Epodonios/MEMENTO/blob/main/Donate.png" alt="MEMENTO Editor" width="100%">
+</p>
 
 If MEMENTO makes your life easier, you can support me to help add even more features:
 
@@ -81,9 +102,6 @@ If MEMENTO makes your life easier, you can support me to help add even more feat
 ---
 
 > **Built with ❤️ by Epodonios**
-
-
-
 
 ## 📌 What is This?
 
