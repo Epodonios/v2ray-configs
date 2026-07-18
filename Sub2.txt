@@ -4,7 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#EPODONIOS
-trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#EPODONIOS
 trojan://humanity@104.17.111.8:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.17.111.8:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.17.111.8:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
@@ -1002,4 +1001,5 @@ vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@b.bazardam.shop:2056?mode=auto&path
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@b.bazardam.shop:2056?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=4eee3ae71639f189#EPODONIOS
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&sid=4eee3ae71639f189&type=xhttp&host=hostname&path=/path&mode=auto&extra={"xPaddingBytes":"100-1000"}#EPODONIOS
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?mode=auto&path=/path&security=reality&encryption=none&extra=%&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=4eee3ae71639f189#EPODONIOS
+vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=4eee3ae71639f189#EPODONIOS
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=4eee3ae71639f189#EPODONIOS

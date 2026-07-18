@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?encryption=none&fp=&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&security=reality&serviceName=push.v2.FeedService&sid=a30b344b5214d62f&sni=api.oneokgames.com&type=grpc#EPODONIOS
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?encryption=none&security=reality&sni=api.oneokgames.com&fp=chrome&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&sid=a30b344b5214d62f&type=grpc&authority=&serviceName=push.v2.FeedService&mode=gun#EPODONIOS
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?encryption=none&security=reality&sni=api.oneokgames.com&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&sid=a30b344b5214d62f&type=grpc&authority=&serviceName=push.v2.FeedService&mode=gun#EPODONIOS
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?encryption=none&security=reality&sni=api.oneokgames.com&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&sid=a30b344b5214d62f&type=grpc&authority=&serviceName=push.v2.FeedService&mode=gun#EPODONIOS
@@ -1002,4 +1001,5 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encr
 vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?encryption=none&security=none&type=tcp&headerType=none##EPODONIOS
 vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?security=&encryption=none&headerType=none&type=tcp#EPODONIOS

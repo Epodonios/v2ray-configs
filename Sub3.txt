@@ -5,7 +5,6 @@
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=4eee3ae71639f189#EPODONIOS
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=4eee3ae71639f189#EPODONIOS
-vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&host=hostname&fp=chrome&type=xhttp&sni=yahoo.com&sid=4eee3ae71639f189#EPODONIOS
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:8080?encryption=none&security=none&type=tcp&headerType=http#EPODONIOS
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:8080?security=&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:8080?security=&encryption=none&headerType=http&type=tcp#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?mode=gun&securi
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=add.oneoker.com&sid=9c478d3655bfa85d#EPODONIOS
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=add.oneoker.com&sid=9c478d3655bfa85d#EPODONIOS
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=add.oneoker.com&sid=9c478d3655bfa85d#EPODONIOS
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?encryption=none&fp=&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&security=reality&serviceName=push.v2.FeedService&sid=a30b344b5214d62f&sni=api.oneokgames.com&type=grpc#EPODONIOS
