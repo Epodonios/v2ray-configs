@@ -22,6 +22,69 @@ Markdown
 
 ---
 
+
+# ✨ Introducing MEMENTO – A New Project
+
+> **A full-fledged V2Ray/Xray configuration editor & manager for Windows**
+
+---
+
+## 🚀 What is MEMENTO?
+
+**MEMENTO** is a modern Windows tool with a sleek **Glassmorphism UI** and smooth animations. It turns managing, editing, and connecting to V2Ray/Xray configs into a professional, seamless experience. With **xray-core** bundled right in, there's no need for any separate installations!
+
+---
+
+## ✨ Key Features You'll Love
+
+- **Professional Config Management:** Import from clipboard, local files, or subscription links, and export to Raw, Base64, JSON, Clash, Surge, and Sing-Box formats.
+- **Real Xray Connections:** Supports Vmess, Vless, Trojan, Shadowsocks, Hysteria2, and TUIC.
+- **Auto Failover:** Automatically switches to another config if your connection drops.
+- **Native TCP Ping:** Lightning-fast pinging of hundreds of configs in milliseconds (just like v2rayN).
+- **Iran Mode (Domain Fronting):** Hides your traffic behind trusted domains to bypass SNI-based filtering.
+- **Advanced Editor:** Includes IP Range and Spoof features for CDN testing and IP replacement.
+- **Eye-Catching UI:** Glassmorphism design, Dark Mode, fluid animations, and fully responsive for mobile devices.
+
+---
+
+## 🛠️ Tech Stack
+
+| Component | Technology |
+|---|---|
+| **Frontend** | React 19, TypeScript, Tailwind CSS, Vite |
+| **State Management** | Zustand |
+| **Backend (Desktop)** | Tauri 2.0 (Rust) |
+| **Xray Core** | XTLS/Xray-core (v25.1.1) |
+
+---
+
+## 📥 Download & Installation
+
+**Just head over to the [Releases page](https://github.com/Epodonios/MEMENTO/releases) and grab the `MEMENTO.exe` file.** 
+
+---
+
+## 💝 Support the Development
+
+If MEMENTO makes your life easier, you can support me to help add even more features:
+
+- **USDT (TRC20):** `TWdqYu5H6emRHd6jFfkHjfG8Yg2285DFmT`
+- **Reymit (Iran):** [https://reymit.ir/epodonios](https://reymit.ir/epodonios)
+
+---
+
+## 📢 Telegram & Contact
+
+- **Telegram Channel:** [https://t.me/+NqWGD5-OGv1jOGU8](https://t.me/+NqWGD5-OGv1jOGU8)
+- **Email:** Epodonios@gmail.com
+
+---
+
+> **Built with ❤️ by Epodonios**
+
+
+
+
 ## 📌 What is This?
 
 > A powerful, automated collection of **thousands of free V2Ray configuration files**, updated every **5 minutes**.  
