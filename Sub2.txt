@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@join-telegram-channel.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@www.calmloud.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://4f6d67e8-7a3b-485a-ae95-e44eb627e7d8@62.60.193.234:33714?security=none&e
 vless://4f6d67e8-7a3b-485a-ae95-e44eb627e7d8@62.60.193.234:47031?security=reality&encryption=none&pbk=XTFlFm9izFfbprmSekwfSdjmsRCEqQxZ40yEPgieBy8&host=myket.ir&headerType=http&fp=chrome&spx=/k3Ku6WetoYQ00BA&type=tcp&sni=www.sony.com.hn&sid=bc96c8c7925f46#EPODONIOS
 vless://4f6d67e8-7a3b-485a-ae95-e44eb627e7d8@62.60.193.234:47031?security=reality&encryption=none&pbk=XTFlFm9izFfbprmSekwfSdjmsRCEqQxZ40yEPgieBy8&host=myket.ir&headerType=http&fp=chrome&spx=/k3Ku6WetoYQ00BA&type=tcp&sni=www.sony.com.hn&sid=bc96c8c7925f46#EPODONIOS
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?security=tls&encryption=none&insecure=0&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#EPODONIOS
