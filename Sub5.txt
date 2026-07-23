@@ -5,7 +5,6 @@
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
 vless://d2c548f1-27c4-4364-bd70-feb2c159f534@qzc6tbpu04c4.dop69.com:10962?encryption=mlkem768x25519plus.native.0rtt.X89bst5pyjkexho_hHA5hJhmor55v0lFu-avO03xo3k&security=none&type=tcp&headerType=none#EPODONIOS
 vless://d2c548f1-27c4-4364-bd70-feb2c159f534@qzc6tbpu04c4.dop69.com:10962?security=none&encryption=mlkem768x25519plus.native.0rtt.X89bst5pyjkexho_hHA5hJhmor55v0lFu-avO03xo3k&headerType=none&type=tcp#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?path=
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=1&fp=chrome&type=ws&path=/&host=t1s1.rittbo.kdns.fr&encryption=none#EPODONIOS
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare.czkcdn.cn:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#EPODONIOS
