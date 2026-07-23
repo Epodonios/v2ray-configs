@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f27936c6-7e90-e89d-d26c-3a82a5c7f97c@x4g-production-f6fa0.up.railway.app:443?path=/ws/f27936c6-7e90-e89d-d26c-3a82a5c7f97c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f6fa0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f6fa0.up.railway.app#EPODONIOS
 vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none&security=none&type=ws&host=blue-fog-bc9c.seyed-arash.workers.dev&path=/eyJqdW5rIjoiZVE5MVBWYlpVZ2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4OS41OC40MC4xNzciXX0=#EPODONIOS
 vless://f2f723f5-b97d-4414-997c-d2925013af28@139.28.98.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=node-neth.vac-service.ru&security=reality&pbk=vt16gPL11I05xPuR4lPrlHg3_WQJZcYwcVvwfqJVyhE&sid=e266e6a2d5e065d5#EPODONIOS
 vless://f2f723f5-b97d-4414-997c-d2925013af28@95.181.167.157:1080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=Bp5PnujrPK50eE_28vIWSyBjdIPLXCLGYPjRKx0pqgI&sid=845ac2739143b71d&type=tcp&headerType=none#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none
 vless://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#EPODONIOS
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#EPODONIOS
 vless://f7ed4770-81f4-47a1-9490-8b8cd684c97e@wangcai.yunzhongzhuan.com:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=silent-cloud-aa63.324-7d8.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#EPODONIOS
+vless://f8e56a6d-6e8d-447d-901b-4a511aecf29a@www.true.th:80?path=%2Fjuevpn&security=&encryption=none&host=d1lnzdlpso56a0.cloudfront.net&type=ws#EPODONIOS
