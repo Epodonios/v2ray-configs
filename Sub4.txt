@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&security=&encryption=none&type=grpc#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?security=&encryption=none&type=grpc#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://d708b514-62c1-41dd-82c5-8211fcfd94f5@167.82.0.17:80?security=&encryption
 vless://d708b514-62c1-41dd-82c5-8211fcfd94f5@167.82.0.1:80?security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#EPODONIOS
 vless://d708b514-62c1-41dd-82c5-8211fcfd94f5@167.82.0.7:80?security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#EPODONIOS
 vless://d73878e8-a100-44b3-a30e-53af7bd4953a@178.62.28.227:54890?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://d7870f16-1c35-445f-9ff9-36f052895b34@a2.jobwebs.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=184a6838386d384e#EPODONIOS
