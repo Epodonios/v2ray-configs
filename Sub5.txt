@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e1cae261-95a9-41e4-a14e-c2304da0d03f@161.35.20.15:52987?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&sid=a99e#EPODONIOS
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&security=reality&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&sid=a99e#EPODONIOS
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&sid=a99e&type=tcp&headerType=none#EPODONIOS
@@ -1001,5 +1002,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@188.114.97.6:8443?path=/&security=t
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.232.91:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.13.60.163:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/#EPODONIOS
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#EPODONIOS
