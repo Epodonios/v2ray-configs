@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.209.15.91:443?security=reality&encryption=none&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gedolam-vawset.ru&sid=5e3ab3ab228625#EPODONIOS
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#EPODONIOS
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@95.85.228.34:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=1vga81kaw013f-topology-gslb-yccdn.ru&fp=chrome&security=reality&pbk=ibignrnL_bVupAb4hFM939eT22FtlzPvc1FZY_FDwnw&sid=5e3ab3ab228625&packetEncoding=xudp#EPODONIOS
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@104.17.162.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#EPODONIOS
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?security=reali
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?security=reality&encryption=none&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a99e#EPODONIOS
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?security=reality&encryption=none&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a99e#EPODONIOS
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?security=reality&encryption=none&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a99e#EPODONIOS
+vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?security=reality&encryption=none&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a99e#EPODONIOS
+vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?security=reality&encryption=none&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&host=/?BIA_mehrosaboran@mehrosaboran_mehrosaboran_mehrosaboran_mehrosaboran&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a99e#EPODONIOS

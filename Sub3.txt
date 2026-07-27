@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://45bc124e-f990-f9db-75d9-5bf200000000@troll_hastam_nanaf.zeus-gmozp0.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=troll_hastam_nanaf.zeus-gmozp0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=troll_hastam_nanaf.zeus-gmozp0.workers.dev#EPODONIOS
-vless://471887ef-ef81-4e6b-a9a9-44f36d5dd7e3@www.speedtest.net:2096?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.not-name.ir&type=ws&allowInsecure=0&sni=panel.not-name.ir#EPODONIOS
 vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#EPODONIOS
 vless://4760f592-045d-4f13-a49f-7984eae1a9a8@37.49.224.93:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#EPODONIOS
 vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:8
 vless://8e9cbf76-b74a-46b3-8270-9453e281e613@199.232.237.245:443?mode=auto&path=/@Alfred_Config/@Alfred_Config/@Alfred_Config&security=tls&alpn=h2&encryption=none&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
 vless://8efe38df-eb31-45b9-9a09-78a31562bae0@[2a0b:8800:580::12d]:8585?mode=gun&security=reality&encryption=none&pbk=a20AW-pKrDkwITkp3eZ6WC809AYkNqoW1rs4AfLs73Y&fp=chrome&spx=/353add2ce7a3241&type=grpc&sni=mena-images.shop.samsung.com&sid=9632f7ba3390c8#EPODONIOS
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.209.15.91:443?fp=chrome&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&sni=gedolam-vawset.ru&sid=5e3ab3ab228625&type=tcp&headerType=none&encryption=none&security=reality&flow=xtls-rprx-vision#EPODONIOS
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.209.15.91:443?security=reality&encryption=none&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gedolam-vawset.ru&sid=5e3ab3ab228625#EPODONIOS
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#EPODONIOS
