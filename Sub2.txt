@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@52.56.168.216:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#EPODONIOS
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#EPODONIOS
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#EPODONIOS
 vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://4206a00d-e790-8566-ef63-c20f8eaeed36@69.46.46.6:443?path=/ws/4206a00d-e7
 vless://4206a00d-e790-8566-ef63-c20f8eaeed36@69.46.46.6:443?path=/ws/4206a00d-e790-8566-ef63-c20f8eaeed36&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4973.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4973.up.railway.app#EPODONIOS
 vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:443?type=grpc&security=reality&serviceName=your-custom-path&sni=maps.apple.com&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&fp=chrome&encryption=none#EPODONIOS
 vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:8443/?type=grpc&encryption=none&flow=&serviceName=your-custom-path&sni=maps.apple.com&security=reality&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7#EPODONIOS
+vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:8443?encryption=none&fp=&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&security=reality&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#EPODONIOS

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8835e572-b17b-e7c8-d56e-0e441e3d15c5@subgift1.up.railway.app:443?encryption=none&security=tls&sni=subgift1.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=subgift1.up.railway.app&path=/ws/8835e572-b17b-e7c8-d56e-0e441e3d15c5#EPODONIOS
 vless://884d811f-577b-421e-aabb-608660b0ecfa@5.42.106.202:9878?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#EPODONIOS
 vless://884d811f-577b-421e-aabb-608660b0ecfa@72.56.32.79:9892?mode=auto&path=/&security=none&encryption=none&type=xhttp#EPODONIOS
 vless://884d811f-577b-421e-aabb-608660b0ecfa@72.56.32.79:9892?mode=auto&path=/&security=none&encryption=none&type=xhttp#EPODONIOS
@@ -1002,4 +1001,5 @@ vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:443?path=/In_Panel_
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#EPODONIOS
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.128.147:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#EPODONIOS
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.128.147:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#EPODONIOS
+vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.139.95:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#EPODONIOS
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.139.95:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#EPODONIOS
