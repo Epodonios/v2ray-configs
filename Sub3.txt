@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.6.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.79.178:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.83.238:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.67.254:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?path=/TELEGRAM-MARAMBAS
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=764f497dda21c4fc&sni=storage.yandex.net&type=tcp#EPODONIOS
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=764f497dda21c4fc&allowinsecure=0&type=tcp&headerType=none#EPODONIOS
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&spx=/@HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#EPODONIOS
+vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#EPODONIOS
