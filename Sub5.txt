@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://c44f1b2e-bad3-547f-f141-06ce528253be@69.46.46.253:443?path=/ws/c44f1b2e-bad3-547f-f141-06ce528253be&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-28a5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-28a5.up.railway.app#EPODONIOS
 vless://c458fa07-6127-4f79-8460-3999d0d5ef89@62.238.56.217:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://c46ac93f-0124-6549-0eb4-7cf935894bb1@arg-production-59f1.up.railway.app:443?path=/ws/c46ac93f-0124-6549-0eb4-7cf935894bb1&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=arg-production-59f1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=arg-production-59f1.up.railway.app#EPODONIOS
@@ -999,7 +1000,6 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?path=/fp=chrome&s
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.60.167:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#EPODONIOS
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
