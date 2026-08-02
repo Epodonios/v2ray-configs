@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#EPODONIOS
 vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#EPODONIOS
 vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori.up.railway.app&path=/Telegram1:@Configfori#EPODONIOS
 vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#EPODONIOS
@@ -1002,4 +1001,5 @@ vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=pl.sinnerrr.fun&fp=chrome&type=xhttp&allowInsecure=0&sni=pl.sinnerrr.fun#EPODONIOS
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=pl.sinnerrr.fun&fp=chrome&type=xhttp&allowInsecure=0&sni=pl.sinnerrr.fun#EPODONIOS
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=pl.sinnerrr.fun&fp=chrome&type=xhttp&allowInsecure=0&sni=pl.sinnerrr.fun#EPODONIOS
+vless://968dc676-ef8f-46f1-b854-e21acc7b5bfc@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://968dc676-ef8f-46f1-b854-e21acc7b5bfc@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
