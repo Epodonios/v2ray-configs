@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&security=reality&sid=496ee75c2f91f51d&sni=sw1-chr.astralweb.tech&type=tcp#EPODONIOS
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?security=reality&encryption=none&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1-chr.astralweb.tech&sid=496ee75c2f91f51d#EPODONIOS
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.81.129.167:443?encryption=none&fp=chrome&security=tls&sni=lv-ddc.astralweb.tech&type=tcp#EPODONIOS
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@203.23.179.151:443?&security=tls&fp=chrome&alpn=h2&sni=ddc-akn.astralweb.tech&type=tcp&headerType=none&path=/#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@get.onetimeok.com:443?mode=gun&secu
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=chrome&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#EPODONIOS
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=chrome&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#EPODONIOS
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@link.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=x9m8Vxk2YlwXy8CLrHeEMDzLJWuRQ3mh6CPWA34u2yY&fp=chrome&type=grpc&serviceName=media.v1.SyncService&sni=link.oneokgames.com&sid=ad613873130544ab#EPODONIOS
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=main.oneoker.com&sid=a9b0c08836bad3c5#EPODONIOS
