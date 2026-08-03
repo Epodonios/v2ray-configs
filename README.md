@@ -16,7 +16,7 @@ Markdown
 
 **🔒 Free • 🚀 Fast • 🔄 Auto-Updated Every 5 Minutes**
 
-[📱 Telegram Channel](https://t.me/+NqWGD5-OGv1jOGU8) • [📥 Get Configs](#-subscription-links) • [📖 How to Use](#-how-to-use)
+[📱 Telegram Channel](https://t.me/nowhermans) • [📥 Get Configs](#-subscription-links) • [📖 How to Use](#-how-to-use)
 
 </div>
 
@@ -96,7 +96,7 @@ If MEMENTO makes your life easier, you can support me to help add even more feat
 
 ## 📢 Telegram & Contact
 
-- **Telegram Channel:** [https://t.me/+NqWGD5-OGv1jOGU8](https://t.me/+NqWGD5-OGv1jOGU8)
+- **Telegram Channel:** [https://t.me/+NqWGD5-OGv1jOGU8](https://t.me/nowhermans)
 - **Email:** Epodonios@gmail.com
 
 ---
