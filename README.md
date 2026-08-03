@@ -96,7 +96,7 @@ If MEMENTO makes your life easier, you can support me to help add even more feat
 
 ## 📢 Telegram & Contact
 
-- **Telegram Channel:** [https://t.me/+NqWGD5-OGv1jOGU8](https://t.me/nowhermans)
+- **Telegram Channel:** [NOWHERE MANS](https://t.me/nowhermans)
 - **Email:** Epodonios@gmail.com
 
 ---
