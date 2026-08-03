@@ -5,7 +5,7 @@ Markdown
 
 # 🌐 V2Ray Configs Collection
 
-<a href="https://t.me/+NqWGD5-OGv1jOGU8" target="_blank">
+<a href="https://t.me/nowhermans" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="240" height="240" alt="Telegram"/>
 </a>
 
