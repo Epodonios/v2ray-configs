@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@dednd.skorostnet.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dednd.skorostnet.space&fp=chrome&security=reality&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#EPODONIOS
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl09.skorostnet.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fl09.skorostnet.space&fp=chrome&security=reality&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#EPODONIOS
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl11.skorostnet.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fl11.skorostnet.space&fp=chrome&security=reality&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#EPODONIOS
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl11.skorostnet.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=fl11.skorostnet.space&type=tcp#EPODONIOS
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@log-delivery.cloud:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=log-delivery.cloud&pbk=2p4JMqpDtRw7qmmNZUg8JZ4rbq5Nvm7Xpv_Pw2r5myA&sid=26a4015385ec5527&type=tcp&headerType=none#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?
 vless://4206a00d-e790-8566-ef63-c20f8eaeed36@69.46.46.6:443?path=/ws/4206a00d-e790-8566-ef63-c20f8eaeed36&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4973.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4973.up.railway.app#EPODONIOS
 vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#EPODONIOS
 vless://428bed8a-ecc3-4621-ad11-3a8ed90886ec@5hsytrdbbvcrxokk.localip.ir:443?alpn=h2&encryption=none&fp=chrome&mode=auto&path=/mashdi&security=tls&sni=c1n412erox434ksskso1.jakkkat.ir&type=xhttp#EPODONIOS
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#EPODONIOS

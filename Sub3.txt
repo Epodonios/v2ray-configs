@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#EPODONIOS
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#EPODONIOS
 vless://42c3337e-57f5-48d8-b7ad-46f75f5e7e8a@pro-jp.emrata.top:443/?type=tcp&encryption=none&flow=&sni=pro-jp.emrata.top&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.53.197:1234?encryption=none&
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.55.96:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.63.51:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@91.99.119.155:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@94.130.179.44:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@yashar.mexokj.ir:443?encryption=none&security=reality&type=tcp&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#EPODONIOS
