@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.9.147:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.22.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.22.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.22.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@173.245.59.14:2053?path=/&security=
 vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:24056?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.zg1XBH9b1RNBaHlNXSNQh6N3o-JIEvFaRe7nZGSEImY&type=ws#EPODONIOS
 vless://8d391797-01f4-4393-92d0-504c96ca4c29@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=ihvtcd6ybun.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#EPODONIOS
 vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@185.247.16.49:2237?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#EPODONIOS
-vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@185.247.16.49:2273?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#EPODONIOS
