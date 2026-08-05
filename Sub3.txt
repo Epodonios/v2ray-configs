@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3f176170-afe0-4847-91f9-64e05d004eec@netherland.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#EPODONIOS
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&spx=/@HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/sg-melbi&security=tls&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/sg-melbi&security=tls&sni=josni.hoyes.cloudns.ch&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-#EPODONIOS
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&host=josni.hoyes.cloudns.ch&path=/sg-melbi&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#EPODONIOS
