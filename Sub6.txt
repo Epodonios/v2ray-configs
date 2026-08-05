@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50057?encryption=none&fp=&pbk=rpL009qP-arj5haMdPrIM3csahxln-xlV3PhyvwrhBk&security=reality&sid=1c52b34d46469887&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#EPODONIOS
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50058?encryption=none&fp=&pbk=NlobQy5lynlSGU3k_XOEvri7mkZpvVN6oUZQ6qZoaUY&security=reality&sid=170d4be62a02cb3e&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#EPODONIOS
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=#EPODONIOS
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dl.google.com&fp=chrome&security=reality&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&sid=#EPODONIOS
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&security=reality&headerType=none&encryption=none#EPODONIOS
@@ -1003,3 +1001,5 @@ trojan://humanity@104.18.152.219:443?host=www.ignitelimit.com&path=%2Fassignment
 trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#EPODONIOS
 trojan://humanity@104.17.111.8:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&echfq=none#EPODONIOS
 trojan://humanity@104.16.73.213:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
+trojan://humanity@104.18.152.77:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
+trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#EPODONIOS
