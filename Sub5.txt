@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=e-spectacular.ru&fp=chrome&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&sid=825d392c67e4&allowinsecure=1&type=tcp&headerType=none#EPODONIOS
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?security=reality&encryption=none&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=e-spectacular.ru&sid=825d392c67e4#EPODONIOS
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@host.e-spectacular.ru:443?security=reality&encryption=none&pbk=5a_6k1IpDBLUytAT5zgAhntcLtMzDGPMxCcftnq3-CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=host.e-spectacular.ru&sid=825d392c67e4#EPODONIOS
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@31.76.22.141:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&security=reality&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&type=tcp#EPODONIOS
 vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.tr1.netlume.ir:59699?security=reality&encryption=none&pbk=7JOaNN3Z-PlrHTnW2PmdV-K3CwdFnzKjuSRFgd4E2xg&host=telewebion.ir&headerType=http&fp=chrome&type=tcp&sni=telewebion.ir&sid=f88fa86f62252dad#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://c8cc8656-67e5-4567-bc3c-cf91b5c3ba0d@99fl9912dssfadsafasdfasd.clonecloud
 vless://c8f85c67-016b-4d12-90a8-036f416592f3@104.194.146.32:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=6x4A8wp1qTHTHr0Ws1zdfjY3YemQrKuQ79zGIYh2dyY&fp=chrome&spx=/JDY7ZXVuKrQ8JEg&type=xhttp&sni=www.intel.com&sid=41208ca9bd7a#EPODONIOS
 vless://c90f26f0-5a20-4573-a31a-c27b3c96933e@154.83.246.52:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=500aec9e9e5e2212&sni=storage.yandex.net&type=tcp#EPODONIOS
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80/?type=ws&encryption=none&flow=&host=BankMelat.glObal.ssl.faStly.nEt.&path=/&packetEncoding=xudp#EPODONIOS
+vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.56.7:80/?type=ws&encryption=none&flow=&host=BankMelat.glObal.ssl.faStly.nEt.&path=/&packetEncoding=xudp#EPODONIOS
+vless://c998b565-38c7-4bee-a833-d8b479bf5180@i.cafeplusserver.ir:32817?encryption=none&headerType=http&host=telewebion.ir&path=/&security=none&type=tcp#EPODONIOS

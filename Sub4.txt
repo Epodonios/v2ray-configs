@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5c183e56-0f02-421e-a334-2fae45555395@138.124.10.166:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&sid=a3f8d2c1e5b60794&type=tcp&headerType=none#EPODONIOS
-vless://5c183e56-0f02-421e-a334-2fae45555395@193.32.178.57:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=S5IX1oiVizdxEHw3A4bjP6_HOxFRIfroYOtq504wyiA&sid=9d3f7b2a5c0e8461&type=grpc&mode=gun&authority=&serviceName=auragrpc#EPODONIOS
 vless://5c183e56-0f02-421e-a334-2fae45555395@ge1.app-sync-data.space:443?security=reality&encryption=none&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a3f8d2c1e5b60794#EPODONIOS
 vless://5c183e56-0f02-421e-a334-2fae45555395@ge1.app-sync-data.space:443?security=reality&encryption=none&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a3f8d2c1e5b60794#EPODONIOS
 vless://5c183e56-0f02-421e-a334-2fae45555395@ge1.app-sync-data.space:443?security=reality&encryption=none&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a3f8d2c1e5b60794#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?encryption=none&
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?security=reality&encryption=none&pbk=JHhSUg9NZC6jeVsw4XH23MzZIQgjD5IgnR3E9PNPJn4&host=/?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.musicwave.net&sid=825d392c67e4#EPODONIOS
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=e-spectacular.ru&fp=chrome&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&sid=825d392c67e4&allowinsecure=1&type=tcp&headerType=none#EPODONIOS
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=e-spectacular.ru&fp=chrome&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&sid=825d392c67e4&allowinsecure=1&type=tcp&headerType=none#EPODONIOS
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=e-spectacular.ru&fp=chrome&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&sid=825d392c67e4&allowinsecure=1&type=tcp&headerType=none#EPODONIOS
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?security=reality&encryption=none&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=e-spectacular.ru&sid=825d392c67e4#EPODONIOS

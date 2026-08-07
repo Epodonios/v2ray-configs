@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3b9e15c9-200c-4471-9482-87a109891472@soskeynets.sikuzdi.uk:27715?path=/bin&security=&encryption=none&host=84.75.221.10&type=ws#EPODONIOS
-vless://3b9e15c9-200c-4471-9482-87a109891472@soskeynets.sikuzdi.uk:38995?security=&encryption=none&type=grpc#EPODONIOS
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#EPODONIOS
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#EPODONIOS
 vless://3c3e05e8-abea-f9f8-6100-aaf974372db5@subgift5.up.railway.app:443?path=/ws/3c3e05e8-abea-f9f8-6100-aaf974372db5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?sid=ad5cfe18&typ
 vless://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@130.162.220.137:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com&allowInsecure=1&fp=chrome&security=reality&pbk=UV34T0S_VyVcChA2Tb9MIbg4tr1mHGMr_Lw5Gvb17F8&sid=66ed2fdd&packetEncoding=xudp#EPODONIOS
 vless://5bdb5652-1855-4d5e-8231-c6a0f446f5a9@193.151.137.72:2053?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#EPODONIOS
 vless://5c1242e9-acad-4b60-b4af-235a68072fec@91.98.98.22:8441?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
+vless://5c183e56-0f02-421e-a334-2fae45555395@138.124.10.166:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&sid=a3f8d2c1e5b60794&type=tcp&headerType=none#EPODONIOS
+vless://5c183e56-0f02-421e-a334-2fae45555395@193.32.178.57:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=S5IX1oiVizdxEHw3A4bjP6_HOxFRIfroYOtq504wyiA&sid=9d3f7b2a5c0e8461&type=grpc&mode=gun&authority=&serviceName=auragrpc#EPODONIOS
