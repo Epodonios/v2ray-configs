@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori3.up.railway.app&path=/Telegram1:@Configfori#EPODONIOS
-vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori3.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#EPODONIOS
 vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&sid=2aa4fcbeaed2ad23&type=tcp&headerType=none#EPODONIOS
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=/?ed=2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#EPODONIOS
 vless://a8bb4dca-6de0-443a-9529-746de53835a9@91.107.185.167:39563?type=tcp#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?pa
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#EPODONIOS
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#EPODONIOS
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#EPODONIOS
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#EPODONIOS
+vless://e7a0ba3b-8d70-afdb-ceda-5d446e32a506@69.46.46.12:443?path=/ws/e7a0ba3b-8d70-afdb-ceda-5d446e32a506&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-be3b.up.railway.app&fp=chrome&type=ws&sni=rvg-production-be3b.up.railway.app#EPODONIOS

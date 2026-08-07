@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7a014b17-3714-4c35-8d19-1dd1a53c8a43@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#EPODONIOS
-vless://7a014b17-3714-4c35-8d19-1dd1a53c8a43@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#EPODONIOS
 vless://7a014b17-3714-4c35-8d19-1dd1a53c8a43@soskeynets.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#EPODONIOS
 vless://7a0a28d1-af16-423c-a0cc-59eff3d7e145@85wt6.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://7a31d541-e885-43d4-81f2-62ac29ecd387@151.242.88.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&pbk=xl3D_xayL74d7uzlV_1EpEWw0BJ52kzEMF8tUGd7vBM&sid=1f6dffff8a&type=tcp&headerType=none#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@46.225.208.199:1234?encryption=none
 vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@62.238.55.96:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@82.40.62.209:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori3.up.railway.app&path=/Telegram2:@Configfori#EPODONIOS
+vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori3.up.railway.app&path=/Telegram1:@Configfori#EPODONIOS
+vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori3.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#EPODONIOS
