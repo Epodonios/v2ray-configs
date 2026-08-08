@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#EPODONIOS
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#EPODONIOS
 vless://663cf772-829c-4bc6-893d-b7d021d42f5b@staticdelivery.nexusmods.com:443?path=/&security=tls&encryption=none&insecure=0&host=vp1.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vp1.cc.cd#EPODONIOS
 vless://663cf772-829c-4bc6-893d-b7d021d42f5b@www.leics.police.uk:443?path=/&security=tls&encryption=none&insecure=0&host=vp1.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vp1.cc.cd#EPODONIOS
 vless://6651246a-d9d8-4428-b255-45a659c31cf5@s1.sportsee.ru:43597?security=reality&encryption=none&pbk=wTODgtTi2aDhoV84x8TsjJpPorcGqFrJfjy4Mzrc6E0&headerType=none&fp=chrome&type=tcp&sni=www.x5.ru&sid=cd281f2d699db69f#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://@MAconnectt@hayabusa.proxy.rlwy.net:32757?mode=auto&path=/&security=real
 vless://@MAconnectt@hayabusa.proxy.rlwy.net:41360?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=nH8VydEs_0ZBO7MlEey_ev09mAJy0nr3mTcXgiw76Xw&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=2318#EPODONIOS
 vless://@MAconnectt@interchange.proxy.rlwy.net:26269?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Za-sQtrUHYVd2Ac29fzJTUMhcZ1wehyZfnf-wOub9jU&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=dc477b3004#EPODONIOS
 vless://@MAconnectt@interchange.proxy.rlwy.net:40904?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Db-jocGNp1JEGSESSw52u37-6-eC2LRwyBMigrKwSSY&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=1393fbc2#EPODONIOS
+vless://@MAconnectt@reseau.proxy.rlwy.net:44903?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=e7aEwUDpBKHciGw1XzzddD3QNRUdcDwbSd-q1045O1U&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=569fe294d1a51cc6#EPODONIOS
+vless://@V2XNET@104.16.6.189:8443?encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&security=tls&sni=butimcreepimweirdo.dpdns.org&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=butimcreepimweirdo.dpdns.org&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
