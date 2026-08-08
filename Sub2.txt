@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#EPODONIOS
+vless://02082a02-50f6-4bae-ac34-5c8ab413c427@cdn.akbarvpn.dpdns.org:48756?security=reality&encryption=none&pbk=5gZ1L8V29DcZ3iGutNil8NzxuKzln_Se7cODgQqcTGY&headerType=none&fp=chrome&spx=/d399b7090c2849d&type=tcp&sni=google.com&sid=41c8#EPODONIOS
 vless://026149af-ee7c-2044-944e-34d522fd6f7e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/026149af-ee7c-2044-944e-34d522fd6f7e#EPODONIOS
 vless://02f74ad5-487e-4809-a5b9-d4a05e9a7e57@70.39.178.250:443?security=reality&encryption=none&pbk=fZ_KWK62j51ZCqS5P6QdPdeLoO2cLkQUI_YrExbK6AQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=berkararotel.com.tm&sid=417739fc12#EPODONIOS
 vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=fd7f#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.67.209:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.70.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.79.190:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.88:80/?type=ws&encryption=none&host=us3.rtacg.com&path=/#EPODONIOS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.160.182:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.52.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?encryption=none&type=grpc&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&sni=fi1-cosmostechnology.ru&serviceName=fi1cosmos&security=reality&mode=gun#EPODONIOS
+vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?security=reality&type=grpc&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&mode=gun&sni=fi1-cosmostechnology.ru&encryption=none&serviceName=fi1cosmos#EPODONIOS
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#EPODONIOS
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.240:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#EPODONIOS
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.37:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://b01d1e26-2f84-48da-88a1-1d06a77857f3@144.31.38.207:10619?encryption=none
 vless://b01d1e26-2f84-48da-88a1-1d06a77857f3@96.47.230.145:29391?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#EPODONIOS
 
 vless://c09f13ce-2cca-49b6-ad1e-597566cc89c6@144.31.38.207:26054?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#EPODONIOS
-
-vless://c09f13ce-2cca-49b6-ad1e-597566cc89c6@96.47.230.145:34094?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#EPODONIOS

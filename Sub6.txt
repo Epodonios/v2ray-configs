@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?Telegram=@Gozarga
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#EPODONIOS
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?encryption=none&security=reality&sni=fi1-cosmostechnology.ru&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&authority=&serviceName=fi1cosmos&mode=gun#EPODONIOS
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?encryption=none&security=reality&sni=fi1-cosmostechnology.ru&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&authority=&serviceName=fi1cosmos&mode=gun#EPODONIOS
-vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?encryption=none&type=grpc&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&sni=fi1-cosmostechnology.ru&serviceName=fi1cosmos&security=reality&mode=gun#EPODONIOS
-vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?security=reality&type=grpc&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&mode=gun&sni=fi1-cosmostechnology.ru&encryption=none&serviceName=fi1cosmos#EPODONIOS

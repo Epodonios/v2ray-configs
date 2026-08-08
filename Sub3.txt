@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.160.182:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.52.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.239.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.72.40:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.75.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security
 vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?encryption=none&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&fp=chrome&sni=knox.cdn-apple.com&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#EPODONIOS
 vless://6f93f3eb-8ff2-4da4-837b-8a333c281ff3@31.76.249.31:443/?type=tcp&encryption=none&flow=&sni=cdn.shopify.com&fp=chrome&security=reality&pbk=agZZLk3GNH8CME1dobmtO1UwIrXYL-WrEuLREy_EqnA&sid=aefe467c7b22f190#EPODONIOS
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#EPODONIOS
-vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.100:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#EPODONIOS
-vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#EPODONIOS
