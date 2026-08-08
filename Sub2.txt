@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@de-sont23oo-mk75gi8a.mobile-shahab.ir:2091?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@fnl-sont23oo-mk75gi8a.mobile-shahab.ir:2090?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&pbk=r_DD5p-yDTK6uYaku6vkyfONKS5QBym7yYhhBL6Xi1E&sid=12d7afc6d9a1aefd#EPODONIOS
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@fnl-sont23oo-mk75gi8a.mobile-shahab.ir:2091?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.253.151:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.37.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.37.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.6.94:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.67.209:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
