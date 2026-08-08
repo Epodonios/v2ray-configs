@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.161.51:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.17.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.170.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.175.202:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://6a8008a2-c9db-499a-9df4-28d71ebb22bf@d685649136224f6fd685649136224f6f.ss
 vless://6b3d66dc-3fdd-41f7-f627-483bad6d8efc@for.vpnprosec.shop:443?type=tcp&security=reality&fp=chrome&pbk=mf8TEaDwgCte9cUkEh-HUvsNkbacTgu2F_7Ut1rHw1M&sni=zula.ir&flow=xtls-rprx-vision&sid=67cb2b8d&spx=/#EPODONIOS
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?encryption=none&fp=&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&security=reality&sid=46ef6b9bc8&sni=yahoo.com&type=tcp#EPODONIOS
 vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS

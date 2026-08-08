@@ -4,15 +4,16 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 #Epodonios
-
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#EPODONIOS
-vless://9150748b-fa2b-4ef1-a7f1-7c4a76e2dc0b@64.188.62.138:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U1ABwLTij71fW63nwMukZBezSQKADiBRuKCATiNUxUw&security=reality&sid=27bb&sni=deepl.com&type=tcp#EPODONIOS
 vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@gr005.bamajobin.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#EPODONIOS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375?type=tcp&headerType=none#EPODONIOS
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=&type=tcp#EPODONIOS
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#EPODONIOS
 trojan://humanity@165.215.250.14:443?allowInsecure=1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#EPODONIOS
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxODAiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#EPODONIOS
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhZDBkZjM2YTNjYTM5ZTFhOWUzZTMwM2Y2NWI0NWRiNC5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJpbnNlY3VyZSI6ICIxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTgwIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#EPODONIOS
 vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwb3J0IjogIjE4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIzZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTUvP2VkXFw9MjU2MCIsICJob3N0IjogIjgyLjE5OC4yNDYuMjUwIiwgInRscyI6ICIifQ==
@@ -1002,4 +1003,3 @@ vless://010d7dc9-776b-4495-a85c-44794f3da49c@193.168.46.180:443/?type=tcp&encryp
 vless://010d7dc9-776b-4495-a85c-44794f3da49c@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&type=tcp&headerType=none#EPODONIOS
 vless://0115163b-9d69-4748-8b3e-f0abfe991075@217.198.190.20:55992?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#EPODONIOS
-vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS

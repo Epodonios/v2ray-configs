@@ -5,6 +5,7 @@
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#EPODONIOS
 vless://6beee13a-f356-4a51-8e65-75f776508e8f@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=8051d89749e0d400#EPODONIOS
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1
 vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=butimcreepimweirdo.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=butimcreepimweirdo.dpdns.org#EPODONIOS
 vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#EPODONIOS
 vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=httpupgrade#EPODONIOS
