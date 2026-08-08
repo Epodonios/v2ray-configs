@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.37.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.43.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.43.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.43.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
@@ -1001,5 +1002,4 @@ vless://69a74770-7152-4a27-bef0-2615ca16e1b1@nl4.levikogjgfdd.ir:40443?security=
 vless://69a74770-7152-4a27-bef0-2615ca16e1b1@nl4.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#EPODONIOS
 vless://69dcd5e2-9d08-4772-816f-3ba41059cbc0@cdn-cloudflare455.korvexe.ir:2095?path=/&security=none&encryption=none&host=cdn-cloudflare455.korvexe.ir&type=ws#EPODONIOS
 vless://6a1a9e36-20bd-4021-9fdb-a9a5358ada3a@tr.mygoldiran.com:5432?mode=auto&path=/api&security=reality&encryption=none&pbk=_QQbh268O1EpZXPabgA33NhR77dM3Lw-VrX-GFpSiHs&fp=chrome&type=xhttp&sni=www.chess.com&sid=935092c770a07e8a#EPODONIOS
-vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@31.56.178.59:443?security=reality&encryption=none&pbk=rg_sl-tQIau_CXdjpo-BvLmlZMmlbq2KMrH5K4kdyCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.boxypn.com#EPODONIOS
 vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@31.56.178.59:443?security=reality&encryption=none&pbk=rg_sl-tQIau_CXdjpo-BvLmlZMmlbq2KMrH5K4kdyCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.boxypn.com#EPODONIOS
