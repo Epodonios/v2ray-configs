@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#EPODONIOS
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#EPODONIOS
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#EPODONIOS
 vless://3f176170-afe0-4847-91f9-64e05d004eec@netherland.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
@@ -1001,5 +1002,4 @@ vless://6cc29a05-4828-4e48-a34a-20b7ada60e85@104.18.1.1:2083?path=/OAZko425kNFF0
 vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=maze.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=maze.purplrose.ir#EPODONIOS
 vless://6ce757ef-3234-4cc9-89cf-ab22435183ae@marzban-node-production-e828.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-e828.up.railway.app&sni=marzban-node-production-e828.up.railway.app&fp=chrome&alpn=h2#EPODONIOS
 vless://6cfcc1ae-0f00-4d9b-9c26-18acb75dcfa6@201.34.142.29:401?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://6cfcc1ae-0f00-4d9b-9c26-18acb75dcfa6@201.34.142.29:401?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://6cfcc1ae-0f00-4d9b-9c26-18acb75dcfa6@201.34.142.29:401?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS

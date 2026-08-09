@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6cfcc1ae-0f00-4d9b-9c26-18acb75dcfa6@201.34.142.29:401?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://6d39596c-b569-4a61-86c3-28cfb83a4c95@212.111.84.187:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#EPODONIOS
 vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#EPODONIOS
 vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encr
 vless://@free_conf_iran@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=fr.mamish.ir&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#EPODONIOS
 vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://@free_conf_iran@51.83.22.65:1935?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#EPODONIOS
