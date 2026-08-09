@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@soskeynets.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#EPODONIOS
 vless://ce267d40-7928-4c40-91ce-3537d340d168@7.bmi.ir.varzesh3.com.de:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e915#EPODONIOS
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#EPODONIOS
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.24.85.213:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&enc
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#EPODONIOS
 vless://f3d2dbde-f8c1-4fd1-a4ff-32c2fd476d65@nod4.kaafserver.ir:8443?security=reality&encryption=none&pbk=QCLXkk19RkRbBuMqyCggYr_57_eT9f3Xe-vnr_IrQhY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=79b983feac02921c#EPODONIOS
-vless://f3d6c244-772a-428f-b8fe-e2d632cd76e4@104.17.121.110:8880/?type=httpupgrade&encryption=none&flow=&host=svn-panel-team.lorqino.ir&path=/mmd#EPODONIOS
