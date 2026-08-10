@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#EPODONIOS
+vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swdist.apple.com&security=reality&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&sid=#EPODONIOS
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#EPODONIOS
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443/?type=ws&encryption=none&flow=&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome#EPODONIOS
 vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://a6c5f4c7-073f-416b-b5e3-4a86ec2d9f22@139.59.191.88:443?encryption=none&f
 vless://a6f1ce21-7336-db1e-0504-a6bca84f87e9@timazadi-production-9174.up.railway.app:443?path=/ws/a6f1ce21-7336-db1e-0504-a6bca84f87e9&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=timazadi-production-9174.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=timazadi-production-9174.up.railway.app#EPODONIOS
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#EPODONIOS
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori.up.railway.app&path=/Telegram1:@Configfori#EPODONIOS
-vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#EPODONIOS
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#EPODONIOS
