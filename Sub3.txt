@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.127.23:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.148.95:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.181.107:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.37.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.88:80/?type=ws&encryption=none&host=us3.rtacg.com&path=/#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=real
 vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=none&fp=chrome&spx=/79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#EPODONIOS
 vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=none&fp=chrome&spx=/79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#EPODONIOS
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none@soskeynets#EPODONIOS
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.121:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none@soskeynets#EPODONIOS
-vless://7f9ef902-2164-4c4e-b4bd-140d13cdba6e@ryanserver.ir:47347?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS

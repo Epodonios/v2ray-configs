@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.121:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none@soskeynets#EPODONIOS
+vless://7f9ef902-2164-4c4e-b4bd-140d13cdba6e@ryanserver.ir:47347?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://7fb197a7-dab7-4fae-95e6-fe527c8d2453@104.18.155.69:2087?path=/&security=tls&encryption=none&insecure=0&host=ftp.skylinknet.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.skylinknet.ir#EPODONIOS
 vless://7fb197a7-dab7-4fae-95e6-fe527c8d2453@104.18.19.39:2087?path=/&security=tls&encryption=none&insecure=0&host=ftp.skylinknet.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.skylinknet.ir#EPODONIOS
 vless://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=CdbZitEgBioklscSAiU8eGR_sRvzLPrH3davu5DrNBc&sid=a8de8bc1e9f5ef&packetEncoding=xudp#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
