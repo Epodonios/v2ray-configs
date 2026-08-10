@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://99c3a53c-28b3-463f-89d7-63f04505eb32@104.17.107.134:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=www.66913.ir&type=xhttp&allowInsecure=0&sni=www.66913.ir#EPODONIOS
+vless://99c8e30f-b39f-4917-b8cb-33265bf2976a@45.130.125.76:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=7d3.sisshark.win&fp=chrome&type=ws&allowInsecure=1&sni=7d3.sisshark.win#EPODONIOS
 vless://99f30393-c053-4adb-a3cb-2e99e2ac9f55@77.110.110.146:25378?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=aYhRLuj30ILScpF-4aXimBya_p3YUG4ourwvXi922H8&sid=f8bd03&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#EPODONIOS
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
 vless://9a274b1d-788c-4a15-b3fa-7ea525198362@94.130.179.44:1234?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2095?mode=auto&path=/&
 vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2095?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=lt6uIlD0t8s4eYkLvlFkDK4U20jJZHt-ftuhwPO8KiM&fp=chrome&spx=/xeCuEkJ7ERtgNRj&type=xhttp&sni=www.nvidia.com&sid=c59dc48e#EPODONIOS
 vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:8443?security=reality&encryption=none&pbk=gQ0Wb1JGVAthgCRHp71qxmUDKe6rrBSk_YwSIcHv8kE&headerType=none&fp=chrome&spx=/z11iVdzHCExb0ve&type=tcp&sni=www.intel.com&sid=7e3065b281#EPODONIOS
 vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:8443?security=reality&encryption=none&pbk=gQ0Wb1JGVAthgCRHp71qxmUDKe6rrBSk_YwSIcHv8kE&headerType=none&fp=chrome&spx=/z11iVdzHCExb0ve&type=tcp&sni=www.intel.com&sid=7e3065b281#EPODONIOS
-vless://c47b7032-5184-4034-9a81-346c35c61fc5@ulk.lorqina.ir:40813?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://c47b7032-5184-4034-9a81-346c35c61fc5@ulk.lorqina.ir:40813?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
