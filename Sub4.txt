@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=none&host=josni.hoyes.cloudns.ch&path=musiclovers85_musiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=none&host=josni.hoyes.cloudns.ch&path=musiclovers85_musiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=/sg-melbi#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://b1295591-f4ee-46bd-ab1b-3b97eb575728@162.159.38.119:443?encryption=none&
 vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@138.124.126.158:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU&security=reality&sid=eb0cca7312345678&sni=eh.vk.com&type=tcp#EPODONIOS
 vless://b1337dac-30f7-aff4-ae45-22585534047f@69.46.46.17:443?path=/ws/b1337dac-30f7-aff4-ae45-22585534047f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-2b26.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-2b26.up.railway.app#EPODONIOS
 vless://b191c8c6-5715-fda9-0a41-9a9a1de55de1@69.46.46.12:443?path=/ws/b191c8c6-5715-fda9-0a41-9a9a1de55de1&security=tls&alpn=http/1.1&encryption=none&host=ppp-production-okil.up.railway.app&fp=chrome&type=ws&sni=ppp-production-okil.up.railway.app#EPODONIOS
-vless://b191c8c6-5715-fda9-0a41-9a9a1de55de1@69.46.46.12:443?path=/ws/b191c8c6-5715-fda9-0a41-9a9a1de55de1&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ppp-production-okil.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ppp-production-okil.up.railway.app#EPODONIOS
