@@ -4,6 +4,7 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://81cd0fd8-57ad-7962-7f31-566c6dc0e6a7@69.46.46.11:443?path=/ws/81cd0fd8-57ad-7962-7f31-566c6dc0e6a7&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-9ca8.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-9ca8.up.railway.app#EPODONIOS
+vless://81cd0fd8-57ad-7962-7f31-566c6dc0e6a7@69.46.46.11:443?path=/ws/81cd0fd8-57ad-7962-7f31-566c6dc0e6a7&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-9ca8.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-9ca8.up.railway.app#EPODONIOS
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&fp=&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&security=reality&sid=aae8&sni=deepl.com&type=tcp#EPODONIOS
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8&allowinsecure=0&type=tcp&headerType=none#EPODONIOS
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8&allowinsecure=0&type=tcp&headerType=none#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?type=tcp&encry
 vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#EPODONIOS
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@194.26.229.220:4100?path=/v1&security=none&encryption=none&type=ws#EPODONIOS
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
-vless://aefcf667-37b4-4983-b18d-ab4ba50bd8c2@91.98.168.59:8880?path=/?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
