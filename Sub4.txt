@@ -5,7 +5,6 @@
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://8033102198@159.195.40.19:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#EPODONIOS
 vless://8033102198@159.195.40.19:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#EPODONIOS
-vless://8033102198@159.195.40.19:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#EPODONIOS
 vless://8033102198@64.188.77.184:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl13.fast-connect-service.site&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#EPODONIOS
 vless://8033102198@64.188.77.184:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl13.fast-connect-service.site&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#EPODONIOS
 vless://8033102198@64.188.77.184:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl13.fast-connect-service.site&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#EPODONIOS
@@ -1001,5 +1000,6 @@ vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=/ws?ed=2
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@www.speedtest.net:2096?path=/ws?ed&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#EPODONIOS
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp#EPODONIOS
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
