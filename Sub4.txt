@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8097ce5a-17ed-4f21-b39c-d9975130fe94@91.228.227.231:54034?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
+vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://812b1aeb-c6f7-43cb-8d8b-981711fea21a@104.17.191.15:8880?path=/pyip&security=&encryption=none&host=dark-cake-4743.198-46c.workers.dev&type=ws#EPODONIOS
 vless://8137e9a6-22e6-4707-a120-a6dea17c7e00@www.speedtest.net:2086?path=/eyJqdW5rIjoic1VBWDhGMXJsREg5WUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4My4xNDcuMjU0LjI0NSJdfQ==?ed=2560&security=none&encryption=none&host=dry-snow-2e6f.fastip25478.workers.dev&type=ws#EPODONIOS
 vless://813cd228-ebf6-0e21-481a-ba4af8f85b82@104.18.1.1:443?path=/sync&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=odd-disk-98c5.assassincreed4048.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=odd-disk-98c5.assassincreed4048.workers.dev#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.71.242:443?path=/html/ads&se
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#EPODONIOS
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=/friend&security=tls&encryption=none&insecure=1&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=pagescm.freen11.cc.cd#EPODONIOS
 vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@191.215.37.90:443?encryption=none&security=none&type=tcp#EPODONIOS
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?encryption=none&security=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560#EPODONIOS
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?encryption=none&type=ws&path=/api/v2/xtrnwqjbkr?ed=2560&host=play.google.com#EPODONIOS

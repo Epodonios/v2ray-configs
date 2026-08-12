@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#EPODONIOS
+vless://04d630b3-4b8d-422d-b53c-99addcb13191@104.16.75.207:443?alpn=h3,h2,http/1.1&fm={"tcp":[{"settings":{"delay":"0","length":"1","maxSplit":"","packets":"tlshello"},"type":"fragment"}]}&fp=chrome&type=xhttp&sni=v3.sub1vpn.dpdns.org&mode=auto&path=/api&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":6}}&insecure=0&host=v3.sub1vpn.dpdns.org&allowInsecure=0#EPODONIOS
 vless://04d630b3-4b8d-422d-b53c-99addcb13191@104.16.75.207:443?alpn=h3,h2,http/1.1&fm={"tcp":[{"settings":{"delay":"0","length":"1","maxSplit":"","packets":"tlshello"},"type":"fragment"}]}&fp=chrome&type=xhttp&sni=v3.sub1vpn.dpdns.org&mode=auto&path=/api&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":6}}&insecure=0&host=v3.sub1vpn.dpdns.org&allowInsecure=0#EPODONIOS
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com#EPODONIOS
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com&note=@FreeOnlineVPN#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&s
 vless://3ba9dc6a-81e9-44fc-8d98-2d72c87a74ae@157.230.29.236:28890?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://3ba9dc6a-81e9-44fc-8d98-2d72c87a74ae@165.245.211.3:28890?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#EPODONIOS
-vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#EPODONIOS
-vless://3c3e05e8-abea-f9f8-6100-aaf974372db5@subgift5.up.railway.app:443?path=/ws/3c3e05e8-abea-f9f8-6100-aaf974372db5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#EPODONIOS
