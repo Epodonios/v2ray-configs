@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#EPODONIOS
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#EPODONIOS
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#EPODONIOS
 vless://e8f7b97e-6ce2-4936-9f33-a0a22c26d7d2@mgvpn.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=mgvpn.up.railway.app&type=ws&allowInsecure=0&sni=mgvpn.up.railway.app#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://551955b3-46e9-5129-95c9-e7474c15ed6b@95.85.246.138:443?alpn=http%2F1.1&e
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@95.85.253.134:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl5.fast-connect-service.site&type=tcp#EPODONIOS
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@217.60.68.91:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de6.fast-connect-service.site&type=tcp#EPODONIOS
 vless://5659b42c-636f-4563-ac41-87d565d0dd1e@cf10.466688.xyz:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.autumniussss.net&host=autumn-base-0eb9.116-d25.workers.dev&packetEncoding=xudp&encryption=none#EPODONIOS
+vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@172.67.179.98:8880?encryption=none&host=curly-surf-4401.75-08c.workers.dev&path=%2F&security=none&type=ws#EPODONIOS
