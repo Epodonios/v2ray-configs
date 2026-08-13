@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@45.147.228.249:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@45.147.228.249:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#EPODONIOS
-trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@fr2.levikogjgfdd.ir:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@fr2.levikogjgfdd.ir:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#EPODONIOS
@@ -1003,3 +999,7 @@ vless://371dd7e4-c3ff-42de-aebc-0ab3bc62fb2d@188.114.97.6:2095?path=/?ed=2048&se
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?security=reality&encryption=none&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&sid=226509f017e4c36d#EPODONIOS
 vless://3771053a-4772-4861-3b56-81d7488dd103@69.46.46.13:443?path=/ws/3771053a-4772-4861-3b56-81d7488dd103&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-9d52.up.railway.app&fp=chrome&type=ws&sni=rvg-production-9d52.up.railway.app#EPODONIOS
 vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@cncdn.cc:80?path=/14708/31d3c8561998/&security=none&encryption=none&host=imap.mmadcoffee.info&type=ws#EPODONIOS
+vless://37cbf67e-4445-41c3-8d48-e59233175117@unamecf3.xn--ghqu5fm27b67w.com:443?type=ws&encryption=none&host=usa7.xn--ghqu5fm27b67w.com&path=/pq/us7&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usa7.xn--ghqu5fm27b67w.com#EPODONIOS
+vless://37cbf67e-4445-41c3-8d48-e59233175117@unamecf3.xn--ghqu5fm27b67w.com:443?type=ws&encryption=none&host=usa7.xn--ghqu5fm27b67w.com&path=/pq/us7&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usa7.xn--ghqu5fm27b67w.com#EPODONIOS
+vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@gr.teraideri.sbs:38733?mode=gun&security=reality&encryption=none&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&fp=chrome&type=grpc&sni=play.google.com&sid=09e78c1d381f98ed#EPODONIOS
+vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?encryption=none&security=none&sni=1&type=tcp&headerType=http&host=fast.com#EPODONIOS

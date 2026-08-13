@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://37cbf67e-4445-41c3-8d48-e59233175117@unamecf3.xn--ghqu5fm27b67w.com:443?type=ws&encryption=none&host=usa7.xn--ghqu5fm27b67w.com&path=/pq/us7&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usa7.xn--ghqu5fm27b67w.com#EPODONIOS
-vless://37cbf67e-4445-41c3-8d48-e59233175117@unamecf3.xn--ghqu5fm27b67w.com:443?type=ws&encryption=none&host=usa7.xn--ghqu5fm27b67w.com&path=/pq/us7&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usa7.xn--ghqu5fm27b67w.com#EPODONIOS
-vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@gr.teraideri.sbs:38733?mode=gun&security=reality&encryption=none&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&fp=chrome&type=grpc&sni=play.google.com&sid=09e78c1d381f98ed#EPODONIOS
-vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?encryption=none&security=none&sni=1&type=tcp&headerType=http&host=fast.com#EPODONIOS
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#EPODONIOS
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@141.193.27.16:2087?path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==&security=tls&encryption=none&insecure=0&host=valid22.validbv9501.ir&type=ws&allowInsecure=0&sni=valid22.validbv9501.ir#EPODONIOS
 vless://38a6b5c4-3534-4a31-9d77-81d3a06ede79@mci.vpncustomize.website:2096?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=multi.TrV2ray.cfd#EPODONIOS
@@ -1003,3 +999,7 @@ vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=no
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#EPODONIOS
 vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:2053?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/stream/norman&pbk=6Xk_Me1M8N4zqLZmXJVm4hsKj2KlR9PAEUMqHWNJdX0&security=reality&sid=6720c0d4&sni=timeline.www.cloudflare.com&spx=/ca03dcf8d926dcb&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
 vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:2053?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/stream/norman&pbk=6Xk_Me1M8N4zqLZmXJVm4hsKj2KlR9PAEUMqHWNJdX0&security=reality&sid=6720c0d4&sni=timeline.www.cloudflare.com&spx=/ca03dcf8d926dcb&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
+vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:2053?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/stream/norman&pbk=6Xk_Me1M8N4zqLZmXJVm4hsKj2KlR9PAEUMqHWNJdX0&security=reality&sid=6720c0d4&sni=timeline.www.cloudflare.com&spx=/ca03dcf8d926dcb&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
+vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:8442?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/stream&security=tls&sni=&type=ws#EPODONIOS
+vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:8442?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/stream&security=tls&sni=&type=ws#EPODONIOS
+vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:8442?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/stream&security=tls&sni=&type=ws#EPODONIOS
