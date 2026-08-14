@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?path=/&security=none&encryption=none&type=ws#EPODONIOS
-vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?path=/&security=none&encryption=none&type=ws#EPODONIOS
-vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#EPODONIOS
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#EPODONIOS
 vless://01f45602-330b-48e4-9c48-29b4c317a995@kr.riverveil.com:16073/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cisco.com&fp=chrome&security=reality&pbk=yuEg_NhFbqDqYarxP3LMnvImQA59RNTknyqTHCQtyw0&sid=6ba85179e30d4fc2#EPODONIOS
@@ -1003,3 +1000,6 @@ vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:36980?encryption=non
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:36980?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:37414?encryption=none&host=www.samsung.com&path=/&security=none&type=ws#EPODONIOS
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:47030?encryption=none&fp=chrome&pbk=AHp8H79GIMcWuuAS-nVQmb93RGUeKGrYwadd3r-40QQ&security=reality&sid=f4b2dbe494c8&sni=www.cloudflare.com&spx=/9cb062b79f9c174&type=tcp#EPODONIOS
+vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:49736?authority=&encryption=none&fp=chrome&pbk=72YYFwmWjUG4MF8Jyon9yBGT31lboO__K-x9FjCO70M&security=reality&serviceName=&sid=2942cebdac&sni=www.cloudflare.com&spx=/193473383ca55cb&type=grpc#EPODONIOS
+vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:59230?encryption=none&security=none&type=tcp#EPODONIOS
+vless://444f3779-cc79-4289-b22b-f75bc84be25e@d7e209882c98f0ecd7e209882c98f0ec.ssdhdd.org:443?security=reality&encryption=none&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&headerType=none&fp=chrome&type=tcp&sni=tasnimnews.ir&sid=3b225391611b29e5#EPODONIOS
