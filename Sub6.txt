@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.250.68:22224?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.250.68:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.65.145.222:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -1003,3 +1002,4 @@ trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#EPOD
 trojan://ND91608427@13.36.175.151:443?fp=chrome&sni=classic-gator.rooster465.autos#EPODONIOS
 trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#EPODONIOS
 trojan://ND91608427@fancy-skink.rooster465.autos:443#EPODONIOS
+trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#EPODONIOS
