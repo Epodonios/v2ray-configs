@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#EPODONIOS
+trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#EPODONIOS
+trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#EPODONIOS
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#EPODONIOS
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#EPODONIOS
 trojan://telegram-id-directvpn@18.220.25.23:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#EPODONIOS
@@ -999,7 +1003,3 @@ vless://413ed615-9ecf-40b9-8a2e-e294395a3566@66.33.22.244:443?path=/ws/vless/413
 vless://415863f4-efd8-62fd-8364-36570ecb936f@69.46.46.30:443?path=/ws/415863f4-efd8-62fd-8364-36570ecb936f&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-1ce5.up.railway.app&fp=chrome&type=ws&sni=rvg-production-1ce5.up.railway.app#EPODONIOS
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#EPODONIOS
 vless://4167d23f-bd37-468f-b84f-199d38b60592@166.62.106.10:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=test.989819.xyz&path=/?Telegram-WangCai2&security=tls&sni=test.989819.xyz&type=ws#EPODONIOS
-vless://4167d23f-bd37-468f-b84f-199d38b60592@91.193.58.13:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=test.989819.xyz&path=/?Telegram-WangCai2&security=tls&sni=test.989819.xyz&type=ws#EPODONIOS
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#EPODONIOS
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8080?security=none&type=ws&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&path=/#EPODONIOS
-vless://41784775-8846-4579-9d9d-9ad6ea802e2e@188.119.123.112:49001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&allowInsecure=1&fp=chrome&security=reality&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&packetEncoding=xudp#EPODONIOS
