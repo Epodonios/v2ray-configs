@@ -4,9 +4,7 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 #Epodonios
-
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi%23TELEGRAM-PROXY_MTM%3Fed%3D512&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#EPODONIOS
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=1&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=1&sni=dey.lnmarketplace.net#EPODONIOS
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&ech=encryptedsni.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#EPODONIOS
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
@@ -25,6 +23,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#EPODONIOS
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#EPODONIOS
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#EPODONIOS
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&path=%2f#EPODONIOS
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&path=%2f#EPODONIOS
 hy2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?sni=nl1.noesissite.ru#EPODONIOS
 hy2://085178e12d2211ec@nl.prisma-access.club:8445/?sni=nl.prisma-access.club#EPODONIOS
@@ -1003,3 +1002,4 @@ trojan://telegram-id-directvpn@18.220.25.23:22222?allowInsecure=0&sni=trojan.bur
 trojan://telegram-id-directvpn@3.76.5.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#EPODONIOS
 trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#EPODONIOS
+trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#EPODONIOS
