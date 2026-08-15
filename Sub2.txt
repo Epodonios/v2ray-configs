@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@31.76.246.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=v.gb-cdn.ru&fp=chrome&security=reality&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a#EPODONIOS
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@31.76.246.59:443?security=reality&encryption=none&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v.gb-cdn.ru&sid=7a3f9e2b1c8d4f6a#EPODONIOS
 vless://02f74ad5-487e-4809-a5b9-d4a05e9a7e57@70.39.178.250:443?security=reality&encryption=none&pbk=fZ_KWK62j51ZCqS5P6QdPdeLoO2cLkQUI_YrExbK6AQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=berkararotel.com.tm&sid=417739fc12#EPODONIOS
 vless://033f1b0a-feae-44c6-a6f8-c22ea5f65d2b@185.204.171.178:13279?encryption=none&security=none&type=tcp#EPODONIOS
 vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=fd7f#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encry
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.16.65.1:443?type=ws&security=tls&sni=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&path=/&host=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&fp=chrome#EPODONIOS
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.151.172:443?type=ws&security=tls&sni=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&path=/&host=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&fp=chrome#EPODONIOS
 vless://484b5843-388f-4a8a-a601-3d833642c10d@soskeynets.rubyshow.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=cdn.rubyshow.ir&path=/sendx&security=tls&sni=cdn.rubyshow.ir&type=ws#EPODONIOS
-vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#EPODONIOS
-vless://486466bd-3902-f414-60a7-d10ea2f3009a@69.46.46.12:443?path=/ws/486466bd-3902-f414-60a7-d10ea2f3009a&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-6ba2.up.railway.app&fp=chrome&type=ws&sni=rvg-production-6ba2.up.railway.app#EPODONIOS
