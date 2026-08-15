@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg?ed&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg?ed&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg?ed&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg?ed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?encr
 vless://b9c4f23e-5ab8-4bad-b31a-5b2eebce4e31@media.cdkshop.ir:443?encryption=none&fp=chrome&pbk=SJdAKRmq9WVXSd1T92Nbk-JftCM7JZMNpBaNCnhLYjk&security=reality&sid=6b16ee683359&sni=pwa.snapptrip.com&spx=/c018f773a68a82e&type=tcp#EPODONIOS
 vless://b9d4c53c-2e6c-8eaf-362f-ae2602a3a8af@69.46.46.53:443?path=/ws/b9d4c53c-2e6c-8eaf-362f-ae2602a3a8af&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4bbe.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4bbe.up.railway.app#EPODONIOS
 vless://b9ea760d-3200-4d6d-8000-30514ebbce5a@104.26.13.40:8880?encryption=none&security=none&type=ws&host=aged-pine-d8c4.379.workers.dev&path=/pyip=proxyip.jp.cmliussss.net#EPODONIOS
+vless://b9fc97f4-222b-1863-083c-3e37eabcd155@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b9fc97f4-222b-1863-083c-3e37eabcd155#EPODONIOS
+vless://ba026f72-b6b6-448b-8a8e-39e60e375f5f@log.bpminecraft.com:8880?encryption=none&security=none&type=ws&host=plain-cell-7c51.415-172.workers.dev&path=/pyip=proxyip.us.cmliussss.net#EPODONIOS
