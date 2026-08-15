@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#EPODONIOS
-trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#EPODONIOS
-trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#EPODONIOS
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&sni=global.fastly.com.mitivpn-a.site#EPODONIOS
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#EPODONIOS
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#EPODONIOS
@@ -1003,3 +1000,6 @@ vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@ip-data.turkserver.ir:8443?mode=aut
 vless://46102c9e-441e-49b6-9ab6-9de2b585b202@193.181.29.146:443?security=reality&encryption=none&pbk=TK_buEqf86vPwxx15k8BYC2Ln7nkywSQYdLCqDk2KFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=bc29bbdf41ce2bea#EPODONIOS
 vless://4612258c-15e8-4459-a3b6-8b6571699c5f@46.22.216.31:443?security=reality&encryption=none&pbk=NiCJO84l7l--GJ10ggvb6HcOS8qLR30pWTphwvWozhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mail.protech-plus.ee#EPODONIOS
 vless://463a26c2-eba8-0065-89c4-ee5c1373ccbe@84.32.102.235:443?encryption=none&type=tcp&security=reality&headerType=none&sni=dnlch.mostserv.xyz&fp=chrome&insecure=1&allowInsecure=1&pbk=Q6sZPc96fGUJvHsOjwpAc57V16CajEfhkHHhuv-_Bg4&sid=0f3adaccbda5e56b&flow=xtls-rprx-vision#EPODONIOS
+vless://463a26c2-eba8-0065-89c4-ee5c1373ccbe@84.32.102.235:443?encryption=none&type=tcp&security=reality&headerType=none&sni=dnlch.mostserv.xyz&fp=chrome&insecure=1&allowInsecure=1&pbk=Q6sZPc96fGUJvHsOjwpAc57V16CajEfhkHHhuv-_Bg4&sid=0f3adaccbda5e56b&flow=xtls-rprx-vision#EPODONIOS
+vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@84.32.209.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dltch.mostserv.xyz&allowInsecure=1&fp=chrome&security=reality&pbk=bIUHw7kqfyS6-6d7yYjzyXSlc4_CrLZqzdf3KBQfly8&sid=&packetEncoding=xudp#EPODONIOS
+vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@84.32.49.223:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dsech.mostserv.xyz&allowInsecure=1&fp=chrome&security=reality&pbk=g0mDPNlv3uOrnxXvBYP3cEjd0ewJuIFlBh93KE5bU3A&sid=d0ca141e839394a3&packetEncoding=xudp#EPODONIOS

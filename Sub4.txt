@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg?ed=512TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
@@ -1003,3 +1000,6 @@ vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@gamefictoinspeed.info:443?encryptio
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#EPODONIOS
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#EPODONIOS
 vless://bbafc769-441b-4f06-9aae-9cc04ede1980@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#EPODONIOS
+vless://bbafc769-441b-4f06-9aae-9cc04ede1980@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#EPODONIOS
+vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=/gVCLnTsaoc7silZ&type=tcp&sni=www.oracle.com&sid=6b59#EPODONIOS
+vless://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#EPODONIOS
