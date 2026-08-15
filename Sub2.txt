@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#EPODONIOS
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#EPODONIOS
+trojan://telegram-id-directvpn@18.220.25.23:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://telegram-id-directvpn@3.76.5.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
+trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#EPODONIOS
+trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#EPODONIOS
+trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#EPODONIOS
 trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#EPODONIOS
 tuic://11135ca2-e2bf-43d1-9105-ca66d0b322f0:11135ca2-e2bf-43d1-9105-ca66d0b322f0@x6v0o7a4.turbowlan.net:35689/?congestion_control=bbr&udp_relay_mode=quic&sni=x6v0o7a4.turbowlan.net&alpn=h3&allow_insecure=1#EPODONIOS
 tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306/?congestion_control=bbr&udp_relay_mode=native&sni=www.microsoft.com&alpn=h3&allow_insecure=1#EPODONIOS
@@ -995,11 +1003,3 @@ vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@dqf21.sdssd1.sadqwdw1.carvan1.mimki
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@ip-data.turkserver.ir:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#EPODONIOS
 vless://46102c9e-441e-49b6-9ab6-9de2b585b202@193.181.29.146:443?security=reality&encryption=none&pbk=TK_buEqf86vPwxx15k8BYC2Ln7nkywSQYdLCqDk2KFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=bc29bbdf41ce2bea#EPODONIOS
 vless://4612258c-15e8-4459-a3b6-8b6571699c5f@46.22.216.31:443?security=reality&encryption=none&pbk=NiCJO84l7l--GJ10ggvb6HcOS8qLR30pWTphwvWozhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mail.protech-plus.ee#EPODONIOS
-vless://463a26c2-eba8-0065-89c4-ee5c1373ccbe@84.32.102.235:443?encryption=none&type=tcp&security=reality&headerType=none&sni=dnlch.mostserv.xyz&fp=chrome&insecure=1&allowInsecure=1&pbk=Q6sZPc96fGUJvHsOjwpAc57V16CajEfhkHHhuv-_Bg4&sid=0f3adaccbda5e56b&flow=xtls-rprx-vision#EPODONIOS
-vless://463a26c2-eba8-0065-89c4-ee5c1373ccbe@84.32.102.235:443?encryption=none&type=tcp&security=reality&headerType=none&sni=dnlch.mostserv.xyz&fp=chrome&insecure=1&allowInsecure=1&pbk=Q6sZPc96fGUJvHsOjwpAc57V16CajEfhkHHhuv-_Bg4&sid=0f3adaccbda5e56b&flow=xtls-rprx-vision#EPODONIOS
-vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@84.32.209.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dltch.mostserv.xyz&allowInsecure=1&fp=chrome&security=reality&pbk=bIUHw7kqfyS6-6d7yYjzyXSlc4_CrLZqzdf3KBQfly8&sid=&packetEncoding=xudp#EPODONIOS
-vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@84.32.49.223:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dsech.mostserv.xyz&allowInsecure=1&fp=chrome&security=reality&pbk=g0mDPNlv3uOrnxXvBYP3cEjd0ewJuIFlBh93KE5bU3A&sid=d0ca141e839394a3&packetEncoding=xudp#EPODONIOS
-vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@dsech.mostserv.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dsech.mostserv.xyz&allowInsecure=1&fp=chrome&security=reality&pbk=g0mDPNlv3uOrnxXvBYP3cEjd0ewJuIFlBh93KE5bU3A&sid=d0ca141e839394a3&packetEncoding=xudp#EPODONIOS
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@earth.lukelucky.com:2086?mode=auto&path=/&security=none&encryption=none&host=cC.cafearen.ir&type=xhttp#EPODONIOS
-vless://4700cf0a-3704-4730-897a-8dca469edd8f@de.ramcalshoping.ir:18020?security=reality&encryption=none&pbk=0xLgsE7IR5ewIl8gbBvO4199a9Av1_asmucL6V9u6nw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e31e363bd206f49d#EPODONIOS
-vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@94.198.190.22:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&allowInsecure=1&fp=chrome&security=reality&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&sid=7b&packetEncoding=xudp#EPODONIOS
