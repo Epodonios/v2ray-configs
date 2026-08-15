@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.93.62:8882?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#EPODONIOS
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://cccf62bc-7acf-4029-ada1-4b3952110b7d@www.speedtest.net:443?alpn=http%2F1
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?allowInsecure=1&ed=2053&eh=Sec-WebSocket-Protocol&encryption=none&host=pane2.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS
 vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?encryption=none&host=admin.jikebet.com&path=%2Fvless&security=tls&sni=admin.jikebet.com&type=ws#EPODONIOS
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&security=reality&sni=www.cloudflare.com&type=tcp#EPODONIOS
