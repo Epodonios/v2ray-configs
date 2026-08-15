@@ -4,6 +4,7 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#EPODONIOS
+trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#EPODONIOS
 tuic://11135ca2-e2bf-43d1-9105-ca66d0b322f0:11135ca2-e2bf-43d1-9105-ca66d0b322f0@x6v0o7a4.turbowlan.net:35689/?congestion_control=bbr&udp_relay_mode=quic&sni=x6v0o7a4.turbowlan.net&alpn=h3&allow_insecure=1#EPODONIOS
 tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306/?congestion_control=bbr&udp_relay_mode=native&sni=www.microsoft.com&alpn=h3&allow_insecure=1#EPODONIOS
 vless://000f16e8-cc68-4951-b336-acd81996efde@162.33.177.100:40443?security=reality&encryption=none&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@84.32.49.223:443/?type=tcp&encrypti
 vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@dsech.mostserv.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dsech.mostserv.xyz&allowInsecure=1&fp=chrome&security=reality&pbk=g0mDPNlv3uOrnxXvBYP3cEjd0ewJuIFlBh93KE5bU3A&sid=d0ca141e839394a3&packetEncoding=xudp#EPODONIOS
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@earth.lukelucky.com:2086?mode=auto&path=/&security=none&encryption=none&host=cC.cafearen.ir&type=xhttp#EPODONIOS
 vless://4700cf0a-3704-4730-897a-8dca469edd8f@de.ramcalshoping.ir:18020?security=reality&encryption=none&pbk=0xLgsE7IR5ewIl8gbBvO4199a9Av1_asmucL6V9u6nw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e31e363bd206f49d#EPODONIOS
-vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@94.198.190.22:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&allowInsecure=1&fp=chrome&security=reality&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&sid=7b&packetEncoding=xudp#EPODONIOS
