@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://413ed615-9ecf-40b9-8a2e-e294395a3566@66.33.22.244:443?path=/ws/vless/413ed615-9ecf-40b9-8a2e-e294395a3566?ed=2048&security=tls&alpn=h3&encryption=none&insecure=0&host=web-production-febbb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-febbb.up.railway.app#EPODONIOS
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#EPODONIOS
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#EPODONIOS
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8080?security=none&type=ws&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&path=/#EPODONIOS
@@ -998,7 +999,6 @@ vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.80.1:80?security=none&encryp
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/83JWdcC2XXJrBR5m?ed=2560#EPODONIOS
 vless://81cd0fd8-57ad-7962-7f31-566c6dc0e6a7@69.46.46.11:443?path=/ws/81cd0fd8-57ad-7962-7f31-566c6dc0e6a7&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-9ca8.up.railway.app&fp=chrome&type=ws&sni=rvg-production-9ca8.up.railway.app#EPODONIOS
-vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS

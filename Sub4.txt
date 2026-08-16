@@ -4,6 +4,7 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=aae8#EPODONIOS
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&type=tcp&sni=deepl.com&sid=aae8#EPODONIOS
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&type=tcp&sni=deepl.com&sid=aae8#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=/api/v2/xtrnw
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?security=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560&encryption=none#EPODONIOS
 vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#EPODONIOS
 vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443?encryption=none&type=tcp&security=reality&sni=fin1.panel11.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&flow=xtls-rprx-vision#EPODONIOS
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443?security=reality&encryption=none&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fin1.panel11.ru&sid=aaec521b22bbe6cb#EPODONIOS
