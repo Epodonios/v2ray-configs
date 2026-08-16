@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@185.238.191.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&security=reality&sid=f7d0420b8ab26060&sni=de-cdn.ru&type=tcp#EPODONIOS
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?encryption=none&type=tcp&security=reality&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&sni=aq.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision#EPODONIOS
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@31.76.246.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=v.gb-cdn.ru&fp=chrome&security=reality&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a#EPODONIOS
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@31.76.246.59:443?security=reality&encryption=none&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v.gb-cdn.ru&sid=7a3f9e2b1c8d4f6a#EPODONIOS
 vless://02f74ad5-487e-4809-a5b9-d4a05e9a7e57@70.39.178.250:443?security=reality&encryption=none&pbk=fZ_KWK62j51ZCqS5P6QdPdeLoO2cLkQUI_YrExbK6AQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=berkararotel.com.tm&sid=417739fc12#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://45c595fa-988f-11f1-8024-54db13ea7d40@143.246.196.157:443?encryption=none
 vless://45c595fa-988f-11f1-8024-54db13ea7d40@143.246.196.157:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.blocket.se&fp=chrome&insecure=1&allowInsecure=1&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&flow=xtls-rprx-vision#EPODONIOS
 vless://45c595fa-988f-11f1-8024-54db13ea7d40@143.246.196.157:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.blocket.se&fp=chrome&insecure=1&allowInsecure=1&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&flow=xtls-rprx-vision#EPODONIOS
 vless://45c595fa-988f-11f1-8024-54db13ea7d40@143.246.196.157:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.blocket.se&fp=chrome&insecure=1&allowInsecure=1&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&flow=xtls-rprx-vision#EPODONIOS
+vless://45c595fa-988f-11f1-8024-54db13ea7d40@143.246.196.157:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.blocket.se&fp=chrome&insecure=1&allowInsecure=1&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&flow=xtls-rprx-vision#EPODONIOS
+vless://45c595fa-988f-11f1-8024-54db13ea7d40@144.172.91.227:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=n25FmewpAEsvLl9Vr0bRFcz044f4IE7orWeWOzu8rwk&flow=xtls-rprx-vision#EPODONIOS
