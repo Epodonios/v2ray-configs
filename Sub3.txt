@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4303af5a-8bd1-47b7-a205-814c664bbf7c@lkanfd-lsk-production.up.railway.app:443?path=/ws/vless/4303af5a-8bd1-47b7-a205-814c664bbf7c?ed&security=tls&alpn=h3&encryption=none&insecure=0&host=lkanfd-lsk-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=lkanfd-lsk-production.up.railway.app#EPODONIOS
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&type=tcp&headerType=none#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?&type=tcp&headerType=none&path=/#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&se
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=?ed=512#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=/#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
