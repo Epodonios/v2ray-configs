@@ -4,6 +4,7 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://02dd14e8-e2f6-496e-b5b9-6b022f52a89c@tr.rajastore.ir:443?encryption=none&fp=chrome&pbk=4Gxg-e1xgmj0YIfnHTAgcLWprUhrwBOQDbaSVbzDelY&security=reality&sid=3afc77f9c5e699&sni=timeline.www.cloudflare.com&spx=/93fb3ca87ca9831&type=tcp#EPODONIOS
+vless://02dd14e8-e2f6-496e-b5b9-6b022f52a89c@tr.rajastore.ir:443?encryption=none&fp=chrome&pbk=4Gxg-e1xgmj0YIfnHTAgcLWprUhrwBOQDbaSVbzDelY&security=reality&sid=3afc77f9c5e699&sni=timeline.www.cloudflare.com&spx=/93fb3ca87ca9831&type=tcp#EPODONIOS
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.73.195.8:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru7.cdn-global.pro&fp=chrome&security=reality&pbk=h18Rbgv9RV558p-9Pl4g_--jJjXlTZL0-jHqNK5M_n4&sid=2b8c3e90e14740d2#EPODONIOS
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@185.238.191.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&security=reality&sid=f7d0420b8ab26060&sni=de-cdn.ru&type=tcp#EPODONIOS
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?encryption=none&type=tcp&security=reality&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&sni=aq.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision#EPODONIOS
@@ -1001,5 +1002,4 @@ vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&pat
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#EPODONIOS
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#EPODONIOS
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=de.lezzatzone.ir#EPODONIOS
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#EPODONIOS
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#EPODONIOS

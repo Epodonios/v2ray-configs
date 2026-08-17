@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7bb6d2aa-6238-48a6-abe2-c7deb083b08e@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=04bf0403f96e5b4b#EPODONIOS
 vless://7bc2c010-dffd-4c81-8fa3-25e8f3781dca@31.76.34.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn3-85.cdn-vkvideo.com&fp=chrome&pbk=QC03TEA8YdxpkQyJ8duwrqaP1dWAIlCjONzicWlWDjs&sid=b0d8f964b7ac8ac0&type=tcp&headerType=none#EPODONIOS
 vless://7bc2c010-dffd-4c81-8fa3-25e8f3781dca@31.76.34.146:443?security=reality&sni=cdn3-85.cdn-vkvideo.com&fp=chrome&pbk=QC03TEA8YdxpkQyJ8duwrqaP1dWAIlCjONzicWlWDjs&sid=b0d8f964b7ac8ac0&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#EPODONIOS
 vless://7bd8e88e-56d3-4396-87b3-854315db88f5@2.27.18.136:443?security=reality&encryption=none&pbk=lFP2ImTpt15m2yw6EivkehLp6smfaH8GRDoXdmcJbVM&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.icloud.com&sid=f070801a38d9f30e#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&en
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#EPODONIOS
 vless://a02e0f63-d96e-4b0f-8270-56c28caef171@51.158.151.24:31727?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://a039c938-0792-424a-8a8a-d0508c7fcab1@104.18.1.1:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=sweet-art-a13d.5ejrdnfcv.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sweet-art-a13d.5ejrdnfcv.workers.dev#EPODONIOS
-vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op2.x-upload.org#EPODONIOS
