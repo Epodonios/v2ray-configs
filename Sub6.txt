@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.80.127:22224?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.137.63:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.137.63:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -1003,3 +1002,4 @@ trojan://AE62539071@relative-locust.rooster465.autos:443#EPODONIOS
 trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&sni=humorous-llama.rooster465.autos#EPODONIOS
 trojan://AE62539071@thorough-falcon.rooster465.autos:443#EPODONIOS
 trojan://AE62539071@tough-hermit.rooster465.autos:443#EPODONIOS
+trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#EPODONIOS
