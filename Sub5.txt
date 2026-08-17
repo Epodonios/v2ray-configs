@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/66.42.51.60#EPODONIOS
 vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#EPODONIOS
 vless://ab00e12c-09f1-41c6-8d60-7c6a83f5ca9d@51.77.217.70:2053/?type=tcp&encryption=none&flow=&sni=www.apple.com&security=reality&pbk=6j7SZO4StX_8QkHX9sATJug5nQ4X4XoTj_6B7bClEw4&sid=e52e7fd8585ac5c1#EPODONIOS
 vless://ab2cea85-d7eb-07d0-aa5a-98bab5d37dab@139.100.197.28:52006?flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&type=raw#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.80.127:22224?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.137.63:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.137.63:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.140.169:22222?encryption=none&security=none&type=tcp#EPODONIOS

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.140.169:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.91:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.91:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.91:22222?encryption=none&security=none&type=tcp#EPODONIOS
@@ -1002,4 +1003,3 @@ trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.mua
 trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#EPODONIOS
 trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#EPODONIOS
 trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos#EPODONIOS
-trojan://FH72359861@108.130.49.217:443?allowInsecure=1&sni=concise-bass.rooster465.autos#EPODONIOS
