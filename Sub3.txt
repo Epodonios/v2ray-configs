@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#EPODONIOS
+vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#EPODONIOS
+vless://41cb4dec-7374-f372-1a78-ed89405ff545@x4g-production-1072.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-1072.up.railway.app&path=/ws/41cb4dec-7374-f372-1a78-ed89405ff545&sni=x4g-production-1072.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://41cb4dec-7374-f372-1a78-ed89405ff545@x4g-production-1072.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-1072.up.railway.app&path=/ws/41cb4dec-7374-f372-1a78-ed89405ff545&sni=x4g-production-1072.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://41d480fd-1dcc-4766-8e01-a67e7faa5934@129.6.29.253:443?path=/id-amz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#EPODONIOS
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#EPODONIOS
@@ -1000,6 +1003,3 @@ vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encr
 vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@82.26.91.87:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=faster.yandex-apicloud.ru#EPODONIOS
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?type=tcp&encryption=none&security=none&headerType=none#EPODONIOS
-vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?type=tcp&headerType=none&security=none&encryption=none#EPODONIOS
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&serviceName=grpc&type=grpc#EPODONIOS
