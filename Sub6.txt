@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#EPODONIOS
+vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#EPODONIOS
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#EPODONIOS
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#EPODONIOS
 vless://dfea48aa-797e-e043-5f0b-9ac16aeeecca@69.46.46.11:443?path=/ws/dfea48aa-797e-e043-5f0b-9ac16aeeecca&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-9c73.up.railway.app&fp=chrome&type=ws&sni=rvg-production-9c73.up.railway.app#EPODONIOS
@@ -1001,5 +1003,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM@autodiscover.fuzzyaytor.cyou:42982#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@fr3.levikogjgfdd.ir:8388#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#EPODONIOS

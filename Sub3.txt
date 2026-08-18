@@ -4,6 +4,8 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#EPODONIOS
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#EPODONIOS
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=baltic.cendora.ru&allowInsecure=1&fp=chrome&security=reality&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&packetEncoding=xudp#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.143.112.146:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.143.112.146:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&securit
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&serviceName=grpc&type=grpc&encryption=none#EPODONIOS
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#EPODONIOS
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#EPODONIOS
-vless://7eed6d87-ecf6-467b-a8ca-52071fa84fca@195.211.99.49:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=VRrsZmyM-QD8YgLGgy2h3pMLbauIBCMoGN2pc8Xt5hE&sid=b605d4e8b7f453ab#EPODONIOS
-vless://7eed7440-df4b-150b-a43b-763539ee8b7f@69.46.46.13:443?path=/ws/7eed7440-df4b-150b-a43b-763539ee8b7f&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-ed62.up.railway.app&fp=chrome&type=ws&sni=rvg-production-ed62.up.railway.app#EPODONIOS
