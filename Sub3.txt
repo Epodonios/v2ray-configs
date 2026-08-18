@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.24:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#EPODONIOS
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.171.143:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.242.1:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.242.1:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.242.1:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2036?path=/&security
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2077?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=world.ashahan.ir#EPODONIOS
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#EPODONIOS
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#EPODONIOS
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#EPODONIOS
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#EPODONIOS

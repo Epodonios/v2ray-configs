@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.46.6:80/?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=/free-server.techsonic.dev#EPODONIOS
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#EPODONIOS
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#EPODONIOS
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@89.124.124.221:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=19.07.yunus.guru&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&sid=c6d439fd92614ab0#EPODONIOS
 vless://a5eb4618-c4b5-458b-aafb-e74558d9592d@uae-user-naran.chamehdan.ir:8080?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=/vles
 vless://dc4adc81-d35c-4cb7-8a53-39d3458bef9a@82.40.62.103:1234?security=none&spx=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.googletagmanager.com&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp&headerType=none#EPODONIOS
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#EPODONIOS
+vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#EPODONIOS
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#EPODONIOS

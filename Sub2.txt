@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
-vless://00a84cc6-073c-454b-9487-f0b7238e715f@31.56.178.216:443?headerType=none&sni=huggingface.co&type=tcp&encryption=none&fp=chrome&sid=cedac586f85bb33e&security=reality&flow=xtls-rprx-vision&pbk=pT_PrAFYHWWJgyX4E4srGf-LKN_CzIsO26btnNmWDTo#EPODONIOS
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@pro1.awexio.ir:2086?security=reality&encryption=none&pbk=FdedLVqgh4rCCzYydDap0cmzOuhnw2hdwpj0C4G1sjU&headerType=&fp=chrome&type=tcp&sni=support-shield.nvidia.nl&sid=b91fc778714c36a6#EPODONIOS
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@site.awextr.ir:2086?security=reality&encryption=mlkem768x25519plus.native.0rtt.f7Tb0m3B9X1wwykTgP_vWHH6uXOt8CX-MAipUAObJ1c&pbk=wlmLbcRWfPz3NkrX18vCrw-C3s3qzeipsfnrm457x1k&host=upload.google.com&headerType=http&fp=chrome&type=tcp&sni=check-host.net&sid=31eec4cab22d3de8#EPODONIOS
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@site.awextr.ir:2086?security=reality&encryption=mlkem768x25519plus.native.0rtt.f7Tb0m3B9X1wwykTgP_vWHH6uXOt8CX-MAipUAObJ1c&pbk=wlmLbcRWfPz3NkrX18vCrw-C3s3qzeipsfnrm457x1k&host=upload.google.com&headerType=http&fp=chrome&type=tcp&sni=check-host.net&sid=31eec4cab22d3de8#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://41d480fd-1dcc-4766-8e01-a67e7faa5934@129.6.29.253:443?path=/id-amz&secur
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@114.29.238.251:13443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.cendora.ru&fp=chrome&security=reality&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.133:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#EPODONIOS
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.24:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#EPODONIOS
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.171.143:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#EPODONIOS
