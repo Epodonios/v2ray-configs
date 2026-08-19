@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://7d938228-0ee2-4758-9f33-1a6c6592b791@72.56.65.210:40443?security=reality&encryption=none&pbk=a1UMmt4ytNFwDizX92056cCle6dG1ASF46vf4awNXTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=d46b#EPODONIOS
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#EPODONIOS
 vless://7dfe2f33-54c5-43cf-a6584-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.24.247.189:80?encryption=none&s
 vless://a140f7c4-78aa-ba57-8d45-3f2d00000000@104.21.25.210:443?path=/sync&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ez-6174e8.nova-970a2c.workers.dev#EPODONIOS
 vless://a151e2a7-9807-45cb-7150-c2f2176aebbc@inetchnl-production-5183.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-5183.up.railway.app&path=/ws/a151e2a7-9807-45cb-7150-c2f2176aebbc&sni=inetchnl-production-5183.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#EPODONIOS
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
