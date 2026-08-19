@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&headerType=none&host=PuLaVPN.Net#EPODONIOS
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.21.15.245:443?security=reality&
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.39.206.241:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#EPODONIOS
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.39.206.241:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#EPODONIOS
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@193.233.102.214:443?fp=chrome&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&type=tcp&sid=d484643ca8396614&flow=xtls-rprx-vision&headerType=none&encryption=none&sni=yt.chick-team.ru&security=reality#EPODONIOS
-vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@193.233.102.214:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#EPODONIOS
-vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@193.233.102.214:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#EPODONIOS
