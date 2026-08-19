@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#EPODONIOS
+vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none&security=reality&fp=chrome&type=tcp&headerType=none&sni=play.google.com#EPODONIOS
 vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
 vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
 vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=n
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://Telegram : free_conf_iran@135.125.136.238:46989?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://Telegram-Parsashonam@178.105.179.72:443?security=reality&encryption=none&pbk=k2hbpFLj1gfVXbx0Hae2bvMIZIaBwJcVG71XiEDkSD0&headerType=none&fp=chrome&spx=/l7fQJYMI6OVOIfN&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=21cee1c9ab#EPODONIOS
-vless://Telegram-vpnjey@162.159.38.119:8080?encryption=none&type=xhttp&mode=auto&host=se.jeyy.eu.cc&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&extra={"xPaddingBytes":"100-1000","mode":"auto"}&security=none#EPODONIOS
-vless://Telegram:@Free_VPN_CH@109.176.239.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#EPODONIOS
