@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#EPODONIOS
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#EPODONIOS
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#EPODONIOS
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.195:443?flow=xtls-rprx-vision&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#EPODONIOS
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.87:443?encryption=none&type=tcp&security=reality&headerType=none&sni=getsavesafe.net&insecure=1&allowInsecure=1&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&flow=xtls-rprx-vision#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?flow=xtls-rprx-vis
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cdn-se.alohaapp.uk&fp=chrome&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&sid=b9f8f9772217538f&allowinsecure=1&type=tcp&headerType=none#EPODONIOS
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cdn-se.alohaapp.uk&fp=chrome&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&sid=b9f8f9772217538f&allowinsecure=1&type=tcp&headerType=none#EPODONIOS
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#EPODONIOS
-vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
