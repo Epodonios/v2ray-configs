@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://78ac1880-2385-4d44-83e5-7d6af59e80a3@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in10&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#EPODONIOS
-vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@104.18.34.245:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=white-hill-f907.23-b68.workers.dev&type=ws#EPODONIOS
 vless://78b9ac78-ebdf-4e51-8114-f6b0cd6d2169@104.18.1.1:443?path=/eyJqdW5rIjoiOUZIcXVMV3FlbnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=server15.peekconf1-741.workers.dev.&fp=chrome&type=ws&allowInsecure=0&sni=sErVER15.PEeKCOnF1-741.wOrkErs.Dev.#EPODONIOS
 vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@expressvpn_420.fastly80.hosting-ip.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#EPODONIOS
 vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@i2.cloud--vpn.site:443?host=c12.com&security=tls&sni=ssl.fastly.com&encryption=none&path=/&type=ws&insecure=0&fp=chrome&alpn=h2&allowInsecure=0#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://Telegram:@Free_VPN_CH@109.248.163.226:8443?encryption=none&security=tls&
 vless://Telegram:@Free_VPN_CH@159.255.33.198:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#EPODONIOS
 vless://Telegram:@Free_VPN_CH@160.153.136.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#EPODONIOS
 vless://Telegram:@Free_VPN_CH@176.125.240.147:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#EPODONIOS
+vless://Telegram:@Free_VPN_CH@176.125.240.51:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#EPODONIOS
+vless://Telegram:@Free_VPN_CH@185.139.228.126:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#EPODONIOS
