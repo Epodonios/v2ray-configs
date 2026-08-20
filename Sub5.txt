@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-11@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&se
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?path=/J5aLQOY1R9ONWYCM#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#EPODONIOS
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?path=/J5aLQOY1R9ONWYCM#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#EPODONIOS
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?path=/J5aLQOY1R9ONWYCM#TELEGRAM-TOOTFFARANGI_TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#EPODONIOS
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=ov.iran-servers.shop&fp=chrome&type=ws&sni=ov.iran-servers.shop#EPODONIOS
