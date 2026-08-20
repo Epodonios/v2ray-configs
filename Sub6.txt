@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d3074030-0133-4691-ac4c-f8b8321b522a@77.221.141.20:20851?path=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&security=none&encryption=none&host=cdn-apple.com&type=httpupgrade#EPODONIOS
 vless://d31aefb3-775b-4e87-a093-a4677addf10a@ger1.nihaovpn.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&security=reality&sid=c010293d0bafac&sni=stackoverflow.com&type=tcp#EPODONIOS
 vless://d31aefb3-775b-4e87-a093-a4677addf10a@ger1.nihaovpn.ru:443?security=reality&encryption=none&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&host=stackoverflow.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c010293d0bafac#EPODONIOS
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.32.47:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://fb3e30e3-0176-107a-aa5f-d75f2c58c24c@inetchnl-production-5183.up.railway
 vless://fb85a8a7-e8b4-6f16-3928-55f09552e091@69.46.46.123:443?path=/ws/fb85a8a7-e8b4-6f16-3928-55f09552e091&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-eed37.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-eed37.up.railway.app#EPODONIOS
 vless://fb85a8a7-e8b4-6f16-3928-55f09552e091@69.46.46.123:443?path=/ws/fb85a8a7-e8b4-6f16-3928-55f09552e091&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-eed37.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-eed37.up.railway.app#EPODONIOS
 vless://fb85a8a7-e8b4-6f16-3928-55f09552e091@69.46.46.123:443?path=/ws/fb85a8a7-e8b4-6f16-3928-55f09552e091&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-eed37.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-eed37.up.railway.app#EPODONIOS
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@104.19.33.83:443?sni=ourfast.ccwu.cc&type=ws&host=ourfast.ccwu.cc&path=/security=tls#EPODONIOS
