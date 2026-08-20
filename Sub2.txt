@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#EPODONIOS
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#EPODONIOS
 trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@185.220.100.168:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#EPODONIOS
@@ -1000,6 +1003,3 @@ vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80?encryption=none&se
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#EPODONIOS
 vless://3c3e05e8-abea-f9f8-6100-aaf974372db5@subgift5.up.railway.app:443?path=/ws/3c3e05e8-abea-f9f8-6100-aaf974372db5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#EPODONIOS
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#EPODONIOS
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#EPODONIOS
-vless://3cad5872-8299-4a2b-806f-3ae673f1a721@49.13.42.167:8081?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#EPODONIOS
-vless://3cad5872-8299-4a2b-806f-3ae673f1a721@49.13.42.167:8081?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#EPODONIOS
