@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f8a8b40d-a714-43bf-022a-8b3e3ff2e642@s2.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=s2.zynetraq.ir&mode=auto&path=/BetForward&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&security=tls&sni=s2.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.17.25.173:2052?encryption=none&security=none&fp=chrome&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy&path=/?ed#EPODONIOS
 vless://f93cffab-a048-4d60-85d7-e9dbfe0e2df8@hollowcon-c5lo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-c5lo.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-c5lo.onrender.com&path=/ws/f93cffab-a048-4d60-85d7-e9dbfe0e2df8#EPODONIOS
 vless://f9a8edf6-9dda-4f5c-9268-03fb883fc6b2@cd1.videobazi.com:443?encryption=mlkem768x25519plus.native.0rtt.XlifjE4f4QdfmdtLmXhWfzh2duNCrsGHTbR_qQZm6GM&security=tls&type=xhttp&headerType=none&path=/nHbagava&host=cdvn.jorgotr.ir&mode=auto&sni=cdvn.jorgotr.ir#EPODONIOS
 vless://f9a8edf6-9dda-4f5c-9268-03fb883fc6b2@cd3.videobazi.com:8443?encryption=mlkem768x25519plus.native.0rtt.XlifjE4f4QdfmdtLmXhWfzh2duNCrsGHTbR_qQZm6GM&security=tls&type=xhttp&headerType=none&path=/nHbagava&host=cdvn.jorgotr.ir&mode=auto&sni=cdvn.jorgotr.ir#EPODONIOS
@@ -1000,6 +1002,4 @@ vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAy
 vless://8899d15d-a022-4b61-b848-87d4de0a034a@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#EPODONIOS
 
 vless://8899d15d-a022-4b61-b848-87d4de0a034a@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#EPODONIOS
-
-vless://8899d15d-a022-4b61-b848-87d4de0a034a@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#EPODONIOS
 
