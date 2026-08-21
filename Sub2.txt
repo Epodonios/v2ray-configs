@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://xth1trWxty3u5JGt1spEVVJ0M1/VW/SK@vip-ca-1.hkd4fwmg.xyz:51992?allowInsecure=1&fp=chrome#EPODONIOS
 trojan://zBSCrW4::FtMJG_oTAq@www.speedtest.net:2096?path=/tr/w0JSSnC98vndqWna9w?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VKvd8bpSkvXGjWdVCIDxGOccr.jAVaNBaGhE.wOrkERS.dEv#EPODONIOS
 tuic://11135ca2-e2bf-43d1-9105-ca66d0b322f0:11135ca2-e2bf-43d1-9105-ca66d0b322f0@x6v0o7a4.turbowlan.net:35689/?congestion_control=bbr&udp_relay_mode=quic&sni=x6v0o7a4.turbowlan.net&alpn=h3&allow_insecure=1#EPODONIOS
 tuic://320c67f6-6296-483e-9ba8-618bc56820a9:3yaCLebOBWJnYPsjABKZTnbm1fazZ5VF@vip-nl-1.hkd4fwmg.vip:41944?allow_insecure=1&alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=vip-nl-1.hkd4fwmg.vip&udp_relay_mode=native&version=5#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.86.150:443?type=tcp&headerT
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#EPODONIOS
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#EPODONIOS
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@194.48.250.172:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&allowInsecure=1#EPODONIOS
