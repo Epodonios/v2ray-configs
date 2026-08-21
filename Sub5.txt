@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#EPODONIOS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6ZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&secur
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#EPODONIOS

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?encryption=none&type=tcp&headerType=http&path=/&host=google.com#EPODONIOS
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?encryption=none&type=xhttp&path=/&host=chatgpt.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=/connect#EPODONIOS
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&fp=chrome&host=129.121.95.159&path=/connect&security=tls&sni=129.121.95.159&type=ws#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://2196f28b-8217-4631-a28e-1d34112aa947@cis.visa.com:443?security=tls&sni=R
 vless://226c8b99-407a-4215-b00c-ff44b02b8b63@myanmar.visa.com:443?security=tls&sni=RAYaN106-9uIaCO-1.rayan-106.wOrKErs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=RAYaN106-9uIaCO-1.rayan-106.wOrKErs.DeV&encryption=none#EPODONIOS
 
 vless://22c71398-f576-4608-8b1f-b65badde088b@africa.visa.com:443?security=tls&sni=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&fp=chrome&type=ws&path=/?ed%3D2560&host=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&encryption=none#EPODONIOS
-
