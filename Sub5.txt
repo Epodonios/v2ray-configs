@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?encryption=none&security=reality&sni=files.noneok.com&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&fp=&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&security=reality&serviceName=api.v1.StreamService&sid=1ea59febb8d4fc8e&sni=api.noneok.com&type=grpc#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&security=reality&sni=api.noneok.com&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?encryption=none&f
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:443?encryption=none&host=pl4.lckdwn.ru&path=/&security=none&type=ws#EPODONIOS
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#EPODONIOS
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS

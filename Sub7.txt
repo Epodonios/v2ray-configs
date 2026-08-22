@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fc7f5780-4c4e-11f1-a3f8-b58432c62d9c@jsv-ir2.randino.ir:2?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@time.is:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#EPODONIOS
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#EPODONIOS
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#EPODONIOS
@@ -1002,4 +1003,3 @@ vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni40IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIx
 vmess://eyJhZGQiOiAiMTk4LjQxLjIwMy41IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0lZS0xENTNNIiwgInBvcnQiOiA0NDMsICJwcyI6ICJFUE9ET05JT1MiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAib3BmcjEudjJyYXlmcmVlMS54eXoifQ==
 vmess://eyJhZGQiOiAiMTAzLjE2Ni4xODMuMjI2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJlZjkxOWM2Ny02NjM4LTQ0MTYtOTFhZi05YTEzZmZlNWI5Y2EiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RhbmR1bmcyODguY2xpY2siLCAicG9ydCI6IDgwLCAicHMiOiAiRVBPRE9OSU9TIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImRsLmtndm4uZ2FyZW5hbm93LmNvbSJ9
 vmess://eyJhZGQiOiAiYS52MnJheS53b3JsZCIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjA1YjZiMjViLWJiNWQtNGRjZC05NzEwLTMxZTM3NGZmYTU4NCIsICJuZXQiOiAiaDIiLCAicGF0aCI6ICIiLCAicG9ydCI6IDQ0MywgInBzIjogIkVQT0RPTklPUyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.111.114.246:8882#EPODONIOS
