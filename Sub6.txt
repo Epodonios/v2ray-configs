@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#EPODONIOS
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?encryption=none&type=ws&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&fp=chrome&sni=ov.iran-servers.shop#EPODONIOS
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?path=/J5aLQOY1R9ONWYCM&insecure=0&sni=ov.iran-servers.shop&fp=chrome&host=ov.iran-servers.shop&type=ws&security=tls&encryption=none&allowInsecure=0#EPODONIOS
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?path=/J5aLQOY1R9ONWYCM&insecure=0&sni=ov.iran-servers.shop&fp=chrome&host=ov.iran-servers.shop&type=ws&security=tls&encryption=none&allowInsecure=0#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerTy
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#EPODONIOS
 vless://leo@82.40.58.246:4444?security=reality&encryption=none&pbk=xNEYoYnr1_VNUEDAxn0Dkfs50jAnnAa2AUlHLsbqFww&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=fbb8#EPODONIOS
 vless://mahanvpn-mahanvpn@92.42.96.240:443?path=/&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#EPODONIOS
-vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#EPODONIOS
