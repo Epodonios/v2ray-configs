@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@s1.test.anti-zapret.com:8443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&type=tcp&sni=s1.test.anti-zapret.com&sid=58fbcddfaae3ade9#EPODONIOS
+vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@s1.test.anti-zapret.com:8443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&type=tcp&sni=s1.test.anti-zapret.com&sid=58fbcddfaae3ade9#EPODONIOS
 vless://f8a8b40d-a714-43bf-022a-8b3e3ff2e642@s2.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=s2.zynetraq.ir&mode=auto&path=/BetForward&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&security=tls&sni=s2.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.17.25.173:2052?encryption=none&security=none&fp=chrome&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy&path=/?ed#EPODONIOS
 vless://f8e5817e-8487-4239-be14-c1ea3284719c@62.60.212.111:29098?security=none&type=tcp&headerType=http#EPODONIOS
@@ -1001,5 +1003,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.64.138.145:8080#EPODONIOS
 ssr://YXBpLm1laXR1YW44OC5jb206MjIwNTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpaR2t4TlZCVy8/b2Jmc3BhcmFtPU9UbGxNVFEwTXpreExtUnZkWGxwYmk1akplJTJCJTJGdlElM0QlM0QmcmVtYXJrcz1SVkJQUkU5T1NVOVQmcHJvdG9wYXJhbT0=
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.79:3306#EPODONIOS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@195.154.200.150:2376#EPODONIOS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.1.100:8080#EPODONIOS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#EPODONIOS
