@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.121:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none@soskeynets#EPODONIOS
-vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#EPODONIOS
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#EPODONIOS
 vless://8033102198@144.31.171.233:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.fast-connect-service.site#EPODONIOS
 vless://8033102198@85.155.98.40:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl2.fast-connect-service.site#EPODONIOS
@@ -997,6 +995,8 @@ vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&e
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#EPODONIOS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM-&sni=ads.x5.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#EPODONIOS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=ads.x5.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#EPODONIOS
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#EPODONIOS
