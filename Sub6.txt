@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=/GOrbEh#TELEGRAM-bored_vpn?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://f6facd31-c0f7-444f-8b7d-be754eaea9cc@43.224.150.210:443?security=reality
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.148:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#EPODONIOS
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#EPODONIOS
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#EPODONIOS
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.57:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#EPODONIOS

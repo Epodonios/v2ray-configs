@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://80af4ec8-70a8-4432-ba61-0c7b4424dfca@meli_netbot.team-pluss.com:8080?security=reality&encryption=none&pbk=o9ccqpVGPiXhLWNCGoBJAXkwChudzp8bMvHCztsoyCk&headerType=none&fp=chrome&spx=/2df51fff5918a80&type=tcp&flow=xtls-rprx-vision&sni=the.world.of.the.champions.retrovip.net&sid=fbc8d57be7#EPODONIOS
+vless://80af4ec8-70a8-4432-ba61-0c7b4424dfca@meli_netbot.team-pluss.com:8080?security=reality&encryption=none&pbk=o9ccqpVGPiXhLWNCGoBJAXkwChudzp8bMvHCztsoyCk&headerType=none&fp=chrome&spx=/2df51fff5918a80&type=tcp&flow=xtls-rprx-vision&sni=the.world.of.the.champions.retrovip.net&sid=fbc8d57be7#EPODONIOS
 vless://80b13b16-b8ec-4dc9-b9aa-2813fbb3707d@spdnet.team-pluss.com:8080?security=reality&encryption=none&pbk=o9ccqpVGPiXhLWNCGoBJAXkwChudzp8bMvHCztsoyCk&headerType=none&fp=chrome&spx=/2df51fff5918a80&type=tcp&flow=xtls-rprx-vision&sni=the.world.of.the.champions.retrovip.net&sid=cfb0#EPODONIOS
 vless://80c83a71-185b-459a-9503-1de94f5b515a@176.65.140.210:46498?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.io3RTZhXSF5fJ9-5K5Wo2Lq96guUQnPUVRxADrSnDWc&host=bobo.badrangteb.ir&type=ws#EPODONIOS
 vless://80c83a71-185b-459a-9503-1de94f5b515a@176.65.140.210:46498?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.io3RTZhXSF5fJ9-5K5Wo2Lq96guUQnPUVRxADrSnDWc&host=bobo.badrangteb.ir&type=ws#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&en
 vless://a02e0f63-d96e-4b0f-8270-56c28caef171@51.158.151.24:31727?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://a039c938-0792-424a-8a8a-d0508c7fcab1@104.18.1.1:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=sweet-art-a13d.5ejrdnfcv.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sweet-art-a13d.5ejrdnfcv.workers.dev#EPODONIOS
 vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443/?type=grpc&encryption=none&flow=&sni=de.emvservice.com&fp=chrome&security=reality&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&sid=bc#EPODONIOS
-vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op2.x-upload.org#EPODONIOS
-vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.78.231:17780/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=chrome&security=reality&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#EPODONIOS
