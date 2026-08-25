@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?mode=stream-one&path=/settings----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=chrome&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#EPODONIOS
 vless://9f225a66-54fc-4a94-8dfd-9f1e3f114a8a@104.21.20.148:8080?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#EPODONIOS
 vless://9f225a66-54fc-4a94-8dfd-9f1e3f114a8a@104.21.20.148:8080?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#EPODONIOS
 vless://9f225a66-54fc-4a94-8dfd-9f1e3f114a8a@104.21.20.148:8080?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?encryption=none&se
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?encryption=none&type=ws&security=tls&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&insecure=0&allowInsecure=0#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?encryption=none&type=ws&security=tls&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&insecure=0&allowInsecure=0#EPODONIOS
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh#TELEGRAM-Bisto4_service?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS

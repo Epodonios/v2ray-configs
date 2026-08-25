@@ -4,7 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#EPODONIOS
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#EPODONIOS
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@31.56.178.216:443?headerType=none&sni=huggingface.co&type=tcp&encryption=none&fp=chrome&sid=cedac586f85bb33e&security=reality&flow=xtls-rprx-vision&pbk=pT_PrAFYHWWJgyX4E4srGf-LKN_CzIsO26btnNmWDTo#EPODONIOS
 vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@185.147.26.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=chrome&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&type=tcp&headerType=none#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&e
 vless://30693e15-1014-443b-88dd-1232b55a06b6@104.16.6.70:443?path=/&security=tls&encryption=none&host=mos.rfiksma.top&fp=chrome&type=ws&sni=sub.rfiksma.top#EPODONIOS
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=ads.x5.ru&security=reality&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sid=c226283c4de5b1ad#EPODONIOS
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@TOOTFFARANGI&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#EPODONIOS
+vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@leviconfigs&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#EPODONIOS

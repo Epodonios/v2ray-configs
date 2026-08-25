@@ -5,7 +5,6 @@
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 #Epodonios
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@162.35.231.140:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#EPODONIOS
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#EPODONIOS
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#EPODONIOS
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?security=realit
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?security=reality&encryption=none&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl1.nihaovpn.ru&sid=d9622c6fea10c1#EPODONIOS
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@sw2.nihaovpn.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=stackoverflow.com&fp=chrome&insecure=1&allowInsecure=1&pbk=74SXgBukkhFPB8lpegdqaqbOStHLaR3RT24DuvXMZnY&sid=3f5c0f7f7af1&flow=xtls-rprx-vision#EPODONIOS
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@sw2.nihaovpn.ru:443?security=reality&encryption=none&pbk=74SXgBukkhFPB8lpegdqaqbOStHLaR3RT24DuvXMZnY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=3f5c0f7f7af1#EPODONIOS
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#EPODONIOS
