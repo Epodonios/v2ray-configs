@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://634394fa-957c-4e1b-ba31-ec2bc417c356@138.124.90.40:35872?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=PnvtzlkQxMBo2VR7EB4BxqE3EgL6c_92Z8MYijqN2hI&sid=ee740b4fd675&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#EPODONIOS
 vless://63650025-84ff-4272-cfd4-61e7b9ee8834@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://63650025-84ff-4272-cfd4-61e7b9ee8834@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://63650025-84ff-4272-cfd4-61e7b9ee8834@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080/?type=tcp&encryp
 vless://92c8098f-1143-05ef-4d67-004d9c81343d@subgift3.up.railway.app:443?encryption=none&security=tls&sni=subgift3.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=subgift3.up.railway.app&path=/ws/92c8098f-1143-05ef-4d67-004d9c81343d&packetEncoding=xudp#EPODONIOS
 vless://930cfa02-05f0-4a38-3f6b-cdbe2fa59e78@69.46.46.30:443?path=/ws/930cfa02-05f0-4a38-3f6b-cdbe2fa59e78&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-4a7f.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-4a7f.up.railway.app#EPODONIOS
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#EPODONIOS
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#EPODONIOS
