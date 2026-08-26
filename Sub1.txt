@@ -5,6 +5,7 @@
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 #Epodonios
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#EPODONIOS
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#EPODONIOS
 vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&allowinsecure=1&type=tcp&headerType=none#EPODONIOS
 vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@80.209.242.219:8443?security=realit
 vless://03e1f9fc-eda7-ffb0-ca09-c83212f97218@69.46.46.100:443?path=/ws/03e1f9fc-eda7-ffb0-ca09-c83212f97218&security=tls&alpn=http/1.1&encryption=none&host=ghol-production.up.railway.app&fp=chrome&type=ws&sni=ghol-production.up.railway.app#EPODONIOS
 vless://03f929bb-7a94-4400-a882-d846d18b614e@185.141.107.42:777?encryption=none&security=none&type=tcp&headerType=none&host=@BlueberryNetWork#EPODONIOS
 vless://04341b83-fae3-4659-ac1b-08112bb847fd@peo.awexaio.shop:2086?security=reality&encryption=none&fm={"tcp":[],"udp":[],"quicParams":{}}&pbk=FdedLVqgh4rCCzYydDap0cmzOuhnw2hdwpj0C4G1sjU&host=msedge.b.tlu.dl.delivery.mp.microsoft.com&headerType=http&fp=chrome&type=tcp&sni=support-shield.nvidia.nl&sid=b91fc778714c36a6#EPODONIOS
-vless://04341b83-fae3-4659-ac1b-08112bb847fd@pro1.awexio.ir:2086?security=reality&encryption=none&fm={"tcp":[],"udp":[],"quicParams":{}}&pbk=FdedLVqgh4rCCzYydDap0cmzOuhnw2hdwpj0C4G1sjU&host=delivery.mp.microsoft.com&headerType=http&fp=chrome&type=tcp&sni=support-shield.nvidia.nl&sid=b91fc778714c36a6#EPODONIOS
