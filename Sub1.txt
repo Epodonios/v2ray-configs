@@ -4,9 +4,11 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 #Epodonios
+vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@b2n.ir:443?type=xhttp&encryption=none&path=%2FChOpIn&host=chopin.kaftarkakolbesarwifi.com&mode=auto&x_padding_bytes=16-64&extra=%7B%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=chopin.kaftarkakolbesarwifi.com#EPODONIOS
+vless://14c44521-e28f-4561-a12c-337d8cc44d87@b2n.ir:443?type=xhttp&encryption=none&path=%2FTiMbErSaW&host=beaver.kaftarkakolbesarwifi.com&mode=auto&x_padding_bytes=16-64&extra=%7B%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=beaver.kaftarkakolbesarwifi.com#EPODONIOS
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#EPODONIOS
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.122:8080?path=%2F%3Fed&security=none&encryption=none&type=ws#EPODONIOS
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#EPODONIOS
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#EPODONIOS
 hy2://0a344117cfeef3d6602e338c2f1e7957@38.180.190.215:50160/?insecure=1&sni=www.bing.com#EPODONIOS
@@ -1000,6 +1002,4 @@ vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=&e
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=&encryption=none&host=bale.ai&headerType=http&type=tcp#EPODONIOS
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=&encryption=none&host=bale.ai&headerType=http&type=tcp#EPODONIOS
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=&encryption=none&host=bale.ai&headerType=http&type=tcp#EPODONIOS
-vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#EPODONIOS
-vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#EPODONIOS
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#EPODONIOS

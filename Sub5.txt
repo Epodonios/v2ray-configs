@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#EPODONIOS
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=none&
 vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
 vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
 vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@am3.levikogjgfdd.ir:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
-vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@am3.levikogjgfdd.ir:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#EPODONIOS
