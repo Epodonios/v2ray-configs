@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fda34f96-e923-476f-8149-228929ea70a6@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://fda34f96-e923-476f-8149-228929ea70a6@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://fda34f96-e923-476f-8149-228929ea70a6@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://fda82db3-3c0f-4122-87d9-1ed08059bc92@38.107.236.178:443?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=none&security=none&type=tcp&headerType=http#EPODONIOS
 vless://fe0de9ee-7e0b-4f93-8d11-abe860b9aae1@bounded-crammed.video-streams.org:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bounded-crammed.video-streams.org&fp=chrome&type=ws&allowInsecure=0&sni=bounded-crammed.video-streams.org#EPODONIOS
 vless://fe0de9ee-7e0b-4f93-8d11-abe860b9aae1@grimness-backlogs.cdn-content.com:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=grimness-backlogs.cdn-content.com&fp=chrome&type=ws&allowInsecure=0&sni=grimness-backlogs.cdn-content.com#EPODONIOS
