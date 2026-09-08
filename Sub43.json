@@ -1,0 +1,490 @@
+#profile-title: 𝐀𝐬𝐤𝐡𝐚𝐛 𝐕𝐏𝐍
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=107374182400000; expire=1810579200
+#support-url: https://wa.me/79635990412
+#profile-test-interval: 300
+#profile-auto-switch: true
+#profile-allow-copy: false
+#profile-locked: true
+#profile-read-only: true
+#profile-prefer-ipv4: true
+#auto-continue: true
+#sort-order: ping
+#subscription-pin: 1
+#subscriptions-collapse: 0
+#hide-settings: 1
+#per-app-proxy-mode: bypass
+#per-app-proxy-list: ru.oneme.app,ru.rostel,ru.gosuslugi.dom,ru.gosuslugi.auto,ru.gosuslugi.pos,ru.russianpost.client,com.octopod.russianpost.client.android,ru.crpt.mark,io.citizens.security,ru.fns.nalog,com.gnivc.selfemployed,ru.rddm.app,ru.rsv.app,ru.beeline.services,ru.megafon.mlk,ru.mts.mymts,ru.tele2.mytele2,com.rostelecom.my,ru.motivtelecom.lk,com.ertelecom.mydomru,ru.cbr.cbonline,ru.nspk.sbpay,ru.nspk.mir.loyalty,ru.nspk.mirpay,ru.vtb24.mobilebanking,ru.psbank.mb,ru.alfabank.mobile.android,ru.gazprombank.android.mobilebank.app,ru.mts.money,com.moex.iss,com.vkontakte.android,ru.vk.video,com.uma.musicvk,com.vk.vkvideo,com.vk.im,com.vk.love,ru.vk.store,ru.vk.store.tv,ru.ok.android,ru.mail.mailapp,ru.yandex.searchplugin,ru.yandex.music,ru.kinopoisk,ru.rutube.app,com.yandex.zen,ru.zen.android,ru.rian.offline,ru.itar_tass.tass,ru.rbc.news,ru.kommersant.app,ru.iz.news,ru.kp.awp,com.vgtrk.smotrim,com.channelone.live,com.rt.mobile.russian,ru.ozon.app.android,com.wildberries.ru,com.avito.android,ru.yandex.market,ru.beru.android,ru.megamarket.marketplace,pro.cdek.client,ru.instamart,ru.samokat.client,ru.sbcs.store,ru.mcdonalds.android,com.apegroup.mcdonaldsrussia,ru.burgerking,ru.vkusvill,ru.pyaterochka.app,ru.perekrestok.app,ru.tander.magnit,ru.auchan,com.metro.ru,ru.rzd.pass,ru.aeroflot,com.pobeda.app,ru.tutu.avia,ru.tutu.trains,ru.dublgis.dgismobile,ru.yandex.taxi,ru.yandex.yandexmaps,ru.foodfox.client,com.taximaxim,ru.citydrive.app,com.carshering,ru.dellin.app,ru.domclick.app,ru.hh.android,com.gismeteo.client
+
+#announce:Статус подписки: ✅ Активна | 📲 Создатель +7963599412 | Телеграм канал с новостями @askhabvpn | 28 Августа будет новый ключ поэтому заранее пишите за заменой!
+{
+  "burstObservatory" : {
+    "pingConfig" : {
+      "destination" : "https:\/\/www.gstatic.com\/generate_204",
+      "interval" : "2m",
+      "sampling" : 3,
+      "timeout" : "3s"
+    },
+    "subjectSelector" : [
+      "proxy"
+    ]
+  },
+  "dns" : {
+    "queryStrategy" : "UseIPv4",
+    "servers" : [
+      "1.1.1.1",
+      "1.0.0.1"
+    ]
+  },
+  "inbounds" : [
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10808,
+      "protocol" : "socks",
+      "settings" : {
+        "auth" : "noauth",
+        "udp" : true
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true
+      },
+      "tag" : "socks"
+    },
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10809,
+      "protocol" : "http",
+      "settings" : {
+        "allowTransparent" : false
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true
+      },
+      "tag" : "http"
+    }
+  ],
+  "log" : {
+    "access" : "\/private\/var\/mobile\/Containers\/Shared\/AppGroup\/F4A89442-C222-4323-8E11-7FF95FFC77D7\/Library\/Application Support\/Xray\/logs\/access.log",
+    "dnsLog" : true,
+    "loglevel" : "Warning"
+  },
+  "outbounds" : [
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-north-fi-1.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "nnkPnz6R86-6xG92s8k-1DUQPXAJIVMoMWDLPghh4x4",
+          "serverName" : "eu-north-fi-1.hanvpn.biz",
+          "shortId" : "0173b2681806bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-west-nl-1.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "rMUjb_nmpnu5J4weFA5hiItgWT7bWnkRhSChzA_d2S0",
+          "serverName" : "eu-west-nl-1.hanvpn.biz",
+          "shortId" : "13a3b7681806bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-2"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-east-es-1.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "HyXsFAxGl2Dx37kjO9ERtpaUevtKQ45T586TB9U5Cho",
+          "serverName" : "eu-east-es-1.hanvpn.biz",
+          "shortId" : "a5b5a7681806bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-3"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-east-lv-1.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "PWK1UzCF0scfV9BsXEfmjbL1EvujsMAB6YnZjt4ZnAE",
+          "serverName" : "eu-east-lv-1.hanvpn.biz",
+          "shortId" : "b5c2a76818f6bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-4"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "us-main-1.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "RY0VjR_1hwb6oO9FvhRvFOjf4iLfYC95xagmDdk2fCA",
+          "serverName" : "us-main-1.hanvpn.biz",
+          "shortId" : "54b5a7681806bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-5"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-central-de2.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "w0J3H-DEyHEK-Nj7bst_5sQqzcPl700ybHpqq5mFz0U",
+          "serverName" : "eu-central-de2.hanvpn.biz",
+          "shortId" : "12a3b7681806bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-6"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-west-nl-2.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "iNmXBMjasOECi4e5grHbN9AyRI7j1aUyGKACVZ7ECSI",
+          "serverName" : "eu-west-nl-2.hanvpn.biz",
+          "shortId" : "13a3b7681506bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-7"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-north-sw-2.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "EABhMlawKh-zPOVkef-G9n7Ap5PPZRbrtUzYWkVsamc",
+          "serverName" : "eu-north-sw-2.hanvpn.biz",
+          "shortId" : "0172b7681806bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-8"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-central-de-3.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "evZScHEcyRLcHnrN8fzp3HtC5hQ_smUHdmCRpCqlwkY",
+          "serverName" : "eu-central-de-3.hanvpn.biz",
+          "shortId" : "0183b7681806bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-9"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "eu-central-pl-1.hanvpn.biz",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "firefox",
+          "publicKey" : "NjIuu35vz5MthSzqd6kt8PbXbZxCCL2Rb2GbpMCRTEY",
+          "serverName" : "eu-central-pl-1.hanvpn.biz",
+          "shortId" : "12e3b7681806bc97"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy-10"
+    },
+    {
+      "protocol" : "freedom",
+      "tag" : "direct"
+    },
+    {
+      "protocol" : "blackhole",
+      "tag" : "block"
+    }
+  ],
+  "policy" : {
+    "system" : {
+      "statsOutboundDownlink" : true,
+      "statsOutboundUplink" : true
+    }
+  },
+  "remarks" : "🇪🇺 Автовыбор",
+  "routing" : {
+    "balancers" : [
+      {
+        "fallbackTag" : "block",
+        "selector" : [
+          "proxy"
+        ],
+        "strategy" : {
+          "settings" : {
+            "baselines" : [
+              "300ms"
+            ],
+            "expected" : 3,
+            "maxRTT" : "800ms"
+          },
+          "type" : "leastLoad"
+        },
+        "tag" : "Super_Balancer"
+      }
+    ],
+    "domainMatcher" : "hybrid",
+    "domainStrategy" : "IPIfNonMatch",
+    "rules" : [
+      {
+        "balancerTag" : "Super_Balancer",
+        "domain" : [
+          "domain:habr.com",
+          "domain:4pda.to",
+          "domain:4pda.ru"
+        ],
+        "type" : "field"
+      },
+      {
+        "outboundTag" : "block",
+        "protocol" : [
+          "bittorrent"
+        ],
+        "type" : "field"
+      },
+      {
+        "domain" : [
+          "geosite:private",
+          "geosite:apple",
+          "geosite:apple-pki",
+          "geosite:huawei",
+          "geosite:xiaomi",
+          "geosite:category-android-app-download",
+          "geosite:f-droid",
+          "geosite:twitch",
+          "geosite:category-ru"
+        ],
+        "outboundTag" : "direct",
+        "type" : "field"
+      },
+      {
+        "ip" : [
+          "geoip:ru",
+          "geoip:private"
+        ],
+        "outboundTag" : "direct",
+        "type" : "field"
+      },
+      {
+        "balancerTag" : "Super_Balancer",
+        "network" : "tcp,udp",
+        "type" : "field"
+      }
+    ]
+  },
+  "stats" : {
+
+  }
+}
