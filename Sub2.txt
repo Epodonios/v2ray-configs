@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@216.24.57.7:443/?type=tcp&security=tls&sni=www.ignitelimit.com&alpn=http/1.1#EPODONIOS
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
@@ -1000,6 +1003,3 @@ vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@169.58.143.21:443?path=/&security=t
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#EPODONIOS
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#EPODONIOS
 vless://26285e31-991f-5ca8-816a-b076a03a1cfe@69.46.46.6:443?path=/ws/Hame&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=app-906799-3e7ffb-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=app-906799-3e7ffb-production.up.railway.app#EPODONIOS
-vless://26285e31-991f-5ca8-816a-b076a03a1cfe@app-906799-3e7ffb-production.up.railway.app:443?path=/ws/Hame&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=app-906799-3e7ffb-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=app-906799-3e7ffb-production.up.railway.app#EPODONIOS
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#EPODONIOS
-vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?encryption=none&security=none&type=httpupgrade&path=/#EPODONIOS
