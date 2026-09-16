@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#EPODONIOS
-vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#EPODONIOS
-vless://3c3e05e8-abea-f9f8-6100-aaf974372db5@subgift5.up.railway.app:443?path=/ws/3c3e05e8-abea-f9f8-6100-aaf974372db5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#EPODONIOS
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#EPODONIOS
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#EPODONIOS
 vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#EPODONIOS
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#EPODONIOS
 vless://3c6fdda8-b5ae-4666-abd6-4e76449ea769@104.17.108.116:443?path=/id-dnva&security=tls&encryption=none&insecure=0&host=somersby.pt.vf670.cc.cd&type=ws&allowInsecure=0&sni=somersby.pt.vf670.cc.cd#EPODONIOS
@@ -1003,3 +998,8 @@ vless://72e5d1e3-bc83-4db0-9963-b0c6db748b4b@104.25.179.9:443?alpn=h3,h2,http/1.
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#EPODONIOS
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#EPODONIOS
 vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.104.23:8443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#EPODONIOS
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.161.24:2087?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#EPODONIOS
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.217.1:443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#EPODONIOS
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.23.106:2053?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#EPODONIOS
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.26.230:2053?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#EPODONIOS
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.54.188:2096?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#EPODONIOS
