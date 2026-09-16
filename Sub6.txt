@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk5-r.link-t7.com:10130/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&allowInsecure=1&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#EPODONIOS
 vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=/iTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&fp=chrome&spx=/iTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#EPODONIOS
 vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryption=none&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c&fp=chrome&spx=/iTV2RAY&type=grpc&serviceName=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&sni=www.speedtest.net&sid=04158025#EPODONIOS
 vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-3.moritech.net:443?security
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-3.moritech.net:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#EPODONIOS
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria.moritech.net:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#EPODONIOS
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norway.moritech.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#EPODONIOS
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl3.moritech.net&alpn=h2&fp=chrome#EPODONIOS
