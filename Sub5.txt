@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=fra-04.hello-there.ru&type=xhttp&allowInsecure=0&sni=fra-04.hello-there.ru#EPODONIOS
-vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=fra-04.hello-there.ru&type=xhttp&allowInsecure=0&sni=fra-04.hello-there.ru#EPODONIOS
-vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net&note=@FreeOnlineVPN#EPODONIOS
 vless://66c38516-8d85-45b7-afcd-4b1b0352e38c@188.213.198.238:7080?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://66fd9d08-6279-42bd-904d-3227ad527a0c@vqut4pfk.danqela.ir:27812?security=reality&encryption=none&pbk=K-ra5wYRignlacUglfdjgTJOf4C4_oxKVm_T6YdgsTM&headerType=none&fp=chrome&spx=/05ecd87e17&type=tcp&flow=xtls-rprx-vision&sni=android.clients.google.com&sid=5261db918c5cf1a9#EPODONIOS
 vless://66fd9d08-6279-42bd-904d-3227ad527a0c@yy2akpyn.danqela.ir:5059?security=reality&encryption=none&pbk=K-ra5wYRignlacUglfdjgTJOf4C4_oxKVm_T6YdgsTM&headerType=none&fp=chrome&spx=/05ecd87e17&type=tcp&flow=xtls-rprx-vision&sni=android.clients.google.com&sid=5261db918c5cf1a9#EPODONIOS
@@ -1003,3 +1000,6 @@ vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-12@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-12@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-13@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://XpnTeam-13@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://XpnTeam-14@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://XpnTeam-14@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
