@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://235fab16-5bb4-4593-b125-09f2e7ba7aa3@31.77.100.49:2087?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#EPODONIOS
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#EPODONIOS
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#EPODONIOS
 vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://4c41d237-630a-4d02-8ec0-c3b775190ee5@104.17.147.22:2053?encryption=none&
 vless://4c67f74c-84d4-467d-b127-136517d98746@kelvin73.fars-remen.ir:443?encryption=mlkem768x25519plus.native.0rtt.l3mvTzzaVMf4WsI2Esh3pPbQhYkB9CpYdSdBGsVsD0g&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#EPODONIOS
 vless://4c67f74c-84d4-467d-b127-136517d98746@kelvin73.fars-remen.ir:443?encryption=mlkem768x25519plus.native.0rtt.l3mvTzzaVMf4WsI2Esh3pPbQhYkB9CpYdSdBGsVsD0g&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#EPODONIOS
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#EPODONIOS
-vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#EPODONIOS

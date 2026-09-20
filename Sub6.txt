@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b2593749-691c-428c-9481-14979cba3446@66.235.200.171:443?encryption=none&fp=chrome&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf&security=tls&sni=xi.tbv.ccwu.cc&type=ws#EPODONIOS
 vless://b2593749-691c-428c-9481-14979cba3446@66.235.200.186:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#EPODONIOS
 vless://b2593749-691c-428c-9481-14979cba3446@66.235.200.186:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#EPODONIOS
 vless://b2593749-691c-428c-9481-14979cba3446@66.235.200.218:443/?type=ws&encryption=none&flow=&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf&security=tls&sni=xi.tbv.ccwu.cc&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://d85711cf-c5f5-4166-8000-25958322b13f@xnforo.ir:8443?mode=auto&path=/api/
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#EPODONIOS
 vless://d8a7b463-dc98-474d-a87e-8781476aef32@104.21.89.181:8880?type=ws&encryption=none&path=/pyip=ProxyIP.KR.CMLiussss.net&host=ancient-tree-7dc9.336-5f9.workers.dev&fp=chrome&alpn=http/1.1&headerType=none#EPODONIOS
 vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#EPODONIOS
-vless://d8b3f1c4-94c7-423e-a03a-bfa7f6af0ea1@151.101.56.9:80?encryption=none&type=ws&host=freekabotar.global.ssl.fastly.net&path=/ws&security=none#EPODONIOS

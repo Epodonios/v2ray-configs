@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@216.24.57.7:443/?type=tcp&security=tls&sni=www.ignitelimit.com&alpn=http/1.1#EPODONIOS
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
@@ -1002,4 +1003,3 @@ vless://2308b549-764d-4abe-ac74-c22b97f3dc0a@193.8.215.116:8443?security=reality
 vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&encryption=none#EPODONIOS
 vless://234c52f2-0d7b-dc4a-0d6b-b0b30000001c@104.21.66.198:80?path=/sync&security=none&encryption=none&host=billowing-surf-d251.netizo06.workers.dev&fp=chrome&type=ws&sni=billowing-surf-d251.netizo06.workers.dev#EPODONIOS
 vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?encryption=none&security=tls&sni=usa1.pad-service.com&fp=chrome&allowinsecure=0&type=ws&host=usa1.pad-service.com&path=/USA1#EPODONIOS
-vless://235fab16-5bb4-4593-b125-09f2e7ba7aa3@31.77.100.49:2087?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#EPODONIOS
