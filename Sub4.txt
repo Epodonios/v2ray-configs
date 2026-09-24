@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@198.105.123.26:8443?security=reality&encryption=none&pbk=fiE-KoxoQgOIuvm1EuBTeZp9TFZLq9FYbZPrcWes-GM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slfs3.ardor-cloud.ru&sid=ba86aaa222fa2ee1#EPODONIOS
+vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@87.120.104.153:8444?security=reality&encryption=none&pbk=hg6jd3UfeRzy_V02XbyUCuyrgd9TIzaPMwYcdNJ5IDs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slfst12.ardor-cloud.ru&sid=eb86eee822af1de0#EPODONIOS
 vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@87.120.104.153:8444?security=reality&encryption=none&pbk=hg6jd3UfeRzy_V02XbyUCuyrgd9TIzaPMwYcdNJ5IDs&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slfst12.ardor-cloud.ru&sid=eb86eee822af1de0#EPODONIOS
 vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@87.120.104.153:8444?security=reality&encryption=none&pbk=hg6jd3UfeRzy_V02XbyUCuyrgd9TIzaPMwYcdNJ5IDs&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slfst12.ardor-cloud.ru&sid=eb86eee822af1de0#EPODONIOS
 vless://5e03bdbb-cb39-4c6e-8ee5-eb549b5e7a70@65.109.193.102:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&se
 vless://94506771-e333-477f-af86-e0e77446559d@8848t.pages.dev:443/?type=ws&encryption=none&flow=&host=8848t.pages.dev&path=/&security=tls&sni=8848t.pages.dev&fp=chrome#EPODONIOS
 vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.16.4.103:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&host=join-to.vmessorg.Community.&encryption=none#EPODONIOS
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#EPODONIOS
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#EPODONIOS
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#EPODONIOS
