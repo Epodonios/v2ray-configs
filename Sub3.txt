@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2b13751c-0372-4b07-8b4d-49459c5c4681@188.137.239.58:17497?security=reality&encryption=none&pbk=EpEBUY3kuebxQusY7SAJT4K3Axcsm_daJbqYC8ifxiw&headerType=&fp=chrome&spx=/a3ffc08a87cc9ca&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=e996#EPODONIOS
 vless://2b13751c-0372-4b07-8b4d-49459c5c4681@188.137.239.58:17497?security=reality&encryption=none&pbk=EpEBUY3kuebxQusY7SAJT4K3Axcsm_daJbqYC8ifxiw&headerType=none&fp=chrome&spx=/a3ffc08a87cc9ca&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=e996#EPODONIOS
 vless://2b13751c-0372-4b07-8b4d-49459c5c4681@188.137.239.58:17497?security=reality&encryption=none&pbk=EpEBUY3kuebxQusY7SAJT4K3Axcsm_daJbqYC8ifxiw&headerType=none&fp=chrome&spx=/a3ffc08a87cc9ca&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=e996#EPODONIOS
 vless://2b13751c-0372-4b07-8b4d-49459c5c4681@188.137.239.58:17497?security=reality&encryption=none&pbk=EpEBUY3kuebxQusY7SAJT4K3Axcsm_daJbqYC8ifxiw&headerType=none&fp=chrome&spx=/a3ffc08a87cc9ca&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=e996#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.45.85:440?security=none&encr
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.105.34:440?encryption=none&type=tcp&headerType=http&path=/&host=store.steampowered.com#EPODONIOS
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.88.152:440?encryption=none&type=tcp&headerType=http&path=/&host=store.steampowered.com#EPODONIOS
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@162.217.248.241:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kombo.api3-max.ru&alpn=h2,http/1.1&fp=chrome#EPODONIOS
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz4.api3-max.ru&alpn=h2,http/1.1&fp=chrome#EPODONIOS
