@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&security=none&type=tcp&headerType=none#EPODONIOS
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&security=none&type=tcp&headerType=none#EPODONIOS
 vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?security=&encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&headerType=none&type=tcp#EPODONIOS
 vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?security=none&encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&headerType=none&type=tcp#EPODONIOS
 vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?security=none&encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&headerType=none&type=tcp#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://bb470926-97ef-4676-a146-2fa3323e3306@d.v2.mahysamy.ir:8443?security=real
 vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.152.23:443?path=/2?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xfjd79v2tjscrm6jqo.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xfjd79v2tjscrm6jqo.zjde5.de5.net#EPODONIOS
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@46.101.253.244:2083?path=/&security=tls&encryption=none&insecure=0&host=edge.yzkvm.top&fp=chrome&type=ws&allowInsecure=0&sni=edge.yzkvm.top#EPODONIOS
 vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@gamefictoinspeed.info:443?encryption=none&type=ws&security=tls&path=/meti&host=lw-5-wfcxvux8.belmivo.ir&sni=lw-5-wfcxvux8.belmivo.ir&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+vless://bbb630a2-ac8d-49e6-9a03-c32fe218af27@116.202.23.136:8080?security=none&encryption=none&host=wordpress.org&headerType=http&type=tcp#EPODONIOS
+vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=/gVCLnTsaoc7silZ&type=tcp&sni=www.oracle.com&sid=6b59#EPODONIOS

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bbb630a2-ac8d-49e6-9a03-c32fe218af27@116.202.23.136:8080?security=none&encryption=none&host=wordpress.org&headerType=http&type=tcp#EPODONIOS
-vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=/gVCLnTsaoc7silZ&type=tcp&sni=www.oracle.com&sid=6b59#EPODONIOS
 vless://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#EPODONIOS
 vless://bbcb380d-4f7a-4e7b-9404-f88761e3c8f0@104.19.4.176:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mb.motdrp.dpdns.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=mb.motdrp.dpdns.org#EPODONIOS
 vless://bbcb380d-4f7a-4e7b-9404-f88761e3c8f0@104.19.4.176:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mb.motdrp.dpdns.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=mb.motdrp.dpdns.org#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=B
 vless://e3fcc645-cec2-9b16-3946-06174d59b7fa@69.46.46.104:443?path=/ws/e3fcc645-cec2-9b16-3946-06174d59b7fa&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=polar-falcon-aaa4-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=polar-falcon-aaa4-production.up.railway.app#EPODONIOS
 vless://e3k67dwms3@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#EPODONIOS
 vless://e3k67dwms3@e3k67dwms3-51255166202-direct.tavafog.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#EPODONIOS
+vless://e4207db9-5e71-4706-9484-a72e4fd033a9@199.232.9.254:443?path=/&security=tls&encryption=none&host=finliijji.global.ssl.fastly.net&type=ws&sni=global.fastly.com#EPODONIOS
+vless://e4371581-c418-4770-b09a-d630f18290a6@194.59.245.250:40443?security=reality&encryption=none&pbk=WFvn-RRJzpt2qV4xwj_R93gDr6dduIjkQKO3De3Y2Hc&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=5d96#EPODONIOS
