@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t01.tzteam.online&path=/?ed=2048&security=tls&sni=t01.tzteam.online&fp=chrome#EPODONIOS
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#EPODONIOS
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t04.tzteam.online&path=/?ed=2048&security=tls&sni=t04.tzteam.online&fp=chrome#EPODONIOS
 vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.40.97:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#EPODONIOS
 vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.41.33:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#EPODONIOS
@@ -1001,5 +1003,3 @@ vless://9503e890-3702-4847-af0a-2bceac2f0da0@a2.arshia-nova.ir:443?path=/&securi
 vless://950a82ff-7bad-4884-adeb-f59b331eecad@199.232.78.143:443?encryption=none&security=tls&sni=edge.microsoft.com&alpn=h2&fp=chrome&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&mode=auto&host=Suporjaz.global.ssl.fastly.net&path=/#EPODONIOS
 vless://950e6de3-295a-4fd4-a3ab-83a01cf562a3@172.233.49.58:1300?security=none&encryption=mlkem768x25519plus.native.0rtt.BEXGOTJfnwdc0PhdaCnyuQvcTKswMNUnenxcP40ipAg&headerType=http&type=tcp#EPODONIOS
 vless://950e6de3-295a-4fd4-a3ab-83a01cf562a3@65.109.216.31:1300?security=none&encryption=mlkem768x25519plus.native.0rtt.BEXGOTJfnwdc0PhdaCnyuQvcTKswMNUnenxcP40ipAg&headerType=http&type=tcp#EPODONIOS
-vless://950ec237-e75f-4e99-9557-6545784d4202@94.182.131.101:443?encryption=none&security=reality&sni=youtu.be&fp=chrome&pbk=fPjow17wDX8YJG89j9lraSqv54yvuS21lq3lJiAX_g0&sid=489861db&spx=/9bd64fcfdc16ca6&type=tcp&headerType=none#EPODONIOS
-vless://950ec237-e75f-4e99-9557-6545784d4202@94.182.131.101:443?security=reality&encryption=none&pbk=fPjow17wDX8YJG89j9lraSqv54yvuS21lq3lJiAX_g0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/9bd64fcfdc16ca6&type=tcp&sni=youtu.be&sid=489861db#EPODONIOS
