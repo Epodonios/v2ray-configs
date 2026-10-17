@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.201.28:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#EPODONIOS
 vless://b742d8e7-ed7d-4f7d-bb16-bf49bdb4cb44@23.235.33.98:80?mode=auto&path=/fast&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tr-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&type=xhttp#EPODONIOS
 vless://b761689d-592e-46b2-b704-af7a9110b0ac@shop.theawesomenpl.ru:50715?security=reality&encryption=none&pbk=YyF_0swCrKvtCDKmnGhz9UshtvQxUbpemVO8d_Bj6Ro&headerType=none&fp=chrome&type=tcp&sni=www.nvidia.com&sid=75#EPODONIOS
 vless://b783c6d6-3a0f-4c13-bbd1-86bf1ec4d94d@104.238.31.71:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=unitbook.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none@soskeynets#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://e0ef0fb4-f18a-4284-bcf3-f5b3e738c594@199.232.78.159:443?pcs=CD6E838B9BFE
 vless://e0ef0fb4-f18a-4284-bcf3-f5b3e738c594@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#EPODONIOS
 vless://e0ef0fb4-f18a-4284-bcf3-f5b3e738c594@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#EPODONIOS
 vless://e0ef0fb4-f18a-4284-bcf3-f5b3e738c594@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#EPODONIOS
+vless://e0ef0fb4-f18a-4284-bcf3-f5b3e738c594@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#EPODONIOS
