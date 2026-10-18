@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://c4745383-5e50-4482-8980-8a57a098f58f@web-production-6ffd7.up.railway.app:443?encryption=none&security=tls&sni=web-production-6ffd7.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-6ffd7.up.railway.app&path=/ws/c4745383-5e50-4482-8980-8a57a098f58f#EPODONIOS
 vless://c4b13d22-205f-4ed2-a331-bdd912ffb692@Sn5.pconnectq.ir:8020?security=none&encryption=none&host=mangaarabics.com&headerType=http&type=tcp#EPODONIOS
 vless://c4b13d22-205f-4ed2-a331-bdd912ffb692@dfn2.pconnectq.ir:8020?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip#EPODONIOS
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip&headers={  "Host": "lucasjow.us.ci"}#EPODONIOS
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#EPODONIOS
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#EPODONIOS
