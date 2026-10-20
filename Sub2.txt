@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
-trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---bored_vpn&security=tls&alpn=http/1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&se
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#EPODONIOS
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#EPODONIOS
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#EPODONIOS
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#EPODONIOS
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=chrome&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#EPODONIOS

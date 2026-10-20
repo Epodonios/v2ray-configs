@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#EPODONIOS
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=chrome&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#EPODONIOS
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=chrome&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#EPODONIOS
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=chrome&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#EPODONIOS
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=chrome&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.249.189:9881?mode=gun&secur
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.249.189:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#EPODONIOS
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.107.1:9881?security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#EPODONIOS
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.180:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#EPODONIOS
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.180:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#EPODONIOS
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9894?mode=gun&security=reality&encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#EPODONIOS
