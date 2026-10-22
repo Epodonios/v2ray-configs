@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#EPODONIOS
-trojan://TgTrWOUNeU@66.33.22.242:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#EPODONIOS
-trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#EPODONIOS
-trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.zhabulik.ru#EPODONIOS
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
@@ -1002,4 +998,8 @@ vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality
 vless://2577d24b-da44-4f4b-a9b1-ad8a67ac41cc@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#EPODONIOS
 vless://2582857a-632b-4c4e-9b67-96213cbaf58c@areal1.greewebservices.ir:2425?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=chrome&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&sid=9b60d3&allowInsecure=1#EPODONIOS
 vless://2582857a-632b-4c4e-9b67-96213cbaf58c@areal4.greewebservices.ir:5455?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&allowInsecure=1#EPODONIOS
+vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3#EPODONIOS
+vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3#EPODONIOS
+vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3#EPODONIOS
+vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3#EPODONIOS
 vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3#EPODONIOS
